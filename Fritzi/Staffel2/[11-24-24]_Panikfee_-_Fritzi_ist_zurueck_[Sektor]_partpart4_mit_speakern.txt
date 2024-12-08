@@ -1,0 +1,1456 @@
+Transkription mit Sprechererkennung von [11-24-24]_Panikfee_-_Fritzi_ist_zurueck_[Sektor]_part4.wav:
+00:00:00 - 00:00:00 - Sprecher SPEAKER_12:  Alles zusammen.
+00:00:01 - 00:00:02 - Sprecher SPEAKER_08:  Dankeschön.
+00:00:02 - 00:00:03 - Sprecher SPEAKER_08:  Das wär absolut cool.
+00:00:03 - 00:00:05 - Sprecher SPEAKER_08:  Hey Ayumi, ich bin weg. Tschüss.
+00:00:05 - 00:00:06 - Sprecher SPEAKER_12:  Tschüss Fritzi.
+00:00:09 - 00:00:11 - Sprecher SPEAKER_12:  Wunderschönen Abend euch allen.
+00:00:11 - 00:00:12 - Sprecher SPEAKER_12:  Ja ebenso.
+00:00:15 - 00:00:22 - Sprecher SPEAKER_12:  Ja, wie realistisch ist es,
+00:00:22 - 00:00:23 - Sprecher SPEAKER_12:  dass wir jetzt mit diesem scheiß Fahrrad
+00:00:23 - 00:00:24 - Sprecher SPEAKER_12:  bis nach Sandy Shores kommen?
+00:00:25 - 00:00:26 - Sprecher SPEAKER_12:  Überhaupt nicht realistisch.
+00:00:26 - 00:00:28 - Sprecher SPEAKER_12:  Wir müssen uns mit dem Taxi da hinfahren lassen.
+00:00:28 - 00:00:29 - Sprecher SPEAKER_12:  Verkackt der Scheiße.
+00:00:47 - 00:00:47 - Sprecher SPEAKER_03:  Taxi.
+00:01:03 - 00:01:04 - Sprecher SPEAKER_12:  Oh, die sind gar nicht da.
+00:01:08 - 00:01:10 - Sprecher SPEAKER_12:  Ich will nicht mit dem Taxi fahren.
+00:01:12 - 00:01:14 - Sprecher SPEAKER_12:  Ich will nicht.
+00:01:16 - 00:01:19 - Sprecher SPEAKER_11:  Ich will nicht.
+00:01:20 - 00:01:21 - Sprecher SPEAKER_11:  Es ist Pech.
+00:01:21 - 00:01:23 - Sprecher SPEAKER_11:  Willkommen beim Taxi. Was geht ab?
+00:01:24 - 00:01:26 - Sprecher SPEAKER_11:  Hey, ich stehe am Weinwurt Boulevard und brauche eine Abholung.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_11:  Alles klar.
+00:01:30 - 00:01:33 - Sprecher SPEAKER_11:  Wir machen uns auf den Weg für ein oder zwei.
+00:01:33 - 00:01:34 - Sprecher SPEAKER_11:  Für eine Person.
+00:01:36 - 00:01:37 - Sprecher SPEAKER_11:  Alles klar.
+00:01:37 - 00:01:37 - Sprecher SPEAKER_11:  Bis gleich.
+00:01:38 - 00:01:38 - Sprecher SPEAKER_11:  Bis dann.
+00:01:42 - 00:01:42 - Unbekannt:  Tschüss.
+00:02:22 - 00:02:23 - Sprecher SPEAKER_12:  Ich bin ein Taxi.
+00:02:24 - 00:02:26 - Sprecher SPEAKER_05:  Ich bin ein Taxi.
+00:02:26 - 00:02:27 - Sprecher SPEAKER_12:  Ich bin ein Taxi.
+00:02:30 - 00:02:31 - Sprecher SPEAKER_06:  Ich bin ein Taxi.
+00:02:32 - 00:02:33 - Sprecher SPEAKER_06:  Den Pulli habe ich auch.
+00:02:36 - 00:02:38 - Sprecher SPEAKER_12:  Naja, ich glaube, wir haben den zusammen gekauft.
+00:02:39 - 00:02:39 - Sprecher SPEAKER_12:  Ja!
+00:02:43 - 00:02:44 - Sprecher SPEAKER_07:  Ganz genau.
+00:02:51 - 00:02:53 - Sprecher SPEAKER_12:  Ich muss noch kurz ausrauchen.
+00:02:53 - 00:02:55 - Sprecher SPEAKER_12:  Warte, das ist aber jetzt Fritz.
+00:02:55 - 00:02:56 - Sprecher SPEAKER_10:  Ich war gerade bei der Fahno.
+00:02:58 - 00:02:59 - Unbekannt:  Fuck!
+00:03:00 - 00:03:03 - Sprecher SPEAKER_10:  Ey, du kannst doch jetzt nicht einfach weglaufen, was soll das?
+00:03:04 - 00:03:06 - Sprecher SPEAKER_10:  Willst du mir wenigstens Hallo sagen oder so?
+00:03:07 - 00:03:08 - Sprecher SPEAKER_12:  Hey, Oxe, na, alles klar?
+00:03:10 - 00:03:10 - Sprecher SPEAKER_12:  Jaaa?
+00:03:10 - 00:03:14 - Sprecher SPEAKER_12:  Sehr schön, alles klar, ich hab ein Taxi bestellt, ich muss nach Sandy Shores, bitte.
+00:03:16 - 00:03:17 - Sprecher SPEAKER_12:  Wieso wollen alle nach Sandy Shores?
+00:03:17 - 00:03:19 - Sprecher SPEAKER_12:  Ah, du willst schon wieder nach Sandy Shores, ich werd raus.
+00:03:19 - 00:03:19 - Sprecher SPEAKER_07:  Ganz genau.
+00:03:22 - 00:03:23 - Sprecher SPEAKER_10:  Okay.
+00:03:29 - 00:03:31 - Sprecher SPEAKER_10:  Was ist denn da oben, was so toll ist?
+00:03:35 - 00:03:36 - Sprecher SPEAKER_10:  Ritzi?
+00:03:36 - 00:03:37 - Sprecher SPEAKER_10:  Oxe!
+00:03:37 - 00:03:38 - Sprecher SPEAKER_10:  Ritzi!
+00:03:38 - 00:03:38 - Sprecher SPEAKER_05:  Hallo!
+00:03:39 - 00:03:40 - Sprecher SPEAKER_05:  Willst du mich eigentlich kommen, du Arsch?
+00:03:40 - 00:03:41 - Sprecher SPEAKER_12:  Oh!
+00:03:42 - 00:03:43 - Sprecher SPEAKER_12:  Alles gut?
+00:03:43 - 00:03:43 - Sprecher SPEAKER_12:  Ja, was?
+00:03:45 - 00:03:49 - Sprecher SPEAKER_12:  Mhh, ich kann's nicht fassen, das wird endlich wiedersehen, hallo!
+00:03:50 - 00:03:50 - Sprecher SPEAKER_10:  Hallo!
+00:03:51 - 00:03:55 - Sprecher SPEAKER_10:  Ich dachte schon, ich war grad voll geschockt, ich dachte so, hä, Ritzi, warum hast du...
+00:03:55 - 00:03:57 - Sprecher SPEAKER_10:  Ich, äh, ich war so schockiert, weißt du, Oxe,
+00:03:57 - 00:03:58 - Sprecher SPEAKER_12:  ich konnte überhaupt nicht mehr.
+00:03:58 - 00:04:02 - Sprecher SPEAKER_12:  Also, ich war, weißt du, es war irgendwie so, als wär ich in einer Schockstarre, darum
+00:04:02 - 00:04:03 - Sprecher SPEAKER_12:  konnte ich nicht richtig Hallo sagen.
+00:04:03 - 00:04:06 - Sprecher SPEAKER_12:  Ich hab mich verschluckt, ich hab ganz viel gegessen vorhin und dann konnte ich nicht
+00:04:06 - 00:04:10 - Sprecher SPEAKER_12:  reden und dann, naja, ähm, hab ich fast gedacht, ich muss mich übergeben, weil ich dich gesehen
+00:04:10 - 00:04:14 - Sprecher SPEAKER_12:  habe, weißt du, und aus dem Grund, ähm, muss ich mich ganz toll konzentrieren und
+00:04:14 - 00:04:18 - Sprecher SPEAKER_12:  meinen Würgereiz unterdrücken und aus dem Grund konnte ich plötzlich kurz nicht richtig
+00:04:18 - 00:04:21 - Sprecher SPEAKER_12:  was sagen, aber jetzt hab ich ja, kann ich ja richtig was sagen.
+00:04:22 - 00:04:24 - Sprecher SPEAKER_12:  Also, Würgereiz unterdrücken ist besser als runterschlucken.
+00:04:26 - 00:04:28 - Sprecher SPEAKER_10:  Ähm, außerdem, ich konnte mich auch länger drauf achten.
+00:04:28 - 00:04:30 - Sprecher SPEAKER_10:  Ich hab mich auch schon mal vorbereitet, weil Doktchak hat mir schon gesagt, dass du hier
+00:04:30 - 00:04:35 - Sprecher SPEAKER_10:  bist und, und Karlchen hat's auch irgendwie gesagt, aber das war vom, also ich war voll
+00:04:35 - 00:04:38 - Sprecher SPEAKER_10:  verwirrt, weil ich wusste nicht, ob du du das bist.
+00:04:39 - 00:04:40 - Sprecher SPEAKER_10:  Und ja...
+00:04:42 - 00:04:43 - Sprecher SPEAKER_10:  Ich, ich bin's.
+00:04:43 - 00:04:46 - Sprecher SPEAKER_10:  Aber dann, ja, jetzt hab ich auch, ich hab auch deine Nummer, glaub ich, ich hab dich
+00:04:46 - 00:04:47 - Sprecher SPEAKER_10:  einmal angerufen.
+00:04:47 - 00:04:49 - Sprecher SPEAKER_12:  Hab's gemerkt, hab auch deine Nummer.
+00:04:51 - 00:04:52 - Sprecher SPEAKER_12:  Okay, ich freu mich.
+00:04:53 - 00:04:55 - Sprecher SPEAKER_12:  Wie läuft das Taxiunternehmen?
+00:04:57 - 00:04:58 - Sprecher SPEAKER_10:  Ähm, wir sind wieder da.
+00:04:58 - 00:04:58 - Sprecher SPEAKER_10: 
+00:04:58 - 00:05:00 - Sprecher SPEAKER_10:  Auf dem Golden Ass nach oben, oder nicht?
+00:05:02 - 00:05:03 - Sprecher SPEAKER_12:  Ganz nach oben.
+00:05:04 - 00:05:10 - Sprecher SPEAKER_10:  Ich bin ehrlich, also, wir mussten halt, ne, wir mussten Quicky ein bisschen umändern,
+00:05:10 - 00:05:10 - Sprecher SPEAKER_10:  okay?
+00:05:11 - 00:05:15 - Sprecher SPEAKER_10:  Weil der Name Quicky, der hat so ein bisschen Verwirrung unter den Leuten hervorgerufen.
+00:05:16 - 00:05:20 - Sprecher SPEAKER_10:  Die dachten, wir würden auch noch so andere Dienstleistungen machen und das war ein bisschen,
+00:05:20 - 00:05:25 - Sprecher SPEAKER_10:  irgendwann wurde das uns einfach zu viel und außerdem haben wir ja geheiratet und uns
+00:05:25 - 00:05:26 - Sprecher SPEAKER_10:  dann Texas Taxi genannt.
+00:05:30 - 00:05:39 - Sprecher SPEAKER_10:  Ja, wir sind, ähm, übrigens, äh, Carchen ist jetzt auch Texas und so.
+00:05:39 - 00:05:40 - Sprecher SPEAKER_10:  Mhm.
+00:05:40 - 00:05:41 - Sprecher SPEAKER_10:  Mhm.
+00:05:41 - 00:05:42 - Sprecher SPEAKER_10:  Ich weiß.
+00:05:46 - 00:05:48 - Sprecher SPEAKER_12:  Ja, herzlichen Glückwunsch.
+00:05:49 - 00:05:49 - Sprecher SPEAKER_10:  Danke.
+00:05:50 - 00:05:54 - Sprecher SPEAKER_10:  Weißt du eigentlich, äh, worüber Stefano mit mir reden will?
+00:05:54 - 00:05:55 - Sprecher SPEAKER_10:  Nein, keine Ahnung.
+00:05:57 - 00:06:00 - Sprecher SPEAKER_10:  Gibt's irgendwelche Diskrepanzen zwischen uns noch so?
+00:06:00 - 00:06:01 - Sprecher SPEAKER_10:  Ich meine...
+00:06:01 - 00:06:02 - Sprecher SPEAKER_12:  Nein, ich glaube, er will nur arbeiten.
+00:06:04 - 00:06:04 - Sprecher SPEAKER_12:  Okay.
+00:06:04 - 00:06:06 - Sprecher SPEAKER_12:  Also, wie du gesagt hast...
+00:06:06 - 00:06:06 - Sprecher SPEAKER_12:  Hab ich dir gesagt.
+00:06:06 - 00:06:06 - Sprecher SPEAKER_12:  Ja.
+00:06:08 - 00:06:08 - Sprecher SPEAKER_07:  Offenkundig.
+00:06:09 - 00:06:10 - Sprecher SPEAKER_12:  Ja.
+00:06:11 - 00:06:12 - Sprecher SPEAKER_12:  Ich musste im Tattoo Store.
+00:06:13 - 00:06:14 - Unbekannt:  Also...
+00:06:15 - 00:06:16 - Sprecher SPEAKER_12:  Tattoo Store, wo ist der?
+00:06:16 - 00:06:16 - Sprecher SPEAKER_12:  Wo ist der?
+00:06:16 - 00:06:18 - Sprecher SPEAKER_06:  Ich hab keine Ahnung.
+00:06:18 - 00:06:20 - Sprecher SPEAKER_12:  Ich bin nicht das Taxiunternehmen.
+00:06:20 - 00:06:21 - Sprecher SPEAKER_06:  Das finden wir schön.
+00:06:21 - 00:06:25 - Sprecher SPEAKER_12:  Ritzi, du hattest ja immer schon super süße Wommelsen, aber jetzt, die sind ja auch immer
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10:  hier.
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_10: 
+00:06:25 - 00:06:27 - Sprecher SPEAKER_10:  Ich finde die jetzt mega süß, weil die herzförmig sind.
+00:06:30 - 00:06:32 - Sprecher SPEAKER_12:  Kann grad nicht, bin im Bewerbungsgespräch.
+00:06:33 - 00:06:35 - Sprecher SPEAKER_12:  Ah, am Telefon?
+00:06:35 - 00:06:35 - Sprecher SPEAKER_12:  Sorry.
+00:06:42 - 00:06:42 - Sprecher SPEAKER_12:  Okay.
+00:06:42 - 00:06:43 - Sprecher SPEAKER_12:  Dankeschön, das ist sehr nett.
+00:06:44 - 00:06:45 - Sprecher SPEAKER_12:  Dankeschön.
+00:06:45 - 00:06:47 - Sprecher SPEAKER_12:  Ja, ich hab's eben ein bisschen anders jetzt.
+00:06:48 - 00:06:52 - Sprecher SPEAKER_12:  Wir müssten uns unbedingt nochmal sehen, wenn du, wenn du, wenn du weniger dich verschluckst
+00:06:52 - 00:06:54 - Sprecher SPEAKER_12:  und fast dich übergeben musst und so, weißt du?
+00:06:54 - 00:06:55 - Sprecher SPEAKER_12:  Ganz genau.
+00:06:55 - 00:06:57 - Sprecher SPEAKER_12:  Das machen wir ganz genau so, Oxe.
+00:06:57 - 00:06:59 - Sprecher SPEAKER_12:  Dann machen wir das nochmal ganz entspannt.
+00:06:59 - 00:07:03 - Sprecher SPEAKER_12:  Ich weiß nicht, wie dein Arbeitsplan so aussieht und wie viel du arbeiten musst und so, aber
+00:07:03 - 00:07:05 - Sprecher SPEAKER_12:  ich geb dir einfach Bescheid, sobald ich Zeit hab, ja?
+00:07:06 - 00:07:06 - Sprecher SPEAKER_12:  Okay, ja klar.
+00:07:06 - 00:07:07 - Sprecher SPEAKER_12:  Okay, alles klar.
+00:07:08 - 00:07:09 - Sprecher SPEAKER_12:  Ich wünsche euch einen wunderschönen Abend.
+00:07:09 - 00:07:09 - Sprecher SPEAKER_12:  Adele.
+00:07:10 - 00:07:11 - Sprecher SPEAKER_12:  Bis dann.
+00:07:32 - 00:07:35 - Sprecher SPEAKER_02:  Das war das Schlimmste.
+00:07:35 - 00:07:42 - Sprecher SPEAKER_02:  Das Schlimmste Szenario, das hätte eintreten können.
+00:07:42 - 00:07:44 - Sprecher SPEAKER_02:  Wirklich das Schlimmste.
+00:07:44 - 00:07:48 - Sprecher SPEAKER_02:  Ich kann nicht fassen, was da grad passiert ist.
+00:07:48 - 00:07:50 - Sprecher SPEAKER_02:  Oh mein Gott.
+00:07:50 - 00:07:52 - Sprecher SPEAKER_03:  Ist das scheiße.
+00:07:52 - 00:07:54 - Sprecher SPEAKER_03:  Das ist so scheiße.
+00:07:54 - 00:07:56 - Sprecher SPEAKER_03:  Das ist so scheiße.
+00:07:57 - 00:08:01 - Sprecher SPEAKER_03:  Das ist so scheiße.
+00:08:02 - 00:08:04 - Sprecher SPEAKER_03:  Das ist so scheiße.
+00:08:10 - 00:08:11 - Unbekannt:  Ah.
+00:08:20 - 00:08:23 - Sprecher SPEAKER_03:  Ich kann das nicht.
+00:08:23 - 00:08:24 - Sprecher SPEAKER_03:  Ich kann das nicht.
+00:08:24 - 00:08:24 - Unbekannt: 
+00:08:24 - 00:08:24 - Unbekannt: 
+00:08:56 - 00:09:05 - Sprecher SPEAKER_12:  Ich werde mir jetzt wohl doch das Tattoo nachstechen lassen.
+00:09:10 - 00:09:17 - Sprecher SPEAKER_12:  Hoffe, das ist okay für dich.
+00:09:18 - 00:09:19 - Sprecher SPEAKER_12:  Adele.
+00:09:31 - 00:09:32 - Sprecher SPEAKER_12:  Wunderschönen guten Tag, hallo.
+00:09:33 - 00:09:33 - Sprecher SPEAKER_12:  Hallo.
+00:09:33 - 00:09:35 - Sprecher SPEAKER_04:  Hi, bitteschön.
+00:09:36 - 00:09:38 - Sprecher SPEAKER_12:  Ich will mich nicht vordrängeln, ich kann auch warten.
+00:09:40 - 00:09:41 - Sprecher SPEAKER_04:  Musst du so oder so.
+00:09:42 - 00:09:47 - Sprecher SPEAKER_12:  Okay, dann warte ich bis ihr fertig seid.
+00:09:47 - 00:09:48 - Sprecher SPEAKER_08:  Nee, aber so finde ich geil.
+00:09:49 - 00:09:51 - Sprecher SPEAKER_04:  Also das könnte man in der Theorie machen.
+00:09:53 - 00:09:54 - Unbekannt:  Ja.
+00:09:54 - 00:09:54 - Unbekannt:  Ja.
+00:09:56 - 00:09:59 - Sprecher SPEAKER_08:  Das Einzige, was ich vielleicht irgendwann noch anpacken würde, ist nochmal gucken,
+00:09:59 - 00:10:00 - Sprecher SPEAKER_08:  die Linken.
+00:10:01 - 00:10:05 - Sprecher SPEAKER_08:  Einfach nur, siehst du, im Vergleich zum Rechten hast du noch hinten, also ich drehe mich mal
+00:10:05 - 00:10:05 - Sprecher SPEAKER_08:  um.
+00:10:07 - 00:10:12 - Sprecher SPEAKER_08:  So ungleichmäßig, also unverhältnismäßig, also ich weiß nicht, nicht symmetrisch, irgendwie
+00:10:12 - 00:10:12 - Sprecher SPEAKER_08:  so.
+00:10:13 - 00:10:15 - Sprecher SPEAKER_04:  Ja, symmetrisch kann ich das eh nicht hinkriegen.
+00:10:15 - 00:10:16 - Sprecher SPEAKER_04:  Ja, aber du schenkst, was ich meine.
+00:10:16 - 00:10:17 - Sprecher SPEAKER_08:  Das sollte dir bewusst sein.
+00:10:17 - 00:10:22 - Sprecher SPEAKER_08:  Ja, ja, da ist aber innen, sag ich mal, beim Linken mehr Haut als beim anderen.
+00:10:22 - 00:10:23 - Sprecher SPEAKER_08:  Ja, ich seh.
+00:10:23 - 00:10:24 - Sprecher SPEAKER_04:  Ist schwierig.
+00:10:24 - 00:10:27 - Sprecher SPEAKER_04:  Ja, ja, deswegen, sag ich mal, das kann man irgendwann mal machen.
+00:10:27 - 00:10:30 - Sprecher SPEAKER_08:  Vielleicht habt ihr ja irgendwann auch andere Motive, weißt du?
+00:10:31 - 00:10:32 - Unbekannt:  Genau.
+00:10:32 - 00:10:34 - Sprecher SPEAKER_08:  Deswegen möchte ich das erstmal vergessen.
+00:10:34 - 00:10:36 - Sprecher SPEAKER_04:  Dann kannst du dich für eins davon entscheiden.
+00:10:41 - 00:10:44 - Sprecher SPEAKER_08:  Äh, jetzt ein Arm oder eins der vier Motive?
+00:10:44 - 00:10:45 - Sprecher SPEAKER_04:  Eins der vier Motive.
+00:10:46 - 00:10:51 - Sprecher SPEAKER_08:  Ich würde erst mal mit dem linken Unterarm, glaub ich, anfangen.
+00:10:52 - 00:10:53 - Sprecher SPEAKER_04:  Mit der Schlange und dem Dingsbums.
+00:10:54 - 00:10:54 - Sprecher SPEAKER_04:  Ja.
+00:10:55 - 00:10:59 - Sprecher SPEAKER_08:  Und dann, äh, ich weiß nicht, ob du das jetzt noch mal so auf den Kopf drücken kannst.
+00:10:59 - 00:11:00 - Sprecher SPEAKER_04:  Ja, ja, ja, ja.
+00:11:01 - 00:11:01 - Sprecher SPEAKER_08:  Ich hab das jetzt schon.
+00:11:01 - 00:11:01 - Sprecher SPEAKER_08: 
+00:11:01 - 00:11:03 - Sprecher SPEAKER_08:  Ja, ich finde das so als Einzelte schon geil.
+00:11:03 - 00:11:06 - Sprecher SPEAKER_04:  Gut, dann übergebe ich hier an meinen Kollegen.
+00:11:06 - 00:11:07 - Sprecher SPEAKER_04:  Das kann der dann machen.
+00:11:07 - 00:11:08 - Sprecher SPEAKER_04:  Und ich nehme mir die Lady.
+00:11:09 - 00:11:10 - Sprecher SPEAKER_04:  So, bitteschön.
+00:11:11 - 00:11:12 - Sprecher SPEAKER_04:  Wunderschönen guten Abend.
+00:11:12 - 00:11:12 - Sprecher SPEAKER_04:  Hi.
+00:11:12 - 00:11:14 - Sprecher SPEAKER_04:  Mein Name ist Fritzi.
+00:11:14 - 00:11:17 - Sprecher SPEAKER_12:  Ich hab hier unter meinem Auge, ich weiß nicht, ob du das siehst, das ist so ein bisschen
+00:11:17 - 00:11:20 - Sprecher SPEAKER_12:  verblasst, das ist so ein Pikzeichen, glaub ich.
+00:11:20 - 00:11:21 - Sprecher SPEAKER_12:  Kann man so nennen?
+00:11:21 - 00:11:21 - Sprecher SPEAKER_12:  Nennt man das so?
+00:11:21 - 00:11:22 - Sprecher SPEAKER_12:  Ich glaub, man nennt es so.
+00:11:23 - 00:11:23 - Sprecher SPEAKER_12:  Hm.
+00:11:23 - 00:11:27 - Sprecher SPEAKER_12:  Das würde ich mir gerne nachstechen lassen, aber ich weiß nicht, ob ihr sowas macht.
+00:11:28 - 00:11:28 - Sprecher SPEAKER_12:  Ja, klar.
+00:11:29 - 00:11:29 - Sprecher SPEAKER_12:  Echt, ja?
+00:11:30 - 00:11:30 - Sprecher SPEAKER_12:  Ja, auf jeden Fall.
+00:11:30 - 00:11:33 - Sprecher SPEAKER_12:  Soll ich dafür einen Termin ausmachen oder hast du dazu Zeit?
+00:11:33 - 00:11:33 - Sprecher SPEAKER_12:  Nein, kannst du jetzt.
+00:11:33 - 00:11:34 - Sprecher SPEAKER_12:  Ich hab Zeit.
+00:11:34 - 00:11:36 - Sprecher SPEAKER_12:  Das ist super lieb von dir, vielen Dank.
+00:11:36 - 00:11:40 - Sprecher SPEAKER_12:  Du musst bitte nur deine Brille absetzen und dich dort einmal hinsetzen.
+00:11:40 - 00:11:40 - Sprecher SPEAKER_04:  Na klar.
+00:11:41 - 00:11:43 - Sprecher SPEAKER_12:  Dann würde ich soweit eben schnell alles vorbereiten.
+00:11:45 - 00:11:47 - Sprecher SPEAKER_04:  Nur noch nicht wegrennen, also noch nicht sofort.
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04:  Nein, mach ich nicht.
+00:11:50 - 00:11:50 - Sprecher SPEAKER_04:  Genau.
+00:11:51 - 00:11:53 - Sprecher SPEAKER_04:  So, das Pikzeichen unterm Auge.
+00:11:53 - 00:11:53 - Sprecher SPEAKER_04: 
+00:11:57 - 00:11:57 - Unbekannt:  Ja.
+00:12:02 - 00:12:04 - Sprecher SPEAKER_04:  Ah, nee, das ist Kreuz.
+00:12:04 - 00:12:06 - Sprecher SPEAKER_12:  Das müsste Pik, glaub ich, sein, ne?
+00:12:06 - 00:12:07 - Sprecher SPEAKER_12:  Ja.
+00:12:07 - 00:12:08 - Sprecher SPEAKER_12:  Warte, ich guck in den Spiegel.
+00:12:08 - 00:12:10 - Sprecher SPEAKER_12:  Ja, ganz genau so.
+00:12:11 - 00:12:13 - Sprecher SPEAKER_12:  Ja, dann nehmen wir das doch.
+00:12:13 - 00:12:14 - Sprecher SPEAKER_05:  Mhm.
+00:12:16 - 00:12:19 - Sprecher SPEAKER_04:  So, setz dich ruhig schon mal hin, dann klebe ich dir in Ruhe die Folie auf, verseh dir
+00:12:19 - 00:12:22 - Sprecher SPEAKER_04:  einmal dort ein bisschen die Haut, desinfizier die, setz...
+00:12:22 - 00:12:23 - Sprecher SPEAKER_04:  Ich bereite mal die Haut.
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:23 - Sprecher SPEAKER_04: 
+00:12:23 - 00:12:24 - Sprecher SPEAKER_04:  Ich bereite mich vor, dann setzt du dich ruhig hin.
+00:12:25 - 00:12:25 - Unbekannt:  Mhm.
+00:12:27 - 00:12:28 - Sprecher SPEAKER_04:  Ach, keine Angst.
+00:12:29 - 00:12:29 - Sprecher SPEAKER_04:  Ja.
+00:12:32 - 00:12:32 - Unbekannt:  Ja.
+00:12:32 - 00:12:32 - Unbekannt:  Ja.
+00:12:32 - 00:12:32 - Unbekannt: 
+00:12:33 - 00:12:33 - Unbekannt:  Ja.
+00:12:34 - 00:12:34 - Unbekannt:  Ja.
+00:12:57 - 00:12:58 - Sprecher SPEAKER_09:  Ich will das nicht.
+00:13:03 - 00:13:06 - Sprecher SPEAKER_04:  Dann rasiere ich dir dort einmal die Stelle vorsichtig.
+00:13:06 - 00:13:08 - Sprecher SPEAKER_04:  Nicht zucken, nicht zittern.
+00:13:09 - 00:13:10 - Sprecher SPEAKER_04:  Nein, mach nicht.
+00:13:10 - 00:13:13 - Sprecher SPEAKER_04:  Du kriegst auch extra nicht immer eine Lippen während dem Reden.
+00:13:13 - 00:13:14 - Sprecher SPEAKER_04:  Alles gut.
+00:13:14 - 00:13:14 - Sprecher SPEAKER_04:  Sehr gut.
+00:13:15 - 00:13:20 - Sprecher SPEAKER_04:  Sonst hast du gleich kein Kreuz, kein Piep mehr im Gesicht, sondern was anderes.
+00:13:20 - 00:13:21 - Sprecher SPEAKER_04:  Und das wollen wir nicht.
+00:13:21 - 00:13:22 - Sprecher SPEAKER_04:  Nein, das wollen wir nicht.
+00:13:22 - 00:13:23 - Sprecher SPEAKER_12:  Wobei ich mir nicht vorstellen kann.
+00:13:23 - 00:13:25 - Sprecher SPEAKER_12:  Ich meine, du tätowierst bestimmt super gut.
+00:13:25 - 00:13:28 - Sprecher SPEAKER_12:  Und dann kannst du bestimmt auch damit umgehen, wenn jemand mal schnell...
+00:13:28 - 00:13:29 - Sprecher SPEAKER_12:  Wenn jemand mal schnell zuckt oder sowas.
+00:13:29 - 00:13:31 - Sprecher SPEAKER_12:  Sowas passiert bestimmt oft, oder nicht?
+00:13:31 - 00:13:32 - Sprecher SPEAKER_04:  Leider ja.
+00:13:32 - 00:13:32 - Sprecher SPEAKER_04:  So.
+00:13:33 - 00:13:36 - Sprecher SPEAKER_04:  Dann hast du genug gegessen und getrunken?
+00:13:36 - 00:13:37 - Sprecher SPEAKER_04:  Absolut.
+00:13:37 - 00:13:40 - Sprecher SPEAKER_04:  Fühlst du dich körperlich gesund genug, um tätowiert zu werden?
+00:13:40 - 00:13:41 - Sprecher SPEAKER_12:  Ich denke schon, ja.
+00:13:41 - 00:13:43 - Sprecher SPEAKER_04:  Du denkst?
+00:13:43 - 00:13:43 - Sprecher SPEAKER_04:  Ich denke.
+00:13:43 - 00:13:45 - Sprecher SPEAKER_04:  Bist du erkältet oder hast du Husten?
+00:13:45 - 00:13:46 - Sprecher SPEAKER_04:  Nein.
+00:13:46 - 00:13:47 - Sprecher SPEAKER_12:  Fieber?
+00:13:47 - 00:13:48 - Sprecher SPEAKER_12:  Auf keinen Fall.
+00:13:49 - 00:13:50 - Sprecher SPEAKER_04:  Wunderprächtig.
+00:13:50 - 00:13:51 - Sprecher SPEAKER_04:  Gut.
+00:13:51 - 00:13:53 - Sprecher SPEAKER_04:  Dann, wenn du bereit bist, bin ich auch bereit.
+00:13:53 - 00:13:55 - Sprecher SPEAKER_04:  Dann setze ich jetzt die Nadel an.
+00:13:57 - 00:13:58 - Sprecher SPEAKER_04:  Bist du bereit?
+00:13:58 - 00:13:58 - Sprecher SPEAKER_04:  Mhm.
+00:14:00 - 00:14:02 - Sprecher SPEAKER_04:  Wenn es dir weh tut, kreil dich ruhig in den Stuhl.
+00:14:02 - 00:14:03 - Sprecher SPEAKER_04:  Der ist eh schon alt.
+00:14:03 - 00:14:04 - Sprecher SPEAKER_04:  Okay.
+00:14:04 - 00:14:05 - Sprecher SPEAKER_04:  Ist nicht schlimm.
+00:14:06 - 00:14:07 - Sprecher SPEAKER_04:  Okay, ich fang an.
+00:14:07 - 00:14:07 - Sprecher SPEAKER_04:  Okay.
+00:14:13 - 00:14:14 - Sprecher SPEAKER_12:  Mein ganzer Kiefer, Charlotte.
+00:14:15 - 00:14:15 - Sprecher SPEAKER_12:  Oh nein.
+00:14:19 - 00:14:22 - Sprecher SPEAKER_12:  Aber es tut nicht so weh, wie ich es in Erinnerung hatte.
+00:14:37 - 00:14:40 - Sprecher SPEAKER_04:  Sie communicated richtig gut, aber sie hat wirklich Having-D Soldaten.
+00:14:40 - 00:14:41 - Sprecher SPEAKER_04:  equal &
+00:14:43 - 00:14:51 - Sprecher SPEAKER_12:  Im gesicht geht es mal so oft sich dir weh, schmerzempfindlich auftasten sich dann
+00:14:51 - 00:14:55 - Sprecher SPEAKER_12:  Due der partition.
+00:14:56 - 00:14:57 - Sprecher SPEAKER_04:  Es ist choreurgichtig.
+00:14:57 - 00:14:58 - Sprecher SPEAKER_04:  Hiera cookies.
+00:14:58 - 00:14:58 - Sprecher SPEAKER_04: 
+00:14:58 - 00:15:06 - Sprecher SPEAKER_04:  das tut in der regel schon mal gerne wie ich war mal in einem studio da wurde ich
+00:15:06 - 00:15:17 - Sprecher SPEAKER_12:  weiß nicht so ein motorradfahrer der wurde komplett hat und hat kein einziges
+00:15:17 - 00:15:29 - Sprecher SPEAKER_12:  mal nur auf die sachen zu leben noch nicht gut das war heftig manchmal gibt es solche und solche
+00:15:30 - 00:15:36 - Sprecher SPEAKER_04:  dem liebe ich irgendwie motorradclub ich weiß auch nicht wo ich immer mal auf dem motorrad
+00:15:38 - 00:15:45 - Sprecher SPEAKER_12:  gefahren ich noch gar nicht noch nie einmal hat ein kumpel mir gesagt ja einmal hat ein kumpel
+00:15:45 - 00:15:47 - Sprecher SPEAKER_12:  gesagt dass das er mich mitnimmt aber er hat mich nicht mitgenommen und ich habe mich nicht
+00:15:47 - 00:15:56 - Sprecher SPEAKER_12:  gemacht ich fahre mit dem motorrad mein mann fährt motorrad der typ der auf der anderen liege
+00:15:56 - 00:16:14 - Sprecher SPEAKER_04:  liegt fettmotorrad nicht ein er nicht oder so hat alle motorrad so ich würde jetzt
+00:16:16 - 00:16:17 - Sprecher SPEAKER_09:  umfragen
+00:16:18 - 00:16:23 - Sprecher SPEAKER_09:  ich bin bereit das ausführen wird jetzt noch mal ein bisschen schmerzhaft da wirklich nicht
+00:16:23 - 00:16:29 - Sprecher SPEAKER_04:  reden und nicht zucken wenn ihr zucken muss niesen oder sonstiges tippt mich kurz an alles klar
+00:16:35 - 00:16:44 - Sprecher SPEAKER_07:  also der laden ist voll oder die kleine hier ist noch nie motorrad gefahren du bist der mann du
+00:16:44 - 00:16:46 - Sprecher SPEAKER_12:  fährst motorrad ich bin
+00:16:51 - 00:16:56 - Sprecher SPEAKER_07:  ja ich bin der scheiß wichser der motorrad fährt ja hallo freut mich dich kennenzulernen ich bin fritzi
+00:16:57 - 00:16:58 - Sprecher SPEAKER_07:  das ist ja großartig fritzi ja
+00:17:01 - 00:17:05 - Sprecher SPEAKER_07:  ich hab maschine aus
+00:17:05 - 00:17:13 - Sprecher SPEAKER_04:  da hast du keinen scheiß stock wo du drauf beißen kannst ich knackse immer meine finger während ich das mache ich muss nur aufpassen einmal habe ich mir einen gebrochen dabei
+00:17:14 - 00:17:16 - Sprecher SPEAKER_07:  beim fingerknacksen hast du dir selber einen finger gebrochen?
+00:17:17 - 00:17:17 - Sprecher SPEAKER_07:  ja das ist echt komisch
+00:17:17 - 00:17:17 - Sprecher SPEAKER_04: 
+00:17:17 - 00:17:18 - Sprecher SPEAKER_04:  ja das ist echt komisch
+00:17:18 - 00:17:20 - Sprecher SPEAKER_04:  du hast eins ich habe dir das
+00:17:20 - 00:17:23 - Sprecher SPEAKER_04:  du kannst wütend sein du siehst aus wie keine ahnung
+00:17:23 - 00:17:25 - Sprecher SPEAKER_07:  unterm tresen habe ich dir das dahin gelegt
+00:17:25 - 00:17:26 - Sprecher SPEAKER_04:  du siehst cool aus
+00:17:27 - 00:17:28 - Sprecher SPEAKER_07:  ich seh cool aus
+00:17:28 - 00:17:31 - Sprecher SPEAKER_07:  ich hab schon vieles gehört aber dass ich cool aus sehe hab ich noch nie gehört
+00:17:31 - 00:17:33 - Sprecher SPEAKER_07:  du musst ihm die vorlage aufkleben
+00:17:33 - 00:17:33 - Sprecher SPEAKER_04:  genau
+00:17:34 - 00:17:35 - Sprecher SPEAKER_04:  und dann
+00:17:38 - 00:17:40 - Sprecher SPEAKER_04:  kann ich weitermachen?
+00:17:40 - 00:17:40 - Sprecher SPEAKER_04:  ja
+00:17:40 - 00:17:41 - Sprecher SPEAKER_04:  fühlst du dich fit genug?
+00:17:42 - 00:17:46 - Sprecher SPEAKER_07:  da ist der fritzi brauchst du musst du dich fit fühlen hast du heute schon was getrunken?
+00:17:46 - 00:17:47 - Sprecher SPEAKER_07:  ja ich hab schon was getrunken
+00:17:47 - 00:17:47 - Sprecher SPEAKER_07: 
+00:17:47 - 00:17:49 - Sprecher SPEAKER_11:  ich hab schon was getrunken
+00:17:49 - 00:17:49 - Sprecher SPEAKER_11:  ich mach nicht reden
+00:17:50 - 00:17:52 - Sprecher SPEAKER_07:  weißt du beißt du grade auf den stock oder was?
+00:17:52 - 00:17:55 - Sprecher SPEAKER_11:  ich mach nicht reden
+00:17:56 - 00:17:57 - Sprecher SPEAKER_07:  sie darf nicht reden
+00:17:58 - 00:18:00 - Sprecher SPEAKER_07:  ich tätowiere sie unter dem auge
+00:18:00 - 00:18:03 - Sprecher SPEAKER_04:  unter dem auge machst du so eine beschissene trän oder was?
+00:18:03 - 00:18:04 - Sprecher SPEAKER_07:  ich tätowiere sie unter dem auge
+00:18:04 - 00:18:04 - Sprecher SPEAKER_07: 
+00:18:05 - 00:18:06 - Sprecher SPEAKER_07:  das piekzeichen vom kartenspiel
+00:18:06 - 00:18:10 - Sprecher SPEAKER_07:  das piekzeichen vom kartenspiel spielst du gerne karten fritzi
+00:18:10 - 00:18:12 - Sprecher SPEAKER_07:  bist du so eine wetterin oder was?
+00:18:12 - 00:18:13 - Sprecher SPEAKER_07:  ich kann ja nicht antworten
+00:18:13 - 00:18:14 - Sprecher SPEAKER_12:  achso du kannst ja nicht reden ne
+00:18:14 - 00:18:17 - Sprecher SPEAKER_07:  jetzt kannst du einmal kurz reden ich muss schon mal aufhören
+00:18:17 - 00:18:18 - Sprecher SPEAKER_07:  das ist scheiße wenn man nicht reden kann
+00:18:18 - 00:18:20 - Sprecher SPEAKER_07:  ja das ist scheiße ganz genau
+00:18:20 - 00:18:22 - Sprecher SPEAKER_12:  fühlt sich das scheiße an wenn man nicht reden kann ja?
+00:18:22 - 00:18:23 - Sprecher SPEAKER_12:  würde ich schon sagen ja
+00:18:23 - 00:18:26 - Sprecher SPEAKER_12:  aber manchmal ist es auch besser die fresse zu halten
+00:18:26 - 00:18:28 - Sprecher SPEAKER_12:  wenn man nur dumme sachen zu sagen hat
+00:18:28 - 00:18:29 - Sprecher SPEAKER_12:  das hab ich schon gelernt in meinem leben
+00:18:29 - 00:18:33 - Sprecher SPEAKER_12:  ich sag mal so das ist bei mir nicht so ich sag immer sachen die richtig sind
+00:18:33 - 00:18:34 - Sprecher SPEAKER_07:  deswegen kann ich die ganze zeit auch reden ne
+00:18:35 - 00:18:35 - Sprecher SPEAKER_12:  mhm
+00:18:36 - 00:18:38 - Sprecher SPEAKER_07:  du musst jetzt wieder still sein die tätowiert
+00:18:39 - 00:18:41 - Sprecher SPEAKER_07:  beißt du dir jetzt selber auf den finger eigentlich?
+00:18:41 - 00:18:41 - Sprecher SPEAKER_05:  mhm
+00:18:43 - 00:18:45 - Sprecher SPEAKER_07:  auf was beißt du denn dann oder hältst du einfach bloß die klappe?
+00:18:46 - 00:18:46 - Unbekannt:  ich weiß nicht was du sagst aber du bist so ein witziger Mensch
+00:18:47 - 00:18:48 - Sprecher SPEAKER_07:  ist das scheiße wenn man nicht reden kann?
+00:18:49 - 00:18:49 - Sprecher SPEAKER_04:  babe
+00:18:50 - 00:18:52 - Sprecher SPEAKER_04:  ja ich hör schon auf ich seh schon leider
+00:18:52 - 00:18:54 - Sprecher SPEAKER_07:  ja ich bin ruhig
+00:18:54 - 00:18:55 - Sprecher SPEAKER_04:  danke
+00:18:55 - 00:18:56 - Sprecher SPEAKER_04:  das ist ja großartig
+00:18:57 - 00:19:02 - Sprecher SPEAKER_07:  babe kannst du dich noch an den ich hab gerade einen scheiß besoffenen typen auf der straße getroffen ey
+00:19:02 - 00:19:02 - Sprecher SPEAKER_07:  okay
+00:19:03 - 00:19:05 - Sprecher SPEAKER_07:  der hat mich nicht wirklich erkannt meinte er kennt irgendwie pain
+00:19:05 - 00:19:07 - Sprecher SPEAKER_07:  und der hat das bike von vico verloren
+00:19:07 - 00:19:08 - Sprecher SPEAKER_07:  die innovation und so ne scheiße
+00:19:08 - 00:19:10 - Sprecher SPEAKER_07:  wurde ihm geschenkt
+00:19:10 - 00:19:12 - Sprecher SPEAKER_07:  meine innovation hat er verloren?
+00:19:13 - 00:19:13 - Sprecher SPEAKER_07:  ja
+00:19:15 - 00:19:17 - Sprecher SPEAKER_04:  es gibt nur einen den ich eine innovation habe und der hat das bike von vico verloren die innovation und so ne scheiße wurde ihm geschenkt
+00:19:18 - 00:19:19 - Sprecher SPEAKER_04:  aber das ist unmöglich
+00:19:22 - 00:19:23 - Sprecher SPEAKER_07:  ja
+00:19:25 - 00:19:25 - Unbekannt:  mhm
+00:19:26 - 00:19:29 - Sprecher SPEAKER_07:  ja mal gucken ob der uns mal die tage wieder mal in den weg läuft ey
+00:19:29 - 00:19:29 - Sprecher SPEAKER_04:  mhm
+00:19:29 - 00:19:31 - Sprecher SPEAKER_04:  hast du gesehen wo der hingegangen ist?
+00:19:32 - 00:19:34 - Sprecher SPEAKER_04:  ja der ist hier die straße runter der war total voll
+00:19:34 - 00:19:36 - Sprecher SPEAKER_07:  ich hab auch keine ahnung ob der irgendwo eine geschichte erzählt hat
+00:19:39 - 00:19:42 - Sprecher SPEAKER_07:  ich hab keine ahnung die letzten zwei stunden war hier ganz schön viel los in dem scheiß kaffal
+00:19:42 - 00:19:43 - Sprecher SPEAKER_07:  mhm
+00:19:43 - 00:19:45 - Sprecher SPEAKER_04:  mehr los als sonst
+00:19:45 - 00:19:47 - Sprecher SPEAKER_04:  ja naja gleich bin ja auch da ne
+00:19:47 - 00:19:47 - Sprecher SPEAKER_07:  ja ja gleich bin ja auch da ne
+00:19:47 - 00:19:47 - Sprecher SPEAKER_07: 
+00:19:47 - 00:19:49 - Sprecher SPEAKER_07:  sag ich mal wieder ein bisschen verstimmung aus dem ganzen scheiß
+00:19:49 - 00:19:50 - Sprecher SPEAKER_04:  stimmen
+00:19:51 - 00:19:52 - Sprecher SPEAKER_07:  immer stimmen
+00:19:53 - 00:19:55 - Sprecher SPEAKER_07:  weißt du was ist denn hier los anna
+00:19:55 - 00:19:56 - Sprecher SPEAKER_07:  hier brennt ja richtig der bär ey
+00:20:01 - 00:20:01 - Sprecher SPEAKER_07:  weißt du guck mal die
+00:20:01 - 00:20:03 - Sprecher SPEAKER_07:  die waren sofort erschrocken
+00:20:03 - 00:20:05 - Sprecher SPEAKER_07:  was was wer wer ist die
+00:20:05 - 00:20:07 - Sprecher SPEAKER_04:  ich bin am tätowieren wer ist die
+00:20:07 - 00:20:11 - Sprecher SPEAKER_04:  ja hier sind gerade zwei kunden reingelaufen aber die haben sich glaub ich erschrocken weil ich was gesagt hab
+00:20:11 - 00:20:12 - Sprecher SPEAKER_07:  oh dann brüllst du sie direkt an
+00:20:12 - 00:20:14 - Sprecher SPEAKER_04:  ich hab die nicht angebrüllt verdammt
+00:20:14 - 00:20:16 - Sprecher SPEAKER_07:  sooo ich hab nur gesagt ihr steppt der bär
+00:20:17 - 00:20:17 - Sprecher SPEAKER_07:  ja tut er
+00:20:17 - 00:20:20 - Sprecher SPEAKER_07:  ja das ist doch großartig verdienst doch ein bisschen kohle babe
+00:20:20 - 00:20:21 - Sprecher SPEAKER_07:  mhm
+00:20:23 - 00:20:23 - Sprecher SPEAKER_04:  sooo
+00:20:24 - 00:20:25 - Sprecher SPEAKER_07:  so dann gehts jetzt los
+00:20:25 - 00:20:27 - Sprecher SPEAKER_09:  du hast es überlebt
+00:20:27 - 00:20:29 - Sprecher SPEAKER_12:  ja das ist ja großartig
+00:20:29 - 00:20:33 - Sprecher SPEAKER_12:  nein man hat mich super abgelenkt das ist total cool wenn man sich einfach darauf konzentriert
+00:20:33 - 00:20:35 - Sprecher SPEAKER_12:  wie er seine stirnfalte so zusammen runzelt
+00:20:35 - 00:20:37 - Sprecher SPEAKER_12:  die ganze zeit dann vergisst man total
+00:20:37 - 00:20:38 - Sprecher SPEAKER_12:  dass man schmerzen hat
+00:20:39 - 00:20:39 - Sprecher SPEAKER_07:  ja
+00:20:39 - 00:20:43 - Sprecher SPEAKER_07:  du hast meine stirnfalte gesehen
+00:20:43 - 00:20:44 - Sprecher SPEAKER_07:  da sind doch sperne drauf
+00:20:44 - 00:20:47 - Sprecher SPEAKER_07:  verdammt nochmal nein da ist auch runter ist deine stirnfalte da ist doch sperne drauf verdammt nochmal
+00:20:47 - 00:20:48 - Sprecher SPEAKER_12:  wie heißt das
+00:20:49 - 00:20:49 - Sprecher SPEAKER_12:  augenwulstfalte
+00:20:50 - 00:20:53 - Sprecher SPEAKER_07:  augenwulstfalte ja das kann ich ganz gut aber so ein bisschen kneifen auch so ne
+00:20:54 - 00:20:54 - Sprecher SPEAKER_12:  mhm
+00:20:54 - 00:20:56 - Sprecher SPEAKER_12:  dankeschön wie heißt du eigentlich
+00:20:57 - 00:20:57 - Sprecher SPEAKER_12:  ja ich
+00:20:57 - 00:21:00 - Sprecher SPEAKER_12:  nein deine frau hab ich gefragt die hat mich tätowiert
+00:21:00 - 00:21:00 - Sprecher SPEAKER_12:  ich bin viko
+00:21:02 - 00:21:05 - Sprecher SPEAKER_04:  hallo viko vielen dank dass du das so schnell tätowiert hast
+00:21:05 - 00:21:07 - Sprecher SPEAKER_12:  das ging ja zum schluss schneller als
+00:21:07 - 00:21:10 - Sprecher SPEAKER_12:  ich wollte mal eben nen handspiegel dann kannst du gucken
+00:21:10 - 00:21:10 - Sprecher SPEAKER_04:  ja
+00:21:10 - 00:21:12 - Sprecher SPEAKER_04:  ich pass auf das ist ja großartig
+00:21:12 - 00:21:13 - Sprecher SPEAKER_07:  und wie heißt du
+00:21:13 - 00:21:15 - Sprecher SPEAKER_12:  ich bin pain
+00:21:15 - 00:21:16 - Sprecher SPEAKER_07:  hey pain
+00:21:16 - 00:21:18 - Sprecher SPEAKER_12:  ich merke meinen namen
+00:21:19 - 00:21:20 - Sprecher SPEAKER_07:  ja ist ja auch nicht so schwer oder
+00:21:21 - 00:21:22 - Sprecher SPEAKER_12:  nee ist auch nicht so schwer
+00:21:22 - 00:21:23 - Sprecher SPEAKER_12:  das ist eine silbe kriegste hin oder
+00:21:24 - 00:21:25 - Sprecher SPEAKER_12:  das ist nicht so schwer wie fritzi
+00:21:27 - 00:21:29 - Sprecher SPEAKER_12:  zwei silben überfordern manche leute
+00:21:29 - 00:21:31 - Sprecher SPEAKER_12:  das ist richtig so ne
+00:21:31 - 00:21:32 - Sprecher SPEAKER_04:  auf jeden fall
+00:21:32 - 00:21:34 - Sprecher SPEAKER_04:  so schau mal
+00:21:34 - 00:21:36 - Sprecher SPEAKER_04:  ich halte den demer vor's gesicht den spiegel
+00:21:36 - 00:21:39 - Sprecher SPEAKER_04:  das sieht ja krass aus
+00:21:39 - 00:21:40 - Sprecher SPEAKER_07:  sehr schön
+00:21:40 - 00:21:43 - Sprecher SPEAKER_04:  ich hoffe du fühlst dich sicher mit dem tfw ding
+00:21:44 - 00:21:44 - Sprecher SPEAKER_07:  ja
+00:21:44 - 00:21:46 - Sprecher SPEAKER_07:  das ist ja auch ein bisschen exciting gerade
+00:21:47 - 00:21:50 - Sprecher SPEAKER_12:  naja ja ich war mir nicht so ganz sicher ob ich's wirklich nochmal nachstechen soll
+00:21:52 - 00:21:52 - Sprecher SPEAKER_05:  ist ja toll
+00:21:53 - 00:21:54 - Sprecher SPEAKER_12:  hab's extra mal lasern lassen
+00:21:55 - 00:21:56 - Sprecher SPEAKER_07:  ja ich wär auch nicht sicher gewesen
+00:21:56 - 00:21:57 - Sprecher SPEAKER_07:  damit es kommt
+00:21:57 - 00:22:00 - Sprecher SPEAKER_07:  alles gut soll ich aufhören
+00:22:00 - 00:22:02 - Sprecher SPEAKER_07:  willst du jetzt etwas sagen deine frau hat schlechte arbeit geleistet
+00:22:02 - 00:22:05 - Sprecher SPEAKER_12:  ne die macht gute arbeit aber ich weiß nicht ob das motiv so gut ist
+00:22:05 - 00:22:05 - Sprecher SPEAKER_07:  alles gut
+00:22:05 - 00:22:06 - Sprecher SPEAKER_07:  ja ja
+00:22:06 - 00:22:08 - Sprecher SPEAKER_12:  ich bin ganz stolz auf dich
+00:22:08 - 00:22:11 - Sprecher SPEAKER_12:  also wirklich ich will auch kurz pause machen
+00:22:11 - 00:22:13 - Sprecher SPEAKER_07:  ich spiel gerne gerne auch wetten auch so ein scheiß alles ne
+00:22:13 - 00:22:14 - Sprecher SPEAKER_07:  naja
+00:22:15 - 00:22:17 - Sprecher SPEAKER_07:  also du musst wirklich sagen
+00:22:17 - 00:22:17 - Sprecher SPEAKER_07:  also wenn
+00:22:17 - 00:22:21 - Sprecher SPEAKER_07:  also ich hab nicht verstanden der ist so laut da hinten
+00:22:21 - 00:22:21 - Sprecher SPEAKER_07:  ne
+00:22:21 - 00:22:24 - Sprecher SPEAKER_07:  was kriegst du von mir viko
+00:22:24 - 00:22:25 - Sprecher SPEAKER_12:  ich krieg von dir 700
+00:22:25 - 00:22:27 - Sprecher SPEAKER_12:  alles klar
+00:22:27 - 00:22:29 - Sprecher SPEAKER_04:  bar oder mit karte
+00:22:29 - 00:22:30 - Sprecher SPEAKER_04:  ich gib's dir bar
+00:22:30 - 00:22:31 - Sprecher SPEAKER_04:  ok nehmen wir
+00:22:31 - 00:22:35 - Sprecher SPEAKER_04:  oh sag ich bares ist wahres auch ne
+00:22:35 - 00:22:35 - Sprecher SPEAKER_07:  mhm
+00:22:39 - 00:22:41 - Sprecher SPEAKER_04:  danke dir das ist super lieb
+00:22:41 - 00:22:43 - Sprecher SPEAKER_12:  naja dafür das es so spontan war und
+00:22:43 - 00:22:44 - Sprecher SPEAKER_12:  ja natürlich
+00:22:44 - 00:22:46 - Sprecher SPEAKER_12:  vielleicht kann ich ja irgendwann mal mit auf dem motorrad fahren
+00:22:46 - 00:22:48 - Sprecher SPEAKER_12:  ich wollt doch schon immer mal motorrad fahren
+00:22:48 - 00:22:51 - Sprecher SPEAKER_12:  bestimmt kannst du mal mit auf dem motorrad fahren
+00:22:51 - 00:22:54 - Sprecher SPEAKER_04:  ja klar such dir einfach irgendeinen typen da kannst du mal mitfahren
+00:22:55 - 00:22:58 - Sprecher SPEAKER_07:  ich sag dir wie es ist bei mir kannst du nicht mitfahren die frau würde mich umbringen
+00:22:58 - 00:22:59 - Sprecher SPEAKER_07:  nein natürlich nicht bei dir
+00:22:59 - 00:23:01 - Sprecher SPEAKER_12:  ich dachte entweder vielleicht bei viko
+00:23:01 - 00:23:04 - Sprecher SPEAKER_12:  oder viko hat gesagt ihr kennt super viele leute die alle motorrad fahren
+00:23:04 - 00:23:06 - Sprecher SPEAKER_12:  also zumindest der halbe laden hier
+00:23:07 - 00:23:08 - Sprecher SPEAKER_07:  ja das stimmt
+00:23:08 - 00:23:11 - Sprecher SPEAKER_07:  ja das stimmt
+00:23:11 - 00:23:11 - Sprecher SPEAKER_04: 
+00:23:11 - 00:23:13 - Sprecher SPEAKER_04:  ich geh mal die beiden ladies fragen wenn die noch da sind
+00:23:13 - 00:23:13 - Sprecher SPEAKER_04:  ja das stimmt
+00:23:13 - 00:23:13 - Sprecher SPEAKER_04: ?"
+00:23:15 - 00:23:17 - Sprecher SPEAKER_07:  dieArtly
+00:23:17 - 00:23:17 - Sprecher SPEAKER_07: 
+00:23:20 - 00:23:22 - Sprecher SPEAKER_12:  w
+00:23:22 - 00:23:22 - Sprecher SPEAKER_07:  b
+00:23:22 - 00:23:22 - Sprecher SPEAKER_07:  w
+00:23:24 - 00:23:25 - Sprecher SPEAKER_12:  w
+00:23:25 - 00:23:25 - Sprecher SPEAKER_12:  w
+00:23:25 - 00:23:25 - Sprecher SPEAKER_12:  w
+00:23:28 - 00:23:29 - Sprecher SPEAKER_12:  im
+00:23:29 - 00:23:31 - Sprecher SPEAKER_12:  im
+00:23:43 - 00:23:43 - Sprecher SPEAKER_07:  in
+00:23:43 - 00:23:45 - Sprecher SPEAKER_07:  oder wieso? Was ist da los, verdammt nochmal?
+00:23:45 - 00:23:46 - Sprecher SPEAKER_07:  Kein Problem, ich kann mich auch anpassen.
+00:23:46 - 00:23:49 - Sprecher SPEAKER_07:  Ja, dann pass dich mal ein bisschen an. Wir sind hier ins Handy, da ist der Ticknion
+00:23:49 - 00:23:51 - Sprecher SPEAKER_07:  ein bisschen anders. Da kann man auch mal langsam sprechen,
+00:23:51 - 00:23:53 - Sprecher SPEAKER_07:  verdammt nochmal. Habe ich kein Problem mit.
+00:23:54 - 00:23:55 - Sprecher SPEAKER_07:  Großartig. Verfickte Scheiße
+00:23:55 - 00:23:55 - Sprecher SPEAKER_07:  nochmal, ey.
+00:23:59 - 00:24:01 - Sprecher SPEAKER_07:  Ach du Hans, das ist nicht...
+00:24:01 - 00:24:03 - Sprecher SPEAKER_07:  Er hat es geschafft, der dumme Wichser hat es endlich geschafft,
+00:24:03 - 00:24:05 - Sprecher SPEAKER_07:  hierher zu kommen, ey. Hat ja nur vier Stunden
+00:24:05 - 00:24:07 - Sprecher SPEAKER_07:  gedauert. Auf wen hast du denn gewartet?
+00:24:07 - 00:24:08 - Sprecher SPEAKER_07:  Na da, auf meinen Bruder.
+00:24:09 - 00:24:11 - Sprecher SPEAKER_12:  Das ist dein Bruder? Auf dem Motorrad?
+00:24:11 - 00:24:13 - Sprecher SPEAKER_07:  Ja, das ist also nicht mein richtiger Bruder.
+00:24:13 - 00:24:14 - Sprecher SPEAKER_07:  Das ist so ein...
+00:24:15 - 00:24:16 - Sprecher SPEAKER_07:  aus meinem Club, verdammt nochmal.
+00:24:16 - 00:24:19 - Sprecher SPEAKER_07:  Oh, du bist in einem Motorradclub.
+00:24:20 - 00:24:21 - Sprecher SPEAKER_07:  Ja, nicht in der Kopf von dem Motorradclub.
+00:24:21 - 00:24:22 - Sprecher SPEAKER_07:  Wir haben es geschafft.
+00:24:23 - 00:24:23 - Sprecher SPEAKER_07:  Ach so?
+00:24:23 - 00:24:26 - Sprecher SPEAKER_07:  Das ist ja großartig, verdammt. Steht da drauf auf der Scheißkutte?
+00:24:26 - 00:24:28 - Sprecher SPEAKER_07:  Was steht da drauf? Kannst du mal deine Augen auf?
+00:24:28 - 00:24:30 - Sprecher SPEAKER_07:  Oder ist es dunkel? Steht Präsident drauf, oder?
+00:24:30 - 00:24:33 - Sprecher SPEAKER_07:  Ich weiß nicht, dreh dich mal um. Ich habe es noch nicht gesehen,
+00:24:33 - 00:24:35 - Sprecher SPEAKER_12:  Penn. Vielleicht habe ich einfach noch nicht genau hingeguckt.
+00:24:35 - 00:24:36 - Sprecher SPEAKER_12:  Da steht vorne drauf. Du sollst
+00:24:36 - 00:24:38 - Sprecher SPEAKER_07:  langsamer reden, verdammt nochmal.
+00:24:38 - 00:24:39 - Sprecher SPEAKER_07:  Guckst du da?
+00:24:40 - 00:24:41 - Sprecher SPEAKER_12:  Vorne steht was drauf.
+00:24:42 - 00:24:43 - Sprecher SPEAKER_12:  Tatsächlich.
+00:24:43 - 00:24:45 - Sprecher SPEAKER_12:  Na dann weiß ich ja jetzt besser Bescheid.
+00:24:45 - 00:24:46 - Sprecher SPEAKER_12:  Hallo, Penn. Präsident.
+00:24:47 - 00:24:49 - Sprecher SPEAKER_12:  Soll ich dich Mr. President nennen?
+00:24:50 - 00:24:52 - Sprecher SPEAKER_07:  Das hört sich an wie so eine Scheiß-
+00:24:52 - 00:24:54 - Sprecher SPEAKER_07:  Dancegruppe aus den 90ern, oder?
+00:24:54 - 00:24:56 - Sprecher SPEAKER_12:  Naja, das würde doch ganz gut passen.
+00:24:56 - 00:24:57 - Sprecher SPEAKER_07:  Ey, violenz mich nicht.
+00:24:57 - 00:24:59 - Sprecher SPEAKER_06:  Ah, ja, ja, Coco, Jambo, entschuldigung.
+00:24:59 - 00:25:00 - Sprecher SPEAKER_06:  Oh nee, Schatz.
+00:25:02 - 00:25:04 - Sprecher SPEAKER_06:  Ihr seid scheiße geil
+00:25:04 - 00:25:05 - Sprecher SPEAKER_12:  auf dem Motorrad aus gerade.
+00:25:06 - 00:25:07 - Sprecher SPEAKER_07:  Wenn ich dieses Wort...
+00:25:08 - 00:25:10 - Sprecher SPEAKER_06:  Ja, ich weiß. Ich habe es nur gesagt,
+00:25:10 - 00:25:11 - Sprecher SPEAKER_06:  damit ich wieder dieses wunderschöne Wort
+00:25:11 - 00:25:12 - Sprecher SPEAKER_06:  in euch verliere.
+00:25:12 - 00:25:14 - Sprecher SPEAKER_06:  Ich habe gerade so ein bisschen Würgereiz bekommen, Alter.
+00:25:14 - 00:25:15 - Sprecher SPEAKER_07:  Können wir nicht dieses Wort sagen, Herr Kitt?
+00:25:15 - 00:25:17 - Sprecher SPEAKER_07:  Da kommt mir ein bisschen die Kotze hoch, Alter.
+00:25:17 - 00:25:19 - Sprecher SPEAKER_06:  Ja, ist doch schön, oder?
+00:25:19 - 00:25:21 - Sprecher SPEAKER_07:  Ja, ist total super, ey.
+00:25:21 - 00:25:23 - Sprecher SPEAKER_07:  Habt ihr es endlich hergeschafft, ja?
+00:25:23 - 00:25:24 - Sprecher SPEAKER_07:  Ja, ja, ja.
+00:25:25 - 00:25:26 - Sprecher SPEAKER_05:  Das war auch überhaupt nicht schwierig heute.
+00:25:26 - 00:25:28 - Sprecher SPEAKER_07:  Gar keine Ritte, ey.
+00:25:29 - 00:25:31 - Sprecher SPEAKER_06:  Hat euer Motorrad Probleme gemacht?
+00:25:31 - 00:25:34 - Sprecher SPEAKER_06:  Es hat so ziemlich alles Probleme gemacht,
+00:25:34 - 00:25:35 - Sprecher SPEAKER_06:  was irgendwie Probleme machen kann.
+00:25:35 - 00:25:37 - Sprecher SPEAKER_06:  Selbst Dinge, von denen man nicht denkt, dass sie Probleme machen könnte,
+00:25:37 - 00:25:38 - Sprecher SPEAKER_06:  haben Probleme gemacht.
+00:25:38 - 00:25:39 - Sprecher SPEAKER_06:  Das ist ja großartig.
+00:25:40 - 00:25:41 - Sprecher SPEAKER_07:  Na gut, das Aufsteigen hat...
+00:25:41 - 00:25:43 - Sprecher SPEAKER_07:  Du musst die Lederhose auch ein bisschen mit Babypuder einfangen.
+00:25:43 - 00:25:44 - Sprecher SPEAKER_07:  Ja, ja, nee.
+00:25:45 - 00:25:46 - Sprecher SPEAKER_02:  Das ist ja gar nicht so das Problem.
+00:25:47 - 00:25:49 - Sprecher SPEAKER_02:  Er hat einfach nur einen zu dicken Arsch.
+00:25:49 - 00:25:50 - Sprecher SPEAKER_02:  Ich kam da nicht mehr drauf.
+00:25:50 - 00:25:51 - Sprecher SPEAKER_02:  Als er abgestiegen ist, konnte ich aufsteigen.
+00:25:52 - 00:25:53 - Sprecher SPEAKER_05:  Was soll der denn heißen, Fräulein?
+00:25:54 - 00:25:56 - Sprecher SPEAKER_05:  Dieses Top steht Ihnen super gut, Miss.
+00:25:57 - 00:25:57 - Sprecher SPEAKER_12:  Danke.
+00:25:58 - 00:25:59 - Sprecher SPEAKER_12:  Das sieht scheiße geil aus.
+00:26:00 - 00:26:02 - Sprecher SPEAKER_06:  Ist ja auch meine Frau. Die sieht immer scheiße geil aus.
+00:26:02 - 00:26:04 - Sprecher SPEAKER_06:  Genau das wollte ich hören.
+00:26:04 - 00:26:05 - Sprecher SPEAKER_06:  Das ist ja großartig.
+00:26:05 - 00:26:07 - Sprecher SPEAKER_06:  Sagen wir jetzt ja alle, dass es scheiße geil aussieht, ja?
+00:26:08 - 00:26:09 - Sprecher SPEAKER_07:  Ja, Payne, du siehst auch scheiße geil aus.
+00:26:09 - 00:26:10 - Sprecher SPEAKER_07:  Kann man nicht...
+00:26:10 - 00:26:10 - Sprecher SPEAKER_07:  Ich will auch genug sagen.
+00:26:10 - 00:26:12 - Sprecher SPEAKER_07:  Scheiße nicht geil aus. Verdammt nochmal, Alter.
+00:26:14 - 00:26:15 - Sprecher SPEAKER_01:  Hey, hey, hey.
+00:26:18 - 00:26:19 - Sprecher SPEAKER_12:  Und was ist eine Innovation?
+00:26:21 - 00:26:23 - Sprecher SPEAKER_06:  Eine Innovation ist ein Motorrad.
+00:26:24 - 00:26:26 - Sprecher SPEAKER_12:  Es ist ein cooles Motorrad.
+00:26:26 - 00:26:28 - Sprecher SPEAKER_12:  Ich interessiere mich echt für Motorräder.
+00:26:29 - 00:26:31 - Sprecher SPEAKER_07:  Du siehst aber nicht aus, als wenn du Motorrad fahren wollen würdest.
+00:26:31 - 00:26:34 - Sprecher SPEAKER_07:  Wie muss ich denn aussehen, um Motorrad fahren zu wollen?
+00:26:34 - 00:26:35 - Sprecher SPEAKER_07:  Ach, keine Ahnung.
+00:26:35 - 00:26:36 - Sprecher SPEAKER_07:  Weil da sagt man das einfach nur so.
+00:26:36 - 00:26:38 - Sprecher SPEAKER_07:  Ich bin halt mit Vorurteilen behaftet.
+00:26:38 - 00:26:39 - Sprecher SPEAKER_07:  Ich wusste das nicht.
+00:26:39 - 00:26:40 - Sprecher SPEAKER_07:  Muss ich mir was anziehen?
+00:26:40 - 00:26:42 - Sprecher SPEAKER_12:  Was dunkles, was schwarzes, was aus Leder?
+00:26:42 - 00:26:43 - Sprecher SPEAKER_12:  Ich kann das machen.
+00:26:43 - 00:26:43 - Sprecher SPEAKER_12:  Nein, das geht schon.
+00:26:43 - 00:26:45 - Sprecher SPEAKER_12:  Du hast ein paar Stiefel an, ein paar irgendwie die Strumpfhose nach oben gezogen.
+00:26:45 - 00:26:46 - Sprecher SPEAKER_07:  Du sollst langsamer reden.
+00:26:46 - 00:26:47 - Sprecher SPEAKER_07:  Wir sind hier in Sennichorz.
+00:26:48 - 00:26:48 - Sprecher SPEAKER_07:  Verdammt nochmal.
+00:26:50 - 00:26:50 - Sprecher SPEAKER_06:  Verdammt nochmal.
+00:26:52 - 00:26:53 - Sprecher SPEAKER_07:  Du bist hier nicht in der Stadt, wo alles hier...
+00:26:53 - 00:26:54 - Sprecher SPEAKER_07:  Weiß ich nicht.
+00:26:54 - 00:26:55 - Sprecher SPEAKER_07:  Ich muss in zwei Minuten alle Häsern.
+00:26:55 - 00:26:56 - Sprecher SPEAKER_07:  Du kannst hier langsam reden.
+00:26:57 - 00:26:58 - Sprecher SPEAKER_06:  Kriegst du das hin?
+00:26:58 - 00:27:00 - Sprecher SPEAKER_06:  Klar, Mr. President.
+00:27:00 - 00:27:02 - Sprecher SPEAKER_12:  Wenn du dir das wünschst, kriege ich das hin.
+00:27:02 - 00:27:05 - Sprecher SPEAKER_12:  Wenn du noch einmal Mr. President zu mir sagst, ich bin Payne.
+00:27:06 - 00:27:07 - Sprecher SPEAKER_07:  Mr. President Payne.
+00:27:07 - 00:27:09 - Sprecher SPEAKER_12:  Ich bin noch eingeschneit, die Korte klemmen manchmal.
+00:27:10 - 00:27:12 - Sprecher SPEAKER_08:  Aber ich dachte, ich soll sagen, dass du President bist.
+00:27:12 - 00:27:14 - Sprecher SPEAKER_12:  Nein, du sollst es dir nur merken.
+00:27:14 - 00:27:15 - Sprecher SPEAKER_07:  Einfach Payne, Alter.
+00:27:15 - 00:27:16 - Sprecher SPEAKER_07:  Ohne Mr. President davor.
+00:27:16 - 00:27:18 - Sprecher SPEAKER_07:  Alles klar, ich ritz mir auf meinen Unterarm ein.
+00:27:18 - 00:27:20 - Sprecher SPEAKER_12:  Ja, ritz dir das auf deinen Unterarm ein.
+00:27:22 - 00:27:23 - Sprecher SPEAKER_06:  Verdammt nochmal.
+00:27:23 - 00:27:24 - Sprecher SPEAKER_06:  Ich meine, wir sind hier an einem Tattoo-Studio.
+00:27:24 - 00:27:27 - Sprecher SPEAKER_06:  Vielleicht kannst du es dir auf die Innenseite der Augen lieber tätowieren.
+00:27:27 - 00:27:28 - Sprecher SPEAKER_06:  Dann kannst du es immer sehen, wenn du die Augen zuhörst.
+00:27:28 - 00:27:31 - Sprecher SPEAKER_06:  Die hat sich gerade ein beschissenes Pik-Zeichen in den Fresse tätowieren lassen.
+00:27:33 - 00:27:37 - Sprecher SPEAKER_06:  Sprach der mit der 5-Sterne-Bewertung zu dem mit dem scheiß Hanfblatt im Gesicht.
+00:27:37 - 00:27:37 - Sprecher SPEAKER_06:  Ey, das ist...
+00:27:37 - 00:27:38 - Sprecher SPEAKER_06:  Die Tattoos sind voll im Trend.
+00:27:38 - 00:27:39 - Sprecher SPEAKER_06:  Ich sag's nochmal.
+00:27:39 - 00:27:40 - Sprecher SPEAKER_07:  Diese 5 Sterne...
+00:27:40 - 00:27:41 - Sprecher SPEAKER_07:  5 Sterne-Bewertungsskala.
+00:27:41 - 00:27:42 - Sprecher SPEAKER_07:  Da war ich nicht ganz...
+00:27:42 - 00:27:43 - Sprecher SPEAKER_07:  War nicht ganz freiwillig.
+00:27:43 - 00:27:44 - Sprecher SPEAKER_07:  Ich hab...
+00:27:44 - 00:27:47 - Sprecher SPEAKER_07:  Ich wurde von vier Leuten festgehalten und auf einer beschissenen Mutterhaube gelegt.
+00:27:47 - 00:27:47 - Sprecher SPEAKER_07:  Hey, hey, hey.
+00:27:47 - 00:27:48 - Sprecher SPEAKER_07:  Ich bin da vorne unter einem Baum.
+00:27:48 - 00:27:50 - Sprecher SPEAKER_06:  Hier wurde das gegen deinen Willen tätowiert?
+00:27:51 - 00:27:51 - Sprecher SPEAKER_07:  Ja.
+00:27:51 - 00:27:52 - Sprecher SPEAKER_07:  Warum?
+00:27:53 - 00:27:54 - Sprecher SPEAKER_12:  Guck mal da vorne.
+00:27:54 - 00:27:57 - Sprecher SPEAKER_07:  Weil nicht jeder mit mir so kann, weil ich eine relativ große Fresse habe.
+00:27:57 - 00:27:59 - Sprecher SPEAKER_07:  Und die haben gesagt, das ist total scheiße.
+00:27:59 - 00:28:01 - Sprecher SPEAKER_07:  Aber das gehört jetzt zu mir, verfickte Scheiße.
+00:28:01 - 00:28:04 - Sprecher SPEAKER_07:  Naja, ich wollte gerade sagen, da hätten sie sich mal was Besseres einfallen lassen können.
+00:28:04 - 00:28:08 - Sprecher SPEAKER_12:  Ich meine, andere müssen dafür auf der Straße liegen bleiben.
+00:28:08 - 00:28:09 - Sprecher SPEAKER_12:  Du hast ein scheiß geiles Tattoo.
+00:28:09 - 00:28:10 - Sprecher SPEAKER_12:  Was dich besonders macht, Payne?
+00:28:11 - 00:28:12 - Sprecher SPEAKER_07:  Ja, das ist...
+00:28:13 - 00:28:14 - Sprecher SPEAKER_07:  Das gehört halt zu mir.
+00:28:14 - 00:28:15 - Sprecher SPEAKER_07:  Das ist die Geschichte.
+00:28:16 - 00:28:19 - Sprecher SPEAKER_12:  Das ist eine ziemlich coole Geschichte, wenn man ehrlich ist.
+00:28:19 - 00:28:23 - Sprecher SPEAKER_12:  Und eine Geschichte, die zeigt, dass du derjenige bist, der überlebt hat.
+00:28:23 - 00:28:27 - Sprecher SPEAKER_12:  Und nicht derjenige, der sich auf irgendeinem scheiß Tattoo irgendwie niederkriegen lässt.
+00:28:28 - 00:28:29 - Sprecher SPEAKER_07:  Das ist ein scheiß Tattoo, oder?
+00:28:30 - 00:28:36 - Sprecher SPEAKER_07:  Der Einzige, der richtig gezittert hat, war der Tätowierer, der es gestochen hat.
+00:28:36 - 00:28:37 - Sprecher SPEAKER_07:  Der hat schon gesagt, wir machen es nicht so tief.
+00:28:37 - 00:28:38 - Sprecher SPEAKER_07:  Ich sag, so ein Tätowierer einfach.
+00:28:38 - 00:28:39 - Sprecher SPEAKER_07:  Du kannst doch nichts erfüllen.
+00:28:39 - 00:28:41 - Sprecher SPEAKER_07:  Weil den haben die nämlich auch festgehalten, die scheiß Wichser.
+00:28:42 - 00:28:46 - Sprecher SPEAKER_12:  Naja, vor allem, wenn die ja dann auf deinen Schädel gestoßen, so tief hätte er gar nicht tätowieren können.
+00:28:47 - 00:28:48 - Sprecher SPEAKER_07:  Ja, das stimmt wohl.
+00:28:48 - 00:28:50 - Sprecher SPEAKER_07:  Aber es hat ganz schön viel Knochen, das tut weh.
+00:28:51 - 00:28:53 - Sprecher SPEAKER_12:  Da zittert der ganze Schädel.
+00:28:54 - 00:28:55 - Sprecher SPEAKER_07:  Das hat richtig gezittert, ey.
+00:28:55 - 00:28:58 - Sprecher SPEAKER_07:  Kann ich mir vorstellen, hat vorhin schon sogar mein Schädel...
+00:28:58 - 00:29:00 - Sprecher SPEAKER_12:  Er hat gezittert, die Maschine hat gezittert und mein scheiß Schädel auf der scheiß Motorhaube hat gezittert.
+00:29:01 - 00:29:02 - Sprecher SPEAKER_07:  Ja.
+00:29:04 - 00:29:06 - Sprecher SPEAKER_12:  Ich finde, das passt zu dir.
+00:29:07 - 00:29:08 - Sprecher SPEAKER_07:  Ja, das hat sie auch gesagt.
+00:29:09 - 00:29:10 - Unbekannt:  Ja.
+00:29:10 - 00:29:10 - Sprecher SPEAKER_12:  Wer ist sie?
+00:29:11 - 00:29:12 - Sprecher SPEAKER_07:  Vico, meine Frau.
+00:29:13 - 00:29:13 - Sprecher SPEAKER_12:  Ah.
+00:29:15 - 00:29:17 - Sprecher SPEAKER_12:  Hat sie dich davor oder danach kennengelernt?
+00:29:18 - 00:29:20 - Sprecher SPEAKER_07:  Das war, glaube ich, mittendrin so irgendwie.
+00:29:22 - 00:29:23 - Sprecher SPEAKER_07:  Ich glaube, da kannte sie mich schon.
+00:29:24 - 00:29:25 - Sprecher SPEAKER_07:  Ich weiß es gar nicht mehr, das ist so lange her.
+00:29:25 - 00:29:28 - Sprecher SPEAKER_07:  Hat Vico dich gezwungen, das auf den Kopf tätowieren zu lassen?
+00:29:29 - 00:29:29 - Sprecher SPEAKER_07:  Nein.
+00:29:30 - 00:29:32 - Sprecher SPEAKER_12:  Wäre eine schöne Kennenlerngeschichte gewesen.
+00:29:33 - 00:29:37 - Sprecher SPEAKER_07:  Nee, die Kennenlerngeschichte ist so, dass ich einen scheiß Türspieler und einen scheiß Pier zusammenschlagen wollte.
+00:29:37 - 00:29:39 - Sprecher SPEAKER_07:  Und da habe ich so laut gebrüllt, dass sie gesagt hat, guck mal.
+00:29:39 - 00:29:40 - Sprecher SPEAKER_07:  Das ist ein Typ, der brüllt richtig laut.
+00:29:40 - 00:29:41 - Sprecher SPEAKER_07:  Der ist bestimmt geil.
+00:29:42 - 00:29:44 - Sprecher SPEAKER_07:  Dann haben wir was getrunken, dann haben wir uns ein paar Tage nicht mehr gesehen.
+00:29:44 - 00:29:46 - Sprecher SPEAKER_07:  Dann haben wir auch eine Party, dann habe ich sie wieder getroffen.
+00:29:47 - 00:29:50 - Sprecher SPEAKER_07:  Dann hat sie mir einen Schlüpper gegeben und den habe ich immer noch in der Tasche.
+00:29:51 - 00:29:51 - Sprecher SPEAKER_12:  Jetzt auch gerade?
+00:29:51 - 00:29:52 - Sprecher SPEAKER_12:  Und seitdem sind wir in einem Paar.
+00:29:53 - 00:29:53 - Sprecher SPEAKER_07:  Jetzt auch gerade.
+00:29:53 - 00:29:54 - Sprecher SPEAKER_07:  Die sind in meiner Kutte drin.
+00:29:54 - 00:29:56 - Sprecher SPEAKER_12:  Das ist romantisch.
+00:29:56 - 00:29:57 - Sprecher SPEAKER_07:  Das ist total toll, ne?
+00:29:58 - 00:29:58 - Sprecher SPEAKER_12:  Mhm.
+00:29:59 - 00:29:59 - Sprecher SPEAKER_07:  Ja.
+00:30:01 - 00:30:02 - Sprecher SPEAKER_07:  Das ist unsere beschissene Geschichte.
+00:30:03 - 00:30:04 - Sprecher SPEAKER_07:  Und drei Wochen später haben wir geheiratet.
+00:30:05 - 00:30:06 - Sprecher SPEAKER_12:  Verstehe.
+00:30:06 - 00:30:07 - Sprecher SPEAKER_12:  Das ist jetzt schon über ein Jahr her, oder?
+00:30:08 - 00:30:09 - Sprecher SPEAKER_07:  Das ist jetzt ein Jahr.
+00:30:09 - 00:30:09 - Sprecher SPEAKER_07:  Das ist jetzt ein Jahr.
+00:30:09 - 00:30:09 - Sprecher SPEAKER_07: 
+00:30:09 - 00:30:10 - Sprecher SPEAKER_07:  Das ist schon zwei Monate her, ja.
+00:30:14 - 00:30:17 - Sprecher SPEAKER_07:  Also seitdem ich hier an diesem Laden bin, ist das Gefühl, dass es hier...
+00:30:17 - 00:30:18 - Sprecher SPEAKER_07:  Keine Ahnung.
+00:30:19 - 00:30:20 - Sprecher SPEAKER_07:  Wir müssen gleich mal reden, Kate.
+00:30:21 - 00:30:22 - Sprecher SPEAKER_07:  Ja, das klingt rein.
+00:30:22 - 00:30:23 - Sprecher SPEAKER_07:  Ja, ja, ja.
+00:30:24 - 00:30:25 - Sprecher SPEAKER_07:  Ihr habt es ja nur endlich mal hoch geschafft.
+00:30:25 - 00:30:26 - Sprecher SPEAKER_07:  Keine Ahnung, Alter.
+00:30:26 - 00:30:28 - Sprecher SPEAKER_12:  Ich will euch natürlich auch nicht aufhalten.
+00:30:28 - 00:30:29 - Sprecher SPEAKER_12:  Ich muss mich gleich nur ins Taxi rufen.
+00:30:30 - 00:30:31 - Sprecher SPEAKER_07:  Du musst dir ein Taxi rufen.
+00:30:31 - 00:30:32 - Sprecher SPEAKER_07:  Ich denke, du wolltest Bike fahren.
+00:30:32 - 00:30:34 - Sprecher SPEAKER_12:  Naja, aber ich habe ja kein Bike.
+00:30:34 - 00:30:36 - Sprecher SPEAKER_12:  Dann kauf dir doch ein beschissenes Bike am Flughafen.
+00:30:37 - 00:30:38 - Sprecher SPEAKER_12:  Und wie komme ich zum Flughafen?
+00:30:39 - 00:30:39 - Sprecher SPEAKER_12:  Soll ich da hin?
+00:30:39 - 00:30:40 - Sprecher SPEAKER_12:  Soll ich da hinfliegen, oder was?
+00:30:40 - 00:30:41 - Sprecher SPEAKER_12:  Auf einem einschissenen Taxi.
+00:30:43 - 00:30:43 - Sprecher SPEAKER_07:  Ja, war ja ein Taxi.
+00:30:43 - 00:30:46 - Sprecher SPEAKER_07:  Vielleicht so ein schnellfahrendes Taxi, Quickie oder irgendwie sowas.
+00:30:47 - 00:30:49 - Sprecher SPEAKER_07:  Keine Ahnung, was es für scheiß Taxis gibt.
+00:30:49 - 00:30:52 - Sprecher SPEAKER_12:  Naja, alles, was hier fährt, ist nur ein Chaos.
+00:30:52 - 00:30:54 - Sprecher SPEAKER_07:  Weißt du, warum stehst du mir jetzt in so einer Sonne?
+00:30:55 - 00:30:56 - Sprecher SPEAKER_07:  Texas-Taxi gibt es hier.
+00:30:59 - 00:31:02 - Sprecher SPEAKER_12:  Texas-Taxis ist theoretisch das, was...
+00:31:03 - 00:31:05 - Sprecher SPEAKER_12:  das mal war, von dem du gerade geredet hast.
+00:31:05 - 00:31:07 - Sprecher SPEAKER_12:  Ist mein altes Taxi-Unternehmen gewesen.
+00:31:07 - 00:31:08 - Sprecher SPEAKER_12:  Ehm, als Quickie...
+00:31:08 - 00:31:08 - Sprecher SPEAKER_07:  Oh!
+00:31:09 - 00:31:10 - Sprecher SPEAKER_06:  Oh, okay, okay, okay, okay.
+00:31:12 - 00:31:13 - Sprecher SPEAKER_07:  Weißt du...
+00:31:13 - 00:31:14 - Sprecher SPEAKER_12:  Naja, Dinge ändern sich.
+00:31:14 - 00:31:15 - Sprecher SPEAKER_06:  Dinge ändern sich.
+00:31:16 - 00:31:17 - Sprecher SPEAKER_06:  Ja, nichts ist unbeständig wie der Wechsel.
+00:31:18 - 00:31:19 - Sprecher SPEAKER_06:  Okay.
+00:31:20 - 00:31:22 - Sprecher SPEAKER_12:  Gut, dann wünsche ich euch ganz viel Spaß bei...
+00:31:23 - 00:31:24 - Sprecher SPEAKER_12:  Motorradfahren oder sowas.
+00:31:25 - 00:31:26 - Sprecher SPEAKER_07:  Ja, bei so Motorradsachen.
+00:31:26 - 00:31:29 - Sprecher SPEAKER_07:  Wir wünschen dir alles Gute auf deinem...
+00:31:29 - 00:31:30 - Sprecher SPEAKER_07:  was auch immer du jetzt machst.
+00:31:31 - 00:31:31 - Sprecher SPEAKER_07:  Taxifahren.
+00:31:31 - 00:31:32 - Sprecher SPEAKER_12:  Klar.
+00:31:33 - 00:31:33 - Sprecher SPEAKER_12:  Taxifahren.
+00:31:33 - 00:31:34 - Sprecher SPEAKER_07:  Ganz genau.
+00:31:34 - 00:31:35 - Sprecher SPEAKER_12:  Macht's gut!
+00:31:36 - 00:31:36 - Sprecher SPEAKER_12:  Tschüss!
+00:31:41 - 00:31:42 - Sprecher SPEAKER_12:  Hm.
+00:31:43 - 00:31:44 - Unbekannt:  Hm.
+00:31:45 - 00:31:46 - Sprecher SPEAKER_12:  Langsam.
+00:31:46 - 00:31:47 - Sprecher SPEAKER_12:  Man darf auch...
+00:31:47 - 00:31:48 - Sprecher SPEAKER_12:  Wir dürfen doch nicht zu viel erwarten.
+00:31:49 - 00:31:51 - Sprecher SPEAKER_12:  Ich weiß nicht, ob andere Menschen das schlauer machen direkt
+00:31:51 - 00:31:53 - Sprecher SPEAKER_12:  oder mehr mit der Tür ins Haus fallen.
+00:31:53 - 00:31:53 - Sprecher SPEAKER_03:  Wir machen das so.
+00:31:54 - 00:31:55 - Sprecher SPEAKER_03:  Wir machen das so.
+00:31:55 - 00:31:59 - Sprecher SPEAKER_03:  Wir gucken einfach immer wieder erstmal
+00:31:59 - 00:32:00 - Sprecher SPEAKER_03:  als nette Fritzi vorbei.
+00:32:01 - 00:32:01 - Sprecher SPEAKER_03:  Nach und nach.
+00:32:02 - 00:32:02 - Sprecher SPEAKER_03:  Pö, pö.
+00:32:05 - 00:32:05 - Sprecher SPEAKER_03:  Keine Ahnung.
+00:32:05 - 00:32:07 - Sprecher SPEAKER_03:  Ich weiß es noch nicht.
+00:32:07 - 00:32:08 - Sprecher SPEAKER_03:  Ich bin mir noch sehr unsicher.
+00:32:12 - 00:32:13 - Sprecher SPEAKER_03:  Oh Gott.
+00:32:14 - 00:32:15 - Unbekannt:  Oh Gott.
+00:32:31 - 00:32:33 - Sprecher SPEAKER_12:  Gute Nacht, Little Ben.
+00:32:33 - 00:32:34 - Sprecher SPEAKER_12:  Oh Gott, es ist ja auch schon voll spät.
+00:32:35 - 00:32:35 - Sprecher SPEAKER_12:  Nein!
+00:32:36 - 00:32:38 - Sprecher SPEAKER_12:  Wieso ist es denn jetzt schon so spät?
+00:32:38 - 00:32:38 - Sprecher SPEAKER_12:  Spät!
+00:32:41 - 00:32:45 - Sprecher SPEAKER_03:  Dass wir soст
+00:32:45 - 00:32:57 - Unbekannt:  Also Gal Cry 2
+00:32:57 - 00:32:57 - Unbekannt: 
+00:32:57 - 00:32:57 - Unbekannt: 
+00:32:57 - 00:32:57 - Unbekannt: 
+00:32:57 - 00:32:57 - Unbekannt: 
+00:32:57 - 00:32:57 - Unbekannt: 
+00:32:57 - 00:33:08 - Unbekannt:  garn Armstrong ist okay,
+00:33:08 - 00:33:08 - Unbekannt:  aber ich hervorragende,
+00:33:08 - 00:33:08 - Unbekannt: 
+00:33:21 - 00:33:23 - Sprecher SPEAKER_12:  Hab ein neues Tattoo.
+00:33:25 - 00:33:26 - Sprecher SPEAKER_12:  Toll.
+00:33:29 - 00:33:29 - Sprecher SPEAKER_12:  Bin begeistert.
+00:33:30 - 00:33:31 - Sprecher SPEAKER_03:  Oh nein.
+00:33:36 - 00:33:37 - Sprecher SPEAKER_03:  Nein.
+00:33:37 - 00:33:38 - Sprecher SPEAKER_03:  Nein.
+00:33:39 - 00:33:41 - Sprecher SPEAKER_03:  Ich weiß nicht.
+00:33:42 - 00:33:43 - Sprecher SPEAKER_03:  Nein.
+00:33:48 - 00:33:50 - Sprecher SPEAKER_02:  Na ja, drauf geschissen.
+00:33:57 - 00:33:58 - Unbekannt:  Nein.
+00:33:58 - 00:34:00 - Sprecher SPEAKER_03:  Na ja, das ist ein...
+00:34:00 - 00:34:03 - Sprecher SPEAKER_03:  Dieses Tattoo hat sich Fritzi
+00:34:03 - 00:34:05 - Sprecher SPEAKER_12:  stechen lassen schon damals.
+00:34:05 - 00:34:07 - Sprecher SPEAKER_12:  Als, ähm...
+00:34:07 - 00:34:08 - Sprecher SPEAKER_12:  Also, Harry hatte
+00:34:08 - 00:34:10 - Sprecher SPEAKER_12:  diese AK auf der Stirn immer, ja?
+00:34:11 - 00:34:13 - Sprecher SPEAKER_12:  Und am Ende war Harry
+00:34:13 - 00:34:14 - Sprecher SPEAKER_12:  ja mehr oder weniger...
+00:34:15 - 00:34:16 - Sprecher SPEAKER_12:  Ja, wenn man vom Teufel spricht.
+00:34:17 - 00:34:19 - Sprecher SPEAKER_12:  Hab grad an dich gedacht.
+00:34:20 - 00:34:20 - Sprecher SPEAKER_00:  Schön.
+00:34:20 - 00:34:22 - Sprecher SPEAKER_00:  Ich hab grad zuerst die falsche Nummer gewählt.
+00:34:23 - 00:34:24 - Sprecher SPEAKER_12:  Was soll das heißen?
+00:34:24 - 00:34:25 - Sprecher SPEAKER_12:  Wolltest du mich gar nicht anrufen?
+00:34:26 - 00:34:27 - Sprecher SPEAKER_00:  Doch, aber ich hab aus Versehen
+00:34:27 - 00:34:28 - Sprecher SPEAKER_00:  ein Weiber angerufen.
+00:34:31 - 00:34:32 - Sprecher SPEAKER_00:  Ich bin aber harsch.
+00:34:33 - 00:34:34 - Sprecher SPEAKER_00:  Und er war sauer.
+00:34:34 - 00:34:35 - Sprecher SPEAKER_00:  Warum?
+00:34:35 - 00:34:37 - Sprecher SPEAKER_00:  So, pass auf.
+00:34:38 - 00:34:39 - Sprecher SPEAKER_00:  Ähm, Jesse,
+00:34:40 - 00:34:42 - Sprecher SPEAKER_00:  der vom Taxi-Unternehmen.
+00:34:43 - 00:34:45 - Sprecher SPEAKER_00:  Der Typ, der laufend kurz vorm Burnout ist.
+00:34:47 - 00:34:47 - Sprecher SPEAKER_00:  Ja.
+00:34:48 - 00:34:48 - Sprecher SPEAKER_00:  Kannst du mir folgen?
+00:34:48 - 00:34:50 - Sprecher SPEAKER_00:  Der immer an der Leitstelle raniert, der Vogel.
+00:34:50 - 00:34:50 - Sprecher SPEAKER_00:  Ich weiß welcher.
+00:34:51 - 00:34:51 - Sprecher SPEAKER_00:  Okay.
+00:34:52 - 00:34:54 - Sprecher SPEAKER_00:  Jesse ist übrigens nicht sein richtiger Name, sondern der ist, glaube ich, Leslie.
+00:34:55 - 00:34:57 - Sprecher SPEAKER_00:  Aber ist doch real, spielt keine Rolle.
+00:34:57 - 00:34:58 - Sprecher SPEAKER_00:  Den soll man im Auge behalten.
+00:35:00 - 00:35:01 - Sprecher SPEAKER_00:  Äh, der wird...
+00:35:01 - 00:35:01 - Sprecher SPEAKER_00:  Denn die perlen.
+00:35:02 - 00:35:03 - Sprecher SPEAKER_00:  Na ja, hat Weiber geschrieben.
+00:35:03 - 00:35:05 - Sprecher SPEAKER_00:  Also, der wird von der Maple Street täglich abgezogen.
+00:35:06 - 00:35:08 - Sprecher SPEAKER_00:  Die Maple Street ist eine Gangster-Kammer.
+00:35:08 - 00:35:10 - Sprecher SPEAKER_00:  Die gehen genau gegenüber vom Taxi-Unternehmen, dieser reutigen Straße.
+00:35:12 - 00:35:13 - Sprecher SPEAKER_00:  Auf jeden Fall soll man das beim Auge behalten.
+00:35:15 - 00:35:17 - Sprecher SPEAKER_12:  Mit welcher Intention?
+00:35:18 - 00:35:18 - Sprecher SPEAKER_12:  Also...
+00:35:18 - 00:35:20 - Sprecher SPEAKER_00:  Weiß ich nicht. Hat Weiber mir geschrieben.
+00:35:20 - 00:35:21 - Sprecher SPEAKER_00:  Wenn er das schreibt, dann mach ich das.
+00:35:22 - 00:35:24 - Sprecher SPEAKER_12:  Das ist gut, alles klar.
+00:35:24 - 00:35:26 - Sprecher SPEAKER_12:  Ich hab mir ein Tattoo stechen lassen.
+00:35:26 - 00:35:28 - Sprecher SPEAKER_12:  Ich glaub, das war auch sowas wie ein Auftrag.
+00:35:28 - 00:35:29 - Sprecher SPEAKER_00:  Wie, noch eins?
+00:35:29 - 00:35:30 - Sprecher SPEAKER_00:  Ich hab den AOD.
+00:35:31 - 00:35:32 - Sprecher SPEAKER_12:  Der Anträge gehört dir.
+00:35:34 - 00:35:35 - Sprecher SPEAKER_00:  AOD, okay.
+00:35:35 - 00:35:36 - Sprecher SPEAKER_00:  Darfst du ihn stechen lassen.
+00:35:37 - 00:35:37 - Sprecher SPEAKER_12:  Mhh...
+00:35:39 - 00:35:42 - Sprecher SPEAKER_12:  Naja, das eine, das ich damals schon gemacht hab, Harry.
+00:35:42 - 00:35:45 - Sprecher SPEAKER_12:  Ich hab dir grad geschrieben, ob das okay ist für dich, weil du das da auch hast.
+00:35:45 - 00:35:46 - Sprecher SPEAKER_12:  Jetzt hab ich's auch.
+00:35:46 - 00:35:47 - Sprecher SPEAKER_12:  Ich weiß nicht.
+00:35:47 - 00:35:50 - Sprecher SPEAKER_12:  Ich wusste damals schon nicht, ob dir das damals recht war.
+00:35:50 - 00:35:52 - Sprecher SPEAKER_12:  Da warst du auch schon so, hm, naja, weiß ich nicht.
+00:35:52 - 00:35:55 - Sprecher SPEAKER_12:  Da hab ich gedacht, vielleicht wolltest du's nicht, weil ich dann wie eine Nachmacherin bin.
+00:35:55 - 00:35:58 - Sprecher SPEAKER_12:  Und weil, naja, weil du vielleicht gar nicht mit mir zusammen Tattoo haben willst.
+00:35:58 - 00:36:00 - Sprecher SPEAKER_12:  Ich hab einfach so ein, da weiß ich nicht.
+00:36:01 - 00:36:03 - Sprecher SPEAKER_00:  Das ist mehr real. Du musst doch damit leben.
+00:36:03 - 00:36:06 - Sprecher SPEAKER_00:  Du wirst jetzt als Drogenverkäuferin abgestempelt von den Kopfs, nicht ich.
+00:36:07 - 00:36:07 - Sprecher SPEAKER_00:  Nicht das! Ich will das nicht.
+00:36:07 - 00:36:09 - Sprecher SPEAKER_00:  Ich hab das andere, nicht das Hanfblatt.
+00:36:11 - 00:36:12 - Sprecher SPEAKER_00:  Mit Peak?
+00:36:12 - 00:36:13 - Sprecher SPEAKER_12:  Mhh...
+00:36:13 - 00:36:16 - Sprecher SPEAKER_00:  Hoch, hoch Drogendealer jetzt. Profiling ist da.
+00:36:18 - 00:36:20 - Sprecher SPEAKER_00:  Okay, damit musst du leben. Ist dein Ding.
+00:36:21 - 00:36:23 - Sprecher SPEAKER_00:  Kannst du mich abholen?
+00:36:23 - 00:36:26 - Sprecher SPEAKER_00:  Ja, ich wollt dir sagen, unser Aspo steht in der Garage. Also in der öffentlichen Garage.
+00:36:31 - 00:36:32 - Sprecher SPEAKER_00:  Aber... hol ich ab.
+00:36:33 - 00:36:34 - Sprecher SPEAKER_00:  Warte mal. Hier steht ein Biker.
+00:36:36 - 00:36:37 - Sprecher SPEAKER_00:  Dann fahr doch weiter, nächstes Mal.
+00:36:38 - 00:36:40 - Sprecher SPEAKER_12:  Nein, du sollst doch Kontakt mit dem aufnehmen, Harry!
+00:36:42 - 00:36:42 - Sprecher SPEAKER_00:  Wie bitte?
+00:36:43 - 00:36:46 - Sprecher SPEAKER_00:  Du sollst doch Kontakt mit dem Biker aufnehmen. Du kannst nicht sagen, er soll weiterfahren.
+00:36:46 - 00:36:47 - Sprecher SPEAKER_12:  Sein bester Freund mit ihm.
+00:36:47 - 00:36:49 - Sprecher SPEAKER_00:  Der hat mir Feuer blubbert, dass er mich nicht mehr fährt.
+00:36:50 - 00:36:51 - Sprecher SPEAKER_12:  Na und?
+00:36:51 - 00:36:53 - Sprecher SPEAKER_00:  Der war Stefano gewesen, glaube ich.
+00:36:53 - 00:36:54 - Sprecher SPEAKER_12:  Ach so, ja, dann ist egal.
+00:36:54 - 00:36:55 - Sprecher SPEAKER_00:  Ist wirklich egal.
+00:36:56 - 00:37:00 - Sprecher SPEAKER_00:  Okay, ich versuch mir jetzt das Auto aus dieser Garage zu... Wo bist du? Wo bist du denn?
+00:37:01 - 00:37:02 - Sprecher SPEAKER_12:  Äh, oben in Sandy Shores.
+00:37:02 - 00:37:04 - Sprecher SPEAKER_12:  Oh, das finde ich doch niemals an.
+00:37:05 - 00:37:07 - Sprecher SPEAKER_00:  Da war ich heute schon gewesen, eine Stunde lang, glaube ich.
+00:37:07 - 00:37:09 - Sprecher SPEAKER_00:  Oh Gott, ich war heute Taxifahrer für Sie.
+00:37:10 - 00:37:11 - Sprecher SPEAKER_12:  Warum?
+00:37:11 - 00:37:12 - Sprecher SPEAKER_12:  Weiß ich nicht.
+00:37:13 - 00:37:16 - Sprecher SPEAKER_00:  Okay, ich setz mich jetzt in mein Auto...
+00:37:16 - 00:37:16 - Sprecher SPEAKER_00:  Ja.
+00:37:17 - 00:37:19 - Sprecher SPEAKER_00:  ...und hol dich ab.
+00:37:19 - 00:37:22 - Sprecher SPEAKER_00:  Und ich muss jetzt auch einfach härter werden. Ich muss mich zusammenreißen.
+00:37:22 - 00:37:25 - Sprecher SPEAKER_00:  Ich hab vorhin übelst viele Notizen in diesem dicken Nahtband gemacht habe.
+00:37:25 - 00:37:27 - Sprecher SPEAKER_00:  Starke Fassade und innen war ich...
+00:37:28 - 00:37:29 - Sprecher SPEAKER_12:  Das hast du dir aufgeschrieben?
+00:37:30 - 00:37:31 - Sprecher SPEAKER_00:  Ja, weil, warte, sag ich so, irgendwann zu flen...
+00:37:34 - 00:37:35 - Sprecher SPEAKER_00:  Ich bin hart.
+00:37:38 - 00:37:38 - Sprecher SPEAKER_12:  Ja.
+00:37:38 - 00:37:41 - Sprecher SPEAKER_12:  Okay, ich bin jetzt unterwegs und ich bin krass. Bis gleich.
+00:37:42 - 00:37:43 - Sprecher SPEAKER_12:  Bis dann.
+00:37:47 - 00:37:48 - Sprecher SPEAKER_03:  Oh Gott.
+00:37:57 - 00:37:58 - Sprecher SPEAKER_12:  Wunderschönen guten Abend.
+00:37:59 - 00:37:59 - Sprecher SPEAKER_08:  Grüße.
+00:38:08 - 00:38:09 - Sprecher SPEAKER_12:  Wunderschönen guten Abend.
+00:38:10 - 00:38:13 - Sprecher SPEAKER_12:  Ich bräuchte bitte einmal...
+00:38:14 - 00:38:17 - Sprecher SPEAKER_12:  Mmmh, Slushie zwei Stück würde ich mitnehmen bitte.
+00:38:17 - 00:38:18 - Sprecher SPEAKER_12:  Okay, cool.
+00:38:20 - 00:38:22 - Sprecher SPEAKER_12:  Und was will ich noch?
+00:38:22 - 00:38:25 - Sprecher SPEAKER_12:  Das Sushi bei Ihnen schmeckt eigentlich eklig.
+00:38:26 - 00:38:27 - Sprecher SPEAKER_12:  Da können Sie ja nichts dafür.
+00:38:29 - 00:38:29 - Sprecher SPEAKER_12:  Mmmh.
+00:38:30 - 00:38:31 - Sprecher SPEAKER_12:  Ich würde gerne ein paar.
+00:38:31 - 00:38:31 - Unbekannt:  Ja, das wäre gut.
+00:38:31 - 00:38:31 - Unbekannt: 
+00:38:31 - 00:38:31 - Unbekannt: 
+00:38:31 - 00:38:31 - Unbekannt: 
+00:38:31 - 00:38:31 - Unbekannt: 
+00:38:31 - 00:38:35 - Sprecher SPEAKER_12:  Ich würde es trotzdem mitnehmen.
+00:38:36 - 00:38:37 - Sprecher SPEAKER_12:  Dankeschön.
+00:38:40 - 00:38:42 - Sprecher SPEAKER_12:  Schönen Abend Ihnen.
+00:38:46 - 00:38:48 - Sprecher SPEAKER_12:  Mmmh.
+00:38:49 - 00:38:49 - Unbekannt:  Mmmh.
+00:38:49 - 00:38:50 - Unbekannt:  Mmmh.
+00:38:51 - 00:38:53 - Unbekannt:  Mmmh.
+00:38:54 - 00:38:54 - Unbekannt: 
+00:38:55 - 00:38:55 - Unbekannt: 
+00:38:55 - 00:39:04 - Unbekannt:  Oh, das ist chegar Glueck.
+00:39:22 - 00:39:25 - Sprecher SPEAKER_05:  Hallo, Saur, herzlich willkommen.
+00:39:27 - 00:39:33 - Sprecher SPEAKER_12:  Tja, ähm, das ist schwer auf die Schnelle zu erklären, würde ich sagen.
+00:39:33 - 00:39:35 - Sprecher SPEAKER_12:  Das ist sehr schwer zu erklären.
+00:39:40 - 00:39:44 - Sprecher SPEAKER_12:  Also, Harry ist ungefähr das hier.
+00:39:47 - 00:39:50 - Sprecher SPEAKER_00:  Gegenseitig aufeinander aufpassen, das ist der Plan.
+00:39:52 - 00:39:56 - Sprecher SPEAKER_12:  Und Viper ist ungefähr das hier.
+00:39:56 - 00:39:59 - Sprecher SPEAKER_08:  Gib dem Tipp, was Freunde angeht, hau. Gibt's in dem Geschäft nicht.
+00:40:01 - 00:40:02 - Sprecher SPEAKER_12:  So ungefähr.
+00:40:04 - 00:40:06 - Sprecher SPEAKER_12:  Wenn man in Fritzis Erinnerungen gucken würde.
+00:40:10 - 00:40:15 - Sprecher SPEAKER_12:  Aber alles andere kannst du natürlich rausfinden, wenn du hier mehr Zeit verbringst.
+00:40:15 - 00:40:16 - Sprecher SPEAKER_12:  Wird sich bestimmt ergeben.
+00:40:16 - 00:40:21 - Sprecher SPEAKER_12:  Oder du guckst die ganze 60-folgige Fritzi-Serie an und weißt dann auch sehr gut, wer Harry und wer Viper ist.
+00:40:22 - 00:40:23 - Sprecher SPEAKER_12:  Das ist nämlich Fritzis Vorgeschichte.
+00:40:35 - 00:40:39 - Sprecher SPEAKER_05:  Ja, also, ey, die Erinnerungsfetzen hätte ich gerne an der anderen Stelle besser eingesetzt.
+00:40:39 - 00:40:43 - Sprecher SPEAKER_12:  Aber ich trau mich noch nicht, sie einzusetzen, weil ich noch so aufgeregt bin.
+00:40:43 - 00:40:44 - Sprecher SPEAKER_12:  Ich kann gerade noch nichts einsetzen.
+00:40:46 - 00:40:48 - Sprecher SPEAKER_12:  Ich bin gerade auch noch nicht gut, meine Musik einzusetzen.
+00:40:50 - 00:40:51 - Sprecher SPEAKER_12:  Hm.
+00:40:52 - 00:40:52 - Unbekannt:  Hm.
+00:40:53 - 00:40:54 - Unbekannt:  Hm.
+00:40:54 - 00:40:54 - Unbekannt: 
+00:40:56 - 00:40:56 - Unbekannt:  Hm.
+00:40:57 - 00:40:57 - Unbekannt: 
+00:41:03 - 00:41:03 - Unbekannt: 
+00:41:04 - 00:41:04 - Unbekannt: 
+00:41:05 - 00:41:05 - Unbekannt:  Hm.
+00:41:07 - 00:41:07 - Unbekannt:  Hm.
+00:41:15 - 00:41:20 - Sprecher SPEAKER_12:  Wir warten darauf, dass Harry uns abholt.
+00:41:21 - 00:41:22 - Sprecher SPEAKER_12:  Ganz entspannt.
+00:41:56 - 00:41:57 - Sprecher SPEAKER_01:  Na ja.
+00:42:03 - 00:42:03 - Sprecher SPEAKER_00:  Das geht.
+00:42:03 - 00:42:05 - Sprecher SPEAKER_00:  Driften kannst du aber ganz gut mit dem Aspo.
+00:42:05 - 00:42:06 - Sprecher SPEAKER_12:  Das Auto ist so kacke.
+00:42:07 - 00:42:08 - Sprecher SPEAKER_12:  Wir brauchen ein anderes Auto.
+00:42:09 - 00:42:09 - Sprecher SPEAKER_12:  Also noch eins.
+00:42:10 - 00:42:11 - Sprecher SPEAKER_00:  Noch eins?
+00:42:11 - 00:42:14 - Sprecher SPEAKER_00:  Na ja, wir brauchen ein ordentliches Auto, womit wir auch irgendwo ankommen können.
+00:42:16 - 00:42:17 - Sprecher SPEAKER_00:  Na, das ist für mich nicht das Auto.
+00:42:18 - 00:42:20 - Sprecher SPEAKER_12:  Auf jeden Fall nicht, nein.
+00:42:21 - 00:42:21 - Sprecher SPEAKER_00:  Was heißt Motion-Willy?
+00:42:22 - 00:42:23 - Sprecher SPEAKER_00:  Wir sollten unser Geld klug ausgeben.
+00:42:23 - 00:42:26 - Sprecher SPEAKER_00:  Und ich glaube, klug wäre es, um besser das Auto zu machen.
+00:42:26 - 00:42:27 - Sprecher SPEAKER_12:  Alles klar.
+00:42:27 - 00:42:28 - Sprecher SPEAKER_12:  Wo kriegen wir eins her?
+00:42:29 - 00:42:31 - Sprecher SPEAKER_00:  Aus irgendeinem Autohaus, die noch nicht beliefert werden.
+00:42:32 - 00:42:33 - Sprecher SPEAKER_12:  Alles klar.
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:33 - 00:42:33 - Sprecher SPEAKER_12: 
+00:42:34 - 00:42:35 - Sprecher SPEAKER_00:  Steht ganz irgendwo auf dem Plan.
+00:42:35 - 00:42:36 - Sprecher SPEAKER_00:  Mhm.
+00:42:37 - 00:42:38 - Sprecher SPEAKER_00:  Okay, ich muss härter werden.
+00:42:39 - 00:42:41 - Sprecher SPEAKER_00:  Ich habe das heute Nachmittag schon geübt.
+00:42:41 - 00:42:43 - Sprecher SPEAKER_00:  Das wird funktionieren.
+00:42:46 - 00:42:48 - Sprecher SPEAKER_00:  Wenn ich Viper anrufe, bin ich hart.
+00:42:51 - 00:42:52 - Sprecher SPEAKER_12:  Wie denn zum Beispiel?
+00:42:53 - 00:42:56 - Sprecher SPEAKER_12:  Mach mal, okay, ich tue so, als wäre ich Viper und du tust so, als wärst du der harte
+00:42:56 - 00:42:56 - Sprecher SPEAKER_12:  Harry.
+00:42:57 - 00:42:59 - Sprecher SPEAKER_00:  Ja, ich habe nur...
+00:42:59 - 00:42:59 - Sprecher SPEAKER_00:  Hallo, Mr.
+00:43:00 - 00:43:00 - Sprecher SPEAKER_12:  Scholt.
+00:43:01 - 00:43:02 - Sprecher SPEAKER_12:  Scholt, was wollen Sie?
+00:43:02 - 00:43:03 - Sprecher SPEAKER_12:  Ja, was wollen Sie?
+00:43:03 - 00:43:05 - Sprecher SPEAKER_00:  Ich habe den Auftrag erfüllt.
+00:43:05 - 00:43:06 - Sprecher SPEAKER_00:  Und jetzt sei nicht so bockig.
+00:43:07 - 00:43:09 - Sprecher SPEAKER_12:  Hast du mich gerade bockig genannt?
+00:43:09 - 00:43:12 - Sprecher SPEAKER_12:  Ich sage es dir, Scholt, du bist gleich einen Kopf kürzer.
+00:43:12 - 00:43:15 - Sprecher SPEAKER_00:  Nein, ich habe mich versprochen, den Auftrag habe ich trotzdem erfüllt.
+00:43:15 - 00:43:21 - Sprecher SPEAKER_12:  Wenn man sich verspricht, Scholt, dann ist man ganz schnell ganz stumm.
+00:43:21 - 00:43:23 - Sprecher SPEAKER_12:  Verstehst du, was ich meine?
+00:43:24 - 00:43:24 - Sprecher SPEAKER_00:  Ja, verstehe ich.
+00:43:24 - 00:43:25 - Sprecher SPEAKER_00:  Wird nicht passieren.
+00:43:25 - 00:43:26 - Sprecher SPEAKER_00:  So, jetzt zurück zur Arbeit.
+00:43:27 - 00:43:29 - Sprecher SPEAKER_00:  Und dann halt das Thema am Kämmerl steckt.
+00:43:30 - 00:43:31 - Sprecher SPEAKER_12:  Okay, gut.
+00:43:31 - 00:43:32 - Sprecher SPEAKER_12:  Ja, so kann man das machen.
+00:43:32 - 00:43:33 - Sprecher SPEAKER_12:  Ja, ich habe den Auftrag erfüllt.
+00:43:33 - 00:43:33 - Unbekannt: 
+00:43:33 - 00:43:33 - Unbekannt: 
+00:43:33 - 00:43:33 - Unbekannt: 
+00:43:34 - 00:43:34 - Sprecher SPEAKER_00:  Okay.
+00:43:35 - 00:43:35 - Sprecher SPEAKER_00:  Hey, sag mir doch mal, warum celebrate ich so oder was?
+00:43:35 - 00:43:36 - Sprecher SPEAKER_00:  Ja, ich habe eigentlich wollte Dich eigentlich anrufen.
+00:43:36 - 00:43:37 - Sprecher SPEAKER_00:  Ich habe...
+00:43:37 - 00:43:39 - Sprecher SPEAKER_00:  Ich habe in voller Vorfreude Dich angerufen.
+00:43:39 - 00:43:40 - Sprecher SPEAKER_00:  Da hast du mich so fest aufx sollen.
+00:43:42 - 00:43:44 - Sprecher SPEAKER_12:  Aber warum ist dir das passiert?
+00:43:45 - 00:43:47 - Sprecher SPEAKER_00:  Weil ich habe deine SMS nochmal erlesen.
+00:43:48 - 00:43:51 - Sprecher SPEAKER_00:  Dann musstet du irgendwie, über die SMS musstet du keine Musik irgendwie je angerufen
+00:43:51 - 00:43:51 - Sprecher SPEAKER_00:  haben.
+00:43:54 - 00:43:55 - Sprecher SPEAKER_00:  Naja, es wie's ist.
+00:43:56 - 00:43:57 - Sprecher SPEAKER_12:  Ist wie's ist.
+00:43:57 - 00:44:01 - Sprecher SPEAKER_00:  Genau, und er hat auf jeden Fall der Schenklauch mit�대gung, dass ich equity drangehen so
+00:44:01 - 00:44:03 - Sprecher SPEAKER_00: 弄 und habe gehe, also wer wird von der...
+00:44:03 - 00:44:03 - Sprecher SPEAKER_00: 
+00:44:03 - 00:44:04 - Sprecher SPEAKER_00:  Maple Street so terrorisiert.
+00:44:04 - 00:44:05 - Sprecher SPEAKER_00:  Er wird jeden Tag abgezogen,
+00:44:06 - 00:44:07 - Sprecher SPEAKER_00:  mit den Klamotten abgezogen, etc.
+00:44:09 - 00:44:11 - Sprecher SPEAKER_05:  Und ich oder wir sollen uns das mal
+00:44:11 - 00:44:12 - Sprecher SPEAKER_00:  so ein bisschen genauer angucken.
+00:44:12 - 00:44:13 - Sprecher SPEAKER_00:  Von diesem Jesse.
+00:44:14 - 00:44:16 - Sprecher SPEAKER_00:  Aber der Jesse ist halt ein kompletter Fiebertraum.
+00:44:16 - 00:44:18 - Sprecher SPEAKER_00:  Ich kann nicht mit dem unterwegs sein.
+00:44:18 - 00:44:19 - Sprecher SPEAKER_12:  Das macht mich komplett fertig.
+00:44:20 - 00:44:21 - Sprecher SPEAKER_00:  Mich nämlich genauso.
+00:44:22 - 00:44:23 - Sprecher SPEAKER_00:  Ich hab mir heute Nachmittag ein Taxi bestellt
+00:44:23 - 00:44:26 - Sprecher SPEAKER_00:  und wollte in die Innenstadt von unserer Wohnung.
+00:44:26 - 00:44:26 - Sprecher SPEAKER_00:  In der Nähe von unserer Wohnung.
+00:44:28 - 00:44:29 - Sprecher SPEAKER_00:  Bin ungefähr eine halbe Stunde später
+00:44:29 - 00:44:31 - Sprecher SPEAKER_00:  in Paleto gelandet.
+00:44:32 - 00:44:33 - Sprecher SPEAKER_00:  Danach eine halbe Stunde später
+00:44:33 - 00:44:34 - Sprecher SPEAKER_00:  mit Incendishorse gelandet.
+00:44:35 - 00:44:36 - Sprecher SPEAKER_00:  Dann musste ich das Taxi fahren
+00:44:36 - 00:44:39 - Sprecher SPEAKER_00:  und wir konnten dann eine halbe Stunde nicht tanken.
+00:44:41 - 00:44:42 - Sprecher SPEAKER_12:  Hört sich an wie ein Fiebertraum.
+00:44:43 - 00:44:43 - Sprecher SPEAKER_00:  Komplett.
+00:44:43 - 00:44:45 - Sprecher SPEAKER_00:  Ich konnte nicht mehr. Wirklich nicht.
+00:44:46 - 00:44:47 - Sprecher SPEAKER_00:  Aber ja, ich bleib da dran.
+00:44:47 - 00:44:48 - Sprecher SPEAKER_00:  Es ist kein Problem.
+00:44:49 - 00:44:50 - Sprecher SPEAKER_00:  Oder wir.
+00:44:51 - 00:44:53 - Sprecher SPEAKER_00:  Oder ich. Ich weiß es nicht.
+00:44:53 - 00:44:54 - Sprecher SPEAKER_00:  Es war so anstrengend.
+00:44:57 - 00:44:58 - Sprecher SPEAKER_00:  Auf jeden Fall Maple Street.
+00:44:58 - 00:45:00 - Sprecher SPEAKER_00:  Das ist die Gegenüber vom Taxiunternehmen.
+00:45:00 - 00:45:01 - Sprecher SPEAKER_00:  Eine richtig räudige Gasse.
+00:45:06 - 00:45:06 - Sprecher SPEAKER_00:  Ja.
+00:45:06 - 00:45:07 - Sprecher SPEAKER_00:  Maple Street.
+00:45:09 - 00:45:09 - Sprecher SPEAKER_00:  Ja.
+00:45:09 - 00:45:12 - Sprecher SPEAKER_00:  Glaubst du, wenn wir da hingehen, werden wir auch abgezogen?
+00:45:12 - 00:45:13 - Sprecher SPEAKER_00:  Bestimmt.
+00:45:13 - 00:45:15 - Sprecher SPEAKER_12:  Was sind das für Leute? Kennst du die?
+00:45:15 - 00:45:16 - Sprecher SPEAKER_00:  Wir kennen die nicht.
+00:45:16 - 00:45:19 - Sprecher SPEAKER_00:  Aber wenn Jesse jeden Tag von denen abgezogen wird,
+00:45:20 - 00:45:21 - Sprecher SPEAKER_00:  sind es auf jeden Fall keine coolen Leute wahrscheinlich.
+00:45:22 - 00:45:22 - Sprecher SPEAKER_05:  Hm.
+00:45:24 - 00:45:26 - Sprecher SPEAKER_00:  Und da die uns nicht kennen,
+00:45:26 - 00:45:28 - Sprecher SPEAKER_00:  sind wir auch potenzielle Opfer.
+00:45:31 - 00:45:31 - Sprecher SPEAKER_00:  Vielleicht ist das ein bisschen cool.
+00:45:31 - 00:45:32 - Sprecher SPEAKER_00:  Das würde ich behaupten.
+00:45:34 - 00:45:36 - Sprecher SPEAKER_12:  Aber sie haben Jesse nichts angetan.
+00:45:36 - 00:45:38 - Sprecher SPEAKER_12:  Sind das so Leute, die einen einfach nur die Taschen leer machen?
+00:45:38 - 00:45:39 - Sprecher SPEAKER_12:  Oder knallen die einen ab?
+00:45:40 - 00:45:41 - Sprecher SPEAKER_00:  Das habe ich noch nicht rausgefunden.
+00:45:41 - 00:45:43 - Sprecher SPEAKER_00:  Das muss ich noch über Jesse rausfinden.
+00:45:43 - 00:45:46 - Sprecher SPEAKER_12:  Na, dann lass uns doch mal mit Jesse quatschen.
+00:45:46 - 00:45:47 - Sprecher SPEAKER_00:  Na. Können wir machen.
+00:45:47 - 00:45:50 - Sprecher SPEAKER_00:  Ich glaube, würde der Nein sagen, würde er bestimmt auch, ähh,
+00:45:50 - 00:45:51 - Sprecher SPEAKER_00:  würde er bestimmt auch vermöbelt werden.
+00:45:54 - 00:45:56 - Sprecher SPEAKER_00:  Aber das müssen wir rausfinden.
+00:45:56 - 00:45:58 - Sprecher SPEAKER_00:  Und du warst gerade wo gewesen? Beim AOD?
+00:45:59 - 00:45:59 - Sprecher SPEAKER_12:  Naja.
+00:45:59 - 00:46:01 - Sprecher SPEAKER_12:  Ja, ich war im Tattoo-Studio.
+00:46:02 - 00:46:02 - Sprecher SPEAKER_00:  Ja.
+00:46:03 - 00:46:04 - Sprecher SPEAKER_00:  Und da arbeitet Vico.
+00:46:05 - 00:46:08 - Sprecher SPEAKER_12:  Und Vico hat das Tattoo-Studio.
+00:46:08 - 00:46:10 - Sprecher SPEAKER_12:  Und Vicos Frau ist...
+00:46:10 - 00:46:14 - Sprecher SPEAKER_12:  Also sie ist die Frau von dem President vom AOD,
+00:46:14 - 00:46:16 - Sprecher SPEAKER_12:  den ich auch kennengelernt habe.
+00:46:16 - 00:46:17 - Sprecher SPEAKER_12:  Pain.
+00:46:18 - 00:46:20 - Sprecher SPEAKER_00:  Okay, der klingt danach, dass du das übernehmen solltest.
+00:46:22 - 00:46:22 - Sprecher SPEAKER_12:  Ja.
+00:46:23 - 00:46:24 - Sprecher SPEAKER_12:  Wobei, ich weiß nicht.
+00:46:26 - 00:46:28 - Sprecher SPEAKER_12:  Ich glaube noch nicht, dass sie...
+00:46:30 - 00:46:31 - Sprecher SPEAKER_12:  mich ansatzweise...
+00:46:32 - 00:46:34 - Sprecher SPEAKER_12:  nett finden könnten momentan.
+00:46:34 - 00:46:37 - Sprecher SPEAKER_12:  Aber ich glaube, das wird sich irgendwann ändern.
+00:46:37 - 00:46:39 - Sprecher SPEAKER_00:  Okay, aber du glaubst jetzt nicht, dass die Taktik ist,
+00:46:39 - 00:46:41 - Sprecher SPEAKER_00:  du gehst jetzt jedes Mal hin und lässt dir ein Tattoo stechen,
+00:46:41 - 00:46:43 - Sprecher SPEAKER_00:  bis dein Körper voll ist und hoffst, dass es dann funktioniert.
+00:46:43 - 00:46:45 - Sprecher SPEAKER_00:  Oh nein, das mache ich so nicht.
+00:46:45 - 00:46:45 - Sprecher SPEAKER_12:  Das wäre krank.
+00:46:46 - 00:46:48 - Sprecher SPEAKER_12:  Aber ich habe heute auch Ayumi nochmal besucht,
+00:46:48 - 00:46:51 - Sprecher SPEAKER_12:  weil ich meine Tattoo-Creme leider verloren habe.
+00:46:52 - 00:46:53 - Sprecher SPEAKER_00:  Ja, so ein Pech aber auch.
+00:46:53 - 00:46:54 - Sprecher SPEAKER_00:  Und was hat sie erzählt?
+00:46:54 - 00:46:55 - Sprecher SPEAKER_12:  Ach, so dies und das.
+00:46:55 - 00:46:58 - Sprecher SPEAKER_12:  Wie süß sie es fand, dass wir gestern noch vorbeigekommen sind.
+00:46:58 - 00:46:59 - Sprecher SPEAKER_00:  Mhm.
+00:46:59 - 00:46:59 - Sprecher SPEAKER_00: 
+00:47:01 - 00:47:04 - Sprecher SPEAKER_05:  Und dass es nicht das war, wonach es aussieht.
+00:47:04 - 00:47:06 - Sprecher SPEAKER_12:  Und dann habe ich nur gesagt, naja, wenn es das nicht wäre,
+00:47:06 - 00:47:09 - Sprecher SPEAKER_12:  also wenn es das wäre, dann würde sie mir das auch sagen.
+00:47:09 - 00:47:10 - Sprecher SPEAKER_12:  Aber ich glaube...
+00:47:12 - 00:47:14 - Sprecher SPEAKER_12:  Weißt du, ich habe gar nichts dazu gesagt.
+00:47:14 - 00:47:18 - Sprecher SPEAKER_12:  Ich habe weiterhin einfach nur Dinge in Metaphern ausgedrückt.
+00:47:18 - 00:47:20 - Sprecher SPEAKER_12:  Und dass es ja vollkommen in Ordnung ist,
+00:47:20 - 00:47:23 - Sprecher SPEAKER_12:  wenn man Großprojekte annimmt, wie Backpieces und sowas.
+00:47:23 - 00:47:28 - Sprecher SPEAKER_12:  Aber ich glaube, Ayumi hat mir zumindest gesagt,
+00:47:28 - 00:47:28 - Sprecher SPEAKER_12:  dass es...
+00:47:29 - 00:47:32 - Sprecher SPEAKER_12:  Zumindest, wenn ich es richtig deute, dass es zumindest keine...
+00:47:32 - 00:47:33 - Sprecher SPEAKER_12:  Wie nennt man das?
+00:47:34 - 00:47:34 - Sprecher SPEAKER_12:  Schutzgeldzahlung war.
+00:47:35 - 00:47:38 - Sprecher SPEAKER_12:  Also muss es was anderes gewesen sein, was auch interessant ist.
+00:47:39 - 00:47:40 - Sprecher SPEAKER_00:  Ja.
+00:47:41 - 00:47:42 - Sprecher SPEAKER_00:  Ich würde ja ein bisschen warten, bis sie...
+00:47:42 - 00:47:43 - Sprecher SPEAKER_00:  Also, warte, bis sie gewesen ist.
+00:47:43 - 00:47:44 - Sprecher SPEAKER_12:  Irgendwann wissen wir es.
+00:47:45 - 00:47:46 - Sprecher SPEAKER_00:  Na, irgendwann wissen wir das bestimmt, ja.
+00:47:47 - 00:47:47 - Sprecher SPEAKER_00:  Aber pass auf.
+00:47:48 - 00:47:49 - Sprecher SPEAKER_00:  Okay, links ist ein Autohaus.
+00:47:49 - 00:47:49 - Sprecher SPEAKER_00:  Hier können wir mal reingucken.
+00:47:50 - 00:47:50 - Sprecher SPEAKER_00:  Nur mal gucken.
+00:47:53 - 00:47:54 - Sprecher SPEAKER_00:  Sieht sie teuer aus, oder?
+00:47:55 - 00:47:56 - Sprecher SPEAKER_12:  Weiß ich nicht.
+00:47:57 - 00:47:57 - Sprecher SPEAKER_00:  Nicht ohne.
+00:47:57 - 00:47:58 - Sprecher SPEAKER_00:  Ist ja, wir gucken einfach.
+00:47:59 - 00:47:59 - Unbekannt: 
+00:47:59 - 00:48:00 - Sprecher SPEAKER_00:  Kostet ja nichts.
+00:48:01 - 00:48:03 - Sprecher SPEAKER_12:  Wir fahren mit einem Asspo vor.
+00:48:03 - 00:48:05 - Sprecher SPEAKER_00:  Na und, wir wollen es machen.
+00:48:05 - 00:48:06 - Sprecher SPEAKER_00:  Ja, jetzt stinkt nicht.
+00:48:08 - 00:48:08 - Unbekannt:  Okay.
+00:48:08 - 00:48:09 - Unbekannt:  Okay.
+00:48:13 - 00:48:13 - Unbekannt: 
+00:48:13 - 00:48:13 - Unbekannt: 
+00:48:15 - 00:48:15 - Unbekannt: 
+00:48:16 - 00:48:16 - Unbekannt: 
+00:48:17 - 00:48:18 - Unbekannt:  Okay.
+00:48:18 - 00:48:18 - Unbekannt:  Okay.
+00:48:18 - 00:48:18 - Unbekannt:  Okay.
+00:48:18 - 00:48:19 - Unbekannt:  Okay.
+00:48:28 - 00:48:28 - Unbekannt:  Okay.
+00:48:28 - 00:48:28 - Unbekannt: 
+00:48:28 - 00:48:28 - Unbekannt: 
+00:48:28 - 00:48:29 - Unbekannt:  Okay.
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:29 - 00:48:29 - Unbekannt: 
+00:48:33 - 00:48:34 - Sprecher SPEAKER_03:  tried it
+00:48:34 - 00:48:34 - Sprecher SPEAKER_03: 
+00:48:34 - 00:48:35 - Sprecher SPEAKER_03:  um
+00:48:37 - 00:48:37 - Sprecher SPEAKER_05:  sorry
+00:48:40 - 00:48:41 - Sprecher SPEAKER_05:  Watten
+00:48:41 - 00:48:42 - Sprecher SPEAKER_00:  Guck mal mein Tatto
+00:48:42 - 00:48:46 - Sprecher SPEAKER_01:  Wir ist völlig krank,
+00:48:47 - 00:48:47 - Sprecher SPEAKER_03:  Kaak
+00:48:48 - 00:48:49 - Sprecher SPEAKER_00:  Sieht sehr gut aus.
+00:48:51 - 00:48:54 - Sprecher SPEAKER_00:  Sie nur stechen lassen wir müssen den Leuten reden seçest.
+00:48:54 - 00:48:57 - Sprecher SPEAKER_12:  Ja, naja, ich hab's mir damals schon stechen lassen, Weißt du?
+00:48:57 - 00:48:58 - Sprecher SPEAKER_12:  Noch und sich weiß ich,
+00:48:59 - 00:48:59 - Sprecher SPEAKER_12:  gelasert und
+00:49:00 - 00:49:02 - Sprecher SPEAKER_12:  ja, ehrlich gesagt, habe ich es nur deswegen stechen lassen.
+00:49:02 - 00:49:04 - Sprecher SPEAKER_12:  Ich weiß nicht, Sorat hat mich angerufen und ich hatte
+00:49:04 - 00:49:06 - Sprecher SPEAKER_12:  irgendwie das Gefühl, ich muss das machen. Ich weiß nicht.
+00:49:06 - 00:49:08 - Sprecher SPEAKER_12:  Ich wusste nicht, wie ich sonst mit denen reden sollte.
+00:49:08 - 00:49:11 - Sprecher SPEAKER_12:  Er hat gesagt, wieso bist du an dem falschen Tattoo-Studio,
+00:49:11 - 00:49:12 - Sprecher SPEAKER_12:  weil ich bei der Yumi war.
+00:49:13 - 00:49:14 - Sprecher SPEAKER_12:  Und er hat gesagt, ich soll
+00:49:14 - 00:49:16 - Sprecher SPEAKER_12:  zu dem ins Handyshows gehen und dass ich schon sehe,
+00:49:16 - 00:49:18 - Sprecher SPEAKER_12:  warum ich da lieber hingehen sollte.
+00:49:18 - 00:49:20 - Sprecher SPEAKER_12:  Oh, da bin ich da hingegangen.
+00:49:20 - 00:49:22 - Sprecher SPEAKER_12:  Aber was soll ich denn da machen?
+00:49:22 - 00:49:22 - Sprecher SPEAKER_12:  Was soll ich denn da machen?
+00:49:23 - 00:49:24 - Sprecher SPEAKER_00:  Eine Beratung geben lassen.
+00:49:25 - 00:49:26 - Sprecher SPEAKER_02:  Darauf bin ich nicht gekommen.
+00:49:26 - 00:49:28 - Sprecher SPEAKER_02:  Du willst doch nicht irgendwo hin und lässt sie sofort tatuieren.
+00:49:28 - 00:49:30 - Sprecher SPEAKER_00:  Ich habe mich einfach tätowieren lassen.
+00:49:30 - 00:49:32 - Sprecher SPEAKER_02:  So kommt man am besten ins Gespräch.
+00:49:32 - 00:49:33 - Sprecher SPEAKER_02:  Ich wollte das gar nicht.
+00:49:34 - 00:49:35 - Sprecher SPEAKER_00:  Du hättest viel länger sprechen können.
+00:49:35 - 00:49:37 - Sprecher SPEAKER_00:  Das sieht total kriminell aus.
+00:49:37 - 00:49:39 - Sprecher SPEAKER_00:  Guck, wie ich aussehe.
+00:49:39 - 00:49:42 - Sprecher SPEAKER_00:  Ja, die morgen hätten sich die Kopfsäule an die Hände an.
+00:49:42 - 00:49:44 - Sprecher SPEAKER_00:  Verkaufen sie Drogen. Frau Fängt, dann verkaufen sie Drogen.
+00:49:44 - 00:49:45 - Sprecher SPEAKER_00:  Hände jetzt hoch.
+00:49:45 - 00:49:46 - Sprecher SPEAKER_00:  Haben sie dann Täter in der Tasche?
+00:49:46 - 00:49:47 - Sprecher SPEAKER_00:  Ja, das ist egal.
+00:49:49 - 00:49:50 - Sprecher SPEAKER_00:  So eine Scheiße, Leute.
+00:49:50 - 00:49:51 - Sprecher SPEAKER_00:  Die kennen die Spielchen schon.
+00:49:54 - 00:49:54 - Unbekannt:  Scheiße.
+00:49:55 - 00:49:56 - Sprecher SPEAKER_00:  Naja, aber es ist Zukunftsmusik.
+00:49:56 - 00:49:57 - Sprecher SPEAKER_00:  Erstmal kümmern wir uns um das Auto.
+00:50:04 - 00:50:06 - Sprecher SPEAKER_00:  Was brauchen wir denn für ein Auto?
+00:50:09 - 00:50:10 - Sprecher SPEAKER_12:  Vier Sitzer.
+00:50:11 - 00:50:12 - Sprecher SPEAKER_00:  Vier Sitzer?
+00:50:12 - 00:50:12 - Sprecher SPEAKER_00:  Ja.
+00:50:13 - 00:50:13 - Sprecher SPEAKER_00:  Warum?
+00:50:14 - 00:50:18 - Sprecher SPEAKER_12:  Naja, wenn wir jetzt zum Beispiel diesen, wie heißt der Typ?
+00:50:20 - 00:50:23 - Sprecher SPEAKER_00:  Jesse, aber das ist nicht sein richtiger Name.
+00:50:23 - 00:50:23 - Sprecher SPEAKER_00:  Der Club ist Leslie.
+00:50:24 - 00:50:26 - Sprecher SPEAKER_12:  Aber glaubst du nicht, wenn wir Leslie ab...
+00:50:26 - 00:50:28 - Sprecher SPEAKER_12:  Also mit uns mit dem Treffen, dass es besser wäre,
+00:50:28 - 00:50:28 - Sprecher SPEAKER_12:  wenn wir Leslie ab...
+00:50:28 - 00:50:32 - Sprecher SPEAKER_12:  Wenn wir ihn in so einer Situation einfach einsammeln könnten und sagen könnten,
+00:50:32 - 00:50:33 - Sprecher SPEAKER_12:  Leslie, steig ein.
+00:50:34 - 00:50:35 - Sprecher SPEAKER_00:  Weiß ich nicht.
+00:50:35 - 00:50:36 - Sprecher SPEAKER_00:  Ich mach nur so Gespräche in Autos für ihn.
+00:50:36 - 00:50:37 - Sprecher SPEAKER_00:  Ich weiß es nicht.
+00:50:37 - 00:50:38 - Sprecher SPEAKER_12:  Nein, eigentlich nicht.
+00:50:41 - 00:50:42 - Sprecher SPEAKER_00:  Na, wir können ja mal gucken.
+00:50:50 - 00:50:52 - Sprecher SPEAKER_00:  Das hat bestimmt einen Grund, warum da keine Preise da anstehen.
+00:50:52 - 00:50:53 - Sprecher SPEAKER_00:  Keine Zeilen.
+00:50:53 - 00:50:55 - Sprecher SPEAKER_00:  Wieso stehen da keine Preise im Katalog?
+00:50:56 - 00:50:57 - Sprecher SPEAKER_00:  Ich glaube, das ist...
+00:50:57 - 00:50:58 - Sprecher SPEAKER_00:  Das ist...
+00:50:58 - 00:50:58 - Sprecher SPEAKER_00:  Das sind nur Preise.
+00:50:58 - 00:51:03 - Sprecher SPEAKER_12:  Das sind nur super krasse Karren von irgendwelchen blöden Milliardären, Harry.
+00:51:03 - 00:51:05 - Sprecher SPEAKER_12:  Wir können mit sowas nicht rumfahren.
+00:51:07 - 00:51:07 - Sprecher SPEAKER_00:  Nee.
+00:51:08 - 00:51:09 - Sprecher SPEAKER_00:  Wir können das wirklich nicht.
+00:51:09 - 00:51:12 - Sprecher SPEAKER_00:  Wir müssen woanders hin.
+00:51:12 - 00:51:13 - Sprecher SPEAKER_12:  Das ist ja schrecklich.
+00:51:16 - 00:51:16 - Sprecher SPEAKER_00:  Okay.
+00:51:16 - 00:51:17 - Sprecher SPEAKER_00:  Ich werde mir irgendwann...
+00:51:17 - 00:51:19 - Sprecher SPEAKER_00:  Dann werden wir nur die Großen reichen.
+00:51:19 - 00:51:20 - Sprecher SPEAKER_12:  Das machen wir nicht.
+00:51:20 - 00:51:22 - Sprecher SPEAKER_12:  Also ich meine, machen wir bei jedem Auto, aber bei denen noch mehr.
+00:51:23 - 00:51:25 - Sprecher SPEAKER_00:  Alle Autohäuser sind stinkreich.
+00:51:25 - 00:51:27 - Sprecher SPEAKER_00:  Außer die, wo wir unser scheiß Auto gekauft haben.
+00:51:28 - 00:51:28 - Sprecher SPEAKER_12:  Na, das ist ja...
+00:51:28 - 00:51:30 - Sprecher SPEAKER_12:  Das war ja auch kein richtiges Autohaus.
+00:51:30 - 00:51:31 - Sprecher SPEAKER_12:  Das war ein Trotzbude.
+00:51:31 - 00:51:32 - Sprecher SPEAKER_12:  Das war die Reste-Rampe.
+00:51:33 - 00:51:34 - Sprecher SPEAKER_00:  Okay.
+00:51:35 - 00:51:36 - Sprecher SPEAKER_00:  Ich möchte irgendwann einen LG fahren.
+00:51:37 - 00:51:38 - Sprecher SPEAKER_00:  Das ist mein Traumauto.
+00:51:38 - 00:51:40 - Sprecher SPEAKER_00:  Und ich glaube, das ist ein Langzeitprojekt.
+00:51:40 - 00:51:43 - Sprecher SPEAKER_12:  Ich will irgendwann Sultan Classic haben.
+00:51:44 - 00:51:45 - Sprecher SPEAKER_00:  Ein Sultan Classic.
+00:51:45 - 00:51:45 - Sprecher SPEAKER_00:  Okay.
+00:51:47 - 00:51:47 - Sprecher SPEAKER_00:  Classic.
+00:51:47 - 00:51:48 - Sprecher SPEAKER_00:  Und er...
+00:51:48 - 00:51:49 - Sprecher SPEAKER_00:  Klingt beide teuer.
+00:51:51 - 00:51:52 - Sprecher SPEAKER_00:  Kriegen wir hin.
+00:51:52 - 00:51:52 - Sprecher SPEAKER_00:  Kriegen wir hin.
+00:51:54 - 00:51:55 - Sprecher SPEAKER_00:  Okay.
+00:51:55 - 00:51:56 - Sprecher SPEAKER_00:  Okay.
+00:51:56 - 00:51:56 - Sprecher SPEAKER_00: 
+00:51:57 - 00:51:58 - Sprecher SPEAKER_00:  Ich konnte noch nicht rausgefunden.
+00:51:59 - 00:52:00 - Sprecher SPEAKER_00:  So viel war ich gar nicht unterwegs gewesen.
+00:52:00 - 00:52:01 - Sprecher SPEAKER_12:  Mag nur mir.
+00:52:04 - 00:52:04 - Unbekannt:  Was?
+00:52:05 - 00:52:07 - Sprecher SPEAKER_00:  Wie gesagt, so viel war ich gar nicht unterwegs gewesen.
+00:52:07 - 00:52:08 - Sprecher SPEAKER_00:  Außer anderthalb Stunden im Taxi.
+00:52:09 - 00:52:09 - Sprecher SPEAKER_12:  Hm.
+00:52:14 - 00:52:16 - Sprecher SPEAKER_12:  Ja, ich habe auch nicht so viel rausgefunden.
+00:52:16 - 00:52:18 - Sprecher SPEAKER_00:  Ja, ist kein Problem.
+00:52:18 - 00:52:19 - Sprecher SPEAKER_00:  Das hat alle Zeit.
+00:52:20 - 00:52:23 - Sprecher SPEAKER_00:  Wir gehen die Sachen langsam an und dann kriegen wir das hin.
+00:52:25 - 00:52:25 - Sprecher SPEAKER_00:  Okay.
+00:52:25 - 00:52:27 - Sprecher SPEAKER_00:  Wo könnte noch ein Autohaus sein?
+00:52:31 - 00:52:34 - Sprecher SPEAKER_12:  Ich habe gehört, dass irgendwie Leute von...
+00:52:36 - 00:52:38 - Sprecher SPEAKER_12:  Weiß ich nicht, wie das hieß.
+00:52:38 - 00:52:39 - Sprecher SPEAKER_12:  Hier, guck mal.
+00:52:40 - 00:52:40 - Sprecher SPEAKER_00:  Ja.
+00:52:40 - 00:52:41 - Sprecher SPEAKER_00:  Okay.
+00:52:42 - 00:52:42 - Unbekannt:  Okay.
+00:52:42 - 00:52:43 - Sprecher SPEAKER_00:  Dann jetzt da hin.
+00:52:49 - 00:52:52 - Sprecher SPEAKER_00:  Dieses Auto sollten wir verwenden, wenn wir irgendwas in die Luft springen wollen.
+00:52:52 - 00:52:53 - Sprecher SPEAKER_00:  Das würden wir natürlich niemals machen werden.
+00:52:54 - 00:52:55 - Sprecher SPEAKER_12:  Aber vielleicht will Neon ja mal was...
+00:52:55 - 00:52:56 - Sprecher SPEAKER_12:  Was in die Luft springen.
+00:52:56 - 00:52:58 - Sprecher SPEAKER_12:  Dann können wir ihr den Aspo dafür schenken.
+00:52:58 - 00:52:59 - Sprecher SPEAKER_12:  Na, können wir dann wirklich machen.
+00:52:59 - 00:53:01 - Sprecher SPEAKER_00:  Wir können da unsere Gesichter draufkleben.
+00:53:01 - 00:53:02 - Sprecher SPEAKER_12:  Vielleicht würde ihr das gefallen.
+00:53:02 - 00:53:03 - Sprecher SPEAKER_12:  Auf gar keinen Fall machen wir das.
+00:53:05 - 00:53:06 - Sprecher SPEAKER_00:  Ich will natürlich was anderes suchen, aber nicht uns.
+00:53:08 - 00:53:11 - Sprecher SPEAKER_12:  Aber vielleicht ist dann so ihre Befriedigung schon mal gedeckelt,
+00:53:11 - 00:53:14 - Sprecher SPEAKER_12:  wenn sie was in die Luft gesprengt hat, wo unsere Gesichter drauf wären.
+00:53:14 - 00:53:18 - Sprecher SPEAKER_12:  Und dann hätte sie nicht mehr das Bedürfnis, uns irgendwann in die Luft zu sprengen oder so.
+00:53:18 - 00:53:20 - Sprecher SPEAKER_00:  Jetzt hat niemand das Bedürfnis, uns in die Luft zu sprengen.
+00:53:22 - 00:53:24 - Sprecher SPEAKER_00:  Es sei denn, ihr sagt weiterhin dumme Sachen am Telefon.
+00:53:28 - 00:53:29 - Sprecher SPEAKER_00:  Wir müssen uns irgendwie selber vorbehalten.
+00:53:30 - 00:53:30 - Sprecher SPEAKER_00:  Also versuchen wir das gar nicht wirklich,
+00:53:30 - 00:53:30 - Sprecher SPEAKER_00: 
+00:53:30 - 00:53:31 - Sprecher SPEAKER_00:  Vermutlich wird die basterin uns schl守.
+00:53:31 - 00:53:31 - Unbekannt: 
+00:53:31 - 00:53:32 - Sprecher SPEAKER_12:  Was denn?
+00:53:35 - 00:53:37 - Sprecher SPEAKER_00:  Ho sant こんさ trப
+00:53:37 - 00:53:39 - Sprecher SPEAKER_00:  Damit wir uns für unentstered buoy fluooterえて!?
+00:53:39 - 00:53:40 - Sprecher SPEAKER_00:  Es gibt Zelda undеше dicker Nohita.
+00:53:40 - 00:53:41 - Sprecher SPEAKER_00:  Beide also irgendwie beeimporte bringt's.
+00:53:41 - 00:53:45 - Sprecher SPEAKER_00:  Wir wissen, die руken alle von uns nachvollziehbar an.
+00:53:45 - 00:53:46 - Sprecher SPEAKER_00:  In der aging iris merkt man für uns effectiveness.
+00:53:46 - 00:53:55 - Sprecher SPEAKER_00:  Türk, bur обязательно nichts vertauchen, a ?
+00:53:55 - 00:53:56 - Sprecher SPEAKER_00:  sollte cool klingen
+00:53:59 - 00:54:02 - Sprecher SPEAKER_00:  und dann ging es bergab wo sind wir hier
+00:54:05 - 00:54:08 - Sprecher SPEAKER_00:  was ist das? ist doch scheiße
+00:54:15 - 00:54:15 - Sprecher SPEAKER_00:  hallo
+00:54:18 - 00:54:18 - Sprecher SPEAKER_00:  hallo
+00:54:25 - 00:54:28 - Sprecher SPEAKER_12:  hallo ich glaube nicht dass das ein autohaus ist
+00:54:33 - 00:54:34 - Sprecher SPEAKER_12:  keine ahnung
+00:54:34 - 00:54:36 - Sprecher SPEAKER_12:  ist kein problem fahren wir weiter
+00:54:44 - 00:54:46 - Sprecher SPEAKER_00:  okay warte wir fahren
+00:54:48 - 00:54:52 - Sprecher SPEAKER_00:  wir fahren da unten hin
+00:54:57 - 00:54:58 - Sprecher SPEAKER_00:  ah
+00:54:58 - 00:54:58 - Sprecher SPEAKER_00:  Der qued collecting
+00:54:58 - 00:54:59 - Sprecher SPEAKER_00:  haha
+00:55:00 - 00:55:00 - Unbekannt:  terminal
+00:55:02 - 00:55:03 - Sprecher SPEAKER_00:  Hier ist schon die ganze Welt
+00:55:03 - 00:55:04 - Sprecher SPEAKER_00:  herren
+00:55:04 - 00:55:04 - Sprecher SPEAKER_00:  supplies
+00:55:04 - 00:55:05 - Sprecher SPEAKER_00:  und
+00:55:08 - 00:55:08 - Sprecher SPEAKER_12:  ABONN slower
+00:55:10 - 00:55:19 - Sprecher SPEAKER_12:  ich weiß zwar nicht hatte so ein gut für dafür was wir machen wollen ich weiß nicht
+00:55:19 - 00:55:20 - Sprecher SPEAKER_12:  abồngaben
+00:55:20 - 00:55:20 - Sprecher SPEAKER_12: 
+00:55:23 - 00:55:23 - Unbekannt:  man auchぶAPP mal sowas isch
+00:55:23 - 00:55:23 - Unbekannt: 
+00:55:23 - 00:55:25 - Sprecher SPEAKER_12:  DERRE ALTERN EIN FALSCH devient DIN TINEL&MAH Alabama economicsの反 ans frontalismus zu bekommen ist die rich за凡極, защ神 ein Verlust auf dem Weg schick geebte geebter egg động für сто, das ist total off Grenzen Prince N rooms vom von NLE ein SULL OPPORT zu bestätzten aber es endured viele Nevertheless das nicht hat auch das überzeugen epidemi geblow, er hat heute nicht aufgeč頭ordizEM experience, daher alegation zuтораun learnt to those who has
+00:55:25 - 00:55:27 - Sprecher SPEAKER_12:  wahrscheinlich nicht. Mir wurde mal gesagt,
+00:55:27 - 00:55:28 - Sprecher SPEAKER_12:  das ist eine Gangsterkarre.
+00:55:29 - 00:55:31 - Sprecher SPEAKER_00:  Ja, aber was willst du denn ausstrahlen?
+00:55:31 - 00:55:33 - Sprecher SPEAKER_12:  Naja, auf jeden Fall nicht
+00:55:33 - 00:55:35 - Sprecher SPEAKER_12:  Gangsterkarre. Dann halten uns die Cops an.
+00:55:35 - 00:55:37 - Sprecher SPEAKER_00:  So gucken wir uns einen Familienwagen
+00:55:37 - 00:55:39 - Sprecher SPEAKER_00:  oder wie? Ich weiß
+00:55:39 - 00:55:41 - Sprecher SPEAKER_12:  nicht. Ich weiß nicht, was das richtige
+00:55:41 - 00:55:43 - Sprecher SPEAKER_12:  Auto ist. Ich weiß nicht. Jeder sieht das
+00:55:43 - 00:55:45 - Sprecher SPEAKER_12:  mit anderen Augen. Und ich weiß nicht,
+00:55:45 - 00:55:47 - Sprecher SPEAKER_12:  für wen wir alle so aussehen müssen, als wären wir
+00:55:47 - 00:55:47 - Sprecher SPEAKER_12:  cool.
+00:55:48 - 00:55:50 - Sprecher SPEAKER_00:  Mir ist scheiße, wie viele Leute aussehen.
+00:55:50 - 00:55:51 - Sprecher SPEAKER_00:  Also, früher oder später.
+00:55:51 - 00:55:52 - Sprecher SPEAKER_00:  Also, wisst ihr, ich meine,
+00:55:54 - 00:55:55 - Sprecher SPEAKER_00:  ich möchte ein Auto haben,
+00:55:55 - 00:55:56 - Sprecher SPEAKER_00:  aber es muss auch ein Auto haben, das dir fehlt.
+00:55:58 - 00:55:58 - Sprecher SPEAKER_05:  Mhm.
+00:56:00 - 00:56:01 - Sprecher SPEAKER_00:  Klingt ja sonst nüchtern.
+00:56:05 - 00:56:07 - Sprecher SPEAKER_12:  Okay, wir lassen uns was einfallen.
+00:56:11 - 00:56:12 - Sprecher SPEAKER_00:  Wohin?
+00:56:14 - 00:56:16 - Sprecher SPEAKER_12:  Ich finde das total schwer, Harry.
+00:56:16 - 00:56:18 - Sprecher SPEAKER_12:  Ich meine, wie nimmt man denn Kontakt
+00:56:18 - 00:56:20 - Sprecher SPEAKER_12:  so auf, so langsam? Ich weiß nicht.
+00:56:20 - 00:56:21 - Sprecher SPEAKER_12:  Das ist schon okay, wenn man das so
+00:56:21 - 00:56:23 - Sprecher SPEAKER_12:  peu à peu macht, oder? Ich meine, wenn ich
+00:56:23 - 00:56:25 - Sprecher SPEAKER_12:  morgen jetzt wieder da vorbeigehe. Ich habe
+00:56:26 - 00:56:27 - Sprecher SPEAKER_12:  der Besitzerin vom
+00:56:28 - 00:56:29 - Sprecher SPEAKER_12:  Tastaturstudio richtig viel Trinkgeld gegeben,
+00:56:29 - 00:56:31 - Sprecher SPEAKER_12:  weil ich ihr davor erzählt habe, wie super gern ich mal
+00:56:31 - 00:56:34 - Sprecher SPEAKER_12:  Motorrad fahren würde. Und sie hat gesagt,
+00:56:34 - 00:56:36 - Sprecher SPEAKER_12:  du kannst bestimmt mal mit einem von uns Motorrad
+00:56:36 - 00:56:37 - Sprecher SPEAKER_12:  mitfahren. Irgendwie sowas in der Art.
+00:56:38 - 00:56:39 - Sprecher SPEAKER_00:  Ich glaube, du musst auch manchmal morgen hin.
+00:56:39 - 00:56:41 - Sprecher SPEAKER_00:  Vielleicht auch einfach übermorgen. Also, so wie
+00:56:41 - 00:56:44 - Sprecher SPEAKER_00:  die drei jetzt dann erzählt haben, dürfte
+00:56:44 - 00:56:45 - Sprecher SPEAKER_00:  das schon ein bisschen länger dauern.
+00:56:45 - 00:56:47 - Sprecher SPEAKER_00:  Ja, das ist okay, oder? Also, weil ich
+00:56:47 - 00:56:49 - Sprecher SPEAKER_12:  falle auf gar keinen Fall mit der Tür
+00:56:49 - 00:56:51 - Sprecher SPEAKER_12:  irgendwo ins Haus, sondern ich mache das peu à peu.
+00:56:51 - 00:56:53 - Sprecher SPEAKER_12:  Ich gucke jeden Tag mal wieder vorbei,
+00:56:53 - 00:56:55 - Sprecher SPEAKER_12:  so dass die mich kennen und so, dass man
+00:56:55 - 00:56:56 - Sprecher SPEAKER_12:  sich versteht oder sowas.
+00:56:56 - 00:56:58 - Sprecher SPEAKER_12:  Aber vielleicht doch nicht jeden Tag.
+00:56:58 - 00:57:00 - Sprecher SPEAKER_00:  Nein, natürlich nicht jeden Tag.
+00:57:00 - 00:57:02 - Sprecher SPEAKER_12:  So alle eins, zwei, drei Tage.
+00:57:03 - 00:57:04 - Sprecher SPEAKER_00:  Ja, klingt schon ein bisschen besser, ja.
+00:57:06 - 00:57:07 - Sprecher SPEAKER_00:  Weil ich glaube, wenn wir da wirklich auf
+00:57:07 - 00:57:08 - Sprecher SPEAKER_00:  drauf kreuzen, dann wird da weg bloß
+00:57:08 - 00:57:10 - Sprecher SPEAKER_00:  Verdacht, keine Ahnung, auf irgendwelche
+00:57:10 - 00:57:13 - Sprecher SPEAKER_00:  anderen komischen Sachen. Aber ich weiß auch
+00:57:13 - 00:57:14 - Sprecher SPEAKER_00:  nicht, wie man das macht. Ich habe mich
+00:57:14 - 00:57:15 - Sprecher SPEAKER_00:  auch schon gefragt, gerade zum Beispiel
+00:57:15 - 00:57:17 - Sprecher SPEAKER_00:  mit der Maple Street. Was macht man da?
+00:57:17 - 00:57:18 - Sprecher SPEAKER_00:  Soll man einfach da in die Hood laufen,
+00:57:18 - 00:57:19 - Sprecher SPEAKER_00:  oder wie nennt man das? Ja, Hood nennt man
+00:57:19 - 00:57:21 - Sprecher SPEAKER_00:  das. Das funktioniert ja auch nicht.
+00:57:21 - 00:57:23 - Sprecher SPEAKER_00:  Jetzt einfach dranbleiben, gucken, wer
+00:57:23 - 00:57:25 - Sprecher SPEAKER_00:  da rumschwirrt und dann, ja, so ein Ding.
+00:57:27 - 00:57:29 - Sprecher SPEAKER_00:  Und dann langsam fliegen die Informationen zu.
+00:57:33 - 00:57:35 - Sprecher SPEAKER_12:  Hm. Wieso gibt's hier keine Tablets?
+00:57:36 - 00:57:38 - Sprecher SPEAKER_00:  Weiß ich nicht. Wieso sind die Autos alle so
+00:57:38 - 00:57:40 - Sprecher SPEAKER_00:  hässlich? Weil die alle schwarz sind.
+00:57:47 - 00:57:48 - Sprecher SPEAKER_12:  Was ist das?
+00:57:57 - 00:57:58 - Sprecher SPEAKER_12:  Guck mal, Harry.
+00:57:59 - 00:58:00 - Sprecher SPEAKER_00:  Verjesslich. Wird auf keinen Fall gekauft.
+00:58:01 - 00:58:04 - Sprecher SPEAKER_00:  Ist ultra hässlich. Das sieht aus wie bei Breaking Bad.
+00:58:04 - 00:58:06 - Sprecher SPEAKER_12:  Hallo, ich bin der alte Opa, der stirbt.
+00:58:07 - 00:58:09 - Sprecher SPEAKER_00:  Was? Welcher von denen? Der Coole.
+00:58:11 - 00:58:13 - Sprecher SPEAKER_00:  Ach, der mit der Tochter? Mit dem, mit dem, mit dem, mit
+00:58:13 - 00:58:15 - Sprecher SPEAKER_00:  seinem Enkelkind? Ganz genau. Ja, der ist aber tot.
+00:58:16 - 00:58:19 - Sprecher SPEAKER_00:  Merkst du was? Habt doch gesagt, ich bin der
+00:58:19 - 00:58:21 - Sprecher SPEAKER_12:  alte Opa, der stirbt. Hör mir doch mal richtig zu.
+00:58:22 - 00:58:24 - Sprecher SPEAKER_00:  Ja, ich hab dir zuhört. Hier stirbt niemand.
+00:58:24 - 00:58:24 - Sprecher SPEAKER_00:  Wir sterben nicht.
+00:58:26 - 00:58:28 - Sprecher SPEAKER_00:  Hm. Hm. Hm.
+00:58:30 - 00:58:33 - Sprecher SPEAKER_12:  Hier sind alle scheiße. Ja, ist das das Modell?
+00:58:36 - 00:58:38 - Sprecher SPEAKER_00:  Ich hab keine Ahnung, was das ist. Ich weiß es nicht.
+00:58:39 - 00:58:42 - Sprecher SPEAKER_00:  Ich kenn mich doch nicht aus mit Autos. Ein Dominator.
+00:58:44 - 00:58:46 - Sprecher SPEAKER_00:  Oder schon dreckig. Harry, ich guck mich mal an.
+00:58:46 - 00:58:46 - Sprecher SPEAKER_00:  Ja.
+00:58:50 - 00:58:50 - Sprecher SPEAKER_00:  Was ist?
+00:59:01 - 00:59:02 - Sprecher SPEAKER_00:  Warte, ich hab den da zu lang.
+00:59:06 - 00:59:07 - Sprecher SPEAKER_00:  Schnauze.
+00:59:10 - 00:59:12 - Sprecher SPEAKER_02:  Guck mich mal an. Ich mach ein Foto von dir.
+00:59:13 - 00:59:13 - Sprecher SPEAKER_00:  Das ist ein Problem.
+00:59:16 - 00:59:20 - Sprecher SPEAKER_02:  Ja. Deine Lippen.
+00:59:20 - 00:59:21 - Sprecher SPEAKER_12:  Sind ganz schön gesprungen.
+00:59:21 - 00:59:21 - Sprecher SPEAKER_12: 
+00:59:21 - 00:59:23 - Sprecher SPEAKER_12:  Du siehst wirklich ein bisschen aus wie ein Karpfen.
+00:59:23 - 00:59:25 - Sprecher SPEAKER_12:  Ja, klar. Das musste sein.
+00:59:26 - 00:59:28 - Sprecher SPEAKER_00:  Weißt du was? Ayumi hat gesagt,
+00:59:28 - 00:59:30 - Sprecher SPEAKER_12:  dass sie ein riesiges Backpiece
+00:59:30 - 00:59:32 - Sprecher SPEAKER_12:  gerade neu gezeichnet hat.
+00:59:32 - 00:59:33 - Sprecher SPEAKER_12:  Mit einem riesigen Koi.
+00:59:34 - 00:59:34 - Sprecher SPEAKER_12:  Auf jeden Fall.
+00:59:35 - 00:59:36 - Sprecher SPEAKER_00:  Mit einem riesigen Koi drauf.
+00:59:36 - 00:59:39 - Sprecher SPEAKER_12:  Und dann habe ich gesagt, ja, lass es Harry tätowieren.
+00:59:39 - 00:59:41 - Sprecher SPEAKER_02:  Dann hat er sich selber auf den Rücken tätowiert.
+00:59:41 - 00:59:42 - Sprecher SPEAKER_02:  Der Straßenkoi.
+00:59:43 - 00:59:44 - Sprecher SPEAKER_00:  Das ist doch scheiße. Ich bin kein Straßenkoi.
+00:59:45 - 00:59:47 - Sprecher SPEAKER_00:  Hast du dir schon Gedanken gemacht über deinen Decknamen?
+00:59:47 - 00:59:48 - Sprecher SPEAKER_00:  Ich nämlich schon.
+00:59:48 - 00:59:50 - Sprecher SPEAKER_00:  Ich auch. Ich habe ihn schon.
+00:59:51 - 00:59:52 - Sprecher SPEAKER_00:  Okay, das ist krass.
+00:59:53 - 00:59:54 - Sprecher SPEAKER_00:  Warte mal, jetzt sehe ich keine anderen Autos.
+00:59:58 - 00:59:59 - Sprecher SPEAKER_00:  Alles Schmutz.
