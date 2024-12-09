@@ -1,0 +1,926 @@
+Transkription mit Sprechererkennung von [11-26-24]_Panikfee_-_Fritzi_im_Chaos_[Sektor]_part3.wav:
+00:00:12 - 00:00:15 - Sprecher SPEAKER_09:  Das sind auch immer die Momente, in denen ich die Kamera nochmal wieder neu verbinde.
+00:00:18 - 00:00:22 - Sprecher SPEAKER_09:  Einfach damit wenigstens irgendwas funktioniert hier in diesem Stream.
+00:00:30 - 00:00:32 - Sprecher SPEAKER_09:  Also es liegt nicht an so einer Bewegung.
+00:00:32 - 00:00:36 - Sprecher SPEAKER_09:  Es liegt wenn dann daran, wenn ich an den Tisch stoße, glaube ich.
+00:00:37 - 00:00:38 - Sprecher SPEAKER_09:  Aber wenn dann nur minimal.
+00:00:42 - 00:00:46 - Sprecher SPEAKER_09:  Kämpfer binden, Spiel verbinden, Kämpfer binden, Spiel verbinden, Kämpfer binden,
+00:00:46 - 00:00:46 - Sprecher SPEAKER_09:  Spiel verbinden.
+00:00:46 - 00:00:50 - Sprecher SPEAKER_09:  Erinnert mich ein bisschen an Machenkürtel, Essenkürtel, Machenkürtel, Issenkürtel,
+00:00:51 - 00:00:52 - Sprecher SPEAKER_09:  Machenkürtel, Issenkürtel.
+00:00:54 - 00:00:56 - Sprecher SPEAKER_09:  Hau mal drauf zum Testen.
+00:00:57 - 00:00:59 - Sprecher SPEAKER_09:  Das hat nichts gemacht.
+00:00:59 - 00:01:01 - Sprecher SPEAKER_09:  Ey Alter, keine Ahnung.
+00:01:03 - 00:01:07 - Sprecher SPEAKER_09:  Ich kann auch nicht sagen, ob die heiß wird oder nicht, weil ich finde, sie ist warm.
+00:01:07 - 00:01:10 - Sprecher SPEAKER_09:  Aber ich weiß nicht, wie sie sonst immer ist, ob sie sonst warm ist oder nicht.
+00:01:11 - 00:01:11 - Sprecher SPEAKER_09:  Keine Ahnung.
+00:01:12 - 00:01:14 - Sprecher SPEAKER_09:  Es ist, es bringt alles nichts.
+00:01:20 - 00:01:21 - Sprecher SPEAKER_09:  Das habe ich noch nie gehört.
+00:01:21 - 00:01:23 - Sprecher SPEAKER_09:  Das ist aus King of Queens.
+00:01:24 - 00:01:28 - Sprecher SPEAKER_09:  Das ist eine Stelle in King of Queens.
+00:01:28 - 00:01:33 - Sprecher SPEAKER_09:  Machenkürtel, Essenkürtel, Machenkürtel, Issenkürtel, Machenkürtel, Issenkürtel,
+00:01:33 - 00:01:34 - Sprecher SPEAKER_09:  Machenkürtel, Issenkürtel.
+00:01:36 - 00:01:37 - Sprecher SPEAKER_01:  Schön.
+00:01:42 - 00:01:43 - Unbekannt:  Das ist ein bisschen schwierig.
+00:01:43 - 00:01:51 - Unbekannt:  Ich weiß nicht, ob ich das richtig verstanden habe.
+00:02:07 - 00:02:07 - Sprecher SPEAKER_09:  Echt?
+00:02:07 - 00:02:08 - Sprecher SPEAKER_09:  Wie ist das?
+00:02:08 - 00:02:08 - Sprecher SPEAKER_09:  Wow.
+00:02:09 - 00:02:10 - Sprecher SPEAKER_09:  Echt?
+00:02:10 - 00:02:14 - Sprecher SPEAKER_09:  Das ist das Tor, das von der Monsterанachricht gegeben ist.
+00:02:14 - 00:02:16 - Sprecher SPEAKER_09:  Das ist eine beste H arrangement der accession 가져 hier.
+00:02:16 - 00:02:20 - Sprecher SPEAKER_09:  прест Außenック.
+00:02:20 - 00:02:23 - Sprecher SPEAKER_09:  wie just in dem Moment dieses Update auch war von Windows,
+00:02:24 - 00:02:29 - Sprecher SPEAKER_09:  wo ich auch meine Capture Card runtergeschmissen habe.
+00:02:29 - 00:02:30 - Sprecher SPEAKER_09:  Darum ist die Fehlersuche,
+00:02:30 - 00:02:32 - Sprecher SPEAKER_09:  ich muss bei eins von den beiden Sachen anfangen.
+00:02:33 - 00:02:37 - Sprecher SPEAKER_09:  Boah, und diese Suche nach USB-Deaktivierung
+00:02:37 - 00:02:38 - Sprecher SPEAKER_09:  ist immer super nervig.
+00:02:38 - 00:02:40 - Sprecher SPEAKER_09:  Weil man das immer vergisst.
+00:02:40 - 00:02:42 - Sprecher SPEAKER_09:  Ich habe das schon tausendmal so was gemacht.
+00:02:42 - 00:02:43 - Sprecher SPEAKER_09:  Oder nicht tausendmal, zwei, dreimal.
+00:02:44 - 00:02:46 - Sprecher SPEAKER_09:  Und dann vergeht ein Jahr dazwischen
+00:02:46 - 00:02:49 - Sprecher SPEAKER_09:  und dann vergisst man wieder, dass die Möglichkeit besteht
+00:02:49 - 00:02:51 - Sprecher SPEAKER_09:  und wie das zu fixen ist.
+00:02:51 - 00:02:54 - Sprecher SPEAKER_09:  Und dann findet man es wieder in kleinster Kleinarbeit raus.
+00:03:01 - 00:03:04 - Sprecher SPEAKER_09:  Ja, das ist ja immer nach unterschiedlich langer Zeit.
+00:03:05 - 00:03:08 - Sprecher SPEAKER_09:  Und es hat nicht immer was mit Bewegung zu tun.
+00:03:11 - 00:03:13 - Sprecher SPEAKER_09:  Geräte-Manager und dann bei USB-Eigenschaften.
+00:03:13 - 00:03:15 - Sprecher SPEAKER_09:  Das mache ich auch einfach gleich mal.
+00:03:16 - 00:03:16 - Sprecher SPEAKER_09:  Wartet mal.
+00:03:20 - 00:03:22 - Sprecher SPEAKER_09:  Geräte-Manager.
+00:03:23 - 00:03:25 - Sprecher SPEAKER_09:  System-Eigenschaften.
+00:03:26 - 00:03:29 - Sprecher SPEAKER_09:  Gucke ich da einfach USB-Control.
+00:03:35 - 00:03:39 - Sprecher SPEAKER_09:  Das Gerät funktioniert einwandfrei.
+00:03:40 - 00:03:40 - Sprecher SPEAKER_09:  Okay.
+00:03:47 - 00:03:49 - Sprecher SPEAKER_09:  Ah, warte.
+00:03:49 - 00:03:50 - Sprecher SPEAKER_09:  Warte mal, da ist ein Häkchen.
+00:03:51 - 00:03:52 - Sprecher SPEAKER_09:  Ja, ja, ja.
+00:03:52 - 00:03:53 - Sprecher SPEAKER_09:  Ich mache mir mal die Häkchen weg.
+00:03:54 - 00:03:56 - Sprecher SPEAKER_09:  Vielleicht ist das wirklich der Call, Alter.
+00:03:58 - 00:03:59 - Sprecher SPEAKER_09:  Vielleicht, weil das kann sein.
+00:03:59 - 00:04:03 - Sprecher SPEAKER_09:  So was macht Windows nämlich super gerne bei irgendwelchen Updates,
+00:04:03 - 00:04:06 - Sprecher SPEAKER_09:  dass das dann plötzlich dir irgendwo solche Häkchen reinsetzt,
+00:04:07 - 00:04:07 - Sprecher SPEAKER_09:  wie da, wo die nie waren.
+00:04:08 - 00:04:09 - Sprecher SPEAKER_09:  Guter Call, Alpha.
+00:04:10 - 00:04:11 - Sprecher SPEAKER_09:  Sehr guter Call.
+00:04:11 - 00:04:13 - Sprecher SPEAKER_09:  Ich habe die jetzt mal rausgenommen.
+00:04:13 - 00:04:13 - Sprecher SPEAKER_09:  Die waren da nämlich drin.
+00:04:14 - 00:04:15 - Sprecher SPEAKER_09:  Wir gucken mal.
+00:04:17 - 00:04:18 - Sprecher SPEAKER_09:  Vielleicht klappt jetzt alles.
+00:04:19 - 00:04:22 - Sprecher SPEAKER_09:  Das wäre so schön, wenn es einfach da ranliegen würde.
+00:04:27 - 00:04:28 - Sprecher SPEAKER_09:  So, schön.
+00:04:29 - 00:04:30 - Sprecher SPEAKER_09:  Ja.
+00:04:35 - 00:04:36 - Sprecher SPEAKER_09:  Mein Gott.
+00:04:37 - 00:04:38 - Unbekannt:  Oh mein Gott.
+00:04:38 - 00:04:48 - Unbekannt:  Oh mein Gott.
+00:04:48 - 00:04:49 - Sprecher SPEAKER_09:  Es ist einfach nichts passiert.
+00:04:49 - 00:04:51 - Sprecher SPEAKER_09:  Wir tun einfach so,
+00:04:52 - 00:04:55 - Sprecher SPEAKER_09:  als wäre nie was passiert, glaube ich.
+00:04:55 - 00:04:56 - Sprecher SPEAKER_09:  Es ist alles so wie immer.
+00:04:59 - 00:05:00 - Sprecher SPEAKER_09:  Schillig.
+00:05:02 - 00:05:03 - Unbekannt:  Schillig.
+00:05:03 - 00:05:03 - Unbekannt: 
+00:05:03 - 00:05:03 - Unbekannt: 
+00:05:03 - 00:05:03 - Unbekannt: 
+00:05:03 - 00:05:03 - Unbekannt: 
+00:05:03 - 00:05:03 - Unbekannt: 
+00:05:03 - 00:05:03 - Unbekannt: 
+00:05:03 - 00:05:03 - Unbekannt:  Schillig.
+00:05:04 - 00:05:05 - Unbekannt:  Schillig.
+00:05:05 - 00:05:06 - Unbekannt:  Schillig.
+00:05:06 - 00:05:07 - Unbekannt:  Schillig.
+00:05:07 - 00:05:07 - Unbekannt: 
+00:05:14 - 00:05:15 - Sprecher SPEAKER_00:  Schillig.
+00:05:47 - 00:05:49 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:05:59 - 00:06:19 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:06:48 - 00:06:49 - Unbekannt:  Untertitelung des ZDF, 2020
+00:07:18 - 00:07:19 - Unbekannt:  Untertitelung des ZDF, 2020
+00:07:48 - 00:07:49 - Unbekannt:  Untertitelung des ZDF, 2020
+00:08:18 - 00:08:19 - Unbekannt:  Untertitelung des ZDF, 2020
+00:08:48 - 00:08:49 - Unbekannt:  Untertitelung des ZDF, 2020
+00:09:18 - 00:09:18 - Unbekannt:  Untertitelung des ZDF, 2020
+00:09:30 - 00:09:49 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:10:01 - 00:10:18 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:10:24 - 00:10:31 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:10:49 - 00:10:52 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:11:34 - 00:11:49 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:12:14 - 00:12:19 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:34 - 00:12:48 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:12:51 - 00:12:55 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:13:30 - 00:13:49 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:14:02 - 00:14:03 - Unbekannt:  Untertitelung des ZDF, 2020
+00:14:34 - 00:14:34 - Unbekannt:  Untertitelung des ZDF, 2020
+00:15:19 - 00:15:19 - Unbekannt:  Untertitelung des ZDF, 2020
+00:15:37 - 00:15:49 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:16:00 - 00:16:04 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:16:19 - 00:16:24 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:17:02 - 00:17:18 - Sprecher SPEAKER_08:  Untertitelung des ZDF, 2020
+00:17:33 - 00:17:49 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:17:49 - 00:17:51 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:18:21 - 00:18:23 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:18:50 - 00:18:51 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:19:21 - 00:19:23 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:20:01 - 00:20:19 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:20:32 - 00:20:33 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:20:49 - 00:20:54 - Sprecher SPEAKER_09:  eigentlich in letzter zeit aber da hätte ich mal die ganze zeit hat ihn auch schon
+00:20:54 - 00:21:04 - Sprecher SPEAKER_05:  exposed dass er ihr herzchen schickt und so ja so ist eine süße aber wartet wieder ist
+00:21:04 - 00:21:10 - Sprecher SPEAKER_02:  eine blonde strähne beim roten jetzt muss meine kamera wieder hängen geblieben schönes bild auf
+00:21:10 - 00:21:20 - Sprecher SPEAKER_02:  jeden fall was wünscht hat man vorwiegend sofort meine capture card zerstört die runter geschmissen
+00:21:20 - 00:21:32 - Sprecher SPEAKER_09:  gestern ein kemmling also ist kein kemmling ist ein anderer körperkeit aber ja leben ja
+00:21:32 - 00:21:40 - Sprecher SPEAKER_09:  du hast recht da sind ein paar strähnen falsch was aber auch gekürzt kann das sein jetzt machen
+00:21:40 - 00:21:40 - Sprecher SPEAKER_09:  die
+00:21:40 - 00:21:43 - Sprecher SPEAKER_09:  mal automatisch einfach schneiden einfach weg
+00:21:47 - 00:21:53 - Sprecher SPEAKER_10:  ja ich kann das nicht ich kann das jetzt nicht weg machen
+00:21:55 - 00:22:02 - Sprecher SPEAKER_10:  das sind mehrere jetzt
+00:22:02 - 00:22:06 - Sprecher SPEAKER_10:  ist der problem gefixt
+00:22:06 - 00:22:09 - Sprecher SPEAKER_10:  problem gefixt
+00:22:11 - 00:22:13 - Sprecher SPEAKER_02:  dann
+00:22:22 - 00:22:23 - Sprecher SPEAKER_09:  testquiens
+00:22:25 - 00:22:26 - Sprecher SPEAKER_09:  Jen hat mich einfach geinfluenzt.
+00:22:27 - 00:22:27 - Sprecher SPEAKER_09:  Ja.
+00:22:29 - 00:22:31 - Sprecher SPEAKER_02:  Jen hat mir meine Haare gekämmt
+00:22:31 - 00:22:32 - Sprecher SPEAKER_09:  und hat sie dann reingemacht.
+00:22:32 - 00:22:34 - Sprecher SPEAKER_09:  Das war ein wunderschöner Moment meines Lebens.
+00:22:34 - 00:22:35 - Sprecher SPEAKER_09:  Ja, ich hab mir meine Extensions reingemacht
+00:22:35 - 00:22:36 - Sprecher SPEAKER_02:  und das sah richtig gut aus.
+00:22:37 - 00:22:38 - Sprecher SPEAKER_02:  Und jetzt willst du auch Extensions rein?
+00:22:40 - 00:22:42 - Sprecher SPEAKER_09:  Klar, dann können wir uns gegenseitig in die Haare machen.
+00:22:43 - 00:22:43 - Sprecher SPEAKER_02:  Ja.
+00:22:44 - 00:22:46 - Sprecher SPEAKER_10:  Gegenseitig in die Haare machen hat sich auch gekämpft.
+00:22:46 - 00:22:49 - Sprecher SPEAKER_10:  Ja, ich hab ihre Haare gekämmt.
+00:22:49 - 00:22:51 - Sprecher SPEAKER_02:  Wir müssen uns gegenseitig in die Haare machen.
+00:22:52 - 00:22:53 - Sprecher SPEAKER_02:  Seid ihr die ganze Zeit immer wieder hier?
+00:22:53 - 00:22:54 - Sprecher SPEAKER_02:  Ja.
+00:22:54 - 00:22:55 - Sprecher SPEAKER_02:  Hallo.
+00:22:55 - 00:22:57 - Sprecher SPEAKER_08:  Wie geht's dir?
+00:22:58 - 00:22:59 - Sprecher SPEAKER_02:  Geht's dir gut?
+00:23:00 - 00:23:00 - Sprecher SPEAKER_06:  Ja.
+00:23:01 - 00:23:01 - Sprecher SPEAKER_06:  Schön.
+00:23:02 - 00:23:04 - Sprecher SPEAKER_06:  Das war der, das war auch noch mein Freund.
+00:23:04 - 00:23:05 - Sprecher SPEAKER_06:  Warum fragt ihr?
+00:23:06 - 00:23:07 - Sprecher SPEAKER_06:  Ich frag doch nur.
+00:23:07 - 00:23:11 - Sprecher SPEAKER_02:  Hier sprechen sich Dinge rum.
+00:23:12 - 00:23:15 - Sprecher SPEAKER_02:  Dass du irgendwie aggressiv wärst.
+00:23:15 - 00:23:15 - Sprecher SPEAKER_02:  Was?
+00:23:16 - 00:23:17 - Sprecher SPEAKER_02:  Da müssen wir mal reden.
+00:23:18 - 00:23:20 - Sprecher SPEAKER_06:  Seid ihr jetzt wie das PD?
+00:23:21 - 00:23:22 - Sprecher SPEAKER_02:  Was meinst du?
+00:23:23 - 00:23:25 - Sprecher SPEAKER_06:  Du bist das hier gerade Tag und Nacht oder was?
+00:23:25 - 00:23:28 - Sprecher SPEAKER_06:  Also wir haben da gehört, dass du ein bisschen was kaputt geschlagen hast hier in deinem Zimmer.
+00:23:29 - 00:23:29 - Sprecher SPEAKER_06:  Ja.
+00:23:29 - 00:23:30 - Sprecher SPEAKER_06:  In echt?
+00:23:30 - 00:23:31 - Sprecher SPEAKER_02:  Ja.
+00:23:32 - 00:23:33 - Sprecher SPEAKER_06:  Warum das denn?
+00:23:34 - 00:23:36 - Sprecher SPEAKER_06:  Ich hab meine Maus da trümmert.
+00:23:36 - 00:23:37 - Unbekannt:  Warum?
+00:23:37 - 00:23:37 - Sprecher SPEAKER_06:  Alter.
+00:23:38 - 00:23:39 - Sprecher SPEAKER_06:  Nein, es war ein Spaß.
+00:23:39 - 00:23:40 - Sprecher SPEAKER_06:  Ich hab gar nichts gemacht.
+00:23:42 - 00:23:44 - Sprecher SPEAKER_10:  Also soll ich deine Sprachnachricht abspielen, was du mir geschickt hast?
+00:23:45 - 00:23:46 - Sprecher SPEAKER_06:  Welche Sprachnachricht?
+00:23:46 - 00:23:48 - Sprecher SPEAKER_10:  Ja, deine Sprachnachricht.
+00:23:48 - 00:23:49 - Sprecher SPEAKER_10:  Also heute wird ja eh alles geleakt.
+00:23:50 - 00:23:51 - Sprecher SPEAKER_10:  Alter, ja.
+00:23:51 - 00:23:52 - Sprecher SPEAKER_10:  Ja, aber was hab ich denn für eine Sprachnachricht?
+00:23:52 - 00:23:53 - Sprecher SPEAKER_06:  Hab ich dir geschickt?
+00:23:53 - 00:23:56 - Sprecher SPEAKER_10:  Ja, dass du richtig sauer bist und jemanden von A bis Z verflucht hast.
+00:23:57 - 00:23:57 - Sprecher SPEAKER_06:  Hä?
+00:23:58 - 00:23:58 - Sprecher SPEAKER_06:  Ja.
+00:23:58 - 00:23:59 - Sprecher SPEAKER_10:  Das hab ich dir geschickt?
+00:24:00 - 00:24:01 - Sprecher SPEAKER_10:  Ja.
+00:24:01 - 00:24:02 - Sprecher SPEAKER_06:  Ach so, okay.
+00:24:02 - 00:24:03 - Sprecher SPEAKER_06:  Ja, dann spiel mal ab.
+00:24:04 - 00:24:05 - Sprecher SPEAKER_06:  Einfach nur wie...
+00:24:05 - 00:24:09 - Sprecher SPEAKER_10:  Ja, spiel die Nachricht ab, die ich dir geschickt habe.
+00:24:10 - 00:24:11 - Sprecher SPEAKER_10:  Ja, ich würd's machen.
+00:24:11 - 00:24:12 - Sprecher SPEAKER_10:  Ich würd's wirklich machen.
+00:24:12 - 00:24:14 - Sprecher SPEAKER_10:  Ey, du hast mir nichts geschickt.
+00:24:14 - 00:24:15 - Sprecher SPEAKER_10:  Du willst mich verarschen?
+00:24:16 - 00:24:17 - Sprecher SPEAKER_02:  Ja, ja.
+00:24:17 - 00:24:19 - Sprecher SPEAKER_02:  Wir sind heute alle Süßenmäuse hier.
+00:24:20 - 00:24:21 - Sprecher SPEAKER_02:  Bist du auch eine Süßenmaus, Marcel?
+00:24:22 - 00:24:22 - Sprecher SPEAKER_06:  Ja.
+00:24:22 - 00:24:23 - Sprecher SPEAKER_06:  Wer war denn von euch vorhin?
+00:24:23 - 00:24:26 - Sprecher SPEAKER_06:  Ich bin auf dem Server und es ging noch alles ganz gut.
+00:24:26 - 00:24:27 - Sprecher SPEAKER_06:  Wann war denn das?
+00:24:27 - 00:24:28 - Sprecher SPEAKER_06:  Vor 18 Uhr bestimmt.
+00:24:28 - 00:24:28 - Sprecher SPEAKER_06:  Ich?
+00:24:28 - 00:24:29 - Sprecher SPEAKER_06:  Vor 18 Uhr.
+00:24:29 - 00:24:29 - Sprecher SPEAKER_06:  Ja.
+00:24:29 - 00:24:30 - Sprecher SPEAKER_02:  Ah, okay.
+00:24:30 - 00:24:31 - Sprecher SPEAKER_06:  Und ab 18 Uhr wurde es schlecht.
+00:24:32 - 00:24:32 - Sprecher SPEAKER_06:  Ah, okay.
+00:24:33 - 00:24:35 - Sprecher SPEAKER_02:  Bis 23 Uhr ungefähr.
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06:  Ach so.
+00:24:37 - 00:24:38 - Sprecher SPEAKER_02:  Inventar ist jetzt weg, ne?
+00:24:38 - 00:24:39 - Sprecher SPEAKER_02:  Mhm.
+00:24:39 - 00:24:40 - Sprecher SPEAKER_09:  Man kann ja...
+00:24:40 - 00:24:41 - Sprecher SPEAKER_09:  Warte, wir haben...
+00:24:41 - 00:24:43 - Sprecher SPEAKER_09:  Das ist ja noch über Sternchen, das Inventar.
+00:24:43 - 00:24:45 - Sprecher SPEAKER_09:  Das ist das alte Inventar, glaub ich, oder?
+00:24:45 - 00:24:47 - Sprecher SPEAKER_09:  Das, was wir von früher kennen.
+00:24:47 - 00:24:48 - Sprecher SPEAKER_09:  Ah, okay.
+00:24:48 - 00:24:50 - Sprecher SPEAKER_06:  Ich wollte gerade sagen, ich hab nämlich richtig Hunger.
+00:24:50 - 00:24:51 - Sprecher SPEAKER_06:  Ich geb's wahrscheinlich gleich wieder umsonst.
+00:24:52 - 00:24:53 - Sprecher SPEAKER_10:  Wie alt denn?
+00:24:53 - 00:24:53 - Sprecher SPEAKER_06:  Ah, okay.
+00:24:53 - 00:24:53 - Sprecher SPEAKER_06: 
+00:24:53 - 00:24:53 - Sprecher SPEAKER_06: 
+00:24:53 - 00:24:53 - Sprecher SPEAKER_06: 
+00:24:53 - 00:24:53 - Sprecher SPEAKER_06:  Ah, okay.
+00:24:54 - 00:24:54 - Unbekannt:  Ja.
+00:24:54 - 00:24:56 - Sprecher SPEAKER_06:  Na, mit dem Menü und nicht mit dem Drag & Drop.
+00:24:56 - 00:24:57 - Sprecher SPEAKER_06:  Das machen die jetzt wieder rein, oder was?
+00:24:58 - 00:25:01 - Sprecher SPEAKER_10:  Ja, ich glaube, die wollen alles jetzt einmal rausnehmen und gucken, woran es liegt, ne?
+00:25:02 - 00:25:05 - Sprecher SPEAKER_02:  Aber ist auch wichtig, dass wir dann alle einloggen jetzt wieder, weil sonst bringt
+00:25:05 - 00:25:06 - Sprecher SPEAKER_09:  das nichts, ohne die angemessenen Zahlen.
+00:25:06 - 00:25:07 - Sprecher SPEAKER_09:  Ja, alle einloggen, Leute.
+00:25:08 - 00:25:12 - Sprecher SPEAKER_09:  Wenn einer von uns fünf jetzt nicht einloggt, werden sie das Problem niemals herausholen.
+00:25:13 - 00:25:13 - Sprecher SPEAKER_06:  Nee.
+00:25:14 - 00:25:14 - Sprecher SPEAKER_06:  Nee.
+00:25:14 - 00:25:15 - Sprecher SPEAKER_10:  Also, gorg du musst selbst rein.
+00:25:15 - 00:25:16 - Sprecher SPEAKER_10:  Gorg, du musst unbedingt rein.
+00:25:16 - 00:25:17 - Sprecher SPEAKER_10:  Bis dann.
+00:25:18 - 00:25:18 - Sprecher SPEAKER_06:  Ja, ja, ich sprech schon.
+00:25:18 - 00:25:19 - Sprecher SPEAKER_06:  Ist das selber schon wieder da?
+00:25:19 - 00:25:20 - Sprecher SPEAKER_06:  Also, bei mir ja.
+00:25:21 - 00:25:21 - Sprecher SPEAKER_02:  Ja.
+00:25:21 - 00:25:22 - Sprecher SPEAKER_06:  Ja.
+00:25:22 - 00:25:23 - Sprecher SPEAKER_06:  Okay, wir loggen jetzt allein.
+00:25:23 - 00:25:24 - Sprecher SPEAKER_10:  Wir loggen nicht einfach nur hier.
+00:25:25 - 00:25:26 - Sprecher SPEAKER_10:  Wir loggen uns jetzt allein.
+00:25:26 - 00:25:29 - Sprecher SPEAKER_10:  Ich gebe uns, wartet, bis 21 Uhr 55.
+00:25:30 - 00:25:30 - Sprecher SPEAKER_02:  Okay.
+00:25:30 - 00:25:32 - Sprecher SPEAKER_02:  Ey, lass mal, wann wir wetten?
+00:25:32 - 00:25:34 - Sprecher SPEAKER_02:  21 Uhr 55 sag ich.
+00:25:34 - 00:25:36 - Sprecher SPEAKER_02:  21 Uhr 55, ich sag 45.
+00:25:37 - 00:25:37 - Sprecher SPEAKER_10:  Okay.
+00:25:38 - 00:25:40 - Sprecher SPEAKER_09:  Ey, ich sag 22 Uhr 5.
+00:25:42 - 00:25:42 - Sprecher SPEAKER_10:  Gorg?
+00:25:43 - 00:25:45 - Sprecher SPEAKER_05:  Ich weiß es alles nicht.
+00:25:45 - 00:25:46 - Sprecher SPEAKER_09:  Wow, danke.
+00:25:47 - 00:25:48 - Sprecher SPEAKER_05:  Ich sag 40.
+00:25:50 - 00:25:50 - Sprecher SPEAKER_10:  Okay.
+00:25:51 - 00:25:51 - Sprecher SPEAKER_10:  Okay.
+00:25:53 - 00:25:53 - Unbekannt:  Okay.
+00:26:04 - 00:26:05 - Sprecher SPEAKER_01:  Ich hatte nie mit dichATA.
+00:26:05 - 00:26:05 - Sprecher SPEAKER_01: 
+00:26:05 - 00:26:06 - Sprecher SPEAKER_01:  G fry, geh.
+00:26:06 - 00:26:06 - Unbekannt: 
+00:26:06 - 00:26:06 - Unbekannt: 
+00:26:12 - 00:26:14 - Unbekannt:  Dich ab.
+00:26:14 - 00:26:14 - Unbekannt:  Mach gedattelt, ist so sauer wie ein Trash.
+00:26:14 - 00:26:14 - Unbekannt: 沒有 Ander Sha, no malo im abymanismo.
+00:26:14 - 00:26:15 - Unbekannt:  Hier ist mein Bruder und hier ein Name, hier wird gelöst, hier ist meine Zuhause, hier
+00:26:15 - 00:26:20 - Sprecher SPEAKER_01:  müssen wir für dieses Handegoes xem血 sein.
+00:26:20 - 00:26:22 - Sprecher SPEAKER_01:  これ、何しなの我為你消滅、人生見血
+00:26:04 - 00:26:05 - Unbekannt:  von活 interconnectdphyators 10.
+00:26:05 - 00:26:18 - Sprecher SPEAKER_01:  Olm 곳
+00:26:30 - 00:26:31 - Sprecher SPEAKER_09:  Eigentlich
+00:26:31 - 00:26:33 - Sprecher SPEAKER_09:  habe ich auch nichts gegen dieses Menü.
+00:26:34 - 00:26:36 - Sprecher SPEAKER_09:  Wenn das nur diese Klickgeräusche nicht machen würde.
+00:26:36 - 00:26:38 - Sprecher SPEAKER_09:  Wenn die Klickgeräusche weg wären, hätte ich gar nichts
+00:26:38 - 00:26:40 - Sprecher SPEAKER_09:  gegen dieses Menü. Ich hasse nur die
+00:26:40 - 00:26:42 - Sprecher SPEAKER_09:  Klickgeräusche. Ich wünsche, man könnte die Klickgeräusche
+00:26:42 - 00:26:44 - Sprecher SPEAKER_09:  weg haben. Aber wartet mal.
+00:26:44 - 00:26:46 - Sprecher SPEAKER_09:  Wir können ja jetzt auch gleich mal ein bisschen testen.
+00:26:47 - 00:26:48 - Sprecher SPEAKER_09:  Solange hier niemand ist.
+00:26:57 - 00:26:58 - Sprecher SPEAKER_01:  ...
+00:27:27 - 00:27:30 - Sprecher SPEAKER_09:  Da scheint alles schnell zu funktionieren.
+00:27:30 - 00:27:30 - Sprecher SPEAKER_09:  ...
+00:27:32 - 00:27:32 - Unbekannt:  ...
+00:27:53 - 00:28:23 - Sprecher SPEAKER_09: 
+00:28:32 - 00:28:33 - Unbekannt:  and
+00:29:05 - 00:29:07 - Sprecher SPEAKER_09:  funktioniert auch
+00:29:14 - 00:29:17 - Sprecher SPEAKER_09:  also gerade alles flüssig bei mir
+00:29:23 - 00:29:32 - Sprecher SPEAKER_07:  und wenn du mit deiner chefs ziemlich wohl bisher aber ich muss mich noch
+00:29:32 - 00:29:34 - Sprecher SPEAKER_07:  ausstempeln gehen fertig macht das mal eben
+00:29:58 - 00:30:02 - Sprecher SPEAKER_07:  arbeitest du auch bei einem taxi nein nicht mehr aber ich habe früher mal bei einem taxi
+00:30:02 - 00:30:10 - Sprecher SPEAKER_09:  gearbeitet also was wie das allerliebste was ich getan habe ok und warum jetzt nicht mehr
+00:30:10 - 00:30:15 - Sprecher SPEAKER_07:  ich weiß nicht ich war mir nicht sicher ob ich das wieder machen möchte ich wollte mir
+00:30:15 - 00:30:19 - Sprecher SPEAKER_09:  euer taxi unternehmen mal anschauen und hören wie es hier so ist darum habe ich mal vorbei
+00:30:19 - 00:30:22 - Sprecher SPEAKER_09:  geguckt aber ich habe euch wie gesagt die letzten tage einfach nicht erreicht ja
+00:30:24 - 00:30:27 - Sprecher SPEAKER_07:  also wie gesagt ich bin seit gestern hier
+00:30:31 - 00:30:36 - Sprecher SPEAKER_07:  und ich mag es hier wie heißt denn dein chef oder deine chefin
+00:30:39 - 00:30:48 - Sprecher SPEAKER_07:  wins und wie heißt der andere kodi wins und kodi und sind die gerade da nein ich
+00:30:48 - 00:30:50 - Sprecher SPEAKER_07:  glaube nicht ich war die einzige die noch da war
+00:30:50 - 00:30:53 - Sprecher SPEAKER_07:  ach so und warum hast du jetzt aufzuarbeiten
+00:30:53 - 00:30:53 - Sprecher SPEAKER_09:  ach so und warum hast du jetzt aufzuarbeiten
+00:30:53 - 00:31:02 - Sprecher SPEAKER_09:  ich halte schon fünf sehr lange da war ach so verstehe ja na ja gut da muss man ja auch
+00:31:02 - 00:31:07 - Sprecher SPEAKER_09:  irgendwann feierabend machen und was machst du sonst so in deinem leben außer taxifahren will
+00:31:08 - 00:31:15 - Sprecher SPEAKER_07:  ich ziemlich auf dem deiner das sind meine freunde wer sind denn deine freunde ja das
+00:31:15 - 00:31:22 - Sprecher SPEAKER_07:  sind halt wie gesagt freuen dann den einen kenne ich schon sehr sehr lange und was machen die so
+00:31:23 - 00:31:24 - Sprecher SPEAKER_07:  Wir arbeiten beim Diner.
+00:31:25 - 00:31:27 - Sprecher SPEAKER_09:  Beim Diner, also.
+00:31:27 - 00:31:29 - Sprecher SPEAKER_09:  Wo ist das? Ah, beim Rags Diner, oder was?
+00:31:30 - 00:31:30 - Sprecher SPEAKER_09:  Ja.
+00:31:30 - 00:31:31 - Sprecher SPEAKER_09:  Ah, verstehe. Cool.
+00:31:34 - 00:31:37 - Sprecher SPEAKER_09:  Aber es ist kein Motorradclub, oder?
+00:31:38 - 00:31:38 - Sprecher SPEAKER_09:  Nein.
+00:31:39 - 00:31:41 - Sprecher SPEAKER_07:  Ich finde Motorradclubs richtig cool.
+00:31:41 - 00:31:43 - Sprecher SPEAKER_09:  Ich habe mal eine Serie darüber gesehen.
+00:31:43 - 00:31:45 - Sprecher SPEAKER_09:  Und seitdem will ich unbedingt mal Motorrad fahren.
+00:31:45 - 00:31:47 - Sprecher SPEAKER_09:  Aber ich bin noch nie mit Motorrad gefahren.
+00:31:47 - 00:31:48 - Sprecher SPEAKER_09:  Ja.
+00:31:48 - 00:31:52 - Sprecher SPEAKER_09:  Das wäre zu cool gewesen, wenn deine Freunde bei einem Bikerclub gewesen wären.
+00:31:53 - 00:31:53 - Sprecher SPEAKER_09:  Ja.
+00:31:57 - 00:31:58 - Sprecher SPEAKER_09:  Naja, gut.
+00:31:59 - 00:32:00 - Sprecher SPEAKER_09:  Alles klar, Willow.
+00:32:00 - 00:32:02 - Sprecher SPEAKER_09:  Ich hoffe, deine Schwester schreit dich nicht mehr an.
+00:32:03 - 00:32:04 - Sprecher SPEAKER_09:  Ich hoffe es auch.
+00:32:05 - 00:32:09 - Sprecher SPEAKER_09:  Und falls sie es doch tut, dann sag ihr einfach, sie soll die Fresse halten.
+00:32:09 - 00:32:11 - Sprecher SPEAKER_09:  Weil dich hat niemand anzuschreien.
+00:32:12 - 00:32:13 - Sprecher SPEAKER_09:  Sag ich ihr.
+00:32:14 - 00:32:15 - Sprecher SPEAKER_09:  Dann pass auf dich auf, Willow.
+00:32:15 - 00:32:17 - Sprecher SPEAKER_09:  Mach ich. Du auch auf dich.
+00:32:18 - 00:32:19 - Sprecher SPEAKER_07:  Tschüss, Fritzi.
+00:32:21 - 00:32:21 - Sprecher SPEAKER_07:  Mach's gut.
+00:32:29 - 00:32:30 - Unbekannt:  Mach's gut.
+00:32:36 - 00:32:38 - Sprecher SPEAKER_09:  Das war's für heute.
+00:32:38 - 00:32:43 - Sprecher SPEAKER_09:  distant war ein Moment, Held der Wolken hurry noch mal.
+00:32:44 - 00:32:45 - Sprecher SPEAKER_09:  Du solltest nicht geradelt haben, incurôi.
+00:32:46 - 00:32:47 - Unbekannt:  Es gibt einenливreamiles W pens iPhone 3 und Darm renes This und Matefak Talking
+00:32:47 - 00:32:49 - Unbekannt:  abgestimmt.
+00:32:49 - 00:32:49 - Unbekannt:  Hier kann mal ein Programm bestand.
+00:32:49 - 00:32:50 - Unbekannt:  Aufyear,FORE, eat nice'll, bird.
+00:32:52 - 00:32:53 - Unbekannt:  Das war сделать, Post interrog sexuality Humans alone
+00:32:53 - 00:32:53 - Unbekannt: 
+00:32:53 - 00:32:53 - Unbekannt:  Das war der Film.
+00:32:53 - 00:32:53 - Unbekannt: 
+00:32:53 - 00:32:53 - Unbekannt:  Alles Gute.
+00:32:53 - 00:32:54 - Unbekannt:  Okay.
+00:33:23 - 00:33:24 - Sprecher SPEAKER_09:  Das wäre zu schön gewesen.
+00:33:25 - 00:33:27 - Sprecher SPEAKER_09:  Mann, ich hatte so fest daran geglaubt,
+00:33:27 - 00:33:28 - Sprecher SPEAKER_09:  dass es daran liegt.
+00:33:30 - 00:33:31 - Sprecher SPEAKER_09:  Ihr könnt nicht bei allem
+00:33:31 - 00:33:33 - Sprecher SPEAKER_09:  lügen, Fritzi, schreiben. Das ist total
+00:33:33 - 00:33:35 - Sprecher SPEAKER_09:  unfair. Ich habe hier voll
+00:33:35 - 00:33:36 - Sprecher SPEAKER_09:  schlechte Gefühle immer.
+00:33:36 - 00:33:38 - Sprecher SPEAKER_09:  Aber Fritzi kann gut lügen mittlerweile.
+00:33:38 - 00:33:39 - Sprecher SPEAKER_09:  Das ist geil.
+00:33:40 - 00:33:41 - Sprecher SPEAKER_09:  Ich kann gut lügen.
+00:33:41 - 00:33:44 - Sprecher SPEAKER_09:  Ja, okay, nicht immer. Oftmals nicht.
+00:33:44 - 00:33:44 - Sprecher SPEAKER_09:  Meistens nicht.
+00:33:53 - 00:33:53 - Sprecher SPEAKER_09:  Na gut.
+00:34:02 - 00:34:04 - Sprecher SPEAKER_09:  Zweimal ist sie Motorrad gefahren.
+00:34:04 - 00:34:06 - Sprecher SPEAKER_09:  Zweimal. Dreimal. Fünfmal.
+00:34:06 - 00:34:07 - Sprecher SPEAKER_09:  Viel öfter.
+00:34:08 - 00:34:09 - Sprecher SPEAKER_09:  Na gut.
+00:34:28 - 00:34:29 - Sprecher SPEAKER_09:  Zack hat geschrieben.
+00:34:29 - 00:34:30 - Sprecher SPEAKER_09:  Das muss ich vielleicht mal lesen.
+00:34:31 - 00:34:31 - Sprecher SPEAKER_09:  Boah.
+00:34:35 - 00:34:36 - Sprecher SPEAKER_10:  Kannst du reden?
+00:34:36 - 00:34:36 - Sprecher SPEAKER_10:  Ja.
+00:34:37 - 00:34:38 - Sprecher SPEAKER_10:  Gute Nachrichten erstmal.
+00:34:40 - 00:34:41 - Sprecher SPEAKER_10:  Ich habe mit den Unicorn-Leuten geredet.
+00:34:41 - 00:34:42 - Sprecher SPEAKER_10:  Ich kenne die ja schon, ne?
+00:34:42 - 00:34:43 - Sprecher SPEAKER_10:  Aha.
+00:34:45 - 00:34:46 - Sprecher SPEAKER_10:  Und es sieht sehr gut aus.
+00:34:46 - 00:34:48 - Sprecher SPEAKER_10:  Die haben mir einfach von selbst aus, also von sich selbst,
+00:34:48 - 00:34:50 - Sprecher SPEAKER_10:  ein Jobangebot gegeben.
+00:34:50 - 00:34:52 - Sprecher SPEAKER_10:  Als Türsteher, aber nicht nur als Türsteher.
+00:34:52 - 00:34:53 - Sprecher SPEAKER_10:  Er meinte,
+00:34:53 - 00:34:54 - Sprecher SPEAKER_10:  du könntest damit so viel erreichen.
+00:34:55 - 00:34:56 - Sprecher SPEAKER_10:  Ich so, was meinst du?
+00:34:56 - 00:34:58 - Sprecher SPEAKER_10:  Er sagt, du wirst nicht nur Türsteher,
+00:34:58 - 00:35:00 - Sprecher SPEAKER_10:  du müsstest auch zum Beispiel
+00:35:01 - 00:35:02 - Sprecher SPEAKER_10:  seinen Vater,
+00:35:02 - 00:35:03 - Sprecher SPEAKER_10:  der heißt Asimov,
+00:35:04 - 00:35:05 - Sprecher SPEAKER_01:  den rumfahren,
+00:35:05 - 00:35:06 - Sprecher SPEAKER_10:  den Sachen bringen,
+00:35:06 - 00:35:08 - Sprecher SPEAKER_10:  den irgendwo hinbringen
+00:35:08 - 00:35:10 - Sprecher SPEAKER_10:  und seinen Onkel und sowas beruhigen,
+00:35:10 - 00:35:11 - Sprecher SPEAKER_10:  damit er keinen Job-Rob macht.
+00:35:12 - 00:35:13 - Sprecher SPEAKER_10:  Also, kurz gesagt,
+00:35:13 - 00:35:14 - Sprecher SPEAKER_10:  einer von denen sein.
+00:35:15 - 00:35:16 - Sprecher SPEAKER_10:  Das haben die mir angeboten.
+00:35:16 - 00:35:18 - Sprecher SPEAKER_10:  Und ich habe erstmal natürlich nicht direkt ja gesagt,
+00:35:19 - 00:35:21 - Sprecher SPEAKER_10:  sondern langsam angegangen.
+00:35:21 - 00:35:23 - Sprecher SPEAKER_10:  Ich habe gesagt, ich überlege es mir.
+00:35:23 - 00:35:25 - Sprecher SPEAKER_10:  Aber ich werde es annehmen.
+00:35:26 - 00:35:26 - Sprecher SPEAKER_10:  Also.
+00:35:27 - 00:35:28 - Sprecher SPEAKER_09:  Mit wem hast du gesprochen?
+00:35:29 - 00:35:30 - Sprecher SPEAKER_10:  Ich sage Dimitri.
+00:35:31 - 00:35:32 - Sprecher SPEAKER_10:  Ich sage nochmal.
+00:35:32 - 00:35:34 - Sprecher SPEAKER_10:  Ja, doch, dass der Sohn heißt Dimitri.
+00:35:34 - 00:35:35 - Sprecher SPEAKER_10:  Ja, ja, der Sohn.
+00:35:35 - 00:35:36 - Sprecher SPEAKER_10:  Er kennt mich ja.
+00:35:36 - 00:35:36 - Sprecher SPEAKER_10:  Der ist nett, oder nicht?
+00:35:37 - 00:35:38 - Sprecher SPEAKER_10:  Der ist korrekt, ja.
+00:35:38 - 00:35:39 - Sprecher SPEAKER_10:  Mit dem kann man reden.
+00:35:40 - 00:35:41 - Sprecher SPEAKER_09:  Mhm, kam mir auch so vor.
+00:35:41 - 00:35:42 - Sprecher SPEAKER_09:  Auch, auch, auch.
+00:35:42 - 00:35:46 - Sprecher SPEAKER_10:  Pasha hat mit mir gesprochen und der hat mir gesagt.
+00:35:46 - 00:35:47 - Sprecher SPEAKER_09:  Wer ist Pasha?
+00:35:48 - 00:35:49 - Sprecher SPEAKER_09:  Das ist auch einer von denen.
+00:35:49 - 00:35:51 - Sprecher SPEAKER_10:  Ich glaube, vielleicht ein Bruder oder so, weiß ich nicht.
+00:35:51 - 00:35:51 - Sprecher SPEAKER_09:  Mhm.
+00:35:52 - 00:35:53 - Sprecher SPEAKER_10:  Und als ich weggegangen bin, habe ich gesagt, ich will nicht mehr mit dir reden.
+00:35:53 - 00:35:53 - Sprecher SPEAKER_10: 
+00:35:53 - 00:35:53 - Sprecher SPEAKER_10: 
+00:35:53 - 00:35:58 - Sprecher SPEAKER_10:  Und als ich weggegangen bin, habe ich gehört, Stefano ist der Einzige, der mich nicht sauer gemacht hat.
+00:35:58 - 00:36:03 - Sprecher SPEAKER_10:  Also ich glaube, ich habe richtig viele Repartiepunkte bei dir gesammelt gerade.
+00:36:05 - 00:36:06 - Sprecher SPEAKER_09:  Stefano!
+00:36:07 - 00:36:09 - Sprecher SPEAKER_10:  Ich sage dir Fritzi, wenn ich will, kann ich es.
+00:36:09 - 00:36:10 - Sprecher SPEAKER_10:  Du bist ja der Heftigste.
+00:36:10 - 00:36:12 - Sprecher SPEAKER_09:  Natürlich kannst du es, wenn du es willst.
+00:36:12 - 00:36:13 - Sprecher SPEAKER_09:  Das weiß ich ganz genau.
+00:36:13 - 00:36:15 - Sprecher SPEAKER_09:  Natürlich kannst du es, wenn du es willst.
+00:36:15 - 00:36:16 - Sprecher SPEAKER_09:  Du wolltest es nur nie, nie wolltest du.
+00:36:16 - 00:36:17 - Sprecher SPEAKER_09:  Aber jetzt willst du plötzlich.
+00:36:17 - 00:36:18 - Sprecher SPEAKER_09:  Warum willst du jetzt eigentlich plötzlich?
+00:36:19 - 00:36:20 - Sprecher SPEAKER_09:  Oh mein Gott, Stefano.
+00:36:20 - 00:36:22 - Sprecher SPEAKER_09:  Warum ich will, kannst du dir mal genau überlegen, Fritzi.
+00:36:23 - 00:36:23 - Sprecher SPEAKER_10:  Oh mein Gott, Stefano. Warum ich will, kannst du dir mal genau überlegen, Fritzi.
+00:36:24 - 00:36:28 - Sprecher SPEAKER_10:  Ich mache das nur für dich, weil du mir wichtig bist.
+00:36:29 - 00:36:30 - Sprecher SPEAKER_10:  Aber ich wollte dir nochmal Bescheid sagen.
+00:36:30 - 00:36:35 - Sprecher SPEAKER_10:  Damit du Bescheid weißt, ich werde wahrscheinlich die Tage bei den Jobangeboten annehmen.
+00:36:36 - 00:36:38 - Sprecher SPEAKER_10:  Und dann werde ich mich langsam, langsam hocharbeiten.
+00:36:38 - 00:36:41 - Sprecher SPEAKER_10:  Ganz genau. Nichts überstürzen und nicht verdächtig machen.
+00:36:41 - 00:36:42 - Sprecher SPEAKER_09:  Auf keinen Fall.
+00:36:44 - 00:36:45 - Sprecher SPEAKER_10:  Fritzi, dann lege ich jetzt auf.
+00:36:46 - 00:36:46 - Sprecher SPEAKER_09:  Danke, Stefano.
+00:36:48 - 00:36:49 - Sprecher SPEAKER_10:  Du brauchst dich nicht bedanken.
+00:36:50 - 00:36:50 - Sprecher SPEAKER_08:  HDL!
+00:36:51 - 00:36:52 - Sprecher SPEAKER_08:  Bis dann, Diggy.
+00:36:58 - 00:36:59 - Sprecher SPEAKER_08:  Okay.
+00:37:04 - 00:37:05 - Sprecher SPEAKER_08:  Heftig.
+00:37:06 - 00:37:07 - Unbekannt:  Heftig.
+00:37:14 - 00:37:15 - Sprecher SPEAKER_09:  Gott, ja.
+00:37:16 - 00:37:17 - Sprecher SPEAKER_09:  Das wär krass.
+00:37:18 - 00:37:19 - Sprecher SPEAKER_09:  Das wär krass.
+00:37:23 - 00:37:24 - Sprecher SPEAKER_09:  Das sind ja Cops.
+00:37:24 - 00:37:26 - Sprecher SPEAKER_09:  Oh Gott, verpisst euch.
+00:37:26 - 00:37:27 - Sprecher SPEAKER_09:  Ich dachte, ihr seid Biker.
+00:37:27 - 00:37:29 - Sprecher SPEAKER_09:  Das sah aus wie Kurten von Weitem.
+00:37:33 - 00:37:35 - Sprecher SPEAKER_09:  Ich dachte, das wär ein Biker.
+00:37:51 - 00:37:52 - Sprecher SPEAKER_09:  Guten Abend, Sir.
+00:38:08 - 00:38:09 - Sprecher SPEAKER_01:  Hm.
+00:38:17 - 00:38:19 - Sprecher SPEAKER_09:  Tja, und jetzt?
+00:38:19 - 00:38:22 - Sprecher SPEAKER_09:  Jetzt ist es schon wieder minimal legger, würde ich behaupten.
+00:38:22 - 00:38:24 - Sprecher SPEAKER_09:  Als ganz am Anfang.
+00:38:25 - 00:38:26 - Sprecher SPEAKER_09:  Ich glaube, das ist das Problem.
+00:38:27 - 00:38:30 - Sprecher SPEAKER_09:  Dass man am Anfang mal das Gefühl hat, das hat was gebracht und dann...
+00:38:34 - 00:38:36 - Sprecher SPEAKER_09:  kommen die ganzen Spieler wieder drauf und dann...
+00:38:37 - 00:38:39 - Sprecher SPEAKER_09:  stellt sich raus, das ist es nicht.
+00:38:39 - 00:38:40 - Sprecher SPEAKER_09:  Glaube ich. Ich weiß es nicht.
+00:38:40 - 00:38:43 - Sprecher SPEAKER_09:  Es fühlt sich gerade nur so an, als würden Dinge nicht mehr jetzt reagieren.
+00:38:45 - 00:38:48 - Sprecher SPEAKER_09:  Jetzt reagieren sie schon wieder minimal langsamer, würde ich behaupten.
+00:38:50 - 00:38:51 - Sprecher SPEAKER_09:  Bis dahin darf man nicht mehr vryieren.
+00:38:51 - 00:38:51 - Sprecher SPEAKER_09: 
+00:38:55 - 00:38:56 - Sprecher SPEAKER_09:  fout Story
+00:38:56 - 00:38:57 - Sprecher SPEAKER_09:  Mit leichter Verzögerung.
+00:39:01 - 00:39:02 - Unbekannt:  Vryiere mit armedem Löffler.
+00:39:03 - 00:39:04 - Unbekannt:  Ich habe ein Indizium.
+00:39:04 - 00:39:04 - Unbekannt: 
+00:39:04 - 00:39:04 - Unbekannt:  Aber was ?
+00:39:06 - 00:39:07 - Unbekannt:  Es wird nun nicht so superfatcher sein.
+00:39:07 - 00:39:08 - Unbekannt:  Dann weisen wir zusammen in dieses Lager.
+00:39:08 - 00:39:08 - Unbekannt: 
+00:39:08 - 00:39:08 - Unbekannt:  Bleib.
+00:39:08 - 00:39:08 - Unbekannt:  Bist Jesse.
+00:39:08 - 00:39:08 - Unbekannt: 
+00:39:25 - 00:39:27 - Sprecher SPEAKER_09:  Ich hasse den Astro.
+00:39:29 - 00:39:32 - Sprecher SPEAKER_09:  Ja, dann müssen wir später nochmal hier oben vorbeigucken.
+00:39:38 - 00:39:38 - Unbekannt:  Ja.
+00:39:57 - 00:39:58 - Sprecher SPEAKER_09:  Ne, ne. Oh Gott.
+00:40:02 - 00:40:04 - Sprecher SPEAKER_09:  So, ist das denn jetzt abgeschlossen?
+00:40:25 - 00:40:25 - Sprecher SPEAKER_01:  Ja.
+00:40:31 - 00:40:32 - Sprecher SPEAKER_09:  Jetzt starte das Auto.
+00:40:43 - 00:40:44 - Sprecher SPEAKER_09:  Ah, scheiße auf Maps, Alter.
+00:40:45 - 00:40:46 - Sprecher SPEAKER_09:  Einfach auf Maps scheißen.
+00:40:46 - 00:40:48 - Sprecher SPEAKER_09:  Ich habe eh keine Minimap.
+00:40:48 - 00:40:49 - Sprecher SPEAKER_09:  Einfach auf Maps scheißen.
+00:40:50 - 00:40:51 - Sprecher SPEAKER_09:  Ich schaffe das auch ohne Map.
+00:40:51 - 00:40:53 - Sprecher SPEAKER_09:  Ganz sicher. Fritzi, du schaffst das ohne Map.
+00:40:54 - 00:40:55 - Sprecher SPEAKER_09:  Wir schaffen das ohne Map.
+00:40:56 - 00:40:58 - Sprecher SPEAKER_09:  Safe call. Ganz sicher.
+00:41:01 - 00:41:02 - Sprecher SPEAKER_09:  Hm, gut.
+00:41:12 - 00:41:13 - Sprecher SPEAKER_08:  Hey, Katschak.
+00:41:16 - 00:41:17 - Sprecher SPEAKER_08:  Tschak.
+00:41:18 - 00:41:19 - Sprecher SPEAKER_08:  Fritzi.
+00:41:19 - 00:41:20 - Sprecher SPEAKER_04:  Hey, Tschak.
+00:41:21 - 00:41:22 - Sprecher SPEAKER_04:  Ja.
+00:41:22 - 00:41:25 - Sprecher SPEAKER_09:  Was treibst du hier oben? Ist das dein Auto da hinter mir?
+00:41:27 - 00:41:28 - Sprecher SPEAKER_04:  Nicht, dass ich wüsste.
+00:41:29 - 00:41:29 - Sprecher SPEAKER_04:  Ach so.
+00:41:30 - 00:41:31 - Sprecher SPEAKER_04:  Eigentlich wollte ich...
+00:41:31 - 00:41:33 - Sprecher SPEAKER_04:  Dann ist es eine verrückte Geschichte.
+00:41:33 - 00:41:34 - Sprecher SPEAKER_04:  Aus irgendeinem...
+00:41:35 - 00:41:37 - Sprecher SPEAKER_04:  Soll ich dich wohin bringen?
+00:41:37 - 00:41:38 - Sprecher SPEAKER_04:  Ja.
+00:41:38 - 00:41:38 - Sprecher SPEAKER_04:  Bitte.
+00:41:38 - 00:41:41 - Sprecher SPEAKER_04:  Der Abschleppwagen schwimmt im Erlermusee.
+00:41:43 - 00:41:45 - Sprecher SPEAKER_09:  Bist du dir sicher oder sollen wir ihn suchen gehen?
+00:41:46 - 00:41:50 - Sprecher SPEAKER_04:  Ich weiß nicht, ob ich mich nochmal an den See rantraue, aber vielleicht, wenn du dabei bist.
+00:41:51 - 00:41:53 - Sprecher SPEAKER_09:  Na toll, dann reist du mich mit ins Unglück, oder was?
+00:41:54 - 00:41:55 - Sprecher SPEAKER_04:  Okay, lass es uns tun.
+00:41:57 - 00:41:58 - Unbekannt:  Ja.
+00:42:09 - 00:42:13 - Sprecher SPEAKER_09:  Hast du dich hier oben schon ein bisschen umgeguckt? Ich meine, du kennst dich doch im Norden aus, oder nicht?
+00:42:13 - 00:42:15 - Sprecher SPEAKER_04:  Ich war jetzt schon länger nicht mehr hier.
+00:42:15 - 00:42:16 - Sprecher SPEAKER_04:  Ach so.
+00:42:16 - 00:42:17 - Sprecher SPEAKER_04:  Kannst du mal hier runterfahren?
+00:42:18 - 00:42:18 - Sprecher SPEAKER_04:  Hier?
+00:42:18 - 00:42:19 - Sprecher SPEAKER_04:  Das ist ein Fahrweg, ja.
+00:42:22 - 00:42:23 - Sprecher SPEAKER_09:  Du willst den Fahrradweg langfahren?
+00:42:24 - 00:42:24 - Sprecher SPEAKER_04:  Ja, genau.
+00:42:26 - 00:42:26 - Sprecher SPEAKER_09:  Boah.
+00:42:28 - 00:42:32 - Sprecher SPEAKER_09:  Das war voll knapp, Tschak. Das war übrigens knapp.
+00:42:32 - 00:42:33 - Unbekannt:  Ja.
+00:42:41 - 00:42:42 - Sprecher SPEAKER_04:  Wie fühlst du dich jetzt?
+00:42:45 - 00:42:47 - Sprecher SPEAKER_09:  Ich fühle mich hervorragend, warum fragst du?
+00:42:47 - 00:42:48 - Sprecher SPEAKER_04:  Wunderbar.
+00:42:48 - 00:42:49 - Sprecher SPEAKER_04:  Dann liegt es an der Mischintoxikation.
+00:42:50 - 00:42:50 - Sprecher SPEAKER_04:  Danke.
+00:42:50 - 00:42:51 - Sprecher SPEAKER_04:  Geht es dir schlecht?
+00:42:52 - 00:42:53 - Sprecher SPEAKER_08:  Eigentlich geht es mir blind.
+00:42:57 - 00:42:59 - Sprecher SPEAKER_04:  Irgendwo fliegt hier mein Auto herum.
+00:42:59 - 00:43:00 - Sprecher SPEAKER_04:  Egal, irgendwo.
+00:43:00 - 00:43:03 - Sprecher SPEAKER_04:  Hast du das Navi, den Navi-Dings angemacht?
+00:43:03 - 00:43:04 - Sprecher SPEAKER_09:  Dein GPS-Sender?
+00:43:05 - 00:43:06 - Sprecher SPEAKER_09:  An deinem Schlüsselbund?
+00:43:07 - 00:43:08 - Sprecher SPEAKER_04:  Das ist ein Dienst, der mir nicht mehr funktioniert.
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04: 
+00:43:08 - 00:43:08 - Sprecher SPEAKER_04:  Das ist ein Fahrzeug.
+00:43:08 - 00:43:09 - Sprecher SPEAKER_04:  Oh.
+00:43:09 - 00:43:10 - Sprecher SPEAKER_04:  Das macht es schwierig.
+00:43:11 - 00:43:12 - Sprecher SPEAKER_04:  Das wird wirklich schwierig.
+00:43:12 - 00:43:14 - Sprecher SPEAKER_04:  Lass uns bitte hier verschwinden.
+00:43:17 - 00:43:18 - Sprecher SPEAKER_04:  Aber es ist echt hübsch hier.
+00:43:20 - 00:43:20 - Sprecher SPEAKER_09:  Toll.
+00:43:21 - 00:43:23 - Sprecher SPEAKER_04:  Hast du den Bärenpark schon gesehen?
+00:43:23 - 00:43:24 - Sprecher SPEAKER_09:  Nein, habe ich noch nicht.
+00:43:24 - 00:43:26 - Sprecher SPEAKER_04:  Ach, lass uns da mal hinschauen.
+00:43:26 - 00:43:28 - Sprecher SPEAKER_04:  Der ist manchmal dekoriert.
+00:43:28 - 00:43:29 - Sprecher SPEAKER_09:  Wo ist der?
+00:43:30 - 00:43:31 - Sprecher SPEAKER_04:  Dem Straßenverlauf folgen.
+00:43:32 - 00:43:33 - Sprecher SPEAKER_09:  War das schon der Straßenverlauf?
+00:43:33 - 00:43:34 - Sprecher SPEAKER_09:  Die nächste Straße links.
+00:43:36 - 00:43:36 - Sprecher SPEAKER_09:  Hm.
+00:43:37 - 00:43:37 - Sprecher SPEAKER_09:  Ich glaube, da ist er.
+00:43:37 - 00:43:37 - Unbekannt:  Ja, da ist er.
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt: 
+00:43:37 - 00:43:37 - Unbekannt:  Ich glaube, da ist er.
+00:43:45 - 00:43:45 - Sprecher SPEAKER_04:  Ja, da ist er.
+00:43:45 - 00:43:45 - Sprecher SPEAKER_04: 
+00:43:45 - 00:43:46 - Sprecher SPEAKER_04:  Hier müsste der Bärenpark sein.
+00:43:47 - 00:43:47 - Sprecher SPEAKER_04:  Genau.
+00:43:49 - 00:43:49 - Unbekannt:  Wow.
+00:43:50 - 00:43:51 - Sprecher SPEAKER_04:  Und hier ist auch ein See.
+00:43:51 - 00:43:52 - Sprecher SPEAKER_04:  Lass mal schauen.
+00:43:54 - 00:43:54 - Unbekannt:  Jetzt.
+00:43:54 - 00:43:54 - Unbekannt: 
+00:44:08 - 00:44:11 - Sprecher SPEAKER_09:  Wow, das ist ja ultraschön.
+00:44:12 - 00:44:16 - Sprecher SPEAKER_04:  Ich dachte auch mal, der Bärenpark ist vielleicht der neue Stadtpark irgendwann.
+00:44:17 - 00:44:20 - Sprecher SPEAKER_09:  Ich guck mir das alles ganz genau an, Chuck.
+00:44:20 - 00:44:22 - Sprecher SPEAKER_04:  Ja, ich höre von deiner Einigung aus.
+00:44:29 - 00:44:32 - Sprecher SPEAKER_02:  Alter, ich bin so gut.
+00:44:34 - 00:44:35 - Sprecher SPEAKER_02:  Egal, eine Minute.
+00:44:36 - 00:44:39 - Sprecher SPEAKER_10:  Natürlich, das hieß am nächsten dran damit.
+00:44:39 - 00:44:43 - Sprecher SPEAKER_10:  Natürlich, so sind die Regeln immer.
+00:44:44 - 00:44:46 - Sprecher SPEAKER_10:  Was ist denn mit dir?
+00:44:46 - 00:44:48 - Sprecher SPEAKER_02:  Chen hat 100 Euro von jedem gewonnen jetzt.
+00:44:50 - 00:44:52 - Sprecher SPEAKER_10:  Was für 100 Euro?
+00:44:52 - 00:44:52 - Sprecher SPEAKER_05:  Ich bin der Bärenpark.
+00:44:52 - 00:44:53 - Sprecher SPEAKER_05:  Du bist ein Arm.
+00:44:53 - 00:44:59 - Sprecher SPEAKER_10:  Wir haben gesagt, ich bin auch arm, ich habe nicht mal 50 Subs, was willst du von mir?
+00:44:59 - 00:45:00 - Sprecher SPEAKER_05:  Ja, echt.
+00:45:00 - 00:45:10 - Sprecher SPEAKER_05:  Ich habe gesagt 45, Jen hat gesagt 55, und deshalb waren 54 weg.
+00:45:10 - 00:45:12 - Sprecher SPEAKER_10:  Also hat Jen nicht gewonnen.
+00:45:12 - 00:45:14 - Sprecher SPEAKER_10:  Weil sie am nächsten dran ist.
+00:45:14 - 00:45:17 - Sprecher SPEAKER_10:  Nein, das haben wir nicht gesagt.
+00:45:17 - 00:45:18 - Sprecher SPEAKER_10:  Wir haben nicht gesagt.
+00:45:19 - 00:45:20 - Sprecher SPEAKER_09:  Okay.
+00:45:20 - 00:45:21 - Sprecher SPEAKER_09:  Nein.
+00:45:21 - 00:45:22 - Sprecher SPEAKER_10:  Wir haben nicht gesagt.
+00:45:22 - 00:45:23 - Sprecher SPEAKER_10:  Die das isticket-ss-ungsala war das?
+00:45:23 - 00:45:23 - Sprecher SPEAKER_10: 
+00:45:23 - 00:45:25 - Sprecher SPEAKER_10:  Also, du kannst die Maus abhauen,げer, duالaONE.
+00:45:27 - 00:45:27 - Unbekannt: 
+00:45:28 - 00:45:30 - Sprecher SPEAKER_10:  Das habe ich aus Cryonia.
+00:45:31 - 00:45:32 - Sprecher SPEAKER_09:  Dujektwei Site?
+00:45:32 - 00:45:32 - Sprecher SPEAKER_10: 
+00:45:32 - 00:45:33 - Sprecher SPEAKER_10:  Ich Battler.
+00:45:33 - 00:45:33 - Sprecher SPEAKER_10:  Wie heißt das?
+00:45:33 - 00:45:33 - Sprecher SPEAKER_10:  ItísFacckenЛ.
+00:45:34 - 00:45:34 - Sprecher SPEAKER_10:  Che napta, was ist�anÄæ?
+00:45:34 - 00:45:34 - Unbekannt: 
+00:45:34 - 00:45:34 - Unbekannt: 
+00:45:34 - 00:45:34 - Unbekannt: 
+00:45:34 - 00:45:34 - Unbekannt: 
+00:45:34 - 00:45:37 - Sprecher SPEAKER_10:  Hello spreading is grapes.
+00:45:38 - 00:45:40 - Sprecher SPEAKER_10:  Hm, da habe ich mich eingemandert.
+00:45:40 - 00:45:40 - Sprecher SPEAKER_02: 
+00:45:40 - 00:45:41 - Sprecher SPEAKER_02:  Und einen Mann mit Bienen, was heißt das da?
+00:45:41 - 00:45:42 - Sprecher SPEAKER_02:  Mann, ne, Eineresto hem.
+00:45:42 - 00:45:42 - Sprecher SPEAKER_02:  Denn ich geh Setter.
+00:45:43 - 00:45:44 - Sprecher SPEAKER_06:  Ich gehЕТ airfu.
+00:45:45 - 00:45:47 - Sprecher SPEAKER_06:  Oho, hier kommt der Climate.
+00:45:47 - 00:45:49 - Sprecher SPEAKER_02:  wie es und so. Ja, mir geht es
+00:45:49 - 00:45:50 - Sprecher SPEAKER_02:  gut. Und selber?
+00:45:51 - 00:45:53 - Sprecher SPEAKER_10:  Also ich muss sagen, mir geht es auch gut.
+00:45:53 - 00:45:55 - Sprecher SPEAKER_10:  Wenn ich mit euch hier chille, natürlich geht es mir gut.
+00:45:55 - 00:45:56 - Sprecher SPEAKER_10:  Ja.
+00:45:58 - 00:45:59 - Sprecher SPEAKER_05:  Ich beantworte diese Frage
+00:45:59 - 00:45:59 - Sprecher SPEAKER_05:  ungern.
+00:46:00 - 00:46:01 - Sprecher SPEAKER_05:  Warum, Gorg?
+00:46:03 - 00:46:04 - Sprecher SPEAKER_05:  Weil ich dann immer lügen muss.
+00:46:05 - 00:46:05 - Sprecher SPEAKER_09:  Alter!
+00:46:07 - 00:46:07 - Sprecher SPEAKER_05:  Alter!
+00:46:09 - 00:46:09 - Sprecher SPEAKER_05:  Alter!
+00:46:10 - 00:46:11 - Sprecher SPEAKER_05:  Tatsächlich glaube ich, dass
+00:46:11 - 00:46:13 - Sprecher SPEAKER_10:  Gorg eigentlich sehr, sehr gerne mit uns abhängt.
+00:46:14 - 00:46:16 - Sprecher SPEAKER_10:  Aber es nicht sagen kann.
+00:46:18 - 00:46:18 - Sprecher SPEAKER_05:  Gorg,
+00:46:18 - 00:46:21 - Sprecher SPEAKER_05:  wenn ich nächstes Mal bei dir bin,
+00:46:21 - 00:46:23 - Sprecher SPEAKER_10:  dann kraule ich auch deine Beine
+00:46:23 - 00:46:24 - Sprecher SPEAKER_10:  und so. Alter!
+00:46:25 - 00:46:26 - Sprecher SPEAKER_05:  Was soll ich denn?
+00:46:27 - 00:46:28 - Sprecher SPEAKER_05:  Wie kommst du denn da?
+00:46:29 - 00:46:31 - Sprecher SPEAKER_06:  Wieso kaufst du darauf, dass es ihm dann besser geht?
+00:46:31 - 00:46:33 - Sprecher SPEAKER_10:  Ich kraule sogar seinen Prinz Albert,
+00:46:33 - 00:46:33 - Sprecher SPEAKER_10:  wenn es sein muss.
+00:46:33 - 00:46:34 - Sprecher SPEAKER_10:  Alter!
+00:46:34 - 00:46:37 - Sprecher SPEAKER_10:  Und das nicht nur mit meinen Händen, sondern mit meinen Zehen,
+00:46:38 - 00:46:38 - Sprecher SPEAKER_10:  mein Freund.
+00:46:38 - 00:46:39 - Sprecher SPEAKER_05:  Ach du Scheiße.
+00:46:41 - 00:46:42 - Sprecher SPEAKER_10:  Aber nur, weil du es wirst, Gorg.
+00:46:43 - 00:46:45 - Sprecher SPEAKER_10:  Und dann packe ich die Extensions rein.
+00:46:46 - 00:46:47 - Sprecher SPEAKER_05:  Die brauchen wir nicht.
+00:46:48 - 00:46:49 - Sprecher SPEAKER_10:  Ich wüsste ja.
+00:46:49 - 00:46:51 - Sprecher SPEAKER_05:  Nee, ich muss sogar echt mal
+00:46:51 - 00:46:53 - Sprecher SPEAKER_05:  ganz dringend was loswerden da.
+00:46:54 - 00:46:54 - Sprecher SPEAKER_10:  Junge.
+00:46:56 - 00:46:57 - Sprecher SPEAKER_10:  Jetzt vor dem Event
+00:46:57 - 00:46:58 - Sprecher SPEAKER_05:  eigentlich, ne?
+00:46:58 - 00:47:00 - Sprecher SPEAKER_10:  Ich hatte auch immer so lange Haare, mein Freund.
+00:47:01 - 00:47:02 - Sprecher SPEAKER_05:  Vor den Stream Awards.
+00:47:02 - 00:47:02 - Sprecher SPEAKER_05:  Ja.
+00:47:07 - 00:47:08 - Sprecher SPEAKER_05:  Mach dir nen
+00:47:09 - 00:47:09 - Sprecher SPEAKER_05:  ähm
+00:47:10 - 00:47:11 - Sprecher SPEAKER_05:  Buzzcut.
+00:47:12 - 00:47:14 - Sprecher SPEAKER_05:  Ja, das sieht bei mir komplett beschissen aus.
+00:47:14 - 00:47:15 - Sprecher SPEAKER_05:  Guck mal wirklich, ähm
+00:47:15 - 00:47:17 - Sprecher SPEAKER_10:  also willst du mal deine Haare?
+00:47:17 - 00:47:17 - Sprecher SPEAKER_10:  Richtig schneiden?
+00:47:18 - 00:47:19 - Sprecher SPEAKER_05:  Habe ich ja schon tausendmal gemacht.
+00:47:20 - 00:47:22 - Sprecher SPEAKER_05:  Ja, aber du bist jetzt zwei Zentimeter oder was?
+00:47:22 - 00:47:23 - Sprecher SPEAKER_10:  Ja, Digga, ich meine jetzt richtig schneiden.
+00:47:23 - 00:47:23 - Sprecher SPEAKER_05:  Was? Nein.
+00:47:23 - 00:47:25 - Sprecher SPEAKER_05:  Hey, du hast doch Fotos gesehen.
+00:47:25 - 00:47:27 - Sprecher SPEAKER_05:  Ja, stimmt, aber das muss 20 Jahre her sein.
+00:47:27 - 00:47:28 - Sprecher SPEAKER_09:  Deine Haare sind so lange.
+00:47:28 - 00:47:29 - Sprecher SPEAKER_09:  Das ist vier Jahre her.
+00:47:30 - 00:47:31 - Sprecher SPEAKER_05:  Nee, das kann nicht sein.
+00:47:31 - 00:47:33 - Sprecher SPEAKER_05:  Das ist exakt vier Jahre her.
+00:47:33 - 00:47:35 - Sprecher SPEAKER_05:  Das Datum auf dem Foto ist vor vier Jahren.
+00:47:35 - 00:47:38 - Sprecher SPEAKER_05:  Gorg, wie können deine Haare so schnell wachsen?
+00:47:38 - 00:47:39 - Sprecher SPEAKER_09:  Weil das so tot ist.
+00:47:39 - 00:47:39 - Sprecher SPEAKER_05:  Deswegen hasse ich es ja.
+00:47:40 - 00:47:41 - Sprecher SPEAKER_05:  Ich fasse das nicht.
+00:47:41 - 00:47:42 - Sprecher SPEAKER_09:  Wenn ich dich nicht auf der Länge habe,
+00:47:42 - 00:47:45 - Sprecher SPEAKER_05:  dann muss ich jede Woche zum Friseur laufen.
+00:47:45 - 00:47:47 - Sprecher SPEAKER_05:  Kann ich mir aus deinen Haaren Extensions machen?
+00:47:47 - 00:47:49 - Sprecher SPEAKER_09:  Ich kann die doch einfach abschneiden und mit Heißkleber an so Clips kleben.
+00:47:49 - 00:47:50 - Sprecher SPEAKER_09:  Ja, könnte es so theoretisch.
+00:47:52 - 00:47:53 - Sprecher SPEAKER_05:  Mit Heißkleber?
+00:47:55 - 00:47:56 - Sprecher SPEAKER_05:  Also, ich sag mal so.
+00:47:56 - 00:47:58 - Sprecher SPEAKER_09:  Ich fasse mir Extensions aus deinen Haaren.
+00:47:58 - 00:48:00 - Sprecher SPEAKER_10:  Scheiß drauf, schneid einfach.
+00:48:00 - 00:48:02 - Sprecher SPEAKER_10:  Aber hast du manchmal das Gefühl so, mach mal wieder alles weg?
+00:48:02 - 00:48:03 - Sprecher SPEAKER_10:  Alter, wäre das heftig.
+00:48:04 - 00:48:05 - Sprecher SPEAKER_09:  Schön stell dir das mal vor.
+00:48:05 - 00:48:05 - Sprecher SPEAKER_09:  Geht. Nö, nicht wirklich.
+00:48:06 - 00:48:07 - Sprecher SPEAKER_09:  Ich will einfach wirklich richtige Extensions ausstellen.
+00:48:07 - 00:48:09 - Sprecher SPEAKER_09:  Gorg, wollen wir das zum Neujahr machen?
+00:48:09 - 00:48:10 - Sprecher SPEAKER_02:  Zum Silvester?
+00:48:10 - 00:48:10 - Sprecher SPEAKER_06:  Was?
+00:48:11 - 00:48:13 - Sprecher SPEAKER_02:  Dürfen wir zum Silvester deine Haare abschneiden?
+00:48:13 - 00:48:14 - Sprecher SPEAKER_06:  Warum?
+00:48:14 - 00:48:16 - Sprecher SPEAKER_06:  Ich glaube, er sollte niemanden ranlassen, was ich kann.
+00:48:16 - 00:48:17 - Sprecher SPEAKER_06:  Wer wird seit mit in den Frieden?
+00:48:17 - 00:48:17 - Sprecher SPEAKER_06:  Ich bin Friseur.
+00:48:17 - 00:48:23 - Sprecher SPEAKER_02:  Aber stell dir mal vor, wie witzig das wäre, wenn ich die mir immer reinklippen würde und dann sagen könnte, das sind Gorgs Haare.
+00:48:24 - 00:48:24 - Sprecher SPEAKER_10:  Das wäre so witzig.
+00:48:24 - 00:48:27 - Sprecher SPEAKER_06:  Alle zwei Wochen gehen ja auch klar, Gorg.
+00:48:27 - 00:48:28 - Sprecher SPEAKER_06:  Alle zwei Wochen easy.
+00:48:29 - 00:48:30 - Sprecher SPEAKER_10:  Was geht mit alle zwei Wochen?
+00:48:31 - 00:48:31 - Sprecher SPEAKER_10:  Friseur?
+00:48:32 - 00:48:32 - Sprecher SPEAKER_10:  Ja.
+00:48:33 - 00:48:34 - Sprecher SPEAKER_10:  Ich gehe alle drei Wochen.
+00:48:34 - 00:48:36 - Sprecher SPEAKER_10:  Junge, ich habe, normalerweise gehe ich alle drei Wochen.
+00:48:37 - 00:48:41 - Sprecher SPEAKER_10:  Aber jetzt habe ich acht Wochen Termin gehabt, weil ich lang wachsen lasse.
+00:48:42 - 00:48:44 - Sprecher SPEAKER_10:  Aber drei Wochen, vier Wochen würde reichen, mein Freund.
+00:48:45 - 00:48:46 - Sprecher SPEAKER_10:  Es kommt drauf an, was du tragen willst.
+00:48:46 - 00:48:46 - Sprecher SPEAKER_10:  Nee.
+00:48:48 - 00:48:48 - Sprecher SPEAKER_10:  Ich habe zwei Wochen.
+00:48:48 - 00:48:49 - Sprecher SPEAKER_10:  Wenn du die Seiten lang haben willst.
+00:48:49 - 00:48:50 - Sprecher SPEAKER_10:  Zwei Wochen reichen.
+00:48:50 - 00:48:54 - Sprecher SPEAKER_06:  Wenn du die Seiten lang haben willst, reichen drei, vier Wochen.
+00:48:55 - 00:48:58 - Sprecher SPEAKER_10:  Junge, Gorg, ich mache dir mal ein Style-Ding, ganz ehrlich.
+00:48:59 - 00:49:01 - Sprecher SPEAKER_10:  Ich steile dich mal richtig auf, mein Freund.
+00:49:01 - 00:49:02 - Sprecher SPEAKER_09:  Ich muss gehen.
+00:49:03 - 00:49:04 - Sprecher SPEAKER_10:  Wieso, ist das selber da?
+00:49:04 - 00:49:04 - Sprecher SPEAKER_10:  Ja.
+00:49:05 - 00:49:07 - Sprecher SPEAKER_02:  Und, Aster, wie oft gehst du zum Friseur?
+00:49:17 - 00:49:24 - Unbekannt:  Ich gehe immer ab, wenn duSEIst.
+00:49:29 - 00:49:30 - Sprecher SPEAKER_09:  Weißt du was, ein contag有沒有 mal sicher.
+00:49:30 - 00:49:30 - Sprecher SPEAKER_09: 
+00:49:30 - 00:49:33 - Sprecher SPEAKER_09:  Aber es wäre doch Org wahnsinnig schön, wenn du das also so passieren würdest, weil
+00:49:33 - 00:49:34 - Unbekannt:  wir ja, eben die Arten einstellen mussten.
+00:49:34 - 00:49:34 - Unbekannt:  Ich purl dir nicht immer dieseauthentic.
+00:49:34 - 00:49:46 - Unbekannt:  Du nimm einènciarijches Brot mal zu mientras!
+00:49:46 - 00:49:48 - Sprecher SPEAKER_09:  Wie hübsch das ist.
+00:49:48 - 00:49:50 - Sprecher SPEAKER_09:  Guckt euch das mal an, bitte.
+00:49:55 - 00:49:57 - Sprecher SPEAKER_09:  Aber es wäre wirklich witzig,
+00:49:57 - 00:49:59 - Sprecher SPEAKER_09:  wenn Gorg mir seine Ache geben würde
+00:49:59 - 00:50:02 - Sprecher SPEAKER_09:  und ich daraus richtige Extensions machen würde.
+00:50:02 - 00:50:03 - Sprecher SPEAKER_09:  Aus Spargründen.
+00:50:06 - 00:50:07 - Sprecher SPEAKER_09:  Das ist das Witzigste,
+00:50:08 - 00:50:09 - Sprecher SPEAKER_09:  was ich mir vorstellen kann.
+00:50:14 - 00:50:15 - Sprecher SPEAKER_09:  Mann, ist das hübsch.
+00:50:17 - 00:50:19 - Sprecher SPEAKER_09:  Was tust du, Chuck?
+00:51:01 - 00:51:02 - Sprecher SPEAKER_09:  Was tust du, Chuck?
+00:51:02 - 00:51:04 - Sprecher SPEAKER_09:  Und Chuck, was hast du sonst so erlebt bisher?
+00:51:04 - 00:51:05 - Unbekannt:  Ja.
+00:51:06 - 00:51:06 - Unbekannt:  Ja.
+00:51:16 - 00:51:17 - Sprecher SPEAKER_08:  Chuck?
+00:51:28 - 00:51:30 - Sprecher SPEAKER_09:  Chuck, hast du Wasser in die Ohren gekriegt?
+00:51:32 - 00:51:34 - Sprecher SPEAKER_09:  Ich höre dich nicht.
+00:51:36 - 00:51:36 - Sprecher SPEAKER_09:  Hm.
+00:51:38 - 00:51:39 - Unbekannt:  Hm.
+00:51:46 - 00:51:47 - Unbekannt:  Ich höre dich nicht.
+00:51:48 - 00:51:59 - Unbekannt:  Ich höre dich nicht.
+00:51:59 - 00:52:00 - Unbekannt:  Ich höre dich nicht.
+00:52:03 - 00:52:05 - Sprecher SPEAKER_04:  Wie schon sagte ich, ein Lump.
+00:52:06 - 00:52:07 - Sprecher SPEAKER_09:  Hallo.
+00:52:08 - 00:52:10 - Sprecher SPEAKER_09:  Du hast einen Lump gefangen?
+00:52:11 - 00:52:12 - Sprecher SPEAKER_04:  Ja, ich sagte ja.
+00:52:12 - 00:52:14 - Sprecher SPEAKER_04:  Das ist doch dein Lieblingsfisch.
+00:52:15 - 00:52:15 - Sprecher SPEAKER_04:  Eigentlich schon.
+00:52:15 - 00:52:21 - Sprecher SPEAKER_04:  den schenke ich meistens weiter. Aber der ist sauhässlich. Das macht nichts zu, man kann ihn
+00:52:21 - 00:52:30 - Sprecher SPEAKER_04:  hier grillen, dann schmeckt er dafür umso zarter. Hübsch hier, oder? Es ist voll hübsch. Und ruhig.
+00:52:31 - 00:52:37 - Sprecher SPEAKER_04:  Ich glaube, sollten wir uns öfters am Bärenpark treffen. Ja, warum nicht? Ich glaube, dass sie
+00:52:37 - 00:52:42 - Sprecher SPEAKER_04:  hier auch saisonal umbauen. Ich kann mich mal erinnern, dass sie hier mal einen Baum mit vielen
+00:52:42 - 00:52:47 - Sprecher SPEAKER_04:  Leuchteästen im Wasser stehen hatten. Vielleicht habe ich mir das auch noch eingebildet.
+00:53:03 - 00:53:10 - Sprecher SPEAKER_09:  Das ist ein Bär. Das ist Berthold, der Sandybär. Ist das das Wahrzeichen von Sandy?
+00:53:11 - 00:53:12 - Sprecher SPEAKER_04:  Muss heute sein.
+00:53:14 - 00:53:19 - Sprecher SPEAKER_04:  Berthold schreit, weil der letzte Baum in Sandy gefällt wurde. Und dann kam die Wüste.
+00:53:20 - 00:53:25 - Sprecher SPEAKER_09:  Aber hier sind doch super viele Bäume. Ja, die wurden extra wieder hergepflanzt.
+00:53:25 - 00:53:30 - Sprecher SPEAKER_04:  Aber früher war hier kein einziger Baum. Das ist ja total traurig, Mensch.
+00:53:32 - 00:53:39 - Sprecher SPEAKER_04:  Jetzt ist der Bär und die Bäume wieder da. Aber er schreit.
+00:53:41 - 00:53:42 - Sprecher SPEAKER_04:  Vielleicht die Odel.
+00:53:45 - 00:53:47 - Sprecher SPEAKER_09:  Ja, genau. Er singt wahrscheinlich.
+00:53:51 - 00:53:51 - Sprecher SPEAKER_09:  Oh Gott.
+00:53:57 - 00:54:00 - Sprecher SPEAKER_09:  Gut, dann ist das jetzt vielleicht ein guter neuer Angelspot.
+00:54:07 - 00:54:10 - Sprecher SPEAKER_04:  Genau. Ich nehme dein Angebot gerne an, wieder in die Stadt zu fahren.
+00:54:10 - 00:54:11 - Sprecher SPEAKER_04:  Ja, ich bringe nicht wohin.
+00:54:12 - 00:54:12 - Sprecher SPEAKER_09:  Und?
+00:54:12 - 00:54:12 - Sprecher SPEAKER_09:  Und?
+00:54:12 - 00:54:14 - Sprecher SPEAKER_09:  Ich bin nicht der Typ, für dich vom Norden in die Stadt zu fahren.
+00:54:19 - 00:54:24 - Sprecher SPEAKER_04:  Ja, aber ich finde mich gerade sehr wohl, da unten mit dem Fahrrad herum zu cruisen.
+00:54:24 - 00:54:29 - Sprecher SPEAKER_04:  Obwohl natürlich mit dem Taxi unterfahren und dann mit dem Fahrrad herum cruisen noch cooler wäre.
+00:54:29 - 00:54:29 - Sprecher SPEAKER_08:  Absolut.
+00:54:36 - 00:54:39 - Sprecher SPEAKER_09:  Hast du hier oben schon den Biker Club getroffen?
+00:54:51 - 00:54:52 - Unbekannt:  Hm?
+00:54:56 - 00:54:58 - Sprecher SPEAKER_04:  Ich habe nichts gesehen.
+00:54:59 - 00:55:01 - Sprecher SPEAKER_08:  Hast du meine Frage gehört?
+00:55:01 - 00:55:02 - Unbekannt:  Nein.
+00:55:02 - 00:55:05 - Sprecher SPEAKER_09:  Ob du den Biker Club von hier oben kennst?
+00:55:07 - 00:55:14 - Sprecher SPEAKER_04:  Nein. Ähm, vielleicht sind die hier ein wenig weiter Richtung Wüste. Aber nach rechts und schau mal da.
+00:55:16 - 00:55:21 - Sprecher SPEAKER_09:  Alles gut. Ich muss nicht gucken. Ich wollte nur wissen, ob du die kennst, zufällig. Hätte ja sein können.
+00:55:22 - 00:55:25 - Sprecher SPEAKER_04:  Nein, wie gesagt, ich habe hier gar keine Kontakte mehr.
+00:55:29 - 00:55:30 - Sprecher SPEAKER_09:  Ich habe keine Kontakte mehr.
+00:55:30 - 00:55:33 - Sprecher SPEAKER_09:  Ich vergesse immer, dass du die ganze Zeit unterwegs warst, Chuck.
+00:55:35 - 00:55:36 - Unbekannt:  Ich habe keine Kontakte mehr.
+00:55:37 - 00:55:42 - Sprecher SPEAKER_09:  Weißt du, immer wenn ich an dich gedacht habe, habe ich mir vorgestellt, wie du einfach mit deinem Rad hier rumfährst.
+00:55:42 - 00:55:48 - Sprecher SPEAKER_09:  Aber ich vergesse immer, dass du auch viel unterwegs warst und Urlaub gemacht hast und angeln warst in verschiedenen Städten und so.
+00:55:48 - 00:55:53 - Sprecher SPEAKER_04:  Ja, ja, aber ich bin auch in anderen Städten herumgeradelt. Ich kann nicht anders.
+00:55:56 - 00:55:58 - Sprecher SPEAKER_09:  Und hast du da irgendwas Besonderes erlebt?
+00:56:03 - 00:56:05 - Sprecher SPEAKER_04:  Ja, ein paar Abenteuer waren es schon.
+00:56:08 - 00:56:10 - Sprecher SPEAKER_09:  Aber du bist nicht im Gefängnis. Das ist gut.
+00:56:10 - 00:56:12 - Sprecher SPEAKER_04:  Ja, das hat mich erstaunt.
+00:56:15 - 00:56:19 - Sprecher SPEAKER_04:  Aber es war schön, dich dann wiederzutreffen am Flughafen. Das war cool.
+00:56:20 - 00:56:21 - Sprecher SPEAKER_09:  Das war wirklich schön.
+00:56:22 - 00:56:23 - Sprecher SPEAKER_09:  Und dann spezialisiert.
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:26 - Sprecher SPEAKER_04:  Und dann war es wieder so, dass du in Japan warst. Das war interessant. Eine fremde Welt für mich.
+00:56:27 - 00:56:35 - Sprecher SPEAKER_09:  Ja, fühlt sich schon fast an wie ein zweites Zuhause für mich. Keine Ahnung. Obwohl ich gar nicht so viel draußen unterwegs war. Meistens war ich nur in irgendwelchen stickigen Räumen.
+00:56:37 - 00:56:42 - Sprecher SPEAKER_04:  Ich dachte, du hättest so ein Samurai-Praktikum gemacht oder habe ich mir das so zusammengeleimt.
+00:56:42 - 00:56:42 - Sprecher SPEAKER_04:  Taxi-Praktikum.
+00:56:42 - 00:56:45 - Sprecher SPEAKER_04:  Da wolltest du doch Taxi-Samurai irgendwas werden.
+00:56:45 - 00:56:50 - Sprecher SPEAKER_04:  Taxi-Praktikum, Taxi-Samurai ist fast das Gleiche. Aber ich habe es dann irgendwann als Urlaub gemacht.
+00:56:50 - 00:56:53 - Sprecher SPEAKER_09:  Weil die Taxifahrer in Japan, die ich nicht mehr so gut verstehe, die haben mich nicht mehr so gut verstanden.
+00:56:53 - 00:56:53 - Sprecher SPEAKER_09:  Ich habe mich dann immer wieder so verstanden.
+00:56:53 - 00:56:53 - Sprecher SPEAKER_09: 
+00:56:53 - 00:56:53 - Sprecher SPEAKER_09: 
+00:56:53 - 00:56:53 - Sprecher SPEAKER_09: 
+00:56:53 - 00:57:04 - Sprecher SPEAKER_09:  Die sind super streng. Das fühlt sich fast an, als würdest du im PD arbeiten. Du musst sogar den anderen Fahrgästen die Tür aufmachen mit einem Knopf. Die dürfen doch nicht mal selber die Tür betätigen.
+00:57:04 - 00:57:10 - Sprecher SPEAKER_09:  Und man darf auch kein Trinkgeld annehmen und sowas. Dementsprechend habe ich dann irgendwann aufgehört. Ich hatte keine Lust mehr.
+00:57:11 - 00:57:14 - Sprecher SPEAKER_04:  Ich stelle mir gerade vor, wenn Wagner das machen müsste.
+00:57:16 - 00:57:17 - Sprecher SPEAKER_09:  Du meinst Texas?
+00:57:17 - 00:57:18 - Sprecher SPEAKER_09:  Ja, natürlich.
+00:57:20 - 00:57:22 - Unbekannt:  Ich bin auch ein sehr guter Fahrer.
+00:57:22 - 00:57:23 - Unbekannt:  Ein bisschen.
+00:57:40 - 00:57:43 - Sprecher SPEAKER_08:  Dass wir dich cellphone, die Beete zu verändern?
+00:57:43 - 00:57:47 - Sprecher SPEAKER_08:  published by Mr.
+00:57:47 - 00:57:48 - Unbekannt:  Wars
+00:57:48 - 00:57:52 - Sprecher SPEAKER_03:  Die Sendung wird live untertitelt.
+00:57:52 - 00:57:54 - Sprecher SPEAKER_09:  du auf deine Freunde? Ja.
+00:57:55 - 00:57:56 - Sprecher SPEAKER_09:  Okay, hervorragend. Ich dachte, du wärst hier
+00:57:56 - 00:57:58 - Sprecher SPEAKER_09:  gestrandet, sonst hätten wir dich natürlich mitgenommen.
+00:57:59 - 00:58:00 - Sprecher SPEAKER_03:  Ja, mit einem
+00:58:01 - 00:58:02 - Sprecher SPEAKER_03:  Zweisitzer. Naja, nicht
+00:58:02 - 00:58:04 - Sprecher SPEAKER_09:  ganz. Ich hab hier Katschak dabei, der
+00:58:04 - 00:58:06 - Sprecher SPEAKER_09:  kann, glaub ich, auch Motorräder reparieren oder nicht.
+00:58:06 - 00:58:08 - Sprecher SPEAKER_09:  Hätte ja sein können, dass irgendwas kaputt gegangen ist bei dir.
+00:58:09 - 00:58:10 - Sprecher SPEAKER_03:  Ja, klar. Und Pizzen hätte
+00:58:10 - 00:58:12 - Sprecher SPEAKER_04:  ich auch noch dabei. Nee, leider
+00:58:12 - 00:58:14 - Sprecher SPEAKER_03:  fehlen die anderen noch. Ach so,
+00:58:14 - 00:58:16 - Sprecher SPEAKER_09:  Verzeihung, wir wollten dich nicht stören. Die
+00:58:16 - 00:58:18 - Sprecher SPEAKER_09:  pissen ganz schön lange. Ist das normal bei euch?
+00:58:19 - 00:58:20 - Sprecher SPEAKER_03:  Ja, es sind
+00:58:20 - 00:58:22 - Sprecher SPEAKER_03:  also viel
+00:58:22 - 00:58:24 - Sprecher SPEAKER_03:  Bier getrunken, da muss man
+00:58:24 - 00:58:25 - Sprecher SPEAKER_03:  auch viel pissen. Oh,
+00:58:26 - 00:58:28 - Sprecher SPEAKER_09:  alles klar, völlig klar.
+00:58:28 - 00:58:30 - Sprecher SPEAKER_09:  Naja, gut, falls du mal was brauchst,
+00:58:30 - 00:58:32 - Sprecher SPEAKER_09:  sag Bescheid. Coole Kutter
+00:58:32 - 00:58:33 - Sprecher SPEAKER_09:  hast du da an.
+00:58:34 - 00:58:35 - Sprecher SPEAKER_03:  Ja, danke. Ist das eine Kutter?
+00:58:36 - 00:58:36 - Sprecher SPEAKER_03:  Ja.
+00:58:41 - 00:58:42 - Sprecher SPEAKER_09:  Was seid
+00:58:42 - 00:58:43 - Sprecher SPEAKER_09:  ihr für ein Club?
+00:58:44 - 00:58:45 - Sprecher SPEAKER_03:  Angels of Death.
+00:58:46 - 00:58:47 - Sprecher SPEAKER_09:  Oh, cool.
+00:58:48 - 00:58:49 - Sprecher SPEAKER_08:  Geile Karren.
+00:58:50 - 00:58:52 - Sprecher SPEAKER_08:  Na, sagt man nicht so, ne? Geile Bikes.
+00:58:53 - 00:58:54 - Sprecher SPEAKER_08:  Geile Bikes.
+00:58:54 - 00:58:56 - Sprecher SPEAKER_03:  Nee, die Bikes sind absoluter Schrott.
+00:58:57 - 00:58:58 - Sprecher SPEAKER_09:  Warum habt ihr Schrottbikes?
+00:58:59 - 00:59:00 - Sprecher SPEAKER_03:  Ja, weil der
+00:59:01 - 00:59:02 - Sprecher SPEAKER_03:  Motorradhändler uns noch nichts anderes verkauft hat.
+00:59:04 - 00:59:04 - Sprecher SPEAKER_09:  Ach so,
+00:59:05 - 00:59:05 - Sprecher SPEAKER_09:  verstehe.
+00:59:06 - 00:59:08 - Sprecher SPEAKER_09:  Naja, weißt du, ich hab mal gehört,
+00:59:08 - 00:59:10 - Sprecher SPEAKER_09:  es ist scheißegal, mit was für einem Untersatz
+00:59:10 - 00:59:12 - Sprecher SPEAKER_09:  du unterwegs bist, solange der Typ, der
+00:59:12 - 00:59:13 - Sprecher SPEAKER_09:  drauf sitzt, cool ist.
+00:59:15 - 00:59:16 - Sprecher SPEAKER_09:  Reicht das völlig aus. Und ich glaube,
+00:59:16 - 00:59:17 - Sprecher SPEAKER_09:  du bist cool.
+00:59:18 - 00:59:19 - Sprecher SPEAKER_03:  Ja, also,
+00:59:20 - 00:59:22 - Sprecher SPEAKER_03:  wir bringen uns von A nach B, also reicht das.
+00:59:22 - 00:59:24 - Sprecher SPEAKER_09:  Hm. Was hättet ihr denn
+00:59:24 - 00:59:25 - Sprecher SPEAKER_09:  gern für Motorräder?
+00:59:28 - 00:59:29 - Sprecher SPEAKER_03:  Ja.
+00:59:31 - 00:59:32 - Sprecher SPEAKER_03:  Zombies.
+00:59:33 - 00:59:33 - Sprecher SPEAKER_09:  Zombies.
+00:59:34 - 00:59:35 - Sprecher SPEAKER_09:  Hm.
+00:59:36 - 00:59:38 - Sprecher SPEAKER_03:  Ein Sitzer, zwei Sitzer.
+00:59:40 - 00:59:42 - Sprecher SPEAKER_09:  Naja, wenn ich ne Zombie haben
+00:59:42 - 00:59:43 - Sprecher SPEAKER_09:  wollen würde,
+00:59:46 - 00:59:46 - Sprecher SPEAKER_09:  dann würde ich
+00:59:46 - 00:59:48 - Sprecher SPEAKER_09:  irgendwann mal mit nem Harry Scholl
+00:59:48 - 00:59:48 - Sprecher SPEAKER_09:  sprechen.
+00:59:50 - 00:59:51 - Sprecher SPEAKER_09:  Schönen Abendi!
+00:59:52 - 00:59:54 - Sprecher SPEAKER_03:  Jo, schönen Abend!
+00:59:55 - 00:59:55 - Unbekannt:  stereo
+00:59:55 - 00:59:55 - Unbekannt: 
+00:59:57 - 00:59:58 - Unbekannt:  in
+00:59:58 - 00:59:59 - Unbekannt: ство
+00:59:59 - 00:59:59 - Unbekannt:  End
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Sprecher SPEAKER_03:  Atene
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+00:59:59 - 00:59:59 - Unbekannt: 
+01:00:19 - 01:00:19 - Unbekannt:  Blub mu
+01:00:19 - 01:00:19 - Unbekannt:  Blub
+01:00:19 - 01:00:20 - Unbekannt:  K
