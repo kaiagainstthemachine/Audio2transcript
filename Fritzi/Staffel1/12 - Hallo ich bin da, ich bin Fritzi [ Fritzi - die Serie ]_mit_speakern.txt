@@ -1,0 +1,208 @@
+Transkription Staffel 1 mit Sprechererkennung von 12 - Hallo ich bin da, ich bin Fritzi [ Fritzi - die Serie ].wav:
+00:00:33 - 00:00:37 - Sprecher SPEAKER_09:  Du glaubst gar nicht, wie aufgeregt ich an meinem ersten Tag im PD war, Mr. Rocket.
+00:00:37 - 00:00:39 - Sprecher SPEAKER_09:  Ich wünschte, du hättest dabei sein können.
+00:00:40 - 00:00:43 - Sprecher SPEAKER_09:  Ich bin Fritzi, ich bin jetzt Polizistin.
+00:00:43 - 00:00:46 - Sprecher SPEAKER_09:  Schau es dir an, keiner kann das wirklich glauben.
+00:00:46 - 00:00:47 - Sprecher SPEAKER_09:  Komm, los, zeig mir mehr.
+00:00:47 - 00:00:50 - Sprecher SPEAKER_09:  Oh mein Gott, ich wünschte, Mr. Rocket könnte mich gerade sehen.
+00:00:51 - 00:00:54 - Sprecher SPEAKER_09:  Aber nicht nur ich hab mich gefreut, sondern auch alle im PD.
+00:00:56 - 00:00:57 - Sprecher SPEAKER_12:  Ja, grandios.
+00:00:57 - 00:00:57 - Sprecher SPEAKER_09:  Grandios.
+00:00:57 - 00:00:58 - Sprecher SPEAKER_09:  Servus.
+00:00:58 - 00:00:59 - Sprecher SPEAKER_12:  Ja, na.
+00:01:01 - 00:01:02 - Sprecher SPEAKER_12:  Naja, bitte.
+00:01:02 - 00:01:04 - Sprecher SPEAKER_12:  Ja, dann gehen Sie mal nach vorne in den Meetingraum.
+00:01:04 - 00:01:05 - Sprecher SPEAKER_12:  Okay, alles klar.
+00:01:05 - 00:01:06 - Sprecher SPEAKER_09:  Mal die Papiere angucken.
+00:01:06 - 00:01:07 - Sprecher SPEAKER_09:  Hallo Kollegen.
+00:01:09 - 00:01:10 - Sprecher SPEAKER_12:  Ja, grüße.
+00:01:10 - 00:01:11 - Sprecher SPEAKER_12:  Wie geht's, wie steht's?
+00:01:11 - 00:01:12 - Sprecher SPEAKER_06:  Wie geht's, wie steht's euch?
+00:01:13 - 00:01:15 - Sprecher SPEAKER_06:  Och, eigentlich immer scheiße, ne?
+00:01:15 - 00:01:17 - Sprecher SPEAKER_06:  Was, wirklich?
+00:01:17 - 00:01:18 - Sprecher SPEAKER_09:  Hallo Kollegen.
+00:01:19 - 00:01:19 - Sprecher SPEAKER_09:  Ja, grüße.
+00:01:20 - 00:01:22 - Sprecher SPEAKER_05:  Ist doch die gestern zu schnell gefahren, oder was?
+00:01:23 - 00:01:23 - Sprecher SPEAKER_05:  Ja, grandios.
+00:01:24 - 00:01:27 - Sprecher SPEAKER_05:  Am meisten haben sich allerdings meine Freunde für mich gefreut.
+00:01:27 - 00:01:28 - Sprecher SPEAKER_09:  Fritzi?
+00:01:28 - 00:01:30 - Sprecher SPEAKER_09:  Guck mich an, guck mal wie ich aussehe.
+00:01:30 - 00:01:31 - Sprecher SPEAKER_10:  Ja, was ist denn los?
+00:01:31 - 00:01:33 - Sprecher SPEAKER_10:  Ich setzte eine Platte.
+00:01:33 - 00:01:35 - Sprecher SPEAKER_11:  Ich bin jetzt bei der Polizei.
+00:01:37 - 00:01:38 - Sprecher SPEAKER_11:  Fritzi, hat den Job.
+00:01:38 - 00:01:39 - Sprecher SPEAKER_11:  Fritzi, hat den Job.
+00:01:39 - 00:01:39 - Sprecher SPEAKER_11:  Oh ja.
+00:01:39 - 00:01:40 - Sprecher SPEAKER_11:  Ich hab den Job.
+00:01:40 - 00:01:43 - Sprecher SPEAKER_11:  Mein erster Tag im PD war wirklich krass.
+00:01:43 - 00:01:45 - Sprecher SPEAKER_09:  Ich hab richtig viel gelernt.
+00:01:46 - 00:01:47 - Sprecher SPEAKER_08:  Hallo, ich bin da.
+00:01:47 - 00:01:47 - Sprecher SPEAKER_08:  Ich bin Fritzi.
+00:01:48 - 00:01:48 - Sprecher SPEAKER_08:  Nein.
+00:01:48 - 00:01:49 - Sprecher SPEAKER_08:  Ach, ich bin...
+00:01:49 - 00:01:50 - Sprecher SPEAKER_08:  Hallo Fritzi.
+00:01:51 - 00:01:52 - Sprecher SPEAKER_02:  Ist Franklin.
+00:01:53 - 00:01:54 - Sprecher SPEAKER_08:  Funkdisziplin.
+00:01:54 - 00:01:56 - Sprecher SPEAKER_02:  So nicht, bitte.
+00:01:57 - 00:01:57 - Sprecher SPEAKER_02:  Kannst du jetzt mal...
+00:01:57 - 00:01:57 - Sprecher SPEAKER_02: 
+00:01:57 - 00:01:57 - Sprecher SPEAKER_02: 
+00:01:57 - 00:01:58 - Sprecher SPEAKER_02:  Ja, richtig.
+00:01:59 - 00:02:02 - Sprecher SPEAKER_09:  Mit der Funkdisziplin bin ich nie so richtig warm geworden.
+00:02:02 - 00:02:05 - Sprecher SPEAKER_09:  Aber das erzähle ich dir ein bisschen genauer.
+00:02:45 - 00:02:47 - Unbekannt:  Doch, aber...
+00:02:54 - 00:02:55 - Unbekannt:  Ich kann auf etwas klaren Wachstums
+00:02:55 - 00:02:55 - Unbekannt: 
+00:02:55 - 00:02:55 - Unbekannt:  Für die admiren da hinten am Boden.
+00:02:55 - 00:02:57 - Unbekannt:  Werde ich schon als!
+00:03:12 - 00:03:27 - Unbekannt:  Untertitelung des ZDF, 2020
+00:03:48 - 00:03:57 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:04:10 - 00:04:16 - Sprecher SPEAKER_12:  Untertitelung des ZDF, 2020
+00:04:38 - 00:04:40 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:05:08 - 00:05:10 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:05:51 - 00:05:57 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:06:01 - 00:06:08 - Sprecher SPEAKER_08:  Untertitelung des ZDF, 2020
+00:06:36 - 00:06:55 - Sprecher SPEAKER_10:  Untertitelung des ZDF, 2020
+00:07:09 - 00:07:24 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:07:53 - 00:07:57 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:08:09 - 00:08:11 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:08:56 - 00:08:56 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:09:08 - 00:09:11 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:09:32 - 00:09:33 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:10:09 - 00:10:10 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:39 - 00:10:40 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:10:57 - 00:11:01 - Sprecher SPEAKER_09:  Das sag ich Ihnen. Das wollen wir natürlich nicht. Das würde uns gar nicht helfen.
+00:11:02 - 00:11:06 - Sprecher SPEAKER_09:  Sie müssen unbedingt in Ihre Aussage reinschreiben, dass Sie mich in ein krasses Kreuz vor Hohen...
+00:11:06 - 00:11:07 - Sprecher SPEAKER_09:  Ne, darf ich eine Aussage machen?
+00:11:08 - 00:11:11 - Sprecher SPEAKER_09:  So, dann Personalien aufnehmen.
+00:11:11 - 00:11:13 - Sprecher SPEAKER_09:  Ist cool, Eve, sag ich dir. Also Personalien aufnehmen.
+00:11:14 - 00:11:16 - Sprecher SPEAKER_02:  Wie sind Ihre Personalien?
+00:11:16 - 00:11:18 - Sprecher SPEAKER_02:  Ich geb Ihnen meine Auswahl.
+00:11:18 - 00:11:19 - Sprecher SPEAKER_09:  Das ist das Beste, ganz genau.
+00:11:20 - 00:11:22 - Sprecher SPEAKER_02:  So, Miss Franklin, das müssen Sie alles mitschreiben.
+00:11:22 - 00:11:23 - Sprecher SPEAKER_02:  Ach, scheiße.
+00:11:23 - 00:11:26 - Sprecher SPEAKER_02:  Hab Ihnen ja schon gesagt, wie ich heiße. Jetzt sehen Sie, dass ich die Wahrheit gesagt hab.
+00:11:26 - 00:11:29 - Sprecher SPEAKER_09:  Ja, hab ich nicht angezweifelt. Wieso soll ich das anzweifeln? Du hast voll ehrlich angehört.
+00:11:29 - 00:11:30 - Sprecher SPEAKER_09:  Wie heißen die Neue?
+00:11:30 - 00:11:32 - Sprecher SPEAKER_09:  Okay, alles klar, ich bin fertig, Quint.
+00:11:32 - 00:11:35 - Sprecher SPEAKER_09:  So, Miss Franklin. Ja, den Notizblock können Sie direkt draußen lassen.
+00:11:36 - 00:11:37 - Sprecher SPEAKER_02:  Hab ich draußen gelassen.
+00:11:37 - 00:11:40 - Sprecher SPEAKER_09:  Jetzt muss die Dame noch eine Aussage machen. Und das müssen Sie wortwörtlich mitschreiben.
+00:11:42 - 00:11:45 - Sprecher SPEAKER_09:  Diane Dixon. Daher kommt wahrscheinlich auch die Abkürzung Didi.
+00:11:46 - 00:11:49 - Sprecher SPEAKER_09:  Das wird mir jetzt erst klar, wo ich das niedergeschrieben in diesem Brief sehe.
+00:11:50 - 00:11:52 - Sprecher SPEAKER_09:  Und weißt du, was Didi dann ausgesagt hat?
+00:11:52 - 00:11:54 - Sprecher SPEAKER_09:  Warte, ich zitiere es dir Wort für Wort.
+00:11:54 - 00:12:04 - Sprecher SPEAKER_09:  Nachdem Officer Franklin mich in ein krasses Kreuzverhör genommen hat, bin ich seelisch zusammengebrochen und hab alles gestanden.
+00:12:04 - 00:12:12 - Sprecher SPEAKER_09:  Ich bin da eingebrochen und habe pinke Würfel geklaut. Für meine Spielrunde? Ich bin da Orkschurke.
+00:12:12 - 00:12:16 - Sprecher SPEAKER_09:  Schreiben Sie noch hin, sie hat großartige Polizeiarbeit geleistet.
+00:12:16 - 00:12:22 - Sprecher SPEAKER_09:  Mhm, sie hat großartige Polizeiarbeit geleistet.
+00:12:22 - 00:12:24 - Sprecher SPEAKER_09:  Okay, hab ich aufgeschrieben.
+00:12:24 - 00:12:25 - Sprecher SPEAKER_09:  Du wolltest irgendwas in die Abkürzung.
+00:12:25 - 00:12:26 - Sprecher SPEAKER_09:  Alles klar, dankeschön. Das war meine Aussage.
+00:12:26 - 00:12:28 - Sprecher SPEAKER_09:  Okay, das ist die beste Aussage, die ich kenne.
+00:12:28 - 00:12:29 - Sprecher SPEAKER_09:  Danke schön, Franklin.
+00:12:30 - 00:12:33 - Sprecher SPEAKER_09:  Also, das ist auch die einzige, die ich jetzt aufgenommen habe heute. Aber trotzdem.
+00:12:33 - 00:12:34 - Sprecher SPEAKER_09:  Dankeschön, Didi.
+00:12:34 - 00:12:35 - Sprecher SPEAKER_09:  Sehr gerne.
+00:12:35 - 00:12:39 - Sprecher SPEAKER_09:  Die haben Didi und Eve behandelt, als wären die Schwerkriminelle.
+00:12:39 - 00:12:44 - Sprecher SPEAKER_09:  Ich meine, ganz schön lächerlich, dass wegen so einem Plastikwürfel so ein Aufriss gemacht wurde.
+00:12:44 - 00:12:47 - Sprecher SPEAKER_09:  Brauchen Sie da schon ein bisschen mit ihnen reden?
+00:12:47 - 00:12:49 - Sprecher SPEAKER_09:  Ja, können wir auch mal. Können Sie auch versuchen.
+00:12:50 - 00:12:51 - Sprecher SPEAKER_04:  Hey, Lady. Hey, Lady.
+00:12:52 - 00:12:53 - Sprecher SPEAKER_09:  Ja, Lady?
+00:12:53 - 00:12:55 - Sprecher SPEAKER_09:  Hey, könnt ihr zweimal bitte mit dem Herrn jetzt reden?
+00:12:55 - 00:12:56 - Sprecher SPEAKER_09:  Sag mal.
+00:12:56 - 00:12:59 - Sprecher SPEAKER_09:  Eben, Eve, Didi, redet doch jetzt mit ihm. Bitte, bitte.
+00:12:59 - 00:13:03 - Sprecher SPEAKER_09:  Kommt ihr zu Liebe, weil du so eine coole Frau bist?
+00:13:03 - 00:13:04 - Sprecher SPEAKER_09:  Ja.
+00:13:04 - 00:13:06 - Sprecher SPEAKER_09:  Officer, Polizistin, Frau, Officer Franklin.
+00:13:07 - 00:13:07 - Sprecher SPEAKER_09:  Ja.
+00:13:07 - 00:13:09 - Sprecher SPEAKER_09:  Okay, let's go.
+00:13:09 - 00:13:12 - Sprecher SPEAKER_04:  Ihr kennt mich ja schon, Nakamura von der Staatsanwaltschaft.
+00:13:13 - 00:13:15 - Sprecher SPEAKER_04:  Oh nein, du bist der, der immer unnötig hohe Strafen gibt. Hallo, hallo.
+00:13:15 - 00:13:23 - Sprecher SPEAKER_11:  Da ihr beide ja aber vermummt aus dem Haus rausgerannt seid, würde ich euch beiden jeweils einen Strafbefehl über 500 Euro geben.
+00:13:23 - 00:13:23 - Sprecher SPEAKER_04: 
+00:13:23 - 00:13:25 - Sprecher SPEAKER_04:  100 Dollar aussprechen für die Vermummung?
+00:13:25 - 00:13:26 - Sprecher SPEAKER_04:  Genau.
+00:13:26 - 00:13:27 - Sprecher SPEAKER_04:  Das ist auch angemessen, Sir, sage ich Ihnen.
+00:13:28 - 00:13:33 - Sprecher SPEAKER_04:  Und würde ich euch aber die Zeit, die ihr jetzt hier in den Zellen sitzt, mit anrechnen, sodass ihr jetzt auch gehen könnt.
+00:13:33 - 00:13:35 - Sprecher SPEAKER_04:  Sonst stehen wir auf deinem Halbblut.
+00:13:36 - 00:13:39 - Sprecher SPEAKER_09:  Weiß ich nicht, aber ich würde sagen, wir sagen einfach ja und dann sehen wir zu, dass wir hier wegkommen.
+00:13:40 - 00:13:44 - Sprecher SPEAKER_09:  Und wenn ihm dann später einfällt, dass wir eingebrochen sind, dann haben wir, dann ist Pech. Also lasst uns das annehmen.
+00:13:45 - 00:13:46 - Sprecher SPEAKER_09:  Ja, wir nehmen das an.
+00:13:46 - 00:13:46 - Sprecher SPEAKER_09:  Ja, nehmen wir an.
+00:13:47 - 00:13:48 - Sprecher SPEAKER_08:  Super. Super cool.
+00:13:48 - 00:13:49 - Sprecher SPEAKER_08:  Danke.
+00:13:49 - 00:13:53 - Sprecher SPEAKER_08:  Ich bin dann erstmal in den Feierabend gegangen, um Gottfried zu verabschieden.
+00:13:53 - 00:13:58 - Sprecher SPEAKER_09:  Der wollte nämlich zurück nach Wien fliegen und seit diesem Schuss damals hatten wir nicht mehr miteinander gesprochen.
+00:13:59 - 00:14:03 - Sprecher SPEAKER_09:  Entschuldigung, dass ich das gesagt habe, was ich gesagt habe.
+00:14:04 - 00:14:09 - Sprecher SPEAKER_03:  Ist okay, außer Fritz. Wir alle machen Fehler, wir alle haben unsere Sünden.
+00:14:11 - 00:14:13 - Sprecher SPEAKER_03:  Ich weiß, dass du es nicht so gemeint hast.
+00:14:13 - 00:14:14 - Sprecher SPEAKER_03:  Okay.
+00:14:15 - 00:14:17 - Sprecher SPEAKER_03:  Und ich habe einfach in die Luft geschossen.
+00:14:18 - 00:14:19 - Sprecher SPEAKER_03:  Würde ich niemals treffen wollen.
+00:14:19 - 00:14:22 - Sprecher SPEAKER_03:  Das ist einfach zu viel. Ich wusste nicht, wie ich damit umgehen sollte.
+00:14:22 - 00:14:22 - Sprecher SPEAKER_03:  Ich wollte einfach weg.
+00:14:22 - 00:14:23 - Sprecher SPEAKER_03:  Und dann bist du mir nachgefahren.
+00:14:24 - 00:14:25 - Sprecher SPEAKER_03:  Und ich wollte einfach alleine sein.
+00:14:27 - 00:14:28 - Sprecher SPEAKER_03:  Es tut mir leid, Hamster Fritz.
+00:14:28 - 00:14:30 - Sprecher SPEAKER_03:  Mir tut es auch leid, Gottfried.
+00:14:31 - 00:14:32 - Sprecher SPEAKER_12:  Ich spreche dich aus, aber ich aus.
+00:14:33 - 00:14:33 - Sprecher SPEAKER_12:  Komm her, Hamster Fritz.
+00:14:33 - 00:14:34 - Sprecher SPEAKER_12:  Komm her, Hamster Fritz.
+00:14:35 - 00:14:36 - Sprecher SPEAKER_03:  Ich hätte dich so verwisst.
+00:14:36 - 00:14:37 - Sprecher SPEAKER_03:  Ich hätte dich so verwisst.
+00:14:37 - 00:14:38 - Sprecher SPEAKER_03:  Ich hatte so viel Spaß, wie du es sagst.
+00:14:38 - 00:14:39 - Sprecher SPEAKER_03:  Ich hatte so viel Spaß.
+00:14:39 - 00:14:42 - Sprecher SPEAKER_03:  Wir hatten zwei, dreimal richtig doll Spaß, auf jeden Fall.
+00:14:42 - 00:14:43 - Sprecher SPEAKER_09:  Kommt dir bekannt vor, ne?
+00:14:43 - 00:14:45 - Sprecher SPEAKER_09:  Und dann nochmal, noch öfter.
+00:14:48 - 00:14:51 - Sprecher SPEAKER_09:  Mann, Gottfried, du kannst nicht ausreisen jetzt.
+00:14:51 - 00:14:51 - Sprecher SPEAKER_09:  Ja.
+00:14:52 - 00:14:53 - Sprecher SPEAKER_03:  Ich muss ausreisen.
+00:14:53 - 00:14:55 - Sprecher SPEAKER_03:  Wie sieht das aus, wenn ich jetzt nicht ausreise?
+00:14:56 - 00:14:58 - Sprecher SPEAKER_03:  Weil ich hier, es gibt hier nichts mehr für mich.
+00:14:58 - 00:15:00 - Sprecher SPEAKER_03:  Wo soll ich, wo soll ich mein Leben hinführen?
+00:15:00 - 00:15:04 - Sprecher SPEAKER_03:  Ich wette, die anderen Leute, die waren insgeheim beeindruckt von dir.
+00:15:05 - 00:15:09 - Sprecher SPEAKER_03:  Es ist normal, dass man am Anfang so ein paar Probleme hat, reinzukommen.
+00:15:09 - 00:15:11 - Sprecher SPEAKER_03:  Und das ist ja sehr viel.
+00:15:11 - 00:15:15 - Sprecher SPEAKER_03:  Die haben ja die ganzen Funksprüche und Codes und Akten und Systeme.
+00:15:15 - 00:15:16 - Sprecher SPEAKER_03:  Das ist halt richtig viel.
+00:15:17 - 00:15:17 - Sprecher SPEAKER_07:  Stimmt.
+00:15:18 - 00:15:21 - Sprecher SPEAKER_03:  Aber, aber, wenn du das erst mal gelernt hast,
+00:15:21 - 00:15:24 - Sprecher SPEAKER_03:  dann bist du die beste Polizistin von Los Santos.
+00:15:24 - 00:15:25 - Sprecher SPEAKER_03:  Da wird dir keiner mehr das Wasser reichen.
+00:15:25 - 00:15:27 - Sprecher SPEAKER_03:  Okay, alles klar, weiß ich Bescheid.
+00:15:28 - 00:15:30 - Sprecher SPEAKER_09:  Und dann ist Gottfried weggeflogen.
+00:15:31 - 00:15:33 - Sprecher SPEAKER_03:  Ich werde euch alle vermissen.
+00:15:33 - 00:15:36 - Sprecher SPEAKER_03:  Ich werde mich, werde ich niemals vergessen.
+00:15:36 - 00:15:40 - Sprecher SPEAKER_03:  Auf dass wir uns eines Tages wiedersehen, in diesem Leben oder in einem anderen.
+00:15:40 - 00:15:41 - Sprecher SPEAKER_03:  Ich glaube an dich, Hamster Fritz.
+00:15:41 - 00:15:42 - Sprecher SPEAKER_03:  Wir alle glauben an dich.
+00:15:43 - 00:15:44 - Sprecher SPEAKER_03:  Auch wenn ich in Wien bin, glaube ich an dich.
+00:15:49 - 00:15:50 - Sprecher SPEAKER_07:  Scheiße, Mann.
+00:15:52 - 00:15:54 - Sprecher SPEAKER_06:  Das ist so schrecklich.
+00:15:54 - 00:15:57 - Sprecher SPEAKER_06:  Na ja, Freunde gehen, Freunde kommen.
+00:15:57 - 00:15:59 - Sprecher SPEAKER_06:  Hey Leute, kommt in euer Herz.
+00:15:59 - 00:16:01 - Sprecher SPEAKER_06:  Und dann wird wieder das wieder aufgefüllt, was euch fehlt.
+00:16:02 - 00:16:03 - Sprecher SPEAKER_06:  Okay.
+00:16:05 - 00:16:07 - Sprecher SPEAKER_06:  Aber ich müsste das mal so sehen.
+00:16:07 - 00:16:08 - Sprecher SPEAKER_06:  Wenigstens könnt ihr euch verabschieden.
+00:16:08 - 00:16:09 - Sprecher SPEAKER_06:  Ist doch gut.
+00:16:09 - 00:16:12 - Sprecher SPEAKER_06:  Ja, aber ich glaube, mein Herz wird für immer kaputt bleiben.
+00:16:14 - 00:16:15 - Sprecher SPEAKER_06:  Ist okay?
+00:16:15 - 00:16:18 - Sprecher SPEAKER_06:  Nein, ich muss das erst mal verkraften.
+00:16:18 - 00:16:19 - Sprecher SPEAKER_07:  Wir waren die ganze Zeit,
+00:16:19 - 00:16:20 - Sprecher SPEAKER_07:  Wir waren die ganze Zeit,
+00:16:20 - 00:16:24 - Sprecher SPEAKER_07:  keine Freunde mehr und jetzt heute vertragen und direkt fliegt er weg.
+00:16:24 - 00:16:25 - Sprecher SPEAKER_07:  Ich kann es echt nicht fassen.
+00:16:25 - 00:16:26 - Sprecher SPEAKER_07:  Ich habe das nicht kommen sehen.
+00:16:27 - 00:16:29 - Sprecher SPEAKER_07:  Sei doch froh, dass du heute wenigstens vertragen hast.
+00:16:29 - 00:16:32 - Sprecher SPEAKER_06:  Stell dir vor, du hättest die ganze Zeit immer noch wütend gewesen.
+00:16:32 - 00:16:33 - Sprecher SPEAKER_06:  Dann hätte sich niemals entschönigen können.
+00:16:39 - 00:16:41 - Unbekannt:  Und ich glaube, dass du dich nicht mehr so verabschiedet hast,
+00:16:41 - 00:16:43 - Unbekannt:  weil ich dich so gut verstehe und dich so gut verabschiedet habe.
+00:16:43 - 00:16:43 - Unbekannt:  Und ich glaube, dass du dich nicht mehr so gut verstehe
+00:16:43 - 00:16:46 - Unbekannt:  und dich so gut verabschiedet hast,
+00:16:46 - 00:16:50 - Unbekannt:  weil du dich nicht mehr so gut versteht und dich so gut verabschiedet hast.
+00:16:50 - 00:16:51 - Unbekannt:  Vertraue und glaube, es hilft, es heilt die göttliche Kraft!

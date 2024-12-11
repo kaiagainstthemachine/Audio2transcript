@@ -1,0 +1,598 @@
+Transkription Staffel 1 mit Sprechererkennung von 54 - Eine Weihnachtsgeschichte [Fritzi - die Serie ].wav:
+00:00:28 - 00:00:29 - Sprecher SPEAKER_07:  Weihnachtsmusik
+00:00:34 - 00:00:41 - Sprecher SPEAKER_07:  Wir beginnen die Geschichte dort, wo gute Geschichten immer beginnen, auf dem Friedhof.
+00:00:42 - 00:00:48 - Sprecher SPEAKER_00:  Denn genau wie die meisten dort war auch eine Tradition von Fritzi Franklin und ihrem Vater schon lange tot.
+00:00:49 - 00:00:53 - Sprecher SPEAKER_00:  Das gemeinsame Schauen der Weihnachtsgeschichte von Charles Dickens.
+00:00:54 - 00:00:56 - Sprecher SPEAKER_00:  Eine schöne Tradition.
+00:00:57 - 00:00:58 - Sprecher SPEAKER_00:  Aber Traditionen sterben aus.
+00:00:59 - 00:01:01 - Sprecher SPEAKER_00:  Genauso wie gute Polizisten.
+00:01:02 - 00:01:03 - Sprecher SPEAKER_00:  Ich war Officer Franklin.
+00:01:06 - 00:01:09 - Sprecher SPEAKER_00:  Kennt ihr die Weihnachtsgeschichte, werte Zuhörer?
+00:01:10 - 00:01:15 - Sprecher SPEAKER_00:  Dort geht es um die Vergangenheit, die Gegenwart und die Zukunft.
+00:01:16 - 00:01:18 - Sprecher SPEAKER_00:  Genauso wie in unserer kleinen Geschichte.
+00:01:19 - 00:01:21 - Sprecher SPEAKER_00:  Alles begann mit einem Traum.
+00:01:21 - 00:01:27 - Sprecher SPEAKER_00:  Etwas, das im Leben von Fritzi Franklin zu dieser Zeit selten geworden war.
+00:01:27 - 00:01:28 - Sprecher SPEAKER_10:  Ah, schau.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_10:  Schauen Sie mal.
+00:01:29 - 00:01:30 - Sprecher SPEAKER_10:  Early Nettie.
+00:01:31 - 00:01:32 - Sprecher SPEAKER_10:  Zu Tode gekokst.
+00:01:32 - 00:01:33 - Sprecher SPEAKER_10:  Hm.
+00:01:33 - 00:01:35 - Sprecher SPEAKER_10:  Billy Billionaire.
+00:01:37 - 00:01:38 - Sprecher SPEAKER_10:  Nierensteinentzündung.
+00:01:38 - 00:01:39 - Sprecher SPEAKER_10:  Naja, vielleicht hätte er mal eine Hose tragen sollen.
+00:01:40 - 00:01:41 - Sprecher SPEAKER_10:  Schön schlimm.
+00:01:41 - 00:01:42 - Sprecher SPEAKER_10:  Hier.
+00:01:42 - 00:01:44 - Sprecher SPEAKER_10:  Carl Wagner.
+00:01:45 - 00:01:45 - Sprecher SPEAKER_10:  Kokain.
+00:01:46 - 00:01:46 - Sprecher SPEAKER_10:  Naja.
+00:01:47 - 00:01:48 - Sprecher SPEAKER_10:  Kennen Sie die Leute?
+00:01:50 - 00:01:52 - Sprecher SPEAKER_03:  Keine Ahnung, bin mir nicht sicher.
+00:01:53 - 00:01:56 - Sprecher SPEAKER_10:  Und hier ist irgendwas mit Austin, Texas.
+00:01:57 - 00:01:58 - Sprecher SPEAKER_10:  Gestorben an gebrochenem Herz.
+00:01:58 - 00:02:00 - Sprecher SPEAKER_10:  Und was ist das?
+00:02:00 - 00:02:01 - Sprecher SPEAKER_10:  Hmm.
+00:02:02 - 00:02:02 - Sprecher SPEAKER_10:  Hmm.
+00:02:03 - 00:02:03 - Sprecher SPEAKER_10:  Was denn?
+00:02:04 - 00:02:06 - Sprecher SPEAKER_10:  Ah, ich höre nur ein bisschen an der Erde.
+00:02:06 - 00:02:09 - Sprecher SPEAKER_10:  Ich möchte ein bisschen, weissen Sie, Bonding machen mit der Erde und höre und lausche.
+00:02:10 - 00:02:11 - Sprecher SPEAKER_10:  Erde-Bonding?
+00:02:11 - 00:02:15 - Sprecher SPEAKER_10:  Ja, auf dem Grab könnte Ihr Name stehen im nächsten Weihnachten.
+00:02:16 - 00:02:18 - Sprecher SPEAKER_10:  Also in einem Jahr vielleicht.
+00:02:18 - 00:02:19 - Sprecher SPEAKER_10:  Aber vielleicht auch nicht.
+00:02:22 - 00:02:25 - Sprecher SPEAKER_10:  Vielleicht müssen Sie einfach nur aufpassen, was Sie tun.
+00:02:26 - 00:02:28 - Sprecher SPEAKER_10:  Wem Sie vertrauen und wem auch nicht.
+00:02:28 - 00:02:28 - Sprecher SPEAKER_10:  Und was Sie tun.
+00:02:28 - 00:02:30 - Sprecher SPEAKER_10:  Aktion, Reaktion.
+00:02:30 - 00:02:32 - Sprecher SPEAKER_10:  Sie müssen weiterdenken, Franklin.
+00:02:34 - 00:02:34 - Sprecher SPEAKER_10:  Weiterdenken.
+00:02:34 - 00:02:36 - Sprecher SPEAKER_10:  Wie ein Schachspiel.
+00:02:36 - 00:02:37 - Sprecher SPEAKER_10:  Zug für Zug.
+00:02:37 - 00:02:39 - Sprecher SPEAKER_06:  Das Ende schon voraussehen vielleicht.
+00:02:40 - 00:02:41 - Sprecher SPEAKER_03:  Keine Ahnung.
+00:02:41 - 00:02:44 - Sprecher SPEAKER_10:  Oder fragen Sie sich, was würde Mr. Rocket tun?
+00:02:44 - 00:02:46 - Sprecher SPEAKER_10:  Nein, das ist das, was ich mich die ganze Zeit frage.
+00:02:47 - 00:02:48 - Sprecher SPEAKER_03:  Apropos Mr. Rocket.
+00:02:48 - 00:02:51 - Sprecher SPEAKER_10:  In Miami von Rentnern zu Tode gebrüht.
+00:02:51 - 00:02:52 - Sprecher SPEAKER_03:  Nein, das stimmt nicht.
+00:02:52 - 00:02:53 - Sprecher SPEAKER_03:  Das stimmt nicht.
+00:02:53 - 00:02:55 - Sprecher SPEAKER_03:  Das wäre auch in der Zukunft niemals so.
+00:02:55 - 00:02:58 - Sprecher SPEAKER_03:  Auch in Zukunftsweihnachten wäre das nie, das würde nie passieren.
+00:02:58 - 00:03:01 - Sprecher SPEAKER_03:  Herr Rocket würde sich niemals von Rentnern prügeln lassen.
+00:03:01 - 00:03:07 - Sprecher SPEAKER_03:  Wissen Sie, da hinten, da hinten, da liegt der Rest von Wagners Gang, glaube ich.
+00:03:07 - 00:03:13 - Sprecher SPEAKER_10:  Ich sagte ja, Drogen und schnelle Autos sind der Untergang dieser Stadt.
+00:03:18 - 00:03:21 - Sprecher SPEAKER_00:  Die Weihnachtsfeiertage waren ungewöhnlich ruhig.
+00:03:22 - 00:03:26 - Sprecher SPEAKER_00:  Fast, als hätte der Schnee all das Chaos unter sich begraben.
+00:03:26 - 00:03:29 - Sprecher SPEAKER_00:  Und irgendwie war das doch auch passend.
+00:03:30 - 00:03:32 - Sprecher SPEAKER_00:  Ist Weihnachten nicht das Fest der Liebe?
+00:03:34 - 00:03:37 - Sprecher SPEAKER_02:  Hallo Pinsel, hallo Mikey, hallo JJ.
+00:03:38 - 00:03:39 - Sprecher SPEAKER_03:  Frohe Weihnachten noch.
+00:03:39 - 00:03:41 - Sprecher SPEAKER_03:  Frohe Weihnachten nachträglich.
+00:03:41 - 00:03:43 - Sprecher SPEAKER_03:  Happy Birthday Jesus nachträglich oder so.
+00:03:43 - 00:03:45 - Sprecher SPEAKER_03:  Fröhliche Weihnacht, liebes MD.
+00:03:46 - 00:03:48 - Sprecher SPEAKER_03:  Schön, dass es euch allen gut geht.
+00:03:48 - 00:03:49 - Sprecher SPEAKER_03:  Hallo.
+00:03:50 - 00:03:52 - Sprecher SPEAKER_05:  Frohe Weihnachten ihr zwei.
+00:03:53 - 00:03:54 - Sprecher SPEAKER_03:  Stefano.
+00:03:54 - 00:03:55 - Sprecher SPEAKER_03:  Hallo Stefano.
+00:03:55 - 00:03:56 - Sprecher SPEAKER_03:  Stefano.
+00:03:56 - 00:03:57 - Sprecher SPEAKER_03:  Stefano.
+00:03:57 - 00:03:57 - Sprecher SPEAKER_03:  Stefano.
+00:03:58 - 00:03:58 - Sprecher SPEAKER_03:  Ja.
+00:03:59 - 00:03:59 - Sprecher SPEAKER_03:  Hallo.
+00:04:00 - 00:04:01 - Sprecher SPEAKER_03:  Frohe Weihnachten Fritzi.
+00:04:01 - 00:04:03 - Sprecher SPEAKER_03:  Frohe Weihnachten euch allen.
+00:04:03 - 00:04:04 - Sprecher SPEAKER_03:  Ich hoffe, euch geht's liebes gut.
+00:04:07 - 00:04:08 - Sprecher SPEAKER_03:  René, bist du krank?
+00:04:08 - 00:04:10 - Sprecher SPEAKER_03:  Kümmern die sich nicht gut genug bei der Perro um dich?
+00:04:10 - 00:04:12 - Sprecher SPEAKER_08:  Ja, ich bin gefühlt jedes zweite Weihnachten krank.
+00:04:12 - 00:04:13 - Sprecher SPEAKER_08:  Ach du Scheiße.
+00:04:14 - 00:04:15 - Sprecher SPEAKER_03:  René, darf ich hier rauchen?
+00:04:15 - 00:04:17 - Sprecher SPEAKER_08:  Das ist nicht mein Taxi, hier kannst du machen was willst.
+00:04:17 - 00:04:19 - Sprecher SPEAKER_03:  Was geht bei dir, Billy?
+00:04:20 - 00:04:22 - Sprecher SPEAKER_09:  Nicht viel, ich bin dicht wie eine Eule und du so?
+00:04:22 - 00:04:23 - Sprecher SPEAKER_03:  Oh mein Gott.
+00:04:24 - 00:04:24 - Sprecher SPEAKER_03:  Ist das dein Ernst, Mann?
+00:04:24 - 00:04:25 - Sprecher SPEAKER_03:  Kannst du überhaupt Auto fahren?
+00:04:25 - 00:04:25 - Sprecher SPEAKER_03: 
+00:04:25 - 00:04:25 - Sprecher SPEAKER_03: 
+00:04:25 - 00:04:25 - Sprecher SPEAKER_03: 
+00:04:25 - 00:04:25 - Sprecher SPEAKER_03: 
+00:04:25 - 00:04:25 - Sprecher SPEAKER_03: 
+00:04:25 - 00:04:25 - Sprecher SPEAKER_03: 
+00:04:26 - 00:04:29 - Sprecher SPEAKER_03:  Scheiße, es ist Weihnachten und nein, ich kann kein Auto fahren, ich hab nicht mal einen
+00:04:29 - 00:04:29 - Sprecher SPEAKER_09:  Führerschein.
+00:04:29 - 00:04:31 - Sprecher SPEAKER_09:  Okay, alles klar.
+00:04:32 - 00:04:37 - Sprecher SPEAKER_03:  Na ja, also ich hab so sehr weihnachtliche Filme angeguckt, ich weiß nicht, ob ihr das
+00:04:37 - 00:04:37 - Sprecher SPEAKER_03: 
+00:04:37 - 00:04:38 - Sprecher SPEAKER_03:  Wer denn allein zuhause hat?
+00:04:38 - 00:04:45 - Sprecher SPEAKER_03:  Nein, eher sowas wie Los Santos Chainsaw Massacre zum Beispiel.
+00:04:46 - 00:04:48 - Sprecher SPEAKER_03:  Ja, sehr weihnachtliche.
+00:04:48 - 00:04:55 - Sprecher SPEAKER_03:  Ja, dann Saw 1 bis 7, da geht's um so einen Typen, der heißt glaube ich Ray.
+00:04:55 - 00:04:55 - Sprecher SPEAKER_03:  Ja, der ist sehr weihnachtlich.
+00:04:55 - 00:04:55 - Sprecher SPEAKER_03: 
+00:04:55 - 00:04:55 - Sprecher SPEAKER_03: 
+00:04:55 - 00:04:55 - Sprecher SPEAKER_03: 
+00:04:55 - 00:04:57 - Sprecher SPEAKER_03:  Ja, der ist sehr weihnachtlich und frecht sich an allen und sowas.
+00:04:57 - 00:04:58 - Sprecher SPEAKER_03:  So das hab ich geguckt.
+00:04:59 - 00:05:00 - Sprecher SPEAKER_03:  Das klingt blutig.
+00:05:00 - 00:05:01 - Sprecher SPEAKER_03:  Weihnachtlich.
+00:05:01 - 00:05:02 - Sprecher SPEAKER_03:  Und blutig.
+00:05:03 - 00:05:04 - Sprecher SPEAKER_03:  Und blutig, weihnachtlich und blutig, genau.
+00:05:05 - 00:05:06 - Sprecher SPEAKER_03:  Weihnachtlich blutig.
+00:05:06 - 00:05:07 - Sprecher SPEAKER_03:  Weihnachtlich blutig.
+00:05:07 - 00:05:14 - Sprecher SPEAKER_00:  Doch wenn man den alten Geschichten lauscht, so heißt es, dass Weihnachten jene wundersame
+00:05:14 - 00:05:18 - Sprecher SPEAKER_00:  Zeit ist, in der die tiefsten Erkenntnisse zu uns kommen.
+00:05:19 - 00:05:21 - Sprecher SPEAKER_00:  Genauso war es bei Fritzi.
+00:05:21 - 00:05:25 - Sprecher SPEAKER_03:  Mittlerweile hab ich verstanden.
+00:05:25 - 00:05:27 - Sprecher SPEAKER_03:  Dass eigentlich jeder mögen kann.
+00:05:31 - 00:05:34 - Sprecher SPEAKER_03:  Und dass es manchmal sogar gut ist, wenn man selber nicht jeden mag.
+00:05:36 - 00:05:43 - Sprecher SPEAKER_00:  Den Geist der zukünftigen Weihnacht fand Fritzi stets am unheimlichsten, ja fast furchteinflößend.
+00:05:43 - 00:05:50 - Sprecher SPEAKER_00:  Und während der Feiertage schweiften ihre Gedanken ohnehin viel häufiger in die Vergangenheit
+00:05:50 - 00:05:51 - Sprecher SPEAKER_00:  als in die Zukunft.
+00:05:51 - 00:05:52 - Sprecher SPEAKER_08:  Hallo?
+00:05:53 - 00:05:55 - Sprecher SPEAKER_08:  Kompetenzüberschreitung Franklin, was hab ich da gelesen?
+00:05:55 - 00:05:55 - Sprecher SPEAKER_08:  Was hab ich da gelesen?
+00:05:55 - 00:05:56 - Sprecher SPEAKER_08:  Wollen Sie mit meiner Waffe was machen?
+00:05:56 - 00:05:57 - Sprecher SPEAKER_08:  Wie bitte?
+00:05:58 - 00:05:59 - Sprecher SPEAKER_08:  Mit meiner Waffe.
+00:05:59 - 00:06:00 - Sprecher SPEAKER_08:  Was wollen Sie mit meiner Waffe machen, Franklin?
+00:06:01 - 00:06:06 - Sprecher SPEAKER_08:  Ach so, ah jetzt hab ich, hab ich Ihnen ja, also hab ich, hab ich geschrieben, Mr.
+00:06:06 - 00:06:07 - Sprecher SPEAKER_03:  Rocket.
+00:06:07 - 00:06:08 - Unbekannt:  Ja.
+00:06:08 - 00:06:08 - Sprecher SPEAKER_08: 
+00:06:08 - 00:06:12 - Sprecher SPEAKER_03:  Ich hab die für, für dich gekauft zum, also ich hab die geholt.
+00:06:12 - 00:06:13 - Sprecher SPEAKER_03:  Gekauft und was, was, was willst du jetzt damit machen?
+00:06:13 - 00:06:17 - Sprecher SPEAKER_08:  Naja, eigentlich wollte ich sie dir zu Weihnachten schenken, wenn du mal wieder nach Los Santos
+00:06:17 - 00:06:17 - Sprecher SPEAKER_03:  kommst.
+00:06:17 - 00:06:19 - Sprecher SPEAKER_08:  Ich komm noch nicht in dieses verschissene Los Santos.
+00:06:19 - 00:06:20 - Sprecher SPEAKER_08:  Ich hab gehört, was da abgegangen ist.
+00:06:22 - 00:06:23 - Sprecher SPEAKER_03:  Hm, was denn?
+00:06:23 - 00:06:24 - Sprecher SPEAKER_03:  Was hast du gehört?
+00:06:24 - 00:06:25 - Sprecher SPEAKER_03:  Ich hab Kutsche und so eine Scheiße, das hab ich mir schon mal gemacht.
+00:06:25 - 00:06:25 - Sprecher SPEAKER_08: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_08: 
+00:06:25 - 00:06:25 - Sprecher SPEAKER_08: 
+00:06:25 - 00:06:26 - Sprecher SPEAKER_08:  Ich hab die alles gehört.
+00:06:26 - 00:06:26 - Sprecher SPEAKER_08:  Hm.
+00:06:26 - 00:06:27 - Sprecher SPEAKER_08:  Wir sind doch in Kontakt, ich bin jetzt Chief.
+00:06:28 - 00:06:29 - Sprecher SPEAKER_08:  Also Chief-Chief.
+00:06:29 - 00:06:31 - Sprecher SPEAKER_03:  Chief-Chief, Super-Chief oder was?
+00:06:31 - 00:06:32 - Sprecher SPEAKER_08:  Nein, Chief of Police.
+00:06:32 - 00:06:34 - Sprecher SPEAKER_08:  Und bist klar, du bist jetzt Commissioner geworden.
+00:06:35 - 00:06:37 - Sprecher SPEAKER_03:  Ist das besser oder schlechter als Chief-Chief?
+00:06:38 - 00:06:38 - Unbekannt:  Was?
+00:06:38 - 00:06:41 - Sprecher SPEAKER_08:  Nein, ich, Franklin, ich leite das Department.
+00:06:41 - 00:06:42 - Sprecher SPEAKER_08:  Sie haben wirklich gar keine Ahnung, oder?
+00:06:44 - 00:06:45 - Sprecher SPEAKER_03:  Hm, doch, na klar hab ich eine Ahnung.
+00:06:45 - 00:06:46 - Sprecher SPEAKER_03:  Ich weiß genau, was das heißt.
+00:06:46 - 00:06:49 - Sprecher SPEAKER_03:  Ja, krass, herzlichen Glückwunsch, Jim, äh, Mr.
+00:06:49 - 00:06:50 - Sprecher SPEAKER_03:  Rocket, Jim Rocket.
+00:06:50 - 00:06:50 - Sprecher SPEAKER_03:  Ja, Rocket.
+00:06:51 - 00:06:51 - Sprecher SPEAKER_03:  Ja, Rocket.
+00:06:51 - 00:06:52 - Sprecher SPEAKER_03:  Mach nichts mit meiner Waffe.
+00:06:52 - 00:06:54 - Sprecher SPEAKER_08:  Eigentlich ruf ich auch nur wegen einer Sache an, ja?
+00:06:55 - 00:06:55 - Sprecher SPEAKER_08:  Dazu.
+00:06:55 - 00:06:55 - Sprecher SPEAKER_08:  Ja, ja, ja.
+00:06:55 - 00:06:57 - Sprecher SPEAKER_08:  Werd ich auch irgendwie so ein bisschen gezwungen, ich bin ehrlich.
+00:06:58 - 00:07:00 - Sprecher SPEAKER_08:  Ja, Chief, ich sag's.
+00:07:00 - 00:07:00 - Sprecher SPEAKER_08:  Ja, ja, ja.
+00:07:01 - 00:07:02 - Sprecher SPEAKER_08:  Komm, ich schlaf.
+00:07:02 - 00:07:04 - Sprecher SPEAKER_08:  Ja, oh Gott, das gibt Ärger.
+00:07:05 - 00:07:06 - Sprecher SPEAKER_08:  Fröhliche Weihnachten, Franklin, ha?
+00:07:08 - 00:07:08 - Sprecher SPEAKER_03:  Mr.
+00:07:09 - 00:07:09 - Sprecher SPEAKER_03:  Rocket.
+00:07:10 - 00:07:11 - Sprecher SPEAKER_03:  Ich wünsch Ihnen auch...
+00:07:11 - 00:07:11 - Sprecher SPEAKER_03:  Ich lege jetzt auf, ja?
+00:07:12 - 00:07:14 - Sprecher SPEAKER_03:  Fröhliche Weihnacht wünsch ich dir.
+00:07:14 - 00:07:15 - Sprecher SPEAKER_03:  Geben Sie meine Waffe ab.
+00:07:16 - 00:07:17 - Sprecher SPEAKER_03:  Nein, auf keinen Fall geb ich die ab.
+00:07:18 - 00:07:19 - Sprecher SPEAKER_03:  Sie werden mich jetzt verfahren.
+00:07:19 - 00:07:22 - Sprecher SPEAKER_03:  Ich verwahre Sie, ich verwahre Sie, bis wir uns wiedersehen, Mr.
+00:07:22 - 00:07:22 - Sprecher SPEAKER_03:  Rocket.
+00:07:22 - 00:07:24 - Sprecher SPEAKER_03:  Ich pass richtig gut drauf auf, ich schwöre es.
+00:07:24 - 00:07:25 - Sprecher SPEAKER_03:  Ich wünsch dir, dass du...
+00:07:25 - 00:07:25 - Sprecher SPEAKER_03: 
+00:07:25 - 00:07:25 - Sprecher SPEAKER_03: 
+00:07:25 - 00:07:25 - Sprecher SPEAKER_03: 
+00:07:25 - 00:07:29 - Sprecher SPEAKER_03:  Ich wünsch dir auch frohe Weihnachten, viel Spaß euch zwei, viel Spaß Ihnen zwei,
+00:07:29 - 00:07:30 - Sprecher SPEAKER_03:  bis dann.
+00:07:30 - 00:07:36 - Sprecher SPEAKER_03:  Doch irgendwann, das wusste Fritzi, muss man die Geister der Vergangenheit ruhen lassen.
+00:07:38 - 00:07:43 - Sprecher SPEAKER_00:  Denn wenn nicht, können sie sie ewig daran hindern, die Person zu werden, die sie sein
+00:07:43 - 00:07:43 - Sprecher SPEAKER_00:  wollte.
+00:07:44 - 00:07:51 - Sprecher SPEAKER_00:  Und in dieser Stadt, so erzählt man sich, führt ein solcher Weg oft geradewegs in ein
+00:07:51 - 00:07:51 - Sprecher SPEAKER_00:  offenes Grab.
+00:07:55 - 00:08:08 - Sprecher SPEAKER_06:  Und Father, dough, The
+00:08:08 - 00:08:08 - Unbekannt: 
+00:08:55 - 00:08:55 - Unbekannt:  Untertitelung des ZDF, 2020
+00:09:11 - 00:09:25 - Unbekannt:  Untertitelung des ZDF, 2020
+00:09:41 - 00:09:55 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:09:58 - 00:10:02 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:10:36 - 00:10:39 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:11:05 - 00:11:07 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:11:39 - 00:11:40 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:12:09 - 00:12:25 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:12:38 - 00:12:38 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:12:58 - 00:13:06 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:13:36 - 00:13:55 - Sprecher SPEAKER_05:  Untertitelung des ZDF, 2020
+00:14:05 - 00:14:11 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:14:38 - 00:14:39 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:15:05 - 00:15:07 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:15:36 - 00:15:44 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:16:06 - 00:16:08 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:16:36 - 00:16:55 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:16:58 - 00:17:07 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:17:32 - 00:17:34 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:17:37 - 00:17:39 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:17:39 - 00:17:44 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:17:48 - 00:17:51 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:18:17 - 00:18:24 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:18:46 - 00:18:49 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:19:26 - 00:19:41 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:19:45 - 00:20:14 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:20:28 - 00:20:44 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:21:07 - 00:21:14 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:21:26 - 00:21:32 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:21:48 - 00:21:53 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:22:24 - 00:22:26 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:22:45 - 00:22:46 - Sprecher SPEAKER_09:  Ich kann auf jeden Fall.
+00:22:46 - 00:22:48 - Sprecher SPEAKER_09:  Mein Geschäft ist es, Leute voranzubringen.
+00:22:48 - 00:22:51 - Sprecher SPEAKER_09:  Was denkst du, sollte Harry als Nächstes tun, Fritzi?
+00:22:51 - 00:22:53 - Sprecher SPEAKER_09:  Was würdest du tun, wenn du Harry wärst?
+00:22:55 - 00:22:59 - Sprecher SPEAKER_03:  Na ja, also ich hab Harry gesagt, er soll erst mal abwarten,
+00:22:59 - 00:23:01 - Sprecher SPEAKER_03:  bis er genau weiß, was der Plan ist.
+00:23:02 - 00:23:04 - Sprecher SPEAKER_03:  Und was es für Möglichkeiten gibt.
+00:23:04 - 00:23:06 - Sprecher SPEAKER_03:  Aber ich glaube ...
+00:23:08 - 00:23:09 - Sprecher SPEAKER_06:  Ja.
+00:23:09 - 00:23:11 - Sprecher SPEAKER_03:  ... dass Harry es deutlich ...
+00:23:11 - 00:23:12 - Sprecher SPEAKER_03:  ... ein bisschen ... ein bisschen ...
+00:23:12 - 00:23:14 - Sprecher SPEAKER_03:  ... ein bisschen eiliger hat.
+00:23:15 - 00:23:16 - Sprecher SPEAKER_09:  Hätte ich an seiner Stelle auch.
+00:23:18 - 00:23:20 - Sprecher SPEAKER_03:  Warum hättest du das an seiner Stelle auch?
+00:23:20 - 00:23:22 - Sprecher SPEAKER_09:  Na ja, weil das, was du meinst, was er abwarten soll,
+00:23:23 - 00:23:24 - Sprecher SPEAKER_09:  die Entscheidung ist, ob er draufgeht oder nicht.
+00:23:26 - 00:23:28 - Sprecher SPEAKER_09:  Da würd ich nicht warten, bis ich die Antwort weiß.
+00:23:28 - 00:23:30 - Sprecher SPEAKER_09:  Weil wenn er die Antwort weiß, ist er entweder tot oder hatte Glück.
+00:23:32 - 00:23:34 - Sprecher SPEAKER_09:  Das ist alles ein sehr gefährliches Terrain.
+00:23:38 - 00:23:40 - Sprecher SPEAKER_09:  Es geht ja auch im Zweifel nicht nur um Wagner.
+00:23:41 - 00:23:42 - Sprecher SPEAKER_09:  Was andere Leute denken.
+00:23:44 - 00:23:45 - Sprecher SPEAKER_09:  Auch die Partner von Wagner.
+00:23:45 - 00:23:46 - Sprecher SPEAKER_09:  Mhm.
+00:23:47 - 00:23:50 - Sprecher SPEAKER_09:  Oder ehemalige Partner oder zukünftige Partner.
+00:23:50 - 00:23:51 - Sprecher SPEAKER_09:  Das ist der Grund.
+00:23:52 - 00:23:53 - Sprecher SPEAKER_09:  Street Credibility, ne?
+00:23:53 - 00:23:54 - Sprecher SPEAKER_09:  Street Credibility, na klar.
+00:23:54 - 00:23:57 - Sprecher SPEAKER_03:  Das ist aber der Grund, warum ich eigentlich gedacht hab,
+00:23:57 - 00:24:00 - Sprecher SPEAKER_03:  es wäre wichtig, da erst mal einen ganz genauen Plan zu entwickeln,
+00:24:00 - 00:24:01 - Sprecher SPEAKER_03:  was er danach machen möchte.
+00:24:02 - 00:24:05 - Sprecher SPEAKER_03:  Und das dann auch klar und deutlich kommunizieren zu können.
+00:24:05 - 00:24:06 - Sprecher SPEAKER_03:  Was denn?
+00:24:08 - 00:24:10 - Sprecher SPEAKER_03:  Ich glaub, dass Harry den nicht so richtig ...
+00:24:11 - 00:24:12 - Sprecher SPEAKER_03:  kommunizieren kann.
+00:24:16 - 00:24:18 - Sprecher SPEAKER_09:  Was glaubst du, ist der Grund dafür, dass Harry das nicht richtig
+00:24:18 - 00:24:19 - Sprecher SPEAKER_09:  mit dir kommunizieren kann?
+00:24:22 - 00:24:25 - Sprecher SPEAKER_03:  Na, weil ich das Gefühl hatte, dass er es selber nicht so genau weiß.
+00:24:25 - 00:24:25 - Sprecher SPEAKER_09:  Hm.
+00:24:26 - 00:24:28 - Sprecher SPEAKER_09:  Wie viel hängst du so mit Harry rum?
+00:24:29 - 00:24:30 - Sprecher SPEAKER_03:  Schon ziemlich viel.
+00:24:31 - 00:24:31 - Sprecher SPEAKER_09:  Hm.
+00:24:35 - 00:24:35 - Sprecher SPEAKER_09:  Ja, eben.
+00:24:40 - 00:24:40 - Unbekannt:  ARD Text im Auftrag von Funk
+00:24:40 - 00:24:42 - Sprecher SPEAKER_09:  Na ja, das stimmt.
+00:24:42 - 00:24:44 - Sprecher SPEAKER_09:  Und Harry auch mit dir, hm?
+00:24:46 - 00:24:46 - Sprecher SPEAKER_03:  Ganz genau.
+00:24:49 - 00:24:50 - Sprecher SPEAKER_09:  Hm.
+00:24:53 - 00:24:54 - Sprecher SPEAKER_03:  Na, Bindi ...
+00:24:54 - 00:24:56 - Sprecher SPEAKER_09:  Ich glaube, du tust so, als wüsstest du nicht, was er vorhat.
+00:24:56 - 00:24:58 - Sprecher SPEAKER_09:  Obwohl wir beide wissen, worum es hier geht.
+00:25:00 - 00:25:02 - Sprecher SPEAKER_03:  Na, wie würdest du das denn dann beschreiben?
+00:25:02 - 00:25:06 - Sprecher SPEAKER_03:  Wenn du Harry wärst, wie würdest du denn knapp und gut kommunizieren,
+00:25:06 - 00:25:09 - Sprecher SPEAKER_03:  sodass das klar und deutlich wird, was der Plan ist?
+00:25:09 - 00:25:10 - Sprecher SPEAKER_03:  Ich möchte mit Fritzi abhören.
+00:25:10 - 00:25:10 - Sprecher SPEAKER_09: 
+00:25:10 - 00:25:10 - Sprecher SPEAKER_09: 
+00:25:10 - 00:25:10 - Sprecher SPEAKER_09: 
+00:25:10 - 00:25:11 - Sprecher SPEAKER_09:  Na, abhängen.
+00:25:11 - 00:25:13 - Sprecher SPEAKER_09:  Na, abhängen. Das ist ja kein Grund.
+00:25:13 - 00:25:16 - Sprecher SPEAKER_03:  Dann würde jeder normale Mensch sagen, ja, dann häng halt ab.
+00:25:16 - 00:25:20 - Sprecher SPEAKER_03:  Na, ich glaube, Harry hat schon verstanden, wo du dich hinbewegst.
+00:25:20 - 00:25:24 - Sprecher SPEAKER_09:  Und ich denke, er will bei dem Ganzen an deiner Seite sein.
+00:25:27 - 00:25:27 - Sprecher SPEAKER_03:  Ja.
+00:25:28 - 00:25:31 - Sprecher SPEAKER_03:  Aber das muss man halt ein bisschen klar und deutlicher formulieren.
+00:25:32 - 00:25:33 - Sprecher SPEAKER_09:  Gegenüber wem?
+00:25:33 - 00:25:37 - Sprecher SPEAKER_03:  Na ja, gegenüber den Menschen, die einen gegebenenfalls ans Leder wollen.
+00:25:38 - 00:25:40 - Sprecher SPEAKER_03:  Wenn man aus einer Gang austritt.
+00:25:40 - 00:25:40 - Sprecher SPEAKER_03:  Gibt es eine gute Idee,
+00:25:40 - 00:25:42 - Sprecher SPEAKER_09:  wie Harry dich da auch noch mit reinbringt dann?
+00:25:42 - 00:25:47 - Sprecher SPEAKER_03:  Na ja, nicht unbedingt mich, aber im Zweifelsfall schon.
+00:25:47 - 00:25:48 - Sprecher SPEAKER_03:  Ja, im Zweifelsfall schon.
+00:25:48 - 00:25:50 - Sprecher SPEAKER_03:  Also du meinst, er sollte sagen so was wie,
+00:25:51 - 00:25:56 - Sprecher SPEAKER_09:  ich hab mich umorientiert und ich möchte woanders tätig werden?
+00:25:56 - 00:25:58 - Sprecher SPEAKER_09:  Oder wie? Oder wie soll man es ...
+00:25:58 - 00:26:02 - Sprecher SPEAKER_09:  Ich weiß es ja nicht. Das ist ja das, was ich meinte, Billy, mit ...
+00:26:02 - 00:26:05 - Sprecher SPEAKER_03:  Bis wir nicht wissen, wie man das formuliert,
+00:26:05 - 00:26:07 - Sprecher SPEAKER_03:  bis man nicht weiß, wie man das so formuliert,
+00:26:07 - 00:26:10 - Sprecher SPEAKER_03:  ist das vielleicht auch noch nicht der richtige Zeitpunkt,
+00:26:10 - 00:26:12 - Sprecher SPEAKER_03:  um einen Gang-Austritt überhaupt in Erwägung zu ziehen.
+00:26:13 - 00:26:15 - Sprecher SPEAKER_03:  Wenn ich irgendwann ein bisschen höher und besser unterwegs bin,
+00:26:16 - 00:26:18 - Sprecher SPEAKER_03:  dann ist das durchaus ein Grund, den man anbringen kann.
+00:26:19 - 00:26:21 - Sprecher SPEAKER_03:  Und wo dann andere Leute vielleicht sagen würden,
+00:26:21 - 00:26:22 - Sprecher SPEAKER_03:  ja, okay, alles klar, verstehen wir.
+00:26:22 - 00:26:25 - Sprecher SPEAKER_03:  Und wenn du zum Beispiel zusammen mit Fritzi arbeitest,
+00:26:25 - 00:26:28 - Sprecher SPEAKER_03:  ist es ja auch gar nicht so ein Problem für uns.
+00:26:28 - 00:26:31 - Sprecher SPEAKER_03:  Vielleicht, ich weiß es nicht. Das ist nur ein Traum vielleicht, Billy.
+00:26:31 - 00:26:33 - Sprecher SPEAKER_09:  Meinst du, für das, was du in Zukunft machen willst,
+00:26:33 - 00:26:35 - Sprecher SPEAKER_09:  ist Street-Credibility das, was du brauchst?
+00:26:35 - 00:26:38 - Sprecher SPEAKER_09:  Kein Plan, Billy. Ich dachte, das kannst du mir sagen.
+00:26:38 - 00:26:39 - Sprecher SPEAKER_03:  Ich glaube, im besten Fall
+00:26:41 - 00:26:44 - Sprecher SPEAKER_03:  hast du gar keine Street-Credibility und keiner weiß,
+00:26:44 - 00:26:45 - Sprecher SPEAKER_09:  dass du irgendwas mit der Straße überhaupt zu tun hast.
+00:26:46 - 00:26:47 - Sprecher SPEAKER_09:  Das ist auch wirklich was,
+00:26:47 - 00:26:49 - Sprecher SPEAKER_03:  was ich mir auch die letzten Tage überlegt hab.
+00:26:49 - 00:26:50 - Sprecher SPEAKER_03:  Das wär viel besser wahrscheinlich.
+00:26:50 - 00:26:52 - Sprecher SPEAKER_03:  Im besten Fall bist du einfach nur die nette Fritzi,
+00:26:52 - 00:26:56 - Sprecher SPEAKER_09:  die überall verrückt unterwegs ist und gute Laune verbreitet.
+00:26:56 - 00:27:00 - Sprecher SPEAKER_09:  Ich glaube, ich würde darauf achten, dass keiner das Gefühl kriegt,
+00:27:00 - 00:27:02 - Sprecher SPEAKER_09:  dass du Interessen verfolgst und mit wem du die verfolgst.
+00:27:03 - 00:27:07 - Sprecher SPEAKER_03:  Na ja, auf jeden Fall. Keine Ahnung. Dummer Zeitpunkt auf jeden Fall war,
+00:27:07 - 00:27:10 - Sprecher SPEAKER_03:  dass ich glaube, Harry an dem Abend endgültig befreit war,
+00:27:10 - 00:27:13 - Sprecher SPEAKER_03:  dass er jetzt wirklich aus der Gang raus will.
+00:27:14 - 00:27:15 - Sprecher SPEAKER_09:  Mhm.
+00:27:17 - 00:27:20 - Sprecher SPEAKER_09:  Sobald er das Wagner gesagt hat, ist er in Dead Man Walking, ne?
+00:27:20 - 00:27:21 - Sprecher SPEAKER_09:  Er hat es Wagner gesagt.
+00:27:22 - 00:27:22 - Sprecher SPEAKER_03:  Ja.
+00:27:26 - 00:27:29 - Sprecher SPEAKER_03:  Er hat mich danach aber angerufen, dass er es Wagner gesagt hat
+00:27:29 - 00:27:30 - Sprecher SPEAKER_03:  und dass er jetzt guckt, ob er in den ...
+00:27:30 - 00:27:32 - Sprecher SPEAKER_03:  Also, was die nächsten Tage bringen oder ...
+00:27:32 - 00:27:34 - Sprecher SPEAKER_03:  Und ob er draufgeht oder nicht.
+00:27:35 - 00:27:37 - Sprecher SPEAKER_09:  Ja, ganz genau. Darauf wartet er jetzt grade.
+00:27:37 - 00:27:38 - Sprecher SPEAKER_09:  Was würdest du dann machen in dem Moment?
+00:27:40 - 00:27:41 - Sprecher SPEAKER_03:  An Harrys Stelle oder was?
+00:27:41 - 00:27:43 - Sprecher SPEAKER_03:  Der ist ein Typ, der dich jetzt im Zweifel umbringen will.
+00:27:43 - 00:27:43 - Sprecher SPEAKER_09:  Mhm.
+00:27:43 - 00:27:44 - Sprecher SPEAKER_09:  Du weißt es nicht.
+00:27:45 - 00:27:49 - Sprecher SPEAKER_09:  Es könnte sein, wenn es so ist, ist ganz schön doof,
+00:27:49 - 00:27:51 - Sprecher SPEAKER_09:  weil dann stirbst du.
+00:27:51 - 00:27:51 - Sprecher SPEAKER_09:  Mhm.
+00:27:52 - 00:27:52 - Sprecher SPEAKER_09:  Was würdest du jetzt machen?
+00:27:53 - 00:27:54 - Sprecher SPEAKER_03:  An Harrys Stelle.
+00:27:55 - 00:27:55 - Sprecher SPEAKER_03:  Mhm.
+00:28:00 - 00:28:04 - Sprecher SPEAKER_03:  Du willst darauf hinaus, dass Harry Wagner zuerst umbringt oder was?
+00:28:06 - 00:28:08 - Sprecher SPEAKER_09:  Ist wohl eine valide Option, hm?
+00:28:08 - 00:28:08 - Sprecher SPEAKER_09:  Mhm.
+00:28:11 - 00:28:13 - Sprecher SPEAKER_03:  Ich glaube nicht, dass das realistisch ist.
+00:28:13 - 00:28:17 - Sprecher SPEAKER_03:  Das ist nicht das, was Harry zur Debatte zieht.
+00:28:18 - 00:28:18 - Sprecher SPEAKER_09:  Mhm.
+00:28:21 - 00:28:23 - Sprecher SPEAKER_09:  Ich schätze Harry auch nicht so ein.
+00:28:26 - 00:28:27 - Sprecher SPEAKER_09:  Kannst du mir nicht vorstellen.
+00:28:29 - 00:28:32 - Sprecher SPEAKER_09:  Aber ich weiß auch, dass Wagner, wenn er keine Konsequenzen sieht,
+00:28:34 - 00:28:35 - Sprecher SPEAKER_09:  im Zweifel auch ein Problem kriegt, hm?
+00:28:37 - 00:28:40 - Sprecher SPEAKER_03:  Aber siehst du irgendeinen Weg da mit Öffnern?
+00:28:40 - 00:28:40 - Sprecher SPEAKER_03: 
+00:28:40 - 00:28:40 - Sprecher SPEAKER_03: 
+00:28:40 - 00:28:40 - Sprecher SPEAKER_03:  Ja, ich glaube, dass das eine gute Idee ist,
+00:28:40 - 00:28:41 - Sprecher SPEAKER_03:  um mit dem Harrys Stelle umzugehen.
+00:28:41 - 00:28:42 - Sprecher SPEAKER_03:  Hast du irgendeine Idee?
+00:28:43 - 00:28:45 - Sprecher SPEAKER_09:  Es gäbe bestimmt Leute, die dafür sorgen könnten,
+00:28:45 - 00:28:49 - Sprecher SPEAKER_09:  dass das alles easy über die Bühne geht.
+00:28:49 - 00:28:49 - Sprecher SPEAKER_09:  Denke schon, ja.
+00:28:50 - 00:28:50 - Sprecher SPEAKER_09:  Mhm.
+00:28:52 - 00:28:56 - Sprecher SPEAKER_09:  Aber ob die sich da einmischen und ob man das will,
+00:28:57 - 00:28:58 - Sprecher SPEAKER_09:  ist eine andere Frage, ne?
+00:29:01 - 00:29:02 - Sprecher SPEAKER_09:  Ja, werden wir sehen.
+00:29:02 - 00:29:05 - Sprecher SPEAKER_09:  Das ist halt so ein Harry-Problem, Fritzi, weißt du?
+00:29:05 - 00:29:07 - Sprecher SPEAKER_09:  Das muss man leider auch lernen im Geschäft.
+00:29:08 - 00:29:08 - Sprecher SPEAKER_09:  Ja.
+00:29:08 - 00:29:12 - Sprecher SPEAKER_09:  Aber in die Kämpfe und Probleme anderer
+00:29:12 - 00:29:14 - Sprecher SPEAKER_09:  sollte man sich nicht so tief einmischen.
+00:29:16 - 00:29:18 - Sprecher SPEAKER_09:  Sonst steht man am Ende dazwischen und geht mit drauf.
+00:29:19 - 00:29:20 - Sprecher SPEAKER_09:  Wird schon irgendwie werden.
+00:29:21 - 00:29:22 - Sprecher SPEAKER_03:  Wird schon irgendwie werden.
+00:29:22 - 00:29:24 - Sprecher SPEAKER_03:  Ich hoffe, es geht keiner drauf, aber es ist durchaus eine Möglichkeit.
+00:29:24 - 00:29:27 - Sprecher SPEAKER_09:  Ich will nicht, dass irgendwer von denen draufgeht, Billy, wirklich nicht.
+00:29:29 - 00:29:32 - Sprecher SPEAKER_09:  Na ja, gut, gibt's noch irgendwas Nettes,
+00:29:32 - 00:29:34 - Sprecher SPEAKER_09:  was wir noch besprechen können, was nicht einen so runterzieht,
+00:29:34 - 00:29:36 - Sprecher SPEAKER_09:  mit Leuten, die sterben und so?
+00:29:36 - 00:29:37 - Sprecher SPEAKER_09:  Hm.
+00:29:38 - 00:29:39 - Sprecher SPEAKER_03:  Ich weiß nicht.
+00:29:40 - 00:29:40 - Sprecher SPEAKER_03:  Willst du an den Kiffen gehen?
+00:29:43 - 00:29:44 - Sprecher SPEAKER_03:  Ja.
+00:29:44 - 00:29:47 - Sprecher SPEAKER_03:  Ja, okay, da fällt mir bestimmt noch irgendwas Cooles ein,
+00:29:47 - 00:29:48 - Sprecher SPEAKER_03:  was ich dir erzählen kann.
+00:29:48 - 00:29:50 - Sprecher SPEAKER_03:  Ich weiß aber nicht, ob das was ...
+00:29:50 - 00:29:51 - Sprecher SPEAKER_03:  War's zum Stein der Meisen?
+00:29:51 - 00:29:52 - Sprecher SPEAKER_03:  Ja, Stein der Meisen.
+00:29:52 - 00:29:54 - Sprecher SPEAKER_03:  Ich dachte schon, Stein der Meisen.
+00:29:54 - 00:29:57 - Sprecher SPEAKER_03:  Weil du doch schon wieder über Vögel so gerne redest.
+00:29:57 - 00:29:59 - Sprecher SPEAKER_09:  Nee, mit Meisen hab ich nichts zu tun. Ich mach Spazieren.
+00:29:59 - 00:30:00 - Sprecher SPEAKER_09:  Na gut, alles klar.
+00:30:01 - 00:30:04 - Sprecher SPEAKER_00:  Drogen und schnelle Autos sind der Untergang dieser Stadt.
+00:30:05 - 00:30:06 - Sprecher SPEAKER_00:  Das war es.
+00:30:06 - 00:30:09 - Sprecher SPEAKER_00:  Das war alles, was der Geist der zukünftigen Weihnacht
+00:30:09 - 00:30:10 - Sprecher SPEAKER_00:  in Fritzis Traum sagte.
+00:30:11 - 00:30:12 - Sprecher SPEAKER_00:  Doch am Stein der Meisen,
+00:30:12 - 00:30:17 - Sprecher SPEAKER_00:  wo ebenfalls Drogen und Autos eine nicht allzu geringe Rolle spielten,
+00:30:18 - 00:30:21 - Sprecher SPEAKER_00:  wurde deutlich, was Fritzis Untergang sein könnte.
+00:30:21 - 00:30:23 - Sprecher SPEAKER_03:  Was war die Scheiße denn?
+00:30:23 - 00:30:24 - Sprecher SPEAKER_03:  Was ist denn hier los?
+00:30:24 - 00:30:26 - Sprecher SPEAKER_03:  Hier ist die Scheißkarre.
+00:30:26 - 00:30:26 - Sprecher SPEAKER_03:  Soll ich die wegkippen?
+00:30:27 - 00:30:28 - Sprecher SPEAKER_03:  Nee, warte mal, ich klär das.
+00:30:30 - 00:30:32 - Sprecher SPEAKER_09:  Ich hoffe, der hat die Handbremse nicht dran.
+00:30:34 - 00:30:35 - Unbekannt:  ARD Text im Auftrag von Funk
+00:30:35 - 00:30:36 - Sprecher SPEAKER_03:  Nee, hat er nicht.
+00:30:36 - 00:30:37 - Sprecher SPEAKER_03:  Hat er nicht.
+00:30:37 - 00:30:38 - Sprecher SPEAKER_03:  Sehr gut.
+00:30:40 - 00:30:41 - Sprecher SPEAKER_03:  ARD Text im Auftrag von Funk
+00:30:41 - 00:30:41 - Sprecher SPEAKER_03: 
+00:30:44 - 00:30:45 - Sprecher SPEAKER_03:  ARD Text im Auftrag von Funk
+00:30:45 - 00:30:45 - Sprecher SPEAKER_03: 
+00:30:48 - 00:30:48 - Sprecher SPEAKER_03:  Perfekt.
+00:30:51 - 00:30:51 - Unbekannt:  ARD Text im Auftrag von Funk
+00:30:52 - 00:30:54 - Sprecher SPEAKER_03:  Sieht noch nicht mal so aus, als hättest du es runtergeschmissen, Billy.
+00:30:55 - 00:30:55 - Sprecher SPEAKER_03:  Ich sag's dir ehrlich.
+00:30:56 - 00:30:57 - Sprecher SPEAKER_09:  Ja, einparken kann ich.
+00:30:57 - 00:30:59 - Sprecher SPEAKER_09:  Das ist perfekt eingeparkt.
+00:31:01 - 00:31:02 - Unbekannt:  ARD Text im Auftrag von Funk
+00:31:04 - 00:31:05 - Sprecher SPEAKER_09:  Plötzlich tust du mir einen Gefallen.
+00:31:05 - 00:31:06 - Sprecher SPEAKER_03:  Was denn?
+00:31:06 - 00:31:06 - Sprecher SPEAKER_03:  ARD Text im Auftrag von Funk
+00:31:06 - 00:31:06 - Unbekannt: 
+00:31:06 - 00:31:06 - Unbekannt: 
+00:31:08 - 00:31:10 - Sprecher SPEAKER_09:  Ich hab dich in diese Harry-Sache nicht zu tief rein.
+00:31:10 - 00:31:11 - Sprecher SPEAKER_03:  Hm.
+00:31:14 - 00:31:14 - Unbekannt:  ARD Text im Auftrag von Funk
+00:31:14 - 00:31:16 - Sprecher SPEAKER_09:  Und wenn du's tust, sei verdammt vorsichtig.
+00:31:18 - 00:31:19 - Sprecher SPEAKER_03:  ARD Text im Auftrag von Funk
+00:31:19 - 00:31:21 - Sprecher SPEAKER_03:  Okay, Billy. Ich weiß nicht.
+00:31:21 - 00:31:22 - Sprecher SPEAKER_03:  Ist man das wirklich ernst?
+00:31:22 - 00:31:23 - Sprecher SPEAKER_09:  Das ist richtig.
+00:31:23 - 00:31:24 - Sprecher SPEAKER_09:  Ja.
+00:31:24 - 00:31:26 - Sprecher SPEAKER_03:  Vor wem muss ich mich da am meisten in Acht nehmen?
+00:31:27 - 00:31:29 - Sprecher SPEAKER_09:  Du solltest einfach allgemein darauf achten,
+00:31:29 - 00:31:30 - Sprecher SPEAKER_09:  dass das gar nicht erst in Frage kommt,
+00:31:31 - 00:31:33 - Sprecher SPEAKER_09:  dass du hier irgendwen beflügelt hast,
+00:31:33 - 00:31:35 - Sprecher SPEAKER_09:  überhaupt von dem Ganzen hier wusstest.
+00:31:36 - 00:31:38 - Sprecher SPEAKER_09:  Denn eigentlich würde man von Leuten, die das erfahren,
+00:31:39 - 00:31:41 - Sprecher SPEAKER_09:  erwarten, dass die das besprechen.
+00:31:42 - 00:31:44 - Sprecher SPEAKER_09:  Und am Ende ist einer sauer auf dich, weil du es wusstest.
+00:31:48 - 00:31:49 - Sprecher SPEAKER_09:  Warum halt solche Sachen einfach?
+00:31:51 - 00:31:55 - Sprecher SPEAKER_00:  Den Pfad, auf dem sie sich befand, haben schon viele vor ihr betreten.
+00:31:56 - 00:32:00 - Sprecher SPEAKER_00:  Und wie das für sie ausging, zeigten ihr die Geister der Zukunft.
+00:32:01 - 00:32:03 - Sprecher SPEAKER_00:  Fritzi kam nicht umhin, sich zu fragen,
+00:32:04 - 00:32:05 - Sprecher SPEAKER_00:  ob dies auch ihr war.
+00:32:05 - 00:32:06 - Sprecher SPEAKER_00:  Ob das ihre Zukunft sein sollte.
+00:32:07 - 00:32:09 - Sprecher SPEAKER_09:  Du solltest nicht übermütig werden, Fritzi,
+00:32:09 - 00:32:10 - Sprecher SPEAKER_09:  nur weil du ein paar Kontakte hast.
+00:32:14 - 00:32:17 - Sprecher SPEAKER_09:  Wir werden nämlich im Zweifel einen Scheiß auf dich geben.
+00:32:17 - 00:32:19 - Sprecher SPEAKER_09:  Und sagen, das ist ein Du-Problem.
+00:32:19 - 00:32:21 - Sprecher SPEAKER_03:  Und welche Kontakte meinst du, Billy?
+00:32:22 - 00:32:24 - Sprecher SPEAKER_09:  Kontakte, über die wir beide niemals sprechen werden.
+00:32:27 - 00:32:29 - Sprecher SPEAKER_09:  Wieso hat Wagner dich zu dem Thema angerufen?
+00:32:29 - 00:32:30 - Sprecher SPEAKER_09:  Wollte er einen Rat von dir?
+00:32:31 - 00:32:34 - Sprecher SPEAKER_03:  Wir wollten einfach nur reden wegen der Sache am Samstag.
+00:32:35 - 00:32:36 - Sprecher SPEAKER_03:  Wir hatten einfach nicht mehr miteinander geredet.
+00:32:37 - 00:32:39 - Sprecher SPEAKER_03:  Er hat mir eine ziemlich gebrochene SMS geschrieben,
+00:32:39 - 00:32:41 - Sprecher SPEAKER_03:  Samstag Nacht, dass alles kaputt geht.
+00:32:42 - 00:32:44 - Sprecher SPEAKER_03:  Und dass ihm alles ganz leid tut.
+00:32:45 - 00:32:47 - Sprecher SPEAKER_03:  Und dass er hofft, dass ich ihm wieder in die Augen gucken kann.
+00:32:48 - 00:32:51 - Sprecher SPEAKER_03:  Na ja, dann habe ich ihn heute eingesammelt
+00:32:51 - 00:32:52 - Sprecher SPEAKER_03:  und habe ein bisschen mit ihm gequatscht.
+00:32:53 - 00:32:56 - Sprecher SPEAKER_03:  Na ja, die Leute, die nicht so ganz einverstanden waren damit,
+00:32:57 - 00:33:02 - Sprecher SPEAKER_03:  die haben nach der Aktion auf jeden Fall wohl ein paar Dinge fallen lassen,
+00:33:02 - 00:33:05 - Sprecher SPEAKER_03:  die mehr Unruhe aufgebracht hat in der Gruppe.
+00:33:05 - 00:33:05 - Sprecher SPEAKER_03:  Aber ich glaube, dass er sich jetzt nicht mehr so einverstanden fühlt,
+00:33:05 - 00:33:06 - Sprecher SPEAKER_03:  als ich gedacht habe.
+00:33:08 - 00:33:09 - Sprecher SPEAKER_09:  Freunde sind gefährlich, Schulzi.
+00:33:11 - 00:33:12 - Sprecher SPEAKER_09:  Ich hätte gerne Freunde.
+00:33:12 - 00:33:14 - Sprecher SPEAKER_09:  Ich habe mein Leben lang nur für Freunde gearbeitet.
+00:33:15 - 00:33:15 - Sprecher SPEAKER_09:  Ich wollte immer nur Freunde.
+00:33:16 - 00:33:18 - Sprecher SPEAKER_09:  Ich habe immer gesagt, man braucht kein Geld, wenn man gute Freunde hat.
+00:33:20 - 00:33:21 - Sprecher SPEAKER_09:  Und dann wurde ich gefickt.
+00:33:24 - 00:33:25 - Sprecher SPEAKER_09:  Weil überall nur Schlangen sind, Fritzi.
+00:33:28 - 00:33:29 - Sprecher SPEAKER_03:  Wer hat dir das angetan, Billy?
+00:33:30 - 00:33:31 - Sprecher SPEAKER_09:  Mein eigenes Team.
+00:33:34 - 00:33:35 - Sprecher SPEAKER_09:  Muss dich alle folgen.
+00:33:35 - 00:33:37 - Sprecher SPEAKER_09:  Und die waren davor deine Freunde, oder was?
+00:33:38 - 00:33:40 - Sprecher SPEAKER_09:  Absolut. Das war der Fehler.
+00:33:45 - 00:33:49 - Sprecher SPEAKER_03:  Was hast du damit gemacht, Billy? Wie kommst du damit klar?
+00:33:51 - 00:33:52 - Sprecher SPEAKER_09:  Keine Freunde zu haben.
+00:33:53 - 00:33:57 - Sprecher SPEAKER_03:  Nicht nur keine Freunde zu haben, sondern dich dann auch von diesen Menschen zu trennen,
+00:33:57 - 00:33:58 - Sprecher SPEAKER_03:  die dich ja offensichtlich gefickt haben.
+00:33:59 - 00:34:00 - Sprecher SPEAKER_03:  Aber du doch trotzdem.
+00:34:00 - 00:34:03 - Sprecher SPEAKER_03:  Oder haben die freundschaftlichen Gefühle sich sofort in Luft aufgelöst?
+00:34:04 - 00:34:05 - Sprecher SPEAKER_09:  Nein, natürlich nicht.
+00:34:05 - 00:34:08 - Sprecher SPEAKER_09:  Deswegen hätte ich nie geglaubt, dass sie es sind, die mich fecken.
+00:34:12 - 00:34:16 - Sprecher SPEAKER_09:  Aber am Ende des Tages gibt es zwei Parts in meinem Gehirn.
+00:34:18 - 00:34:19 - Sprecher SPEAKER_09:  Einen emotionalen und einen logischen.
+00:34:23 - 00:34:24 - Sprecher SPEAKER_09:  Und dann habe ich den logischen machen lassen.
+00:34:29 - 00:34:30 - Sprecher SPEAKER_03:  Und den ziehst du durch?
+00:34:33 - 00:34:33 - Sprecher SPEAKER_09:  Heutzutage ist es so, dass ich mich immer wieder auf die andere Seite drehe.
+00:34:33 - 00:34:33 - Sprecher SPEAKER_09: 
+00:34:33 - 00:34:33 - Sprecher SPEAKER_09: 
+00:34:33 - 00:34:33 - Sprecher SPEAKER_09: 
+00:34:33 - 00:34:33 - Sprecher SPEAKER_09: 
+00:34:40 - 00:34:40 - Unbekannt:  Und dann ist es so, dass ich mich immer wieder auf die andere Seite drehe.
+00:34:40 - 00:34:42 - Sprecher SPEAKER_09:  Aber das heißt nicht, dass ich mein Empathievermögen verloren habe.
+00:34:43 - 00:34:46 - Sprecher SPEAKER_03:  Nein, das merke ich schon, dass du das nicht hast.
+00:34:46 - 00:34:47 - Sprecher SPEAKER_03:  Kann ich schon verstehen.
+00:34:49 - 00:34:50 - Sprecher SPEAKER_09:  Aber wenn es sein muss, halt.
+00:34:55 - 00:34:58 - Sprecher SPEAKER_03:  Okay, ich arbeite daran, das auch noch ein bisschen neutraler zu sehen.
+00:34:58 - 00:34:59 - Sprecher SPEAKER_03:  Ich sag dir was, Fritzi, egal wie gern ich dich habe, ne?
+00:35:00 - 00:35:02 - Sprecher SPEAKER_09:  Und wie gern ich auch mit dir rede.
+00:35:02 - 00:35:03 - Sprecher SPEAKER_09:  Und dir Sachen anvertrage.
+00:35:03 - 00:35:04 - Sprecher SPEAKER_09:  Und ich bin eine Frau, die dich überhaupt nichts angeht.
+00:35:05 - 00:35:05 - Sprecher SPEAKER_03:  Ja.
+00:35:07 - 00:35:09 - Sprecher SPEAKER_09:  Wenn du mich heute betrügen würdest, würde ich nicht zögern.
+00:35:11 - 00:35:11 - Sprecher SPEAKER_03:  Ja.
+00:35:13 - 00:35:15 - Sprecher SPEAKER_09:  Also ich meine, du würdest mich nie wieder sehen.
+00:35:17 - 00:35:18 - Sprecher SPEAKER_09:  Du machst sowas nicht selber.
+00:35:19 - 00:35:20 - Sprecher SPEAKER_03:  Ist mir schon klar.
+00:35:26 - 00:35:27 - Sprecher SPEAKER_09:  Ich kann es mir einfach nicht leisten.
+00:35:27 - 00:35:31 - Sprecher SPEAKER_09:  Und vielleicht ist das sogar doch was Freundschaftliches, warum ich so handel.
+00:35:34 - 00:35:34 - Unbekannt:  Ja.
+00:35:34 - 00:35:37 - Sprecher SPEAKER_09:  Es gibt Leute, die draufgehen, wenn ich Scheiße baue, Fritzi.
+00:35:38 - 00:35:40 - Sprecher SPEAKER_09:  Und denen bin ich das schuldig, vernünftig zu arbeiten.
+00:35:43 - 00:35:43 - Sprecher SPEAKER_01:  Ich verstehe, was du meinst, ja.
+00:35:43 - 00:35:46 - Sprecher SPEAKER_09:  Und wenn man sich einmal für das Geschäft entscheidet, in dem wir sind,
+00:35:46 - 00:35:48 - Sprecher SPEAKER_09:  dann hat man sich im Grunde sowieso dafür entschieden,
+00:35:48 - 00:35:50 - Sprecher SPEAKER_09:  dass man eigentlich ein Zombie ist, ne?
+00:35:52 - 00:35:54 - Sprecher SPEAKER_09:  Du bist tot in dem Moment, wo du in dieses Geschäft reingehst.
+00:35:54 - 00:35:55 - Sprecher SPEAKER_09:  Oder du kommst nach ganz oben.
+00:35:57 - 00:35:58 - Sprecher SPEAKER_09:  Und selbst dann ist die Wahrscheinlichkeit,
+00:35:58 - 00:35:59 - Sprecher SPEAKER_09:  dass du stirbst, ziemlich hoch.
+00:35:59 - 00:36:03 - Sprecher SPEAKER_09:  Ich wollte gerade sagen, ich glaube nicht, dass es dich davon abhält,
+00:36:03 - 00:36:04 - Sprecher SPEAKER_03:  wenn du ganz oben bist, draufzugehen.
+00:36:05 - 00:36:06 - Sprecher SPEAKER_03:  Nee, absolut nicht.
+00:36:07 - 00:36:10 - Sprecher SPEAKER_00:  Zu akzeptieren, dass ihre Wertvorstellungen
+00:36:10 - 00:36:12 - Sprecher SPEAKER_00:  nicht mit dem Geschäft vereinbar waren,
+00:36:12 - 00:36:14 - Sprecher SPEAKER_00:  in das sie gerade eintauchte,
+00:36:14 - 00:36:15 - Sprecher SPEAKER_00:  fiel ihr schwer.
+00:36:16 - 00:36:19 - Sprecher SPEAKER_00:  Manchmal will man mit Tradition einfach nicht brechen.
+00:36:20 - 00:36:23 - Sprecher SPEAKER_00:  Darum sollten Traditionen lieber sterben,
+00:36:24 - 00:36:27 - Sprecher SPEAKER_00:  bevor die sterben, die so verzweifelt an ihnen festhalten.
+00:36:28 - 00:36:31 - Sprecher SPEAKER_03:  Irgendwie muss ich noch mehr lernen davon.
+00:36:32 - 00:36:34 - Sprecher SPEAKER_09:  Du musst wahrscheinlich noch eine Menge lernen, Fritzi.
+00:36:36 - 00:36:38 - Sprecher SPEAKER_09:  Aber du hast beste Voraussetzungen, wissen wir beide.
+00:36:38 - 00:36:40 - Sprecher SPEAKER_03:  Ich werde noch extrem viel lernen.
+00:36:41 - 00:36:42 - Sprecher SPEAKER_03:  Ganz viel.
+00:36:42 - 00:36:45 - Sprecher SPEAKER_03:  Aber ich muss noch rausfinden, wo ich es lernen muss.
+00:36:45 - 00:36:46 - Sprecher SPEAKER_03:  Weißt du, was das Traurige ist, Fritzi?
+00:36:46 - 00:36:47 - Sprecher SPEAKER_09:  Ich würde mir eigentlich wünschen, dass du das nicht tust.
+00:36:48 - 00:36:51 - Sprecher SPEAKER_03:  Aber vielleicht kann ich es auf meinen Weg lernen, Billy.
+00:36:51 - 00:36:53 - Sprecher SPEAKER_03:  Glaubst du nicht, dass es noch irgendwie die Möglichkeit gibt,
+00:36:54 - 00:36:59 - Sprecher SPEAKER_03:  das so zu handhaben, dass es sich irgendwie mit dem verträgt,
+00:37:00 - 00:37:01 - Sprecher SPEAKER_03:  was in dir passiert?
+00:37:02 - 00:37:03 - Sprecher SPEAKER_03:  Was für mich wichtig ist?
+00:37:07 - 00:37:09 - Sprecher SPEAKER_09:  Ich kann dir auf jeden Fall sagen, dass man in unserem Geschäft
+00:37:09 - 00:37:11 - Sprecher SPEAKER_09:  nicht mit jedem befreundet sein kann, den man nett findet.
+00:37:13 - 00:37:15 - Sprecher SPEAKER_09:  Je tiefer du in dieses Geschäft kommst,
+00:37:15 - 00:37:16 - Sprecher SPEAKER_09:  desto mehr Dinge wirst du tun müssen,
+00:37:16 - 00:37:19 - Sprecher SPEAKER_09:  die du vielleicht eigentlich von dir aus als Fritzi
+00:37:19 - 00:37:20 - Sprecher SPEAKER_09:  gar nicht tun wollen würdest.
+00:37:21 - 00:37:23 - Sprecher SPEAKER_09:  Aber Leute werden das irgendwann von dir erwarten,
+00:37:24 - 00:37:26 - Sprecher SPEAKER_09:  dass du keine Skrupel zeigst.
+00:37:27 - 00:37:29 - Sprecher SPEAKER_09:  Und wenn du es dann tust, dann bist du eine Gefahr.
+00:37:30 - 00:37:30 - Unbekannt:  Ja.
+00:37:31 - 00:37:34 - Sprecher SPEAKER_03:  Aber Billy, ich weiß gar nicht, von welchem Geschäft du redest.
+00:37:34 - 00:37:35 - Sprecher SPEAKER_03:  Ich bin doch nur Taxifahrerin.
+00:37:36 - 00:37:36 - Sprecher SPEAKER_09:  Hm.
+00:37:36 - 00:37:37 - Sprecher SPEAKER_09:  Hm.
+00:37:38 - 00:37:41 - Sprecher SPEAKER_09:  Eines Tages wird dich jemand nach Informationen über Freunde fragen.
+00:37:45 - 00:37:47 - Sprecher SPEAKER_09:  Und wenn du demjenigen dann was schuldest,
+00:37:49 - 00:37:50 - Sprecher SPEAKER_09:  weil du in Kreisen unterwegs bist,
+00:37:50 - 00:37:52 - Sprecher SPEAKER_09:  wo ich dich am liebsten nie gesehen hätte,
+00:37:54 - 00:37:56 - Sprecher SPEAKER_09:  dann kommst du in den Zwiespalt, Fritzi.
+00:37:57 - 00:37:59 - Sprecher SPEAKER_09:  Und der ist verdammt gefährlich.
+00:37:59 - 00:37:59 - Unbekannt:  Ja.
+00:38:00 - 00:38:01 - Unbekannt:  Ja.
+00:38:01 - 00:38:01 - Unbekannt: 
+00:38:05 - 00:38:05 - Sprecher SPEAKER_09:  Er Creative Commons comigo.
+00:38:05 - 00:38:06 - Sprecher SPEAKER_09:  Pass gut auf dich auf.
+00:38:06 - 00:38:09 - Sprecher SPEAKER_09:  Und wenn du da irgendwann mal nicht weiterweißt, ruf mich an.
+00:38:09 - 00:38:10 - Unbekannt:  Das wird stehen bleiben.
+00:38:11 - 00:38:16 - Sprecher SPEAKER_00:  Und das, werte Zuhörer, war eine Weihnachtsgeschichte …
+00:38:16 - 00:38:19 - Sprecher SPEAKER_00:  Meittem, drauf, Luft ab, den Wein.
+00:38:21 - 00:38:23 - Sprecher SPEAKER_07:  Was justement macht sie wichtig?
+00:38:23 - 00:38:23 - Sprecher SPEAKER_07:  Das Was mich nicht Mode schlug.
+00:38:24 - 00:38:28 - Sprecher SPEAKER_07:  Nein, mach' da nichts drauf.
+00:38:31 - 00:38:40 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020

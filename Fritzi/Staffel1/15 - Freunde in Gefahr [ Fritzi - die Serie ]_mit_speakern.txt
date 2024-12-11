@@ -1,0 +1,573 @@
+Transkription Staffel 1 mit Sprechererkennung von 15 - Freunde in Gefahr [ Fritzi - die Serie ].wav:
+00:00:11 - 00:00:29 - Sprecher SPEAKER_11:  Untertitelung. BR 2018
+00:00:30 - 00:00:30 - Unbekannt:  Hey!
+00:00:31 - 00:00:35 - Sprecher SPEAKER_11:  Ey, ich wollte dir eigentlich nur sagen, dass ich hier das Taxi hier gerade abschleppen lasse, das an der Leitstelle steht.
+00:00:35 - 00:00:39 - Sprecher SPEAKER_11:  Das wird das qualmt voll. Ich hab angerufen im Gewerbepark, dass sie es abholen sollen.
+00:00:41 - 00:00:42 - Sprecher SPEAKER_03:  Ja, ja, okay, danke dir. Mach das.
+00:00:43 - 00:00:44 - Sprecher SPEAKER_11:  Okay, cool.
+00:00:45 - 00:00:48 - Sprecher SPEAKER_03:  Gut, Fritzi. Ich muss jetzt ein paar Gangster-Schütz-Sachen erledigen.
+00:00:49 - 00:00:50 - Sprecher SPEAKER_03:  Ich hab Koks.
+00:00:51 - 00:00:51 - Sprecher SPEAKER_11:  Wirklich? Okay.
+00:00:52 - 00:00:53 - Sprecher SPEAKER_00:  Scheiße, Mann.
+00:00:53 - 00:00:54 - Sprecher SPEAKER_00:  Ich brauche nur Koks.
+00:00:54 - 00:00:55 - Sprecher SPEAKER_00:  Bist du Koks? Ich hab was.
+00:00:55 - 00:00:58 - Sprecher SPEAKER_11:  Was? Das ist voll kriminell. Was ist los mit euch?
+00:00:58 - 00:00:59 - Sprecher SPEAKER_11:  Wieso habt ihr immer alle Koks?
+00:00:59 - 00:01:02 - Sprecher SPEAKER_11:  Alle reden davon, als wäre das total normal, aber es ist überhaupt nicht normal.
+00:01:02 - 00:01:04 - Sprecher SPEAKER_11:  Es ist total gefährlich und kriminell.
+00:01:04 - 00:01:05 - Sprecher SPEAKER_11:  Mein Gott!
+00:01:06 - 00:01:09 - Sprecher SPEAKER_05:  Hast du schon mal jemals von einem Todesfall bei Kokain gehört?
+00:01:09 - 00:01:09 - Sprecher SPEAKER_05:  Ich nicht.
+00:01:10 - 00:01:14 - Sprecher SPEAKER_11:  Verdammte Scheiße. Es ist alles viel zu kriminell hier. Immer das Gleiche.
+00:01:14 - 00:01:16 - Sprecher SPEAKER_10:  Ich weiß nicht, ob es jetzt geht.
+00:01:16 - 00:01:17 - Sprecher SPEAKER_10:  Wir machen gerade...
+00:01:17 - 00:01:19 - Sprecher SPEAKER_10:  Es ist gerade ziemlich viel Scheiße abgegangen.
+00:01:19 - 00:01:21 - Sprecher SPEAKER_10:  Also nichts Kriminelles oder so.
+00:01:21 - 00:01:23 - Sprecher SPEAKER_10:  Einfach nur so ein bisschen...
+00:01:24 - 00:01:25 - Sprecher SPEAKER_10:  Weißt du, wenn sie...
+00:01:26 - 00:01:28 - Sprecher SPEAKER_10:  Ja, so geplänkelt halt.
+00:01:28 - 00:01:28 - Sprecher SPEAKER_10:  So...
+00:01:29 - 00:01:29 - Sprecher SPEAKER_10:  Ja, du hast...
+00:01:29 - 00:01:29 - Sprecher SPEAKER_10: 
+00:01:29 - 00:01:29 - Sprecher SPEAKER_10: 
+00:01:29 - 00:01:31 - Sprecher SPEAKER_10:  Ich hab mich geboxt und es tat weh.
+00:01:31 - 00:01:34 - Sprecher SPEAKER_10:  Und dann haben wir gesagt, aber das ist das weiteste Spiel mit dem Boxen und so.
+00:01:34 - 00:01:36 - Sprecher SPEAKER_10:  Und jetzt haben wir Ärger mit denen so ein bisschen.
+00:01:36 - 00:01:38 - Sprecher SPEAKER_10:  Und jetzt versuchen wir, die zu fangen.
+00:01:38 - 00:01:39 - Sprecher SPEAKER_10:  So Fangspiel-mäßig.
+00:01:39 - 00:01:40 - Sprecher SPEAKER_10:  Kannst du mich da mitnehmen?
+00:01:41 - 00:01:42 - Sprecher SPEAKER_10:  Du willst mit?
+00:01:42 - 00:01:43 - Sprecher SPEAKER_10:  Du willst mit?
+00:01:43 - 00:01:43 - Sprecher SPEAKER_10:  Du willst mit?
+00:01:44 - 00:01:44 - Sprecher SPEAKER_10:  Du willst mit?
+00:01:44 - 00:01:46 - Sprecher SPEAKER_10:  Ich hab einen platten Sprung.
+00:01:46 - 00:01:46 - Sprecher SPEAKER_10:  Ey, du willst mit?
+00:01:47 - 00:01:47 - Sprecher SPEAKER_11:  Ja.
+00:01:50 - 00:01:52 - Sprecher SPEAKER_10:  Ähm, weißt du, Earl muss abgeholt werden.
+00:01:52 - 00:01:53 - Sprecher SPEAKER_10:  Der ist gestrandet.
+00:01:53 - 00:01:54 - Sprecher SPEAKER_10:  Vielleicht rufst du mal Earl an.
+00:01:55 - 00:01:56 - Sprecher SPEAKER_11:  Du wurdest angeschossen.
+00:01:56 - 00:01:57 - Sprecher SPEAKER_10:  Ja.
+00:01:57 - 00:01:58 - Sprecher SPEAKER_10:  Oh mein Gott.
+00:01:59 - 00:01:59 - Sprecher SPEAKER_11:  Oh mein Gott.
+00:01:59 - 00:01:59 - Sprecher SPEAKER_11:  Ja.
+00:02:01 - 00:02:03 - Sprecher SPEAKER_11:  Brauchst du Hilfe oder...
+00:02:03 - 00:02:05 - Sprecher SPEAKER_11:  Ich hab deine Schutzweste, alles gut.
+00:02:05 - 00:02:06 - Sprecher SPEAKER_03:  Okay, Gott sei Dank.
+00:02:07 - 00:02:07 - Sprecher SPEAKER_11:  Was denn?
+00:02:08 - 00:02:09 - Sprecher SPEAKER_11:  Was ist denn?
+00:02:09 - 00:02:09 - Sprecher SPEAKER_11:  Die Stadt.
+00:02:10 - 00:02:11 - Sprecher SPEAKER_11:  Die Stadt ist gefährlich.
+00:02:11 - 00:02:12 - Sprecher SPEAKER_11:  Ich weiß.
+00:02:12 - 00:02:13 - Sprecher SPEAKER_11:  Das weiß ich, Stefano.
+00:02:13 - 00:02:14 - Sprecher SPEAKER_11:  Das ist das, was ich dir immer wieder sage.
+00:02:16 - 00:02:21 - Sprecher SPEAKER_11:  Und in all dem Trubel hab ich noch einen Menschen kennengelernt, der mir später arg wichtig wurde.
+00:02:21 - 00:02:22 - Sprecher SPEAKER_11:  Was ist denn?
+00:02:23 - 00:02:24 - Sprecher SPEAKER_11:  Ich versuch dich zu erkennen.
+00:02:25 - 00:02:26 - Sprecher SPEAKER_04:  Du kennst mich ja.
+00:02:26 - 00:02:27 - Sprecher SPEAKER_04:  Ich glaub, du kennst...
+00:02:27 - 00:02:27 - Sprecher SPEAKER_04:  Okay, gut.
+00:02:27 - 00:02:28 - Sprecher SPEAKER_11:  Du kennst ihn gar nicht.
+00:02:28 - 00:02:29 - Sprecher SPEAKER_11:  Okay, ich hab mich schon erschrocken.
+00:02:29 - 00:02:30 - Sprecher SPEAKER_11:  Ich hab verstanden.
+00:02:30 - 00:02:30 - Sprecher SPEAKER_11:  Hagi.
+00:02:31 - 00:02:31 - Sprecher SPEAKER_11:  Harry ist neu.
+00:02:31 - 00:02:31 - Sprecher SPEAKER_11:  Harry.
+00:02:32 - 00:02:33 - Sprecher SPEAKER_11:  Hab ich den drin.
+00:02:33 - 00:02:34 - Sprecher SPEAKER_04:  Ich hab ihn im Blu-Ray gekauft.
+00:02:34 - 00:02:35 - Sprecher SPEAKER_04:  Ich glaub, wir haben jetzt für Miezen shoppen gewesen, Alter.
+00:02:35 - 00:02:36 - Sprecher SPEAKER_04:  Der sieht gut aus, ja.
+00:02:36 - 00:02:36 - Sprecher SPEAKER_04:  Okay.
+00:02:38 - 00:02:40 - Sprecher SPEAKER_11:  Naja, worauf ich eigentlich hinaus wollte.
+00:02:40 - 00:02:44 - Sprecher SPEAKER_11:  Als ich damals im PD war, da wurde mir nach und nach immer klarer, dass meine Freunde
+00:02:44 - 00:02:47 - Sprecher SPEAKER_11:  alle irgendwas mit Kriminalität am Hut hatten.
+00:02:47 - 00:02:52 - Sprecher SPEAKER_11:  Und dass ich wegen meiner vielen Arbeit nie für sie da sein konnte, wenn sie mich brauchten.
+00:02:53 - 00:02:57 - Sprecher SPEAKER_11:  Was ich damals allerdings noch nicht kapiert hatte, war, dass nicht die Stadt gefährlich ist,
+00:02:58 - 00:02:59 - Sprecher SPEAKER_11:  sondern die Leute, die in ihr wohnen.
+00:02:59 - 00:03:00 - Sprecher SPEAKER_11:  Wohnten.
+00:03:02 - 00:03:02 - Unbekannt:  Okay.
+00:03:22 - 00:03:22 - Unbekannt:  Dabei geht irgendwas.
+00:03:22 - 00:03:22 - Unbekannt: 
+00:03:22 - 00:03:22 - Unbekannt: 
+00:03:22 - 00:03:22 - Unbekannt: 
+00:03:22 - 00:03:22 - Unbekannt: 
+00:03:22 - 00:03:22 - Unbekannt:  Du kommst nicht zueinander hin.
+00:03:22 - 00:03:22 - Unbekannt: 
+00:03:22 - 00:03:22 - Unbekannt: 
+00:03:41 - 00:03:59 - Unbekannt:  Untertitelung des ZDF, 2020
+00:04:17 - 00:04:29 - Unbekannt:  Untertitelung des ZDF, 2020
+00:04:43 - 00:04:59 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:05:11 - 00:05:13 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:05:38 - 00:05:59 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:06:01 - 00:06:04 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:06:42 - 00:06:59 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:07:02 - 00:07:04 - Sprecher SPEAKER_12:  Untertitelung des ZDF, 2020
+00:07:34 - 00:07:58 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:08:09 - 00:08:10 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:08:43 - 00:08:59 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:09:04 - 00:09:13 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:09:41 - 00:09:42 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:10:11 - 00:10:29 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:10:44 - 00:10:59 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:11:15 - 00:11:28 - Sprecher SPEAKER_10:  Untertitelung des ZDF, 2020
+00:11:36 - 00:11:41 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:11:41 - 00:11:44 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:11:59 - 00:12:03 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 20. Ziege
+00:12:03 - 00:12:03 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:12:04 - 00:12:07 - Sprecher SPEAKER_11:  Untertitelung des ZDF, 2020
+00:12:07 - 00:12:11 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:12:14 - 00:12:17 - Sprecher SPEAKER_10:  Untertitelung des ZDF, 2020
+00:12:23 - 00:12:29 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:12:29 - 00:12:31 - Sprecher SPEAKER_11:  Das macht mir wirklich Sorgen.
+00:12:31 - 00:12:32 - Sprecher SPEAKER_07:  Ja, willkommen, Earl.
+00:12:32 - 00:12:34 - Sprecher SPEAKER_07:  Ähm, ja, der ist beim Mechaniker.
+00:12:34 - 00:12:36 - Sprecher SPEAKER_07:  Willst du dazu irgendwas sagen, Ochse?
+00:12:36 - 00:12:37 - Sprecher SPEAKER_11:  Weißt du was darüber?
+00:12:38 - 00:12:41 - Sprecher SPEAKER_11:  Äh, was mit dem, dass er Koks in der Tasche hatte?
+00:12:41 - 00:12:41 - Sprecher SPEAKER_11:  Ja, genau.
+00:12:42 - 00:12:43 - Sprecher SPEAKER_07:  Mhm.
+00:12:44 - 00:12:45 - Sprecher SPEAKER_07:  Äh, sag jetzt was.
+00:12:47 - 00:12:49 - Sprecher SPEAKER_10:  Ich hab nicht mit Earl darüber gesprochen.
+00:12:50 - 00:12:52 - Sprecher SPEAKER_10:  Ich hab den ganzen Tag mit ihm verbracht gestern,
+00:12:52 - 00:12:53 - Sprecher SPEAKER_10:  aber wir haben nicht darüber geredet.
+00:12:54 - 00:12:55 - Sprecher SPEAKER_10:  War er irgendwie komisch?
+00:12:55 - 00:12:57 - Sprecher SPEAKER_07:  Hat er irgendwas gemacht, was gar nicht so Earl-typisch war?
+00:12:57 - 00:12:58 - Sprecher SPEAKER_07:  War er oft auf der Toilette gewesen?
+00:12:59 - 00:13:00 - Sprecher SPEAKER_10:  Die Nase oft hochzogen?
+00:13:01 - 00:13:01 - Sprecher SPEAKER_07:  Ich überleg gerade.
+00:13:02 - 00:13:03 - Sprecher SPEAKER_10:  Ihres Zeugredet?
+00:13:03 - 00:13:04 - Sprecher SPEAKER_07:  Irgendwelche komischen Affären?
+00:13:04 - 00:13:05 - Sprecher SPEAKER_07:  Ich hätte einen Drogenkreis mit ihm machen sollen.
+00:13:05 - 00:13:07 - Sprecher SPEAKER_11:  Nee, er war voll cool und lieb und süß, so wie immer.
+00:13:08 - 00:13:11 - Sprecher SPEAKER_11:  Oh Mann, ich hab, ohne Scheiß, ich hab, ich hab, also ich hab ihm geglaubt,
+00:13:11 - 00:13:13 - Sprecher SPEAKER_11:  weil er hat dann gesagt, es wurde ihm zugeschoben.
+00:13:13 - 00:13:16 - Sprecher SPEAKER_11:  Dann hab ich gedacht, naja, vielleicht stimmt es ja,
+00:13:16 - 00:13:18 - Sprecher SPEAKER_11:  aber dann heute Abend, also heute Nacht,
+00:13:18 - 00:13:20 - Sprecher SPEAKER_11:  hab ich mir nochmal Gedanken drüber gemacht und hab gedacht,
+00:13:20 - 00:13:21 - Sprecher SPEAKER_11:  vielleicht stimmt es ja doch nicht.
+00:13:22 - 00:13:25 - Sprecher SPEAKER_11:  Vielleicht lügt er mich an, weil er hat mich schon richtig oft angelogen.
+00:13:26 - 00:13:29 - Sprecher SPEAKER_11:  Seitdem mich Ochse damals darauf angesprochen hat,
+00:13:29 - 00:13:31 - Sprecher SPEAKER_11:  dass Wagner und Co. mich manchmal verarschen würden,
+00:13:31 - 00:13:35 - Sprecher SPEAKER_11:  hatte ich das Gefühl, dass er auf jeden Fall die beste Anlaufstelle wäre,
+00:13:35 - 00:13:36 - Sprecher SPEAKER_11:  um ein bisschen nachzuforschen.
+00:13:36 - 00:13:40 - Sprecher SPEAKER_11:  Aber es war echt schwer, ihn zu erwischen, ohne dass Wagner dabei war.
+00:13:41 - 00:13:46 - Sprecher SPEAKER_11:  Ich hab auch das Gefühl, dass, dass irgendwie verheimlicht mir Wagner ab und zu auch Sachen.
+00:13:47 - 00:13:50 - Sprecher SPEAKER_11:  Denn sowas wie jetzt gerade zum Beispiel, dass er sagt sowas wie,
+00:13:50 - 00:13:52 - Sprecher SPEAKER_11:  er findet mal raus, wie man da in Lagerhallen kommt.
+00:13:53 - 00:13:56 - Sprecher SPEAKER_11:  Der tut dann so, als wäre ich dumm, als würde ich nicht verstehen,
+00:13:56 - 00:13:58 - Sprecher SPEAKER_11:  dass er irgendwie was mit der Information,
+00:13:59 - 00:14:00 - Sprecher SPEAKER_11:  anfangen möchte.
+00:14:00 - 00:14:01 - Sprecher SPEAKER_11:  Ich weiß aber noch nicht was.
+00:14:03 - 00:14:07 - Sprecher SPEAKER_11:  Hm, vielleicht kriegst du es raus, wenn du ihm hinterher spionierst.
+00:14:08 - 00:14:11 - Sprecher SPEAKER_11:  Aber das hört sich nicht so an, wie was, was Freunde machen.
+00:14:12 - 00:14:14 - Sprecher SPEAKER_10:  Ja, aber wir machen ja auch nicht Freunde,
+00:14:14 - 00:14:19 - Sprecher SPEAKER_10:  einem irgendeinen Scheiß erzählen und dann nicht sagen wofür und so und dann dich anlügen.
+00:14:19 - 00:14:20 - Sprecher SPEAKER_10:  Du hast wirklich recht.
+00:14:20 - 00:14:24 - Sprecher SPEAKER_11:  Und du glaubst, wenn ich ihm hinterher spioniere, könnte ich rausfinden, was es ist.
+00:14:24 - 00:14:28 - Sprecher SPEAKER_11:  Und wenn es was Kriminelles ist, könnte ich ihn davon abhalten und ihn dann dazu bringen,
+00:14:29 - 00:14:32 - Sprecher SPEAKER_11:  wieder so zu werden, wie früher, als er noch unkriminell war.
+00:14:33 - 00:14:36 - Sprecher SPEAKER_10:  Das kann man, das nennt man frische Tatatappen und so.
+00:14:36 - 00:14:37 - Sprecher SPEAKER_10:  So wie damals Earl.
+00:14:38 - 00:14:41 - Sprecher SPEAKER_11:  Oh ja, aber man, aber das ist, das stresst mich so sehr, Oxel.
+00:14:41 - 00:14:46 - Sprecher SPEAKER_11:  Alle, alle, alle sind so, also ich meine, Earl, jetzt bist du gerade da und hörst das halt auch,
+00:14:46 - 00:14:48 - Sprecher SPEAKER_11:  aber du weißt ja selber, dass es kriminell war.
+00:14:49 - 00:14:49 - Sprecher SPEAKER_11:  Damals.
+00:14:49 - 00:14:54 - Sprecher SPEAKER_11:  Und irgendwie mit Wagner habe ich immer Angst, dass er doch in die Kriminalität abrutscht,
+00:14:54 - 00:14:57 - Sprecher SPEAKER_11:  obwohl er jetzt so lange antikriminell war.
+00:14:58 - 00:14:58 - Sprecher SPEAKER_11:  Irgendwie hört man das nicht.
+00:14:58 - 00:15:01 - Sprecher SPEAKER_11:  Und dann erinnert man sich so viele Sachen komisch an, die er vorhat.
+00:15:01 - 00:15:05 - Sprecher SPEAKER_11:  Ich fühle mich nicht mehr so wohl, wie als er noch, als er so nett war.
+00:15:07 - 00:15:12 - Sprecher SPEAKER_10:  Weißt du, Fritz, der ist halt jetzt mit seiner Gang und so, da hat er halt immer mehr zu tun.
+00:15:12 - 00:15:14 - Sprecher SPEAKER_10:  Da muss er auch härter durchgreifen wahrscheinlich.
+00:15:14 - 00:15:15 - Sprecher SPEAKER_10:  Wagner ist in einer Gang?
+00:15:15 - 00:15:16 - Sprecher SPEAKER_10:  Was für eine Gang?
+00:15:17 - 00:15:18 - Sprecher SPEAKER_11:  Naja, Familie meine ich, Familie.
+00:15:18 - 00:15:19 - Sprecher SPEAKER_10:  Was heißt das?
+00:15:19 - 00:15:22 - Sprecher SPEAKER_11:  Oxel, jetzt sag doch mal, jetzt bitte erzähl uns doch mal, was los ist.
+00:15:23 - 00:15:23 - Sprecher SPEAKER_11:  Oh Gott.
+00:15:23 - 00:15:24 - Sprecher SPEAKER_11:  Der hat eine Familie?
+00:15:24 - 00:15:25 - Sprecher SPEAKER_11:  Das ist wirklich wichtig.
+00:15:26 - 00:15:27 - Sprecher SPEAKER_10:  Na, Freunde und Familie.
+00:15:27 - 00:15:28 - Sprecher SPEAKER_10:  Die wohnen alle in der Kriminellen.
+00:15:28 - 00:15:28 - Sprecher SPEAKER_10: 
+00:15:28 - 00:15:29 - Sprecher SPEAKER_10:  Die sind so gegrovet.
+00:15:29 - 00:15:30 - Sprecher SPEAKER_10:  Die verstehen sich alle prima.
+00:15:30 - 00:15:32 - Sprecher SPEAKER_10:  Die hängen immer zusammen ab und so.
+00:15:33 - 00:15:35 - Sprecher SPEAKER_10:  Und das ist eine Gang?
+00:15:35 - 00:15:38 - Sprecher SPEAKER_10:  Naja, Gang sagen die bestimmt nur, damit es cooler klingt.
+00:15:39 - 00:15:41 - Sprecher SPEAKER_10:  Aber eigentlich ist es eine Familie und so, Freunde und so.
+00:15:41 - 00:15:44 - Sprecher SPEAKER_10:  Fritzi, Mann, ich kann es mich doch nicht so in die Ecke drängen.
+00:15:44 - 00:15:45 - Sprecher SPEAKER_10:  Nein, das ist okay.
+00:15:45 - 00:15:49 - Sprecher SPEAKER_11:  Ich weiß, wir haben vorhin drüber geredet, du stehst jetzt hinter Wagner und sagst halt
+00:15:49 - 00:15:53 - Sprecher SPEAKER_11:  nicht irgendwelche ehrlichen Worte zu mir, weil du eher hinter Wagner stehst.
+00:15:53 - 00:15:54 - Sprecher SPEAKER_11:  Ich verstehe das, Oxel.
+00:15:54 - 00:15:55 - Sprecher SPEAKER_11:  Was für ehrliche Worte.
+00:15:55 - 00:15:56 - Sprecher SPEAKER_11:  Ich bin ehrlich zu dir, Fritzi.
+00:15:56 - 00:15:58 - Sprecher SPEAKER_10:  Aber ich will halt nicht im Flur.
+00:15:59 - 00:16:01 - Sprecher SPEAKER_10:  Ich kann nicht.
+00:16:02 - 00:16:02 - Unbekannt:  Was?
+00:16:02 - 00:16:04 - Sprecher SPEAKER_02:  Was hat denn jetzt der Fluss damit zu tun?
+00:16:05 - 00:16:06 - Sprecher SPEAKER_02:  Ja, da ist Strömung und so.
+00:16:06 - 00:16:09 - Sprecher SPEAKER_02:  Und wenn man dann Betonknot haben will.
+00:16:09 - 00:16:09 - Sprecher SPEAKER_10: 
+00:16:09 - 00:16:09 - Sprecher SPEAKER_10:  Was?
+00:16:10 - 00:16:12 - Sprecher SPEAKER_11:  Ist das wirklich so, Oxel?
+00:16:12 - 00:16:12 - Sprecher SPEAKER_11:  Ich kümmere mich darum.
+00:16:13 - 00:16:14 - Unbekannt:  Nein.
+00:16:14 - 00:16:18 - Sprecher SPEAKER_11:  Alles, was ich immer wollte, war meine Freunde vor schlimmen Dingen zu beschützen.
+00:16:18 - 00:16:22 - Sprecher SPEAKER_11:  Dass ich nicht jeden retten konnte oder nicht jeder gerettet werden wollte, das musste
+00:16:22 - 00:16:23 - Sprecher SPEAKER_11:  ich erst noch lernen.
+00:16:26 - 00:16:28 - Sprecher SPEAKER_10:  Jedenfalls, Fritzi, ich würde dir echt gerne was sagen.
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:28 - Sprecher SPEAKER_10: 
+00:16:28 - 00:16:32 - Sprecher SPEAKER_10:  Ich habe schon mal ein paar Sachen gesagt, aber ich fühle mich wie ein Tauziseil.
+00:16:33 - 00:16:33 - Sprecher SPEAKER_10:  Verstehst du?
+00:16:33 - 00:16:38 - Sprecher SPEAKER_11:  Es tut mir leid, ich will voll nicht an dir ziehen, aber ich muss wissen, was ich tun
+00:16:38 - 00:16:38 - Sprecher SPEAKER_11:  soll.
+00:16:39 - 00:16:40 - Sprecher SPEAKER_11:  Und ich mache mir voll Sorgen einfach.
+00:16:41 - 00:16:45 - Sprecher SPEAKER_11:  Weil, weißt du, Gottfried habe ich damals echt gut aus dem kriminellen Sumpf rausgekriegt.
+00:16:45 - 00:16:48 - Sprecher SPEAKER_11:  Aber das mit Wagner, da bin ich immer total verwirrt.
+00:16:48 - 00:16:52 - Sprecher SPEAKER_11:  Weil ich weiß, er hat mal was Kriminelles gemacht und dann sagt er, er macht nichts
+00:16:52 - 00:16:52 - Sprecher SPEAKER_11:  Kriminelles.
+00:16:52 - 00:16:54 - Sprecher SPEAKER_11:  Aber irgendwie fühle ich das.
+00:16:54 - 00:16:55 - Sprecher SPEAKER_11:  Ich fühle das manchmal bei Menschen.
+00:16:55 - 00:16:56 - Sprecher SPEAKER_11:  Weißt du?
+00:16:56 - 00:16:58 - Sprecher SPEAKER_11:  Dass sie vielleicht doch kriminelle Sachen machen.
+00:16:58 - 00:17:00 - Sprecher SPEAKER_11:  Und ich mag Wagner so gerne.
+00:17:00 - 00:17:02 - Sprecher SPEAKER_11:  Ich will nicht, dass er abrutscht.
+00:17:03 - 00:17:04 - Sprecher SPEAKER_10:  Aber jetzt mal so ein Szenario.
+00:17:04 - 00:17:06 - Sprecher SPEAKER_10:  Angenommen, er wäre jetzt kriminell.
+00:17:06 - 00:17:08 - Sprecher SPEAKER_10:  Was ich jetzt einfach nur so sage.
+00:17:09 - 00:17:10 - Sprecher SPEAKER_10:  Was würdest du denn in dir machen?
+00:17:10 - 00:17:11 - Sprecher SPEAKER_10:  Was wäre denn daran jetzt?
+00:17:12 - 00:17:12 - Sprecher SPEAKER_10:  Also was wäre denn da?
+00:17:13 - 00:17:15 - Sprecher SPEAKER_11:  Ich würde versuchen, ihn da rauszuholen.
+00:17:15 - 00:17:17 - Sprecher SPEAKER_11:  Mir geht es doch auch um seine Sicherheit.
+00:17:17 - 00:17:20 - Sprecher SPEAKER_11:  Es ist übelst gefährlich, kriminell zu sein.
+00:17:20 - 00:17:22 - Sprecher SPEAKER_11:  Guck mal, es kann ihn jeder abknallen.
+00:17:22 - 00:17:24 - Sprecher SPEAKER_11:  Andere Menschen oder die Polizei.
+00:17:24 - 00:17:26 - Sprecher SPEAKER_11:  Vielleicht wird er zu oft getasert und dann wird er auch nicht mehr kriminell.
+00:17:26 - 00:17:26 - Sprecher SPEAKER_11: 
+00:17:26 - 00:17:28 - Sprecher SPEAKER_11:  Und dann kann er nicht mehr normal reden oder sowas.
+00:17:30 - 00:17:31 - Sprecher SPEAKER_10:  Tritt sie jetzt kommt immer noch auf einmal.
+00:17:31 - 00:17:33 - Sprecher SPEAKER_10:  Man muss halt vorsichtig sein, wenn man kriminell wäre.
+00:17:35 - 00:17:36 - Sprecher SPEAKER_11:  Wie, was heißt das denn?
+00:17:36 - 00:17:38 - Sprecher SPEAKER_11:  Man muss vorsichtig sein, wenn man kriminell wäre.
+00:17:38 - 00:17:41 - Sprecher SPEAKER_10:  Es gibt Leute, die sind so Hau-drauf-Typen.
+00:17:41 - 00:17:42 - Sprecher SPEAKER_10:  Die gehen mit dem Kopf durch die Wand.
+00:17:42 - 00:17:44 - Sprecher SPEAKER_10:  Die überlegen nicht, die planen nicht.
+00:17:44 - 00:17:46 - Sprecher SPEAKER_10:  Und dann werden die natürlich abgeknallt.
+00:17:46 - 00:17:48 - Sprecher SPEAKER_10:  So wie mein netter Kumpel oder so wie Willy.
+00:17:48 - 00:17:49 - Sprecher SPEAKER_10:  Dann liegen die im Koma rum.
+00:17:49 - 00:17:53 - Sprecher SPEAKER_10:  Aber dann gibt es noch die anderen, die total strategisch sind.
+00:17:53 - 00:17:53 - Sprecher SPEAKER_10:  Berechnend.
+00:17:54 - 00:17:56 - Sprecher SPEAKER_10:  Ja, und hinter ihrem Rücken stehen ganz viele.
+00:17:56 - 00:17:56 - Sprecher SPEAKER_10: 
+00:17:56 - 00:17:57 - Sprecher SPEAKER_10:  Die auf einen aufpassen.
+00:17:58 - 00:18:02 - Sprecher SPEAKER_11:  Und du fühlst dich von solchen Leuten bedroht oder was?
+00:18:03 - 00:18:03 - Sprecher SPEAKER_10:  Nein.
+00:18:04 - 00:18:05 - Sprecher SPEAKER_11:  Wagner.
+00:18:05 - 00:18:08 - Sprecher SPEAKER_11:  Ich fühle mich nicht von Wagner bedroht. Nein.
+00:18:08 - 00:18:08 - Sprecher SPEAKER_11:  Von wem dann?
+00:18:08 - 00:18:11 - Sprecher SPEAKER_11:  Du hast irgendwas mit Fluss und Beton oder sowas geredet.
+00:18:11 - 00:18:12 - Sprecher SPEAKER_11:  Ich weiß genau, was das heißt.
+00:18:12 - 00:18:13 - Sprecher SPEAKER_11:  Ich bin doch nicht doof.
+00:18:14 - 00:18:18 - Sprecher SPEAKER_11:  Das war eine Metapher für ich kann.
+00:18:18 - 00:18:21 - Sprecher SPEAKER_10:  Ich fühle mich, als würde ich untergehen und bla.
+00:18:21 - 00:18:23 - Sprecher SPEAKER_10:  Einfach nur so richtig rhetorisch gesprochen.
+00:18:24 - 00:18:26 - Sprecher SPEAKER_10:  Tritt sie ist es alles in Ordnung.
+00:18:27 - 00:18:30 - Sprecher SPEAKER_11:  Ich hatte schon damals im Gefühl, dass eigentlich gar nichts in Ordnung war.
+00:18:31 - 00:18:35 - Sprecher SPEAKER_11:  Aber Ochse war einfach noch nicht so weit und ich wahrscheinlich auch nicht.
+00:18:36 - 00:18:39 - Sprecher SPEAKER_11:  Aber er sollte wissen, dass er mir immer vertrauen kann.
+00:18:39 - 00:18:41 - Sprecher SPEAKER_10:  Also es ist schwierig.
+00:18:41 - 00:18:42 - Sprecher SPEAKER_11:  Es ist wirklich schwierig.
+00:18:43 - 00:18:43 - Sprecher SPEAKER_11:  Ich sage dir.
+00:18:43 - 00:18:45 - Sprecher SPEAKER_11:  Diese zwei Welten zusammenzubringen.
+00:18:45 - 00:18:46 - Sprecher SPEAKER_10:  Es ist wirklich schwierig.
+00:18:48 - 00:18:48 - Sprecher SPEAKER_11:  Leid.
+00:18:49 - 00:18:50 - Sprecher SPEAKER_11:  Kein Problem, Ochse.
+00:18:50 - 00:18:53 - Sprecher SPEAKER_11:  Es hat mir absolut gereicht, was du mir gesagt hast.
+00:18:53 - 00:18:55 - Sprecher SPEAKER_11:  Ich werde da meine Schlüsse draus ziehen.
+00:18:55 - 00:18:57 - Sprecher SPEAKER_11:  Aber du sollst nichts rein interpretieren.
+00:18:57 - 00:18:59 - Sprecher SPEAKER_10:  Dann denkt Wagner, ich hätte irgendeine Scheiße gelabert.
+00:18:59 - 00:19:00 - Sprecher SPEAKER_10:  Ich interpretiere gar nichts.
+00:19:00 - 00:19:01 - Sprecher SPEAKER_11:  Keine Angst.
+00:19:01 - 00:19:03 - Sprecher SPEAKER_11:  Ich sage Wagner niemals irgendwas.
+00:19:03 - 00:19:06 - Sprecher SPEAKER_11:  Ochse, du bist mir mittlerweile auch schon ganz schön wichtig.
+00:19:06 - 00:19:08 - Sprecher SPEAKER_11:  Das kannst du dir gar nicht vorstellen.
+00:19:09 - 00:19:10 - Sprecher SPEAKER_11:  Danke, Fritzio.
+00:19:11 - 00:19:12 - Sprecher SPEAKER_11:  Hdl, danke schön fürs Fahren.
+00:19:13 - 00:19:13 - Sprecher SPEAKER_11:  Bis dann.
+00:19:15 - 00:19:18 - Sprecher SPEAKER_11:  Überall, wo meine Freunde waren, war plötzlich auch die Kriminalität.
+00:19:19 - 00:19:23 - Sprecher SPEAKER_11:  Und diese zwei Welten prallten im Polizeidienst immer öfter aufeinander.
+00:19:31 - 00:19:32 - Unbekannt:  Diese zwei Welten sind, zum einen das Overwatch-Album und vom anderen, ist W備 María.
+00:19:32 - 00:19:32 - Unbekannt: 
+00:19:32 - 00:19:32 - Unbekannt: 
+00:19:32 - 00:19:33 - Sprecher SPEAKER_11:  Anhalten!
+00:19:36 - 00:19:37 - Sprecher SPEAKER_11:  Los mit euch.
+00:19:42 - 00:19:43 - Sprecher SPEAKER_11:  Anhalte, t nicer kreuzung.
+00:19:44 - 00:19:44 - Sprecher SPEAKER_11:  Zur Tür aufsetzen!
+00:19:44 - 00:19:44 - Sprecher SPEAKER_11: 
+00:19:44 - 00:19:45 - Sprecher SPEAKER_11:  Aus dem Auto, raus sofort!
+00:19:48 - 00:19:49 - Sprecher SPEAKER_11:  Aussteigen!
+00:19:50 - 00:19:52 - Sprecher SPEAKER_05:  Sie mit der scharfen Waffe auf mich? Auf keinen Fall!
+00:19:52 - 00:19:56 - Sprecher SPEAKER_06:  Ach so, Entschuldigung. Jetzt ist der Taser natürlich. Ich nehme den Taser!
+00:19:56 - 00:19:58 - Sprecher SPEAKER_11:  Wir sollten da mal aussteigen und die Hände aufs Lenkrad.
+00:19:58 - 00:20:00 - Sprecher SPEAKER_06:  Wir sollten keine in die Werkstatt fahren.
+00:20:01 - 00:20:02 - Sprecher SPEAKER_06:  Und Sie da hinten auch die scharfe Waffe runter.
+00:20:03 - 00:20:04 - Sprecher SPEAKER_02:  Ansonsten ziehe ich gleich meine scharfe Waffe!
+00:20:04 - 00:20:07 - Sprecher SPEAKER_02:  Sie hat sich gerade eine scharfe Waffe auf einen Bürger gerichtet.
+00:20:07 - 00:20:10 - Sprecher SPEAKER_06:  Aussteigen und die Hände aufs Dach.
+00:20:11 - 00:20:12 - Sprecher SPEAKER_03:  Jetzt!
+00:20:12 - 00:20:15 - Sprecher SPEAKER_03:  Was ist denn überhaupt das Problem? Also warum so das Ganze?
+00:20:15 - 00:20:17 - Sprecher SPEAKER_03:  Der Fahrer steigt jetzt aus und legt die Hände aufs Dach.
+00:20:17 - 00:20:19 - Sprecher SPEAKER_06:  Und dann besprechen wir alles Weitere.
+00:20:22 - 00:20:23 - Sprecher SPEAKER_06:  Was ist, wenn nicht?
+00:20:24 - 00:20:25 - Sprecher SPEAKER_06:  Dann holen wir sie doch raus!
+00:20:26 - 00:20:27 - Sprecher SPEAKER_03:  Ich spüre die Tür. Ich weiß es doch.
+00:20:29 - 00:20:30 - Sprecher SPEAKER_06:  Und jetzt?
+00:20:35 - 00:20:37 - Sprecher SPEAKER_11:  Komm raus jetzt! Aber ganz schnell!
+00:20:37 - 00:20:38 - Sprecher SPEAKER_11:  Wir haben sie sofort gedankt!
+00:20:38 - 00:20:39 - Sprecher SPEAKER_11:  Ach so, okay, Entschuldigung. Ich dachte...
+00:20:40 - 00:20:43 - Sprecher SPEAKER_11:  Okay, alles klar. Entschuldigung, war aus Versehen.
+00:20:44 - 00:20:45 - Sprecher SPEAKER_03:  König Niemann hat das!
+00:20:46 - 00:20:47 - Sprecher SPEAKER_11:  Welches ist unser Fahrzeug? Das hier.
+00:20:47 - 00:20:48 - Sprecher SPEAKER_11:  Okay, alles klar, Entschuldigung.
+00:20:49 - 00:20:51 - Sprecher SPEAKER_11:  Kann ich wieder rauskommen?
+00:20:52 - 00:20:53 - Sprecher SPEAKER_11:  Nein.
+00:20:59 - 00:21:01 - Sprecher SPEAKER_03:  Sag mal, ist die Lady neu bei euch, der Motor?
+00:21:02 - 00:21:05 - Sprecher SPEAKER_06:  Ja, direkt von der Lady. Hat sie gar nicht drauf.
+00:21:06 - 00:21:08 - Sprecher SPEAKER_06:  Achtung, Kollegen, der Wagen hat uns vorher probiert abzuschneiden.
+00:21:11 - 00:21:13 - Sprecher SPEAKER_00:  Wenn sie wegfahren, werde ich auf den Reifen schießen.
+00:21:21 - 00:21:22 - Sprecher SPEAKER_08:  Kann ich jetzt rauskommen?
+00:21:22 - 00:21:24 - Sprecher SPEAKER_08:  Ja, Sie dürfen rauskommen.
+00:21:24 - 00:21:24 - Sprecher SPEAKER_08:  Ja!
+00:21:26 - 00:21:27 - Sprecher SPEAKER_08:  Wir können den Taco hier...
+00:21:28 - 00:21:30 - Sprecher SPEAKER_12:  ...kümmert sich um den Taco mit mir gemeinsam.
+00:21:30 - 00:21:32 - Sprecher SPEAKER_12:  Hallo, guten Tag.
+00:21:33 - 00:21:37 - Sprecher SPEAKER_12:  Da soll ich jetzt mal die Maske ausziehen. Teilen Sie das mal mit, dass ich die Maske ausziehe.
+00:21:37 - 00:21:39 - Sprecher SPEAKER_11:  Nee, da ziehen Sie die Maske aus, mein Herr.
+00:21:43 - 00:21:44 - Sprecher SPEAKER_04:  Muss ich?
+00:21:44 - 00:21:45 - Sprecher SPEAKER_04:  Ja, Sie haben die Ma'am gehört.
+00:21:53 - 00:21:54 - Sprecher SPEAKER_11:  Zuvor hatte ich die Maske auf.
+00:21:54 - 00:21:54 - Sprecher SPEAKER_11:  Oh mein Gott! Stefano, bist du das?
+00:21:56 - 00:21:56 - Unbekannt:  Fritzi.
+00:21:56 - 00:22:01 - Sprecher SPEAKER_11:  Oh mein Gott, das ist ein Missverständnis. Stefano macht gar nichts Kriminelles.
+00:22:01 - 00:22:04 - Sprecher SPEAKER_11:  Das ist auch ein Missverständnis, Fritzi.
+00:22:07 - 00:22:09 - Sprecher SPEAKER_08:  Dann sagen Sie dem Herrn, er soll zum Fahrzeug gehen und die Hände hochnehmen.
+00:22:10 - 00:22:12 - Sprecher SPEAKER_11:  Bitte geh mal zum Fahrzeug und nimm die Hände hoch, Stefano.
+00:22:12 - 00:22:14 - Sprecher SPEAKER_11:  Fritzi, du kannst mich doch nicht festnehmen.
+00:22:14 - 00:22:15 - Sprecher SPEAKER_03:  Ich nehme dich doch nicht fest.
+00:22:16 - 00:22:17 - Sprecher SPEAKER_03:  Ich habe dir geholfen.
+00:22:18 - 00:22:19 - Sprecher SPEAKER_03:  Du musst gar nicht mit mir reden.
+00:22:20 - 00:22:20 - Sprecher SPEAKER_11:  Ich nehme dich doch auch nicht fest.
+00:22:20 - 00:22:21 - Sprecher SPEAKER_11:  Du bist ja nicht kriminell.
+00:22:21 - 00:22:22 - Sprecher SPEAKER_11:  Das werden die gleich sehen.
+00:22:22 - 00:22:24 - Sprecher SPEAKER_11:  Du musst einmal durchsucht werden und alles ist cool.
+00:22:25 - 00:22:26 - Sprecher SPEAKER_03:  Anscheinend brauche ich ja nicht, oder?
+00:22:27 - 00:22:29 - Sprecher SPEAKER_03:  Das ist eigentlich darum, dass er jetzt die Hände hochzieht.
+00:22:29 - 00:22:30 - Sprecher SPEAKER_03:  Er dreht dann hin.
+00:22:31 - 00:22:34 - Sprecher SPEAKER_03:  Jetzt mach das doch kurz mal mit, bitte, Stefano.
+00:22:34 - 00:22:36 - Sprecher SPEAKER_11:  Aber als du arbeitest, Fritzi, ich habe dir geholfen.
+00:22:36 - 00:22:37 - Sprecher SPEAKER_03:  Ich habe dir die Tür geöffnet.
+00:22:38 - 00:22:39 - Sprecher SPEAKER_11:  Jetzt mach doch jetzt mal die Sachen.
+00:22:39 - 00:22:44 - Sprecher SPEAKER_11:  Ich habe 10.000 Dollar gestern für dich gezahlt, falls du es wissen willst.
+00:22:44 - 00:22:46 - Sprecher SPEAKER_11:  Jetzt mach deine Hände einfach kurz hoch.
+00:22:46 - 00:22:47 - Sprecher SPEAKER_11:  Ich durchsuche dich.
+00:22:47 - 00:22:48 - Sprecher SPEAKER_11:  Okay, alles klar.
+00:22:48 - 00:22:52 - Sprecher SPEAKER_11:  Also hast du spitze Gegenstände dabei oder sowas, Stefano?
+00:22:52 - 00:22:53 - Sprecher SPEAKER_11:  Nein.
+00:22:54 - 00:22:58 - Sprecher SPEAKER_11:  Hast du irgendwelche geklauten Sachen dabei, Stefano?
+00:22:58 - 00:22:58 - Sprecher SPEAKER_11:  Nein.
+00:22:58 - 00:23:01 - Sprecher SPEAKER_11:  Wenn du was klauen würdest, was würdest du klauen?
+00:23:03 - 00:23:04 - Sprecher SPEAKER_11:  Ich klaue nicht.
+00:23:05 - 00:23:06 - Sprecher SPEAKER_11:  Handschellen?
+00:23:06 - 00:23:07 - Sprecher SPEAKER_11:  Ja.
+00:23:07 - 00:23:08 - Sprecher SPEAKER_11:  Nein, das kann ich nicht machen.
+00:23:09 - 00:23:10 - Sprecher SPEAKER_11:  Gut, dann renn sie zur Seite.
+00:23:16 - 00:23:19 - Sprecher SPEAKER_01:  Stefano, hast du irgendwas gemacht, was das rechtfertigt gerade?
+00:23:21 - 00:23:22 - Sprecher SPEAKER_03:  Ich war nur Beifahrer.
+00:23:22 - 00:23:23 - Sprecher SPEAKER_03:  Ich habe nichts gemacht.
+00:23:23 - 00:23:24 - Sprecher SPEAKER_03:  Du warst Beifahrer, okay.
+00:23:24 - 00:23:26 - Sprecher SPEAKER_03:  Wir haben einen Zivilisten mit einer Waffe bedroht.
+00:23:26 - 00:23:27 - Sprecher SPEAKER_06:  Hast du eine Waffe?
+00:23:27 - 00:23:28 - Sprecher SPEAKER_03:  Ich habe nicht meine Waffe.
+00:23:28 - 00:23:30 - Sprecher SPEAKER_03:  Er hat nur einen Baseballschläger dabei.
+00:23:30 - 00:23:31 - Sprecher SPEAKER_11:  Auf jeden Fall hat er eine Anlage.
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06: 
+00:23:31 - 00:23:31 - Sprecher SPEAKER_06:  Und der andere war dabei.
+00:23:32 - 00:23:33 - Sprecher SPEAKER_06:  Und verunfall auch.
+00:23:33 - 00:23:33 - Sprecher SPEAKER_06:  Wir nehmen ihn auch mit.
+00:23:34 - 00:23:34 - Sprecher SPEAKER_06:  Das ist für die dann.
+00:23:34 - 00:23:36 - Sprecher SPEAKER_06:  Ja, damit sie es schaffen.
+00:23:36 - 00:23:37 - Sprecher SPEAKER_06:  Machen wir.
+00:23:37 - 00:23:37 - Sprecher SPEAKER_06:  Machen wir.
+00:23:37 - 00:23:38 - Sprecher SPEAKER_06:  Gut.
+00:23:38 - 00:23:39 - Sprecher SPEAKER_06:  Willst du bei uns mitfahren?
+00:23:40 - 00:23:40 - Sprecher SPEAKER_06:  Nein.
+00:23:41 - 00:23:42 - Sprecher SPEAKER_08:  Nein.
+00:23:43 - 00:23:44 - Sprecher SPEAKER_06:  Auf geht's.
+00:23:44 - 00:23:44 - Sprecher SPEAKER_06:  Ich komme bei uns mit.
+00:23:45 - 00:23:45 - Sprecher SPEAKER_08:  Los geht's.
+00:23:45 - 00:23:45 - Sprecher SPEAKER_08:  Dann bis später.
+00:23:48 - 00:23:50 - Sprecher SPEAKER_08:  Persönlich fand ich das sehr gut, dass sie gegen das Fahrzeug getreten haben.
+00:23:51 - 00:23:51 - Sprecher SPEAKER_08:  Persönlich.
+00:23:51 - 00:23:52 - Sprecher SPEAKER_08:  Echt?
+00:23:52 - 00:23:52 - Sprecher SPEAKER_08:  Ja, okay, gut.
+00:23:52 - 00:23:53 - Sprecher SPEAKER_08:  Nicht dienstlich.
+00:23:53 - 00:23:54 - Sprecher SPEAKER_08:  Nicht dienstlich.
+00:23:54 - 00:23:55 - Sprecher SPEAKER_11:  Ach so, okay, gut.
+00:23:55 - 00:23:58 - Sprecher SPEAKER_11:  Aber okay, das darf man auf jeden Fall nicht machen, oder was?
+00:24:00 - 00:24:00 - Unbekannt:  Ähm.
+00:24:00 - 00:24:01 - Sprecher SPEAKER_11:  Nee.
+00:24:01 - 00:24:03 - Sprecher SPEAKER_11:  Okay, ich dachte, das machte ihnen Angst.
+00:24:03 - 00:24:07 - Sprecher SPEAKER_11:  Aber jetzt im Nachhinein tut es mir leid, weil das ja dann Stefanos Auto war oder so.
+00:24:07 - 00:24:08 - Sprecher SPEAKER_11:  Aber ich kannte das nicht.
+00:24:08 - 00:24:11 - Sprecher SPEAKER_11:  Äh, ja, wir können sie ja später vielleicht nochmal entschuldigen dann.
+00:24:12 - 00:24:13 - Sprecher SPEAKER_05:  Ja, kein Problem.
+00:24:13 - 00:24:13 - Sprecher SPEAKER_05:  Mach ich.
+00:24:15 - 00:24:17 - Sprecher SPEAKER_11:  Stefano saß mächtig in der Scheiße.
+00:24:17 - 00:24:20 - Sprecher SPEAKER_11:  Und weil wir doch eine W-Gang waren, konnte ich ihn nicht einfach so hängen lassen.
+00:24:21 - 00:24:25 - Sprecher SPEAKER_11:  Naja, was sich dann tat, geschah ausnahmsweise mal nicht aus Versehen.
+00:24:28 - 00:24:28 - Sprecher SPEAKER_11:  Milderungsgründe.
+00:24:29 - 00:24:30 - Sprecher SPEAKER_11:  Stefano ist...
+00:24:30 - 00:24:32 - Sprecher SPEAKER_11:  Ist nicht kriminell.
+00:24:32 - 00:24:34 - Sprecher SPEAKER_11:  Und das ist...
+00:24:36 - 00:24:38 - Sprecher SPEAKER_11:  Aus Versehen passiert.
+00:24:39 - 00:24:40 - Sprecher SPEAKER_11:  Okay, perfekt.
+00:24:40 - 00:24:43 - Sprecher SPEAKER_11:  Ich glaube, das wird Stefano da auf jeden Fall rausholen.
+00:24:44 - 00:24:45 - Sprecher SPEAKER_11:  Perfekt.
+00:24:45 - 00:24:46 - Sprecher SPEAKER_11:  Okay, alles klar.
+00:24:46 - 00:24:51 - Sprecher SPEAKER_11:  Schreibe ich mal zur Sicherheit, ähm, in alle offenen Sachen rein.
+00:24:52 - 00:24:53 - Sprecher SPEAKER_11:  Das auch.
+00:24:57 - 00:24:57 - Sprecher SPEAKER_11:  Perfekt.
+00:24:59 - 00:25:01 - Sprecher SPEAKER_11:  Und dann noch hier.
+00:25:03 - 00:25:04 - Sprecher SPEAKER_11:  Okay.
+00:25:08 - 00:25:08 - Sprecher SPEAKER_11:  Perfekt.
+00:25:08 - 00:25:09 - Sprecher SPEAKER_11:  Alles klar.
+00:25:10 - 00:25:10 - Sprecher SPEAKER_11:  Erledigt.
+00:25:14 - 00:25:14 - Sprecher SPEAKER_11:  Hey Stefano!
+00:25:16 - 00:25:17 - Sprecher SPEAKER_03:  Hallo Fritzi, du hast angerufen.
+00:25:17 - 00:25:18 - Sprecher SPEAKER_03:  Jetzt sehen wir mal was los.
+00:25:18 - 00:25:21 - Sprecher SPEAKER_03:  Ja, ich wollte nur kurz sagen, ich habe jetzt mal kurz geguckt, weil wir haben doch...
+00:25:21 - 00:25:24 - Sprecher SPEAKER_11:  Du hast doch gestern gefragt, ob ich mal in deine Akten reingucken kann.
+00:25:24 - 00:25:24 - Sprecher SPEAKER_11:  Habe ich gemacht.
+00:25:26 - 00:25:26 - Unbekannt:  Ja?
+00:25:26 - 00:25:27 - Sprecher SPEAKER_11:  Da sind drei Sachen auf der Seite.
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:27 - Sprecher SPEAKER_11: 
+00:25:27 - 00:25:30 - Sprecher SPEAKER_11:  Ja, die sind offen, aber das weiß ich, dass du die alle nicht gemacht hast.
+00:25:30 - 00:25:33 - Sprecher SPEAKER_11:  Das ist einmal, wo ihr diese komische Prankgeschichte gemacht habt, glaube ich.
+00:25:33 - 00:25:35 - Sprecher SPEAKER_11:  Irgendwas im Casino und noch irgendwas.
+00:25:37 - 00:25:38 - Unbekannt:  Ja.
+00:25:38 - 00:25:42 - Sprecher SPEAKER_11:  Ihr habt da jetzt einfach reingeschrieben, dass du nicht kriminell bist und es aus Versehen
+00:25:42 - 00:25:42 - Sprecher SPEAKER_11:  gemacht...
+00:25:42 - 00:25:44 - Sprecher SPEAKER_11:  Also wenn, dann wäre es ein Versehen.
+00:25:45 - 00:25:46 - Sprecher SPEAKER_03:  Okay, dann weiß ich es ja.
+00:25:46 - 00:25:47 - Sprecher SPEAKER_03:  Danke dir.
+00:25:47 - 00:25:48 - Sprecher SPEAKER_11:  Okay, bitteschön.
+00:25:48 - 00:25:49 - Sprecher SPEAKER_11:  HDL.
+00:25:49 - 00:25:50 - Sprecher SPEAKER_11:  Gut, bis dann.
+00:25:50 - 00:25:53 - Sprecher SPEAKER_00:  Eins ist mir gerade noch eingefallen, weil wir bei Akten waren.
+00:25:54 - 00:25:56 - Sprecher SPEAKER_00:  Falls jemand eine Akte von Stefano Alfonso hat.
+00:25:56 - 00:25:57 - Sprecher SPEAKER_00:  Mhm.
+00:25:57 - 00:26:02 - Sprecher SPEAKER_00:  Und bei Milderungsgründen eventuell drin stehen sollte, dass er nicht kriminell ist
+00:26:02 - 00:26:04 - Sprecher SPEAKER_00:  und immer alles aus Versehen passiert und so weiter.
+00:26:04 - 00:26:06 - Sprecher SPEAKER_00:  Die Interne weiß da schon Bescheid.
+00:26:06 - 00:26:07 - Sprecher SPEAKER_00:  Da haben wir Bescheid gegeben.
+00:26:07 - 00:26:08 - Sprecher SPEAKER_00:  Die sind da dran.
+00:26:09 - 00:26:10 - Sprecher SPEAKER_00:  Einfach der Intern weitergeben.
+00:26:11 - 00:26:16 - Sprecher SPEAKER_11:  Keine Ahnung, ob das überhaupt jemals jemand gelesen hat, aber ich habe es zumindest versucht.
+00:26:17 - 00:26:20 - Sprecher SPEAKER_11:  Ich weiß, das war voll die Kompetenzüberschreitung.
+00:26:20 - 00:26:25 - Sprecher SPEAKER_11:  Aber irgendwie musste ich meinen Freunden doch helfen, insbesondere nachdem so ein Typ
+00:26:25 - 00:26:27 - Sprecher SPEAKER_11:  namens Adler mir in einem Gespräch gesagt hat, dass ich das nicht kann.
+00:26:27 - 00:26:27 - Sprecher SPEAKER_11: 
+00:26:27 - 00:26:28 - Sprecher SPEAKER_11:  Ich war in einem Brennmuseum.
+00:26:28 - 00:26:30 - Sprecher SPEAKER_11:  governeden Teil meines Lebens.
+00:26:30 - 00:26:31 - Sprecher SPEAKER_11:  Im viscos unraveledat.
+00:26:31 - 00:26:34 - Sprecher SPEAKER_11:  – wohl voraus.
+00:26:34 - 00:26:40 - Sprecher SPEAKER_11: яг mir eens das Lische ко Foods Dorfetemoto.
+00:26:40 - 00:26:40 - Sprecher SPEAKER_11: 
+00:26:40 - 00:26:40 - Sprecher SPEAKER_11: 
+00:26:40 - 00:26:40 - Sprecher SPEAKER_11:  Die militärische Polizei war eine Art Stegrationsschützen.
+00:26:40 - 00:26:40 - Sprecher SPEAKER_11:  Kein hingriffにな Fツ.
+00:26:40 - 00:26:43 - Sprecher SPEAKER_11:  Ich laquelle' das Study top���av Magandow Chasa.
+00:26:43 - 00:26:52 - Sprecher SPEAKER_11:  Aber die r Mouse Rat laemi zum Ausflug mittlerweile, hat begrüßt.
+00:26:52 - 00:26:56 - Sprecher SPEAKER_05:  Das cant пож Acceptarashbit, e vor de Maẹ还有 des Bra.
+00:26:56 - 00:26:56 - Sprecher SPEAKER_11:  Castle d'In positively g Жæty Ko Fonten.
+00:26:56 - 00:26:56 - Sprecher SPEAKER_11:  I Ciao.
+00:26:56 - 00:26:56 - Sprecher SPEAKER_11:  Here I am residence
+00:26:56 - 00:26:57 - Unbekannt:  o Nazio.
+00:26:57 - 00:26:57 - Unbekannt:  Eтировpowered.
+00:26:57 - 00:26:57 - Unbekannt: 
+00:26:56 - 00:26:56 - Sprecher SPEAKER_11:  Vi tabid.
+00:26:57 - 00:27:01 - Sprecher SPEAKER_05:  Ja gerade eben. Was für ein Typen. Ich hab's nur gehört, ich wollte eigentlich Brötchen von Freitag kaufen.
+00:27:03 - 00:27:06 - Sprecher SPEAKER_05:  Jedenfalls sind dann zwei so Typen weggefahren, auf einem Roller.
+00:27:07 - 00:27:07 - Sprecher SPEAKER_03:  Ja.
+00:27:08 - 00:27:12 - Sprecher SPEAKER_05:  Dann kurz später sind sie wieder zu mir gekommen und haben mir Cherry Bombs zugesteckt.
+00:27:15 - 00:27:18 - Sprecher SPEAKER_11:  Okay, keine Ahnung. Ich weiß noch nicht mal was Cherry Bombs sind ehrlich gesagt.
+00:27:19 - 00:27:24 - Sprecher SPEAKER_05:  Eine illegale Droge wurden mir gerade gesagt. Illegale Droge, echt? Von den Kollegen. Ach du scheiße, Mann.
+00:27:25 - 00:27:29 - Sprecher SPEAKER_11:  Ach du scheiße. Ich dachte immer, das wären irgendwelche Bonbons.
+00:27:30 - 00:27:36 - Sprecher SPEAKER_11:  Jetzt ergibt so viel Sinn. Ganz viele von meinen Freunden reden immer über Cherry Bombs und dass sie welche haben und welche genommen haben.
+00:27:37 - 00:27:39 - Sprecher SPEAKER_11:  Aber ich dachte, das wären Kirschbonbons.
+00:27:40 - 00:27:42 - Sprecher SPEAKER_11:  Ich weiß, ich war damals wirklich naiv.
+00:27:43 - 00:27:49 - Sprecher SPEAKER_11:  Heute würde ich direkt durchschauen, dass Harry und Wolle nur ihre eigene Haut retten wollten, damit ich ihnen und nicht Adler glaube.
+00:27:50 - 00:27:53 - Sprecher SPEAKER_11:  Was geht ab? Ja, was geht bei dir ab?
+00:27:53 - 00:27:54 - Sprecher SPEAKER_04:  Alles.
+00:27:54 - 00:27:57 - Sprecher SPEAKER_04:  Was ist hier? Dieser Adler ist voll der komischste. Halt dich fern von dem.
+00:27:57 - 00:27:57 - Sprecher SPEAKER_11:  Ja?
+00:27:58 - 00:27:59 - Sprecher SPEAKER_04:  Ja.
+00:27:59 - 00:28:00 - Sprecher SPEAKER_11:  Warum? Was ging bei dem?
+00:28:02 - 00:28:04 - Sprecher SPEAKER_04:  Also, der... Boah, ich hab seinen Namen vergessen.
+00:28:06 - 00:28:10 - Sprecher SPEAKER_04:  Also, ein Kollege von mir meinte, bevor er mich nach dir gefragt hat, hat er ihn schon nach dir gefragt.
+00:28:11 - 00:28:11 - Sprecher SPEAKER_04:  Was?
+00:28:12 - 00:28:17 - Sprecher SPEAKER_04:  Ja, und ich hab mit Hoy telefoniert und Hoy meinte, ich soll dir sagen, wo Hoy wohnt, weil Oxe bei ihm pennt.
+00:28:17 - 00:28:20 - Sprecher SPEAKER_04:  Wegen Lahnparty und so. Du bist ja auch eingeladen, wir bestellen Pizza und sowas.
+00:28:20 - 00:28:21 - Sprecher SPEAKER_04:  Ja.
+00:28:21 - 00:28:23 - Sprecher SPEAKER_04:  Und Oxe ist dann vorgefahren.
+00:28:23 - 00:28:27 - Sprecher SPEAKER_04:  Und dann hab ich gesagt, ich weiß nicht, wo Fritzi ist, die ist weggefahren mit Haki.
+00:28:27 - 00:28:29 - Sprecher SPEAKER_04:  Und dann meinte der Typ auf einmal, du kennst Fritzi?
+00:28:29 - 00:28:30 - Sprecher SPEAKER_04:  Dann meinte ich, ja, warum?
+00:28:30 - 00:28:32 - Sprecher SPEAKER_04:  Wenn wir Adler loswerden, dann musst du Bescheid sagen.
+00:28:35 - 00:28:38 - Sprecher SPEAKER_11:  Ja, weiß ich nicht. Ich hab noch nichts gegen ihn eigentlich.
+00:28:38 - 00:28:39 - Sprecher SPEAKER_11:  Noch nicht?
+00:28:39 - 00:28:42 - Sprecher SPEAKER_04:  Nee, warum? Gibt's einen Grund, warum ich ihn loswerden will?
+00:28:43 - 00:28:44 - Sprecher SPEAKER_04:  Nee, kommt, noch versprochen. Alles gut.
+00:28:44 - 00:28:46 - Sprecher SPEAKER_11:  Okay, alles klar, weiß ich Bescheid.
+00:28:47 - 00:28:51 - Sprecher SPEAKER_11:  Trotz allem hielt ich weiterhin zu meinen Freunden und versuchte, ihnen zu helfen.
+00:28:51 - 00:28:54 - Sprecher SPEAKER_11:  Earl hatte zum Beispiel am nächsten Abend ein Charity-Event.
+00:28:54 - 00:28:58 - Sprecher SPEAKER_11:  Das Problem war nur, dass zeitgleich noch ein anderes Event stattfand.
+00:28:58 - 00:29:01 - Sprecher SPEAKER_11:  Aber Earl war schon an einer Problemlösung dran.
+00:29:02 - 00:29:06 - Sprecher SPEAKER_02:  Ich hab übrigens noch eine Idee gehabt gerade, wie ich das morgen stoppen kann bei denen.
+00:29:07 - 00:29:07 - Sprecher SPEAKER_11:  Okay, wie denn?
+00:29:08 - 00:29:14 - Sprecher SPEAKER_02:  Ich rufe da einfach an, also bei der Polizei und sag, dass da ganz viel mit Drogen gehandelt wird.
+00:29:15 - 00:29:17 - Sprecher SPEAKER_11:  Boah, das ist voll die gute Idee, Earl.
+00:29:17 - 00:29:21 - Sprecher SPEAKER_02:  Genau, dann schick ich da eine Drogenrazzia hin und gleich dann,
+00:29:21 - 00:29:23 - Sprecher SPEAKER_02:  ich bin auch schon mal auf der Zeit, mach ich Werbung bei dem Event.
+00:29:24 - 00:29:26 - Sprecher SPEAKER_02:  Für mein Charity-Event.
+00:29:27 - 00:29:29 - Sprecher SPEAKER_11:  Also stand für mich fest, dass ich ihm helfen würde.
+00:29:30 - 00:29:33 - Sprecher SPEAKER_11:  Ich war bereit, ganz schön viel für meine Freunde zu tun, Mr. Rocket.
+00:29:34 - 00:29:36 - Sprecher SPEAKER_11:  Und zwar richtig viel.
+00:29:38 - 00:29:41 - Sprecher SPEAKER_11:  Aber wie es weitergeht, erfährst du erst im nächsten Brief.
+00:29:42 - 00:29:43 - Sprecher SPEAKER_11:  HDL FRIZI
+00:29:54 - 00:29:56 - Unbekannt:  HDL FRIZI

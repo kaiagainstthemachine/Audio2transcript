@@ -1,0 +1,745 @@
+Transkription Staffel 1 mit Sprechererkennung von 31 - Zeichen der Zeit [ Fritzi - die Serie ].wav:
+00:00:00 - 00:00:01 - Unbekannt:  Musik
+00:00:32 - 00:00:35 - Sprecher SPEAKER_07:  Eigentlich konnte mir mal nichts die Laune vermiesen, Mr. Rocket.
+00:00:36 - 00:00:38 - Sprecher SPEAKER_07:  Egal, was mir so bisher in meinem Leben passiert ist,
+00:00:38 - 00:00:41 - Sprecher SPEAKER_07:  ich habe immer alles mit einem Lächeln weggewischt.
+00:00:41 - 00:00:44 - Sprecher SPEAKER_07:  Aber irgendwie wurde das zu dieser Zeit anders.
+00:00:44 - 00:00:47 - Sprecher SPEAKER_07:  Vielen Dank, dass du so lieb bist, obwohl du gestern so böse warst.
+00:00:47 - 00:00:48 - Sprecher SPEAKER_00:  Ich weiß nicht, was da los ist.
+00:00:48 - 00:00:49 - Sprecher SPEAKER_00:  Ich bin nicht böse gewesen.
+00:00:49 - 00:00:49 - Sprecher SPEAKER_00:  Mal bist du so, mal so.
+00:00:50 - 00:00:51 - Sprecher SPEAKER_00:  Nein, das stimmt nicht.
+00:00:51 - 00:00:52 - Sprecher SPEAKER_07:  Ich bin immer lieb.
+00:00:52 - 00:00:54 - Sprecher SPEAKER_07:  Ich bin Fritzi und Fritzi.
+00:00:54 - 00:00:54 - Sprecher SPEAKER_07:  Ich bin...
+00:00:54 - 00:00:56 - Sprecher SPEAKER_07:  Oh Gott, nein, das stimmt gar nicht.
+00:00:56 - 00:00:58 - Sprecher SPEAKER_07:  Gestern haben wir Hamster aggressiv gedacht und nicht mehr lieb.
+00:00:58 - 00:00:59 - Sprecher SPEAKER_07:  Das war wirklich komisch.
+00:00:59 - 00:01:00 - Sprecher SPEAKER_07:  Gestern tut mir leid.
+00:01:00 - 00:01:03 - Sprecher SPEAKER_07:  Ich meine, es änderten sich ganz schön viele Sachen
+00:01:03 - 00:01:07 - Sprecher SPEAKER_07:  und ich musste die ganze Zeit so tun, als wäre ich voll kriminell.
+00:01:07 - 00:01:08 - Sprecher SPEAKER_14:  Ich kann mit allen dienen.
+00:01:08 - 00:01:09 - Sprecher SPEAKER_14:  Echt, ja, mit allen?
+00:01:09 - 00:01:10 - Sprecher SPEAKER_14:  Mhm.
+00:01:10 - 00:01:11 - Sprecher SPEAKER_07:  Echt mit ganz allen, oder was?
+00:01:12 - 00:01:12 - Sprecher SPEAKER_07:  Ja.
+00:01:12 - 00:01:13 - Sprecher SPEAKER_07:  Okay, gut, alles klar.
+00:01:13 - 00:01:15 - Sprecher SPEAKER_07:  Gut, weiß ich Bescheid.
+00:01:15 - 00:01:16 - Sprecher SPEAKER_07:  Wommel, alles klar.
+00:01:16 - 00:01:17 - Sprecher SPEAKER_07:  Brauchst du was?
+00:01:17 - 00:01:18 - Sprecher SPEAKER_07:  Nö, ich brauche nichts.
+00:01:18 - 00:01:19 - Sprecher SPEAKER_05:  Oder willst du was verkaufen?
+00:01:19 - 00:01:22 - Sprecher SPEAKER_05:  Wommel, wenn hier jemand was verkauft, dann bin ich das.
+00:01:22 - 00:01:23 - Sprecher SPEAKER_05:  Du bist ja halb nur kriminell.
+00:01:23 - 00:01:25 - Sprecher SPEAKER_05:  Ich will dir deinen Ruf nicht schaden.
+00:01:25 - 00:01:27 - Sprecher SPEAKER_05:  Ich habe schon lange nicht mehr gesagt, dass wir halb kriminell sind.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_05:  Hast du mir jetzt nicht neu erzählt?
+00:01:29 - 00:01:30 - Sprecher SPEAKER_05:  Nee, keine Sorge.
+00:01:30 - 00:01:33 - Sprecher SPEAKER_05:  Ich habe sogar angefangen, anders an die Leitstelle zu gehen.
+00:01:34 - 00:01:35 - Sprecher SPEAKER_07:  Hallo, hier ist Quickie Taxi.
+00:01:36 - 00:01:37 - Sprecher SPEAKER_07:  Nichts der, der kriminell.
+00:01:38 - 00:01:40 - Sprecher SPEAKER_07:  Das hieß aber auch, dass meine Freunde anfingen,
+00:01:40 - 00:01:44 - Sprecher SPEAKER_07:  mir ganz schön viel mehr Dinge aus ihrem Leben zu erzählen als bisher.
+00:01:44 - 00:01:47 - Sprecher SPEAKER_16:  Wir haben gerade richtig Leute umballert am Stadtplatz.
+00:01:47 - 00:01:50 - Sprecher SPEAKER_16:  Ja, der hat gerade schon gesagt, ihr habt mir vorgeschlagen, was passiert war da.
+00:01:51 - 00:01:53 - Sprecher SPEAKER_03:  Die Sippis wollten uns überfallen am Peng Peng, Alter.
+00:01:55 - 00:01:58 - Sprecher SPEAKER_07:  Und ich weiß nicht, was es war, Mr. Rocket.
+00:01:59 - 00:01:59 - Sprecher SPEAKER_07:  Vielleicht.
+00:01:59 - 00:02:00 - Sprecher SPEAKER_07:  Vielleicht war es der Schlafentzug.
+00:02:01 - 00:02:04 - Sprecher SPEAKER_07:  Vielleicht auch einfach die ständige Sorge, aufliegen zu können oder das Wissen,
+00:02:04 - 00:02:09 - Sprecher SPEAKER_07:  dass die Menschen, die ich so sehr mochte, total gegen mein Wertesystem handelten.
+00:02:10 - 00:02:15 - Sprecher SPEAKER_07:  Aber irgendwie wuchs in mir langsam eine Wut heran, die ich so gar nicht von mir kannte.
+00:02:15 - 00:02:17 - Sprecher SPEAKER_07:  Ich schwöre dir, du zahlst die auf der Stelle.
+00:02:17 - 00:02:19 - Sprecher SPEAKER_07:  Wenn du die nicht zahlst, dann kriegst du richtig Ärger.
+00:02:19 - 00:02:21 - Sprecher SPEAKER_07:  Ich bin richtig sauer jetzt.
+00:02:22 - 00:02:24 - Sprecher SPEAKER_12:  Halt Maul, Harry, das geht dich nichts an.
+00:02:24 - 00:02:26 - Sprecher SPEAKER_05:  Ach Gott, Fritzi, was ist los?
+00:02:26 - 00:02:28 - Sprecher SPEAKER_05:  Um einen vielbeschäftigten Menschen.
+00:02:28 - 00:02:29 - Sprecher SPEAKER_07:  Nein, wau.
+00:02:29 - 00:02:30 - Sprecher SPEAKER_05:  Sagst du es mir als Maul?
+00:02:31 - 00:02:37 - Sprecher SPEAKER_05:  Ich bin einfach so wütend gerade, dass ich nicht damit klarkomme, wie überdreht du bist auf Koks.
+00:02:37 - 00:02:43 - Sprecher SPEAKER_07:  Dass du Koks genommen hast und dass du es auch noch gegessen hast, anstatt es einfach in deine scheiß Nase reinzuziehen.
+00:02:44 - 00:02:47 - Sprecher SPEAKER_07:  Das sind lauter Fakten, die mich unfassbar wütend machen.
+00:02:49 - 00:02:50 - Sprecher SPEAKER_12:  Es tut mir ja auch leid.
+00:02:50 - 00:02:52 - Sprecher SPEAKER_12:  Komm nie wieder vor, werde ich nie wieder essen.
+00:02:53 - 00:02:54 - Sprecher SPEAKER_06:  Stefano, wer war das?
+00:02:54 - 00:02:55 - Sprecher SPEAKER_06:  Keine Ahnung, der hat gemuckt irgendwie.
+00:02:55 - 00:02:56 - Sprecher SPEAKER_06:  Der war voll frech.
+00:02:57 - 00:02:58 - Sprecher SPEAKER_07:  Ja, dann verpiss dich.
+00:02:58 - 00:02:58 - Sprecher SPEAKER_07:  Wagner.
+00:02:59 - 00:02:59 - Sprecher SPEAKER_07:  Ja.
+00:02:59 - 00:02:59 - Sprecher SPEAKER_16: 
+00:03:00 - 00:03:00 - Sprecher SPEAKER_16:  Mach auf.
+00:03:01 - 00:03:02 - Sprecher SPEAKER_06:  Mach das scheiß Auto auf.
+00:03:02 - 00:03:03 - Sprecher SPEAKER_16:  Ja, ist auf.
+00:03:03 - 00:03:05 - Sprecher SPEAKER_16:  Und was bist du jetzt so aggressiv schon wieder gegenüber mir?
+00:03:05 - 00:03:08 - Sprecher SPEAKER_16:  Sie ist gerade gegen einen aggressiv.
+00:03:08 - 00:03:08 - Sprecher SPEAKER_12:  Viel Spaß.
+00:03:08 - 00:03:09 - Sprecher SPEAKER_12:  Was?
+00:03:09 - 00:03:11 - Sprecher SPEAKER_16:  Ich werde gar keinen Spaß wahrscheinlich haben, oder?
+00:03:11 - 00:03:17 - Sprecher SPEAKER_07:  Vielleicht lag es auch daran, dass ich schon damals nach und nach die Lügenmärchen meiner Freunde durchschaute.
+00:03:17 - 00:03:19 - Sprecher SPEAKER_07:  Ja, ist in Ordnung.
+00:03:19 - 00:03:22 - Sprecher SPEAKER_07:  Darum sage ich ja vor, auf irgendwie eine Lüge draus zu spinnen.
+00:03:22 - 00:03:23 - Sprecher SPEAKER_07:  Was soll die Scheiße eigentlich?
+00:03:23 - 00:03:26 - Sprecher SPEAKER_07:  Aber eins habe ich auf jeden Fall in dieser Zeit gelernt.
+00:03:26 - 00:03:27 - Sprecher SPEAKER_07:  Was?
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:29 - Sprecher SPEAKER_07: 
+00:03:29 - 00:03:30 - Sprecher SPEAKER_07:  Da gab es in dieser Stadt keinen Platz.
+00:03:31 - 00:03:33 - Sprecher SPEAKER_07:  Ich glaube, ich habe den Trick rausgefunden, Wolle.
+00:03:33 - 00:03:35 - Sprecher SPEAKER_07:  Ich muss einfach auch zu Leuten nicht mehr so nett sein.
+00:03:35 - 00:03:37 - Sprecher SPEAKER_07:  Dann sind die auch ein bisschen netter zu mir.
+00:03:37 - 00:03:38 - Sprecher SPEAKER_03:  Ja, klar.
+00:03:38 - 00:03:39 - Sprecher SPEAKER_03:  Du darfst nie zu nett sein.
+00:03:40 - 00:03:42 - Sprecher SPEAKER_07:  Ich glaube, ich war einmal zu nett bisher.
+00:03:43 - 00:03:45 - Sprecher SPEAKER_07:  Ganz schön viel war im Wandel.
+00:03:45 - 00:03:49 - Sprecher SPEAKER_07:  Und zu dieser Zeit stellte ich die Weichen für meine Zukunft, ohne es zu wissen.
+00:04:12 - 00:04:15 - Unbekannt:  Wir sind perfekt geworden, Governor.
+00:04:15 - 00:04:15 - Unbekannt: 
+00:04:15 - 00:04:15 - Unbekannt: 
+00:04:15 - 00:04:15 - Unbekannt:  Das glaube ich auch, Mister Sch auditorium.
+00:04:15 - 00:04:15 - Unbekannt: 
+00:04:17 - 00:04:18 - Unbekannt:  Umschunken.
+00:04:18 - 00:04:18 - Unbekannt:  Sieht sichicosartig aus.
+00:04:18 - 00:04:21 - Unbekannt:  Zwei T-Shirt-Zeitungen in etwa.
+00:04:21 - 00:04:21 - Unbekannt: 
+00:04:21 - 00:04:28 - Unbekannt:  Und dieses Jahr chosen.
+00:04:45 - 00:04:57 - Unbekannt:  Untertitelung des ZDF, 2020
+00:05:15 - 00:05:24 - Unbekannt:  Untertitelung des ZDF, 2020
+00:05:52 - 00:05:58 - Sprecher SPEAKER_16:  Untertitelung des ZDF, 2020
+00:06:09 - 00:06:11 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:06:40 - 00:06:44 - Sprecher SPEAKER_03:  Untertitelung des ZDF, 2020
+00:07:11 - 00:07:26 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:07:31 - 00:07:38 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:08:12 - 00:08:13 - Sprecher SPEAKER_14:  Untertitelung des ZDF, 2020
+00:08:29 - 00:08:30 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:09:10 - 00:09:28 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:09:40 - 00:09:40 - Sprecher SPEAKER_13:  Untertitelung des ZDF, 2020
+00:10:07 - 00:10:09 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:10:39 - 00:10:40 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:11:07 - 00:11:10 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:11:56 - 00:11:58 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:12:19 - 00:12:22 - Sprecher SPEAKER_07:  Untertitelung des ZDF, 2020
+00:12:35 - 00:12:40 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:41 - 00:12:43 - Sprecher SPEAKER_13:  Untertitelung des ZDF, 2020
+00:12:43 - 00:12:45 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:45 - 00:12:47 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:50 - 00:12:53 - Sprecher SPEAKER_04:  Untertitelung des ZDF, 2020
+00:12:53 - 00:12:54 - Sprecher SPEAKER_04:  Kann ich aussteigen?
+00:12:54 - 00:12:54 - Sprecher SPEAKER_06:  Ja, danke.
+00:12:54 - 00:12:55 - Sprecher SPEAKER_04:  Nee, nee, nee.
+00:12:55 - 00:12:56 - Sprecher SPEAKER_13:  Du machst gut.
+00:12:56 - 00:12:57 - Sprecher SPEAKER_13:  Stopp, stehen bleiben.
+00:12:58 - 00:12:59 - Sprecher SPEAKER_06:  Was ist denn los?
+00:12:59 - 00:13:00 - Sprecher SPEAKER_06:  Was ist, Jamie?
+00:13:00 - 00:13:02 - Sprecher SPEAKER_06:  Was, dass du den geliebt hast?
+00:13:02 - 00:13:02 - Sprecher SPEAKER_06:  Hinten rein.
+00:13:03 - 00:13:04 - Sprecher SPEAKER_13:  Und Fritzi auch hinten, bitte.
+00:13:05 - 00:13:05 - Sprecher SPEAKER_13:  Ja, okay.
+00:13:05 - 00:13:06 - Sprecher SPEAKER_13:  Wir fahren euch jetzt.
+00:13:06 - 00:13:07 - Sprecher SPEAKER_13:  Keine Sorge.
+00:13:07 - 00:13:08 - Sprecher SPEAKER_13:  Ich hab Stress hier noch.
+00:13:08 - 00:13:08 - Sprecher SPEAKER_04:  Warum?
+00:13:08 - 00:13:09 - Sprecher SPEAKER_04:  Weil die Stadt gerade brennt.
+00:13:09 - 00:13:11 - Sprecher SPEAKER_13:  Weißt du, was gegen den Stress hilft?
+00:13:11 - 00:13:12 - Sprecher SPEAKER_13:  Eine gute Freundin.
+00:13:12 - 00:13:13 - Sprecher SPEAKER_13:  Nein, deine Freundin.
+00:13:14 - 00:13:15 - Sprecher SPEAKER_13:  Ja, die hat er sich dankbar gespielt.
+00:13:15 - 00:13:17 - Sprecher SPEAKER_07:  Da musst du gar nicht rumprobieren, Richie-Boy.
+00:13:17 - 00:13:17 - Sprecher SPEAKER_07:  Ohne Scheiß.
+00:13:17 - 00:13:19 - Sprecher SPEAKER_07:  Gar keinen Bock auf Rose.
+00:13:19 - 00:13:20 - Sprecher SPEAKER_07:  Das ist total der ätzende Typ.
+00:13:20 - 00:13:21 - Sprecher SPEAKER_07:  Ich hasse den total.
+00:13:21 - 00:13:22 - Sprecher SPEAKER_07:  Okay, er hat deine Herzen.
+00:13:23 - 00:13:23 - Sprecher SPEAKER_13:  Er hat deine Herzen ausgebrochen.
+00:13:23 - 00:13:24 - Sprecher SPEAKER_13:  Ja, ganz genau.
+00:13:24 - 00:13:25 - Sprecher SPEAKER_07:  Wie fühlst du dich dabei?
+00:13:26 - 00:13:27 - Sprecher SPEAKER_04:  Ziemlich gut.
+00:13:27 - 00:13:28 - Sprecher SPEAKER_04:  Gut, sagst du?
+00:13:28 - 00:13:28 - Sprecher SPEAKER_04:  Ja, natürlich.
+00:13:29 - 00:13:30 - Sprecher SPEAKER_13:  Fritzi, Fritzi, lass bitte erstmal Rose auf.
+00:13:30 - 00:13:31 - Sprecher SPEAKER_13:  Ja, genau.
+00:13:31 - 00:13:34 - Sprecher SPEAKER_13:  Also, am Ende des Tages wurde da vielleicht auch viel zu viel reininterpretiert.
+00:13:34 - 00:13:36 - Sprecher SPEAKER_04:  Für mich war das so ein professionelles Ding und nicht mehr.
+00:13:37 - 00:13:38 - Sprecher SPEAKER_07:  Deine Mutter hat da was reininterpretiert.
+00:13:38 - 00:13:39 - Sprecher SPEAKER_07:  Ganz im Ernst, Mann.
+00:13:41 - 00:13:44 - Sprecher SPEAKER_13:  Jamie, wieso empfindest du nichts für Fritzi?
+00:13:44 - 00:13:45 - Sprecher SPEAKER_13:  Das ist jetzt nicht per se Fritzi.
+00:13:45 - 00:13:46 - Sprecher SPEAKER_04:  Das ist eher so ein Ding.
+00:13:46 - 00:13:47 - Sprecher SPEAKER_04:  Ich bin mit meiner Arbeit verheiratet.
+00:13:47 - 00:13:48 - Sprecher SPEAKER_04:  Ich hab gar keine Zeit, wa?
+00:13:49 - 00:13:53 - Sprecher SPEAKER_04:  Das heißt, es ist mehr so ein Ding von Fritzi ist nicht unangenehm.
+00:13:53 - 00:13:55 - Sprecher SPEAKER_04:  Ich bin nicht unwürdig, sondern ich bin unwürdig, weil ich einfach für niemanden Zeit hab.
+00:13:55 - 00:13:57 - Sprecher SPEAKER_04:  Du bist absolut unwürdig.
+00:13:57 - 00:13:58 - Sprecher SPEAKER_13:  Sag dem Fritzi.
+00:13:58 - 00:13:58 - Sprecher SPEAKER_13:  Das sag ich doch.
+00:13:59 - 00:14:00 - Sprecher SPEAKER_13:  Du hast doch jetzt gerade Zeit.
+00:14:00 - 00:14:01 - Sprecher SPEAKER_13:  Ich hab keine Zeit.
+00:14:03 - 00:14:06 - Sprecher SPEAKER_04:  Ich nehme, also, es wird sich gerade Zeit genommen, wa?
+00:14:06 - 00:14:07 - Sprecher SPEAKER_04:  Du wirst dich bei Fritzi entschuldigen.
+00:14:07 - 00:14:08 - Sprecher SPEAKER_06:  Scheiße, Mann.
+00:14:08 - 00:14:08 - Sprecher SPEAKER_06:  Sonst fall ich hier runter.
+00:14:09 - 00:14:10 - Sprecher SPEAKER_06:  Fuck, fuck, fuck, fuck.
+00:14:12 - 00:14:13 - Sprecher SPEAKER_06:  Entschuldige dich bei Fritzi.
+00:14:13 - 00:14:14 - Sprecher SPEAKER_06:  Aber, aber, aber.
+00:14:14 - 00:14:16 - Sprecher SPEAKER_06:  Rose hat mich komplett ausgenommen.
+00:14:16 - 00:14:18 - Sprecher SPEAKER_07:  Extra, der hat mich komplett.
+00:14:18 - 00:14:19 - Sprecher SPEAKER_07:  Ja.
+00:14:20 - 00:14:22 - Sprecher SPEAKER_07:  Zwischenzeitlich hatte sogar schon die Polizei angefangen.
+00:14:22 - 00:14:22 - Sprecher SPEAKER_07:  Das Taxi.
+00:14:25 - 00:14:25 - Sprecher SPEAKER_07:  Das Taxi.
+00:14:25 - 00:14:28 - Sprecher SPEAKER_07:  Gut, können wir dann wenigstens Richtung Pitti wegfahren?
+00:14:28 - 00:14:28 - Sprecher SPEAKER_04:  Geht das?
+00:14:29 - 00:14:30 - Sprecher SPEAKER_07:  Das ist doch Richtung Pitti.
+00:14:30 - 00:14:32 - Sprecher SPEAKER_07:  Kennst du dich nicht aus hier, Jamie, oder was?
+00:14:32 - 00:14:33 - Sprecher SPEAKER_07:  Wie kann man so blöd sein?
+00:14:33 - 00:14:34 - Sprecher SPEAKER_07:  Guck dir doch mal um hier.
+00:14:35 - 00:14:37 - Sprecher SPEAKER_04:  Ja, aber auf der anderen Seite, du musst doch auch einfach mal nachdenken.
+00:14:37 - 00:14:39 - Sprecher SPEAKER_04:  Der kann ja jetzt nochmal links oder rechts fahren.
+00:14:39 - 00:14:40 - Sprecher SPEAKER_04:  Wer sagt denn, dass der auch wirklich mit ihm durchzieht?
+00:14:40 - 00:14:42 - Sprecher SPEAKER_04:  Oh, ich bin Jamie und ich denke immer nur an meine Arbeit.
+00:14:42 - 00:14:43 - Sprecher SPEAKER_07:  Menschen sind mir egal.
+00:14:44 - 00:14:45 - Sprecher SPEAKER_04:  Ja, du wusstest, warum du mich einlässt.
+00:14:45 - 00:14:46 - Sprecher SPEAKER_04:  Halt doch einfach dein Maul.
+00:14:47 - 00:14:47 - Sprecher SPEAKER_04:  Du hast es genau gewusst.
+00:14:48 - 00:14:49 - Sprecher SPEAKER_04:  Ich bin mit meiner Arbeit verheiratet.
+00:14:49 - 00:14:50 - Sprecher SPEAKER_04:  Ich war offen und ehrlich.
+00:14:51 - 00:14:52 - Sprecher SPEAKER_06:  So, das macht dann 140.
+00:14:52 - 00:14:53 - Sprecher SPEAKER_06:  Das ist ein bisschen.
+00:14:53 - 00:14:54 - Sprecher SPEAKER_06:  140 Dollar.
+00:14:54 - 00:14:54 - Sprecher SPEAKER_06: 
+00:14:54 - 00:14:55 - Sprecher SPEAKER_06:  140 Dollar macht das.
+00:14:55 - 00:14:56 - Sprecher SPEAKER_06:  Ja, nächster zahlt.
+00:14:56 - 00:14:57 - Sprecher SPEAKER_06:  Wer zahlt?
+00:14:57 - 00:14:58 - Sprecher SPEAKER_06:  Wir haben einen Platz frei.
+00:14:58 - 00:14:58 - Sprecher SPEAKER_13:  Nächster.
+00:14:59 - 00:14:59 - Sprecher SPEAKER_13:  Mein Bruder.
+00:14:59 - 00:15:00 - Sprecher SPEAKER_13:  Sehr gut.
+00:15:00 - 00:15:01 - Sprecher SPEAKER_06:  Zahl dir einen Wichser.
+00:15:01 - 00:15:03 - Sprecher SPEAKER_08:  Ich sag doch, das ist ein Wichser.
+00:15:04 - 00:15:07 - Sprecher SPEAKER_07:  Oder als Stefano mal Billy angepöbelt hat.
+00:15:07 - 00:15:09 - Sprecher SPEAKER_07:  Vor Billy hatte ich damals immer noch ein bisschen Schiss.
+00:15:09 - 00:15:12 - Sprecher SPEAKER_07:  Und außerdem wusste ich, dass er echt viele Fäden in der Hand hat.
+00:15:13 - 00:15:17 - Sprecher SPEAKER_07:  Und ich wollte ihm voll keinen Anlass geben, mir noch mehr zu misstrauen, als er ja ohnehin schon tat.
+00:15:18 - 00:15:19 - Sprecher SPEAKER_06:  Puste aus, Mann.
+00:15:19 - 00:15:19 - Sprecher SPEAKER_06:  Puste aus.
+00:15:20 - 00:15:20 - Sprecher SPEAKER_13:  Verzeih dich.
+00:15:21 - 00:15:22 - Sprecher SPEAKER_13:  Wir brauchen neue Kohle.
+00:15:22 - 00:15:22 - Sprecher SPEAKER_13:  Hier.
+00:15:23 - 00:15:23 - Sprecher SPEAKER_13: 
+00:15:23 - 00:15:24 - Sprecher SPEAKER_06:  Junge, ich mach hier Geschäfte.
+00:15:25 - 00:15:26 - Sprecher SPEAKER_06:  Ey.
+00:15:26 - 00:15:27 - Sprecher SPEAKER_06:  Ey.
+00:15:27 - 00:15:29 - Sprecher SPEAKER_06:  Ich sag dir, Junge, mach keinen Stress da hinten.
+00:15:29 - 00:15:31 - Sprecher SPEAKER_06:  Mein Gott, Stefano, bitte mach das nicht.
+00:15:31 - 00:15:32 - Sprecher SPEAKER_06:  Mein Gott, ey.
+00:15:32 - 00:15:33 - Sprecher SPEAKER_06:  Stefano, bitte sag das nicht.
+00:15:33 - 00:15:35 - Sprecher SPEAKER_06:  Mann, Opa, hier wird nicht geschrien.
+00:15:35 - 00:15:36 - Sprecher SPEAKER_06:  Mach keinen Stress.
+00:15:36 - 00:15:37 - Sprecher SPEAKER_06:  Setzt dich da hin, Digga.
+00:15:37 - 00:15:38 - Sprecher SPEAKER_06:  Wir brauchen Kohle.
+00:15:38 - 00:15:39 - Sprecher SPEAKER_06:  Ist ja okay.
+00:15:39 - 00:15:40 - Sprecher SPEAKER_06:  Beruhig dich, Junge.
+00:15:40 - 00:15:42 - Sprecher SPEAKER_12:  Mein Gott, wir brauchen Kohle.
+00:15:43 - 00:15:43 - Sprecher SPEAKER_12:  Beruhig dich jetzt.
+00:15:43 - 00:15:44 - Sprecher SPEAKER_12:  Dann mach geh.
+00:15:44 - 00:15:45 - Sprecher SPEAKER_00:  Ja, la.
+00:15:46 - 00:15:47 - Sprecher SPEAKER_12:  Heide, Digga, heide.
+00:15:47 - 00:15:49 - Sprecher SPEAKER_12:  Bruder, warum macht der jetzt hier so auf Bruder?
+00:15:49 - 00:15:49 - Sprecher SPEAKER_12:  Wer ist denn das?
+00:15:50 - 00:15:50 - Sprecher SPEAKER_06:  Digga.
+00:15:51 - 00:15:52 - Sprecher SPEAKER_06:  Schnauze.
+00:15:52 - 00:15:52 - Sprecher SPEAKER_06:  Stefano.
+00:15:53 - 00:15:53 - Sprecher SPEAKER_06: 
+00:15:53 - 00:15:53 - Sprecher SPEAKER_06:  Ja.
+00:15:54 - 00:15:56 - Sprecher SPEAKER_07:  Du musst dich bei dem entschuldigen.
+00:15:56 - 00:15:57 - Sprecher SPEAKER_06:  Bei wem?
+00:15:57 - 00:15:59 - Sprecher SPEAKER_07:  Dem, den du gerade angeschrien hast.
+00:15:59 - 00:16:00 - Sprecher SPEAKER_06:  Auf gar keinen Fall.
+00:16:00 - 00:16:01 - Sprecher SPEAKER_06:  Stefano.
+00:16:01 - 00:16:02 - Sprecher SPEAKER_06:  Auf gar keinen Fall.
+00:16:04 - 00:16:08 - Sprecher SPEAKER_07:  Stefano, dann platzt vielleicht irgendwann deine Veröffentlichung von meinem Lied.
+00:16:08 - 00:16:09 - Sprecher SPEAKER_06:  Tut mir scheißegal.
+00:16:10 - 00:16:12 - Sprecher SPEAKER_06:  Ich entschuldige mich nicht, aber frech.
+00:16:12 - 00:16:13 - Sprecher SPEAKER_06:  Alles klar, danke, Stefano.
+00:16:13 - 00:16:16 - Sprecher SPEAKER_07:  Du bist ein ganz schön mieser Mitbewohnerkumpel.
+00:16:16 - 00:16:18 - Sprecher SPEAKER_07:  Ey, was hat das denn mit dir zu tun?
+00:16:19 - 00:16:19 - Sprecher SPEAKER_07:  Entschuldigung, Billy.
+00:16:20 - 00:16:20 - Sprecher SPEAKER_07:  Kein Problem.
+00:16:20 - 00:16:21 - Sprecher SPEAKER_06:  Ey, sag mal.
+00:16:21 - 00:16:22 - Sprecher SPEAKER_06:  Geht's noch, oder was?
+00:16:23 - 00:16:24 - Sprecher SPEAKER_06:  Was bist du jetzt beleidigt?
+00:16:24 - 00:16:24 - Sprecher SPEAKER_06:  Was geht's noch?
+00:16:25 - 00:16:26 - Sprecher SPEAKER_06:  Was hat das denn mit dir zu tun?
+00:16:26 - 00:16:28 - Sprecher SPEAKER_06:  Hä, ich sitz da mit euch rum.
+00:16:28 - 00:16:29 - Sprecher SPEAKER_07:  Ich sitz da mit euch rum.
+00:16:30 - 00:16:31 - Sprecher SPEAKER_07:  Das hat doch nichts mit dir.
+00:16:31 - 00:16:32 - Sprecher SPEAKER_07:  Das war doch mein Ding, oder nicht?
+00:16:33 - 00:16:35 - Sprecher SPEAKER_07:  Ja, aber ihr schreit euch richtig unangenehm an.
+00:16:35 - 00:16:36 - Sprecher SPEAKER_07:  Das färbt total ab.
+00:16:36 - 00:16:38 - Sprecher SPEAKER_07:  Das weißt du selber am allerbesten, dass das genau so ist.
+00:16:39 - 00:16:40 - Sprecher SPEAKER_07:  Ja, aber wenn der dann sagt zu dir.
+00:16:41 - 00:16:42 - Sprecher SPEAKER_06:  Wer ist das überhaupt?
+00:16:42 - 00:16:43 - Sprecher SPEAKER_06:  Das ist Billy.
+00:16:44 - 00:16:45 - Sprecher SPEAKER_06:  Ja, ich weiß, aber wer ist das für dich?
+00:16:46 - 00:16:48 - Sprecher SPEAKER_06:  Na, mit dem hatte ich Gespräche wegen meinem Song.
+00:16:48 - 00:16:51 - Sprecher SPEAKER_06:  Wenn er dann sagt, ich vermisse nicht mehr weiter.
+00:16:51 - 00:16:51 - Sprecher SPEAKER_06:  Ja.
+00:16:51 - 00:16:52 - Sprecher SPEAKER_06:  Weil er frech war.
+00:16:52 - 00:16:52 - Sprecher SPEAKER_06:  Ja.
+00:16:52 - 00:16:53 - Sprecher SPEAKER_06:  Ja.
+00:16:57 - 00:17:02 - Sprecher SPEAKER_06:  Ja, ich wollte es ja nur aus dem, also für den Fall, dass es so wäre, halt unterbinden.
+00:17:02 - 00:17:05 - Sprecher SPEAKER_06:  Ja, aber wenn das so ist, dann, glaub mir, wir kriegen das schon hin.
+00:17:05 - 00:17:06 - Sprecher SPEAKER_06:  Wir bekommen den schon dazu.
+00:17:06 - 00:17:06 - Sprecher SPEAKER_06: 
+00:17:06 - 00:17:07 - Sprecher SPEAKER_06:  Ja, ja.
+00:17:07 - 00:17:08 - Sprecher SPEAKER_06:  Wir bekommen den schon dazu.
+00:17:08 - 00:17:12 - Sprecher SPEAKER_06:  Wenn er dann irgendwie Scheiße macht, bekommen wir ihn dazu, dass er vermittelt, oder nicht?
+00:17:12 - 00:17:12 - Sprecher SPEAKER_06:  Was ich meine?
+00:17:12 - 00:17:12 - Sprecher SPEAKER_06:  Man weiß.
+00:17:13 - 00:17:15 - Sprecher SPEAKER_08:  Niemand braucht irgendwen zu irgendwas zu bringen.
+00:17:15 - 00:17:17 - Sprecher SPEAKER_07:  Alles gut, darum ging's nicht.
+00:17:17 - 00:17:21 - Sprecher SPEAKER_07:  Stefano hab ich dann einfach erzählt, mir wär das wichtig, wegen diesem ganzen Musikscheiß.
+00:17:21 - 00:17:23 - Sprecher SPEAKER_13:  Foxe wurde grad wohl eben vermittelt.
+00:17:23 - 00:17:23 - Sprecher SPEAKER_13:  Ich hab ihn überfallen.
+00:17:23 - 00:17:24 - Sprecher SPEAKER_13:  Ich ruf den mal an.
+00:17:24 - 00:17:24 - Sprecher SPEAKER_06:  Foxe?
+00:17:25 - 00:17:26 - Sprecher SPEAKER_06:  Wie, du wurdest überfallen?
+00:17:27 - 00:17:29 - Sprecher SPEAKER_06:  Oskar war das hier, aber der fängt schon wieder an, ne?
+00:17:29 - 00:17:29 - Sprecher SPEAKER_06:  Oskar?
+00:17:29 - 00:17:30 - Sprecher SPEAKER_07:  Jetzt reicht's mir mit Oskar.
+00:17:30 - 00:17:32 - Sprecher SPEAKER_07:  Ganz im Ernst, jetzt reicht's wirklich mit Oskar.
+00:17:33 - 00:17:36 - Sprecher SPEAKER_07:  Von Oskar werde ich dir noch ein bisschen mehr erzählen, Mr. Rocket.
+00:17:36 - 00:17:40 - Sprecher SPEAKER_07:  Aber jetzt gerade musst du eigentlich nur wissen, dass er echt Scheiße gebaut hat.
+00:17:41 - 00:17:42 - Sprecher SPEAKER_07:  Pinsel war dabei, wer war noch dabei?
+00:17:42 - 00:17:43 - Sprecher SPEAKER_13:  Der Typ, der da gerade...
+00:17:43 - 00:17:44 - Sprecher SPEAKER_13:  Die O-Sevens.
+00:17:45 - 00:17:47 - Sprecher SPEAKER_13:  Eine von denen, der da gerade einsteckt und Oskar.
+00:17:47 - 00:17:48 - Sprecher SPEAKER_16:  Komischen blonden Haaren, ja, ja.
+00:17:48 - 00:17:49 - Sprecher SPEAKER_06:  Dann lass den mitnehmen.
+00:17:49 - 00:17:52 - Sprecher SPEAKER_07:  Ehrlich gesagt, hab ich gar nicht so ganz gecheckt, was da vorgefallen ist in dem Moment.
+00:17:53 - 00:17:57 - Sprecher SPEAKER_07:  Aber mir hat's eigentlich schon gereicht, dass Oskar was gegen unser Taxiunternehmen gesagt hat.
+00:17:58 - 00:18:03 - Sprecher SPEAKER_04:  Scheiße, muss da unten diese Gruppe aus der Großstreet euch engagieren oder was?
+00:18:03 - 00:18:04 - Sprecher SPEAKER_04:  Ein Taxiunternehmen und das zu regeln?
+00:18:06 - 00:18:09 - Sprecher SPEAKER_06:  Weißt du was, dafür geb ich euch die 500 Dollar, Mann.
+00:18:10 - 00:18:11 - Sprecher SPEAKER_06:  War das 500 Dollar?
+00:18:11 - 00:18:12 - Sprecher SPEAKER_06:  Ach, nicht mal.
+00:18:12 - 00:18:14 - Sprecher SPEAKER_13:  Warum geht's mir überhaupt nicht auf?
+00:18:14 - 00:18:15 - Sprecher SPEAKER_13:  Ja, Ochse, erzähl mal.
+00:18:15 - 00:18:17 - Sprecher SPEAKER_06:  Was ist mit dir los?
+00:18:17 - 00:18:18 - Sprecher SPEAKER_06:  Ja, ja, ja, ja.
+00:18:20 - 00:18:22 - Sprecher SPEAKER_07:  Nur beleidigst nicht unser Taxiunternehmen.
+00:18:23 - 00:18:24 - Sprecher SPEAKER_07:  Taxiunternehmen, hast du es verstanden?
+00:18:25 - 00:18:28 - Sprecher SPEAKER_07:  Du stellst dich da jetzt hin und hältst die Fresse, aber sofort.
+00:18:29 - 00:18:30 - Sprecher SPEAKER_07:  Mein Gott, ey.
+00:18:30 - 00:18:30 - Sprecher SPEAKER_07:  Alter.
+00:18:31 - 00:18:32 - Sprecher SPEAKER_07:  Ey, ey, ey.
+00:18:32 - 00:18:33 - Sprecher SPEAKER_07:  Ja, ja, ja.
+00:18:33 - 00:18:34 - Sprecher SPEAKER_11:  Fret sie, seid ihr.
+00:18:35 - 00:18:36 - Sprecher SPEAKER_08:  Fret sie doch mal.
+00:18:36 - 00:18:36 - Sprecher SPEAKER_08:  Ja.
+00:18:36 - 00:18:38 - Sprecher SPEAKER_07:  Macht euren Scheiß, Leute, da.
+00:18:39 - 00:18:42 - Sprecher SPEAKER_07:  Allerdings ist das Ganze dann irgendwie eskaliert und die Polizei kam dazu.
+00:18:43 - 00:18:48 - Sprecher SPEAKER_07:  Und ehrlich gesagt, hab ich gedacht, ich könnte meine Freunde vor der Festnahme retten.
+00:18:53 - 00:18:54 - Sprecher SPEAKER_03:  Und keine Alternative.
+00:18:54 - 00:18:55 - Sprecher SPEAKER_03:  Genau, das war mein Punkt.
+00:18:56 - 00:18:57 - Sprecher SPEAKER_11:  Ja.
+00:18:57 - 00:18:58 - Sprecher SPEAKER_11:  greatnessville managed
+00:18:58 - 00:18:58 - Sprecher SPEAKER_11:  das war aber.
+00:18:59 - 00:19:01 - Sprecher SPEAKER_01:  Oh, oh und mal diese九.
+00:19:08 - 00:19:10 - Sprecher SPEAKER_01:  Ich glaube wir trрев aber dass das jetzt auch irgendwas kommt.
+00:19:10 - 00:19:10 - Sprecher SPEAKER_07:  Richtig.
+00:19:11 - 00:19:12 - Sprecher SPEAKER_07:  Hut jetzt drauf Beuber ist nach vorne.
+00:19:12 - 00:19:12 - Sprecher SPEAKER_07: 
+00:19:12 - 00:19:13 - Sprecher SPEAKER_07:  Ich höre ganz viel Radio.
+00:19:15 - 00:19:16 - Sprecher SPEAKER_07:  Nein, nein.
+00:19:18 - 00:19:18 - Sprecher SPEAKER_07:  Fuck.
+00:19:18 - 00:19:18 - Sprecher SPEAKER_07:  Degen gehört.
+00:19:23 - 00:19:27 - Sprecher SPEAKER_07:  auf dem Parkplatz alle einfach mal ganz vorsichtig nach links gucken, während wir hier vorbeifahren.
+00:19:28 - 00:19:34 - Sprecher SPEAKER_07:  Okay, ich sehe nichts. Doch, Wolle liegt da auf dem Boden. Ja, ja, okay, Campbell nimmt
+00:19:34 - 00:19:38 - Sprecher SPEAKER_07:  ihn gerade fest. Wolle wurde also verletzt und festgenommen. Wir wollten ihn da unbedingt
+00:19:38 - 00:19:44 - Sprecher SPEAKER_07:  rausholen. Aber Wolle, hast du Wolle gefragt? Er wurde nur getasert, oder? Ich weiß es
+00:19:44 - 00:19:47 - Sprecher SPEAKER_07:  nicht. Ich habe ihn, ich habe gesehen, wie er, der hat vor meinen Augen, hat er einen
+00:19:47 - 00:19:50 - Sprecher SPEAKER_07:  Schuss gekriegt. Ich bin mit dem Taxi hingefahren, ich wollte, dass er einsteigt, aber es hat
+00:19:50 - 00:19:54 - Sprecher SPEAKER_07:  nicht mehr ausgereicht. Also davor waren die schneller und haben ihn getasert. Fritzi,
+00:19:54 - 00:19:58 - Sprecher SPEAKER_07:  dann hättest du dich mit reingezogen in die Geschichte, wenn du ihn mitgenommen hättest.
+00:19:58 - 00:20:03 - Sprecher SPEAKER_07:  Das ist doch scheißegal, Mann. Das ist doch Wolle. Ach, Fritzi, du bist so süß. Und
+00:20:03 - 00:20:09 - Sprecher SPEAKER_07:  darum haben wir ihn aus dem MD geschmuggelt. Wohin, Wolle? Egal, wo, irgendwo hin. Ich
+00:20:09 - 00:20:13 - Sprecher SPEAKER_03:  habe ihm extra Klamotten aus dem Krankenhaus gesetzt. Erstmal weg, erstmal weg. Jetzt auf
+00:20:13 - 00:20:18 - Sprecher SPEAKER_07:  der Flucht, verdammt. Was ist denn passiert, Wolle? Ich bin weggelaufen von den Kopfen,
+00:20:18 - 00:20:20 - Sprecher SPEAKER_03:  die Wichser haben mir ins Bein geschlossen, zum Glück nur uns drei.
+00:20:20 - 00:20:24 - Sprecher SPEAKER_03:  Warum hast du ihn einfach so umgeschossen? Der hat dich angeschlossen. Keiner sieht
+00:20:24 - 00:20:29 - Sprecher SPEAKER_03:  jemanden von meinen Leuten an. Das hättest du jedem getan. Oh mein Gott, ey, ganz im
+00:20:29 - 00:20:32 - Sprecher SPEAKER_07:  Ernst, ihr könnt es nicht bringen, dass ihr nach dem ersten Tag, einen Tag wollt ihr
+00:20:32 - 00:20:38 - Sprecher SPEAKER_07:  euch zurückhalten. Einen Tag, einen Tag wollt ihr in irgendeiner Art und Weise euch da zurückziehen
+00:20:38 - 00:20:42 - Sprecher SPEAKER_07:  und ein bisschen unauffällig machen, ja? Yves, du musst mir nicht irgendwie was vorlügen.
+00:20:42 - 00:20:47 - Sprecher SPEAKER_07:  Ich weiß das alles ganz genau, wie das läuft. Und das schafft ihr noch nicht mal einen Tag.
+00:20:47 - 00:20:50 - Sprecher SPEAKER_07:  Ich habe Mist gebaut, es tut mir leid, aber ich habe nur noch Rot gesehen.
+00:20:50 - 00:20:53 - Sprecher SPEAKER_03:  Was würdest du machen, wenn jemand von deinen Freunden angeschlossen wird?
+00:20:53 - 00:20:59 - Sprecher SPEAKER_03:  Total das Gleiche. Wer also? Aber vorhin musste ich mich auch zurückhalten. Ich war echt
+00:20:59 - 00:21:04 - Sprecher SPEAKER_07:  bereit, viele meiner Werte links liegen zu lassen für meine Freunde. Naja, aber immerhin
+00:21:04 - 00:21:08 - Sprecher SPEAKER_07:  hat sich Oxe gefreut. Fritzi, als ich dich gerade da hinten gesehen habe und du und Oskar
+00:21:08 - 00:21:13 - Sprecher SPEAKER_11:  voll fett weggetasert hast, und die Betonung liegt auf fett weggetasert, das war super.
+00:21:14 - 00:21:18 - Sprecher SPEAKER_11:  Ich habe mich nicht reingekriegt. Das ist so großartig. Ich hätte es eigentlich noch
+00:21:18 - 00:21:20 - Sprecher SPEAKER_07:  ein zweites Mal machen sollen, aber ich habe mich nicht getragen. Ich habe mich nicht getragen.
+00:21:20 - 00:21:22 - Sprecher SPEAKER_07:  Dr hoult, weil alle die Waffen dann so draußen hatten und so.
+00:21:22 - 00:21:25 - Sprecher SPEAKER_07:  Ja, nicht, dass dir was passiert, wäre ein Glück, Mann.
+00:21:25 - 00:21:30 - Sprecher SPEAKER_08:  Am Ende war es aber vielleicht nicht die allerschlauste Idee, mitten am Stadtpark
+00:21:30 - 00:21:36 - Sprecher SPEAKER_07:  ein Taser zu ziehen. Das haben echt viele Leute mitgekriegt, Mr. Rocket. Und das ist nie gut,
+00:21:36 - 00:21:39 - Sprecher SPEAKER_07:  wenn Leute wissen, dass man ein Taser hat. So.
+00:21:39 - 00:21:41 - Sprecher SPEAKER_15:  Preschen Lawson, Fritzi niveau 1 bin ich aber wirklich der große skiing Maliz der
+00:21:41 - 00:21:42 - Sprecher SPEAKER_15:  Smithsonian-úsathon ab. Zwischen disasters zu sehen, ist natürlich faszinierend. Ich
+00:21:42 - 00:21:42 - Sprecher SPEAKER_15:  ju ins ftlchoge divisions alsuscultantes vom 2. März. Das ist irre.
+00:21:42 - 00:21:44 - Sprecher SPEAKER_15:  Am Ende war es aber vielleicht nicht die allerschlauste Idee, mitten am Stadtpark
+00:21:44 - 00:21:49 - Sprecher SPEAKER_15:  ein Taser zu ziehen. Das haben echt viele Leute mitgekriegt, Mr. Rocket. Und das ist
+00:21:49 - 00:21:52 - Sprecher SPEAKER_07:  Das war Bobby. Das war kein Taser.
+00:21:52 - 00:21:54 - Sprecher SPEAKER_07:  Chuck, erzähl niemals jemandem, dass ich einen Taser hätte.
+00:21:55 - 00:21:56 - Sprecher SPEAKER_07:  Das wäre gelogen. Das ist nur Bobby.
+00:21:57 - 00:21:59 - Sprecher SPEAKER_15:  Witzig, erzähl nie irgendjemandem.
+00:21:59 - 00:22:01 - Sprecher SPEAKER_15:  Irgendwann wäre ich schon lang tot.
+00:22:01 - 00:22:02 - Sprecher SPEAKER_07:  Ja, ich weiß doch.
+00:22:03 - 00:22:05 - Sprecher SPEAKER_07:  Das hat doch auch nichts mit dir zu tun, Chuck.
+00:22:06 - 00:22:08 - Sprecher SPEAKER_07:  Ich will nur gar nicht, dass irgendwer in der Stadt
+00:22:08 - 00:22:11 - Sprecher SPEAKER_07:  irgendwie noch mal jemals mitkriegt, dass ich einen Taser habe.
+00:22:11 - 00:22:15 - Sprecher SPEAKER_07:  Als ich den letzten hatte, da habe ich den innerhalb von ein paar Tagen,
+00:22:15 - 00:22:16 - Sprecher SPEAKER_07:  dann wurde er mir abgenommen.
+00:22:16 - 00:22:18 - Sprecher SPEAKER_07:  Wurde mein Auto aufgebrochen, wurde ich bestohlen
+00:22:18 - 00:22:20 - Sprecher SPEAKER_07:  und alle wussten das.
+00:22:20 - 00:22:22 - Sprecher SPEAKER_07:  Die hatten es voll auf mich abgesehen und meinen Taser.
+00:22:22 - 00:22:23 - Sprecher SPEAKER_07:  Verstehst du?
+00:22:23 - 00:22:25 - Sprecher SPEAKER_07:  Ich verstehe. Die sind sehr begehrt.
+00:22:25 - 00:22:27 - Sprecher SPEAKER_15:  Ja, und darum habe ich daraus gelernt.
+00:22:28 - 00:22:30 - Sprecher SPEAKER_07:  Ich habe die letzten Tage allgemein ganz schön viel gelernt, Chuck.
+00:22:30 - 00:22:32 - Sprecher SPEAKER_07:  Ja? Gibt es Spaß?
+00:22:33 - 00:22:35 - Sprecher SPEAKER_07:  Ja, kann man manchmal so nennen,
+00:22:35 - 00:22:38 - Sprecher SPEAKER_07:  aber manchmal kann man es auch genau das Gegenteil nennen.
+00:22:38 - 00:22:39 - Sprecher SPEAKER_07:  Was ist das Gegenteil von Spaß?
+00:22:41 - 00:22:41 - Unbekannt:  Ernst?
+00:22:42 - 00:22:44 - Sprecher SPEAKER_07:  Todesernst. Todesangst. Todesangst.
+00:22:45 - 00:22:46 - Sprecher SPEAKER_07:  Todesangst trifft es am besten.
+00:22:46 - 00:22:48 - Sprecher SPEAKER_15:  Ja, wenn dir jemand wehtut.
+00:22:48 - 00:22:50 - Sprecher SPEAKER_15:  Würde ich dir auf die Beine helfen.
+00:22:50 - 00:22:52 - Sprecher SPEAKER_07:  Das ist lieb von dir.
+00:22:52 - 00:22:53 - Sprecher SPEAKER_15:  Ja, was für deine Augen.
+00:22:54 - 00:22:57 - Sprecher SPEAKER_07:  Hey, Chuck, ich habe übrigens was für dich herausgefunden.
+00:22:57 - 00:22:59 - Sprecher SPEAKER_07:  Also ich weiß nicht, ob es wirklich was für dich ist,
+00:22:59 - 00:23:04 - Sprecher SPEAKER_07:  aber ich habe mich mal umgehört wegen deiner DTU-Problematik und sowas.
+00:23:04 - 00:23:08 - Sprecher SPEAKER_07:  Und die ganze Restliche, also alle, es gibt nur eine einzige Person bei der DTU,
+00:23:09 - 00:23:11 - Sprecher SPEAKER_07:  die irgendwie auf dich abgesehen hat gerade.
+00:23:12 - 00:23:16 - Sprecher SPEAKER_07:  Und die anderen versuchen sowieso alle, sag mal, mal auszureden.
+00:23:16 - 00:23:17 - Sprecher SPEAKER_07:  Verstehst du?
+00:23:17 - 00:23:18 - Sprecher SPEAKER_07:  Ich glaube, das war's, Doc.
+00:23:18 - 00:23:18 - Sprecher SPEAKER_07:  Chuck.
+00:23:18 - 00:23:18 - Sprecher SPEAKER_07:  Und?
+00:23:18 - 00:23:21 - Sprecher SPEAKER_07:  Das, was Chuck und ich damals hatten, war auch so eine Art Quickie-Bonding.
+00:23:21 - 00:23:25 - Sprecher SPEAKER_07:  Aber das sollte sich irgendwann nochmal in eine andere Form von Bonding verwandeln,
+00:23:25 - 00:23:26 - Sprecher SPEAKER_07:  aber das kommt erst ein bisschen später.
+00:23:27 - 00:23:32 - Sprecher SPEAKER_07:  Jedenfalls hat sich Chucks und meine Beziehung zu dem damaligen Zeitpunkt gerade so richtig gefestigt.
+00:23:33 - 00:23:33 - Unbekannt:  Fritzi?
+00:23:34 - 00:23:34 - Sprecher SPEAKER_07:  Ja, bitte?
+00:23:34 - 00:23:36 - Sprecher SPEAKER_07:  Es ist schön, dass du da bist.
+00:23:36 - 00:23:36 - Sprecher SPEAKER_07:  Aber?
+00:23:37 - 00:23:37 - Sprecher SPEAKER_15:  Nicht so.
+00:23:38 - 00:23:41 - Sprecher SPEAKER_15:  Ach so, ich dachte, du sagst jetzt sowas wie, aber jetzt musst du gehen.
+00:23:41 - 00:23:42 - Sprecher SPEAKER_07:  Aber ich muss dich jetzt töten.
+00:23:42 - 00:23:44 - Sprecher SPEAKER_15:  Aber jetzt muss ich dich töten.
+00:23:44 - 00:23:46 - Sprecher SPEAKER_07:  Oh mein Gott, stell dir vor, du würdest es sagen.
+00:23:46 - 00:23:48 - Sprecher SPEAKER_07:  Dann würde ich sagen, bitte mach's nicht.
+00:23:48 - 00:23:48 - Sprecher SPEAKER_07:  Nicht, Doc.
+00:23:48 - 00:23:49 - Sprecher SPEAKER_07:  Chuck, bitte mach's nicht.
+00:23:49 - 00:23:53 - Sprecher SPEAKER_07:  Denk doch dran, wir wollten doch damals irgendwie, wenn Zombie-Apokalypse ist, zusammen unterwegs sein.
+00:23:54 - 00:23:54 - Sprecher SPEAKER_15:  Eben, eben.
+00:23:55 - 00:23:56 - Sprecher SPEAKER_15:  Wir warten auf die Zombies.
+00:23:56 - 00:23:58 - Sprecher SPEAKER_15:  Wir warten auf die Zombies, ganz genau.
+00:24:00 - 00:24:00 - Sprecher SPEAKER_07:  Besser ist.
+00:24:01 - 00:24:02 - Sprecher SPEAKER_15:  Ich wünsche dir eine gute Nacht.
+00:24:02 - 00:24:04 - Sprecher SPEAKER_15:  Ich wünsche dir auch eine gute Nacht, Doc.
+00:24:04 - 00:24:05 - Sprecher SPEAKER_07:  Chuck, bis morgen oder so.
+00:24:06 - 00:24:09 - Sprecher SPEAKER_07:  Chuck und ich in der Zombie-Apokalypse wäre wirklich der Hammer, Mann.
+00:24:10 - 00:24:14 - Sprecher SPEAKER_07:  Naja, Wagner wollte dann auch nochmal mit mir sprechen und mir ein paar Sachen klar machen.
+00:24:14 - 00:24:17 - Sprecher SPEAKER_16:  Also, Fritzi, du hast das ja mit Oscar mitbekommen, oder?
+00:24:17 - 00:24:18 - Sprecher SPEAKER_16:  Ja, das habe ich natürlich mitbekommen.
+00:24:18 - 00:24:20 - Sprecher SPEAKER_07:  Und er hat dich bedroht.
+00:24:20 - 00:24:21 - Sprecher SPEAKER_16:  Das ist richtig.
+00:24:21 - 00:24:23 - Sprecher SPEAKER_16:  Er hat dir eine Waffe an den Kopf gehalten.
+00:24:23 - 00:24:24 - Sprecher SPEAKER_16:  Schon vorgestern, richtig, ja?
+00:24:24 - 00:24:25 - Sprecher SPEAKER_16:  Ja, das wurde mir nicht erzählt.
+00:24:26 - 00:24:27 - Sprecher SPEAKER_16:  Warum wurde mir das nicht erzählt, Fritzi?
+00:24:27 - 00:24:29 - Sprecher SPEAKER_16:  Wenn dich wer bedroht, dann sagst du mir das doch.
+00:24:30 - 00:24:32 - Sprecher SPEAKER_16:  Ja, ich weiß auch nicht, irgendwie, keine Ahnung.
+00:24:32 - 00:24:33 - Sprecher SPEAKER_07:  Ich weiß nicht, Wagner.
+00:24:33 - 00:24:34 - Sprecher SPEAKER_07:  Ich muss dich beschützen, Fritzi.
+00:24:34 - 00:24:36 - Sprecher SPEAKER_16:  Jemand hat dir eine Waffe an den Kopf gehalten.
+00:24:36 - 00:24:38 - Sprecher SPEAKER_16:  Der wird keinen Zentimeter mehr auf den Straßen bewegen.
+00:24:38 - 00:24:42 - Sprecher SPEAKER_16:  Keiner haut meiner Fritzi eine Bufen in die Pappen und schon gar nicht Ochse.
+00:24:42 - 00:24:43 - Sprecher SPEAKER_16:  Schon gar nicht Ochse.
+00:24:44 - 00:24:44 - Sprecher SPEAKER_07:  Verstehst du mich?
+00:24:45 - 00:24:46 - Sprecher SPEAKER_07:  Natürlich verstehe ich dich.
+00:24:46 - 00:24:47 - Sprecher SPEAKER_07:  Ich bin voll und ganz bei dir, Wagner.
+00:24:47 - 00:24:48 - Sprecher SPEAKER_07:  Wir sind direkt umgekehrt.
+00:24:48 - 00:24:49 - Sprecher SPEAKER_07:  Umlegen, oder was?
+00:24:49 - 00:24:50 - Sprecher SPEAKER_16:  Was für direkt?
+00:24:51 - 00:24:56 - Sprecher SPEAKER_16:  Der wird irgendwo in einer elendigen Gasse einfach zur Seite geschmissen und umgescheppert.
+00:24:56 - 00:25:01 - Sprecher SPEAKER_16:  Wenn es darum geht, ob ich deine Wut nachvollziehen kann, ob ich deine Rachegelüste nachvollziehen kann,
+00:25:01 - 00:25:02 - Sprecher SPEAKER_07:  ja, die kann ich nachvollziehen.
+00:25:03 - 00:25:06 - Sprecher SPEAKER_07:  Und glaub mir eins, da sind heute einige bei mir aufgekeimt.
+00:25:06 - 00:25:07 - Sprecher SPEAKER_16:  Gegenüber Oskar oder im Generellen?
+00:25:07 - 00:25:09 - Sprecher SPEAKER_16:  Im Generellen, aber auch gegenüber Oskar.
+00:25:10 - 00:25:11 - Sprecher SPEAKER_16:  Ach, was war heute eigentlich alles, Fritzi?
+00:25:11 - 00:25:13 - Sprecher SPEAKER_16:  Wir haben uns heute eigentlich gar nicht was gesehen, oder?
+00:25:13 - 00:25:16 - Sprecher SPEAKER_07:  Als ich Oskar in den Rücken getasert habe.
+00:25:16 - 00:25:17 - Sprecher SPEAKER_07:  Das war urstark, oder?
+00:25:17 - 00:25:18 - Sprecher SPEAKER_16:  Das hat mich so glücklich gemacht.
+00:25:18 - 00:25:20 - Sprecher SPEAKER_07:  Ich war schon lange nicht mehr so glücklich.
+00:25:20 - 00:25:21 - Sprecher SPEAKER_07:  Und weißt du, was auch noch war?
+00:25:22 - 00:25:26 - Sprecher SPEAKER_07:  Heute ist Stefano mit mir hier oben auf dem Dach gefahren und Jamie hatten wir dabei.
+00:25:26 - 00:25:29 - Sprecher SPEAKER_07:  Und hat gesagt, du musst dich bei Fritzi entschuldigen.
+00:25:30 - 00:25:31 - Sprecher SPEAKER_07:  Pass auf dich auf, Jamie.
+00:25:31 - 00:25:32 - Sprecher SPEAKER_07:  So hat er das gemacht.
+00:25:32 - 00:25:33 - Sprecher SPEAKER_07:  Das war richtig heftig, Wagner.
+00:25:33 - 00:25:36 - Sprecher SPEAKER_07:  Stefano hat sich voll für mich eingesetzt, verstehst du?
+00:25:36 - 00:25:38 - Sprecher SPEAKER_07:  Ich hab gemerkt, Stefano ist eigentlich voll die gute Seele, Mann.
+00:25:38 - 00:25:40 - Sprecher SPEAKER_16:  Ich dachte, du bist voll das Arschloch.
+00:25:40 - 00:25:40 - Sprecher SPEAKER_16:  Nein, Mann.
+00:25:40 - 00:25:44 - Sprecher SPEAKER_07:  Stefano ist wirklich, das ist eigentlich wie, ich weiß auch nicht, ein Marienkäferherz.
+00:25:45 - 00:25:48 - Sprecher SPEAKER_07:  Das ist ein Herz mit Punkten drauf und die Punkte stehen für Süßheit.
+00:25:48 - 00:25:50 - Sprecher SPEAKER_07:  Das ist Stefano's Herz, verstehst du?
+00:25:50 - 00:25:52 - Sprecher SPEAKER_16:  Aber ich muss langsam wieder in die Hood.
+00:25:52 - 00:25:53 - Sprecher SPEAKER_16:  Kann ich dich wo absetzen?
+00:25:53 - 00:25:53 - Sprecher SPEAKER_16:  Alles klar, ja.
+00:25:53 - 00:25:56 - Sprecher SPEAKER_07:  Bring mich einfach zum Stadtpark, dann fahre ich dann mit dem Fahrrad heim.
+00:25:56 - 00:26:01 - Sprecher SPEAKER_07:  Und weißt du, egal wie ich manchmal rückblickend auf Wagner und die Beziehung zu ihm schaue,
+00:26:01 - 00:26:04 - Sprecher SPEAKER_07:  manchmal hatten wir einfach richtig, richtig viel Spaß.
+00:26:07 - 00:26:08 - Sprecher SPEAKER_07:  Hättest du hier richtig...
+00:26:08 - 00:26:09 - Sprecher SPEAKER_07:  Oh mein Gott!
+00:26:10 - 00:26:10 - Sprecher SPEAKER_09:  Wow!
+00:26:13 - 00:26:14 - Sprecher SPEAKER_09:  Wow, Wagner!
+00:26:15 - 00:26:17 - Sprecher SPEAKER_09:  Das hast du so gut gemacht!
+00:26:17 - 00:26:18 - Sprecher SPEAKER_09:  Du bist der...
+00:26:18 - 00:26:18 - Sprecher SPEAKER_09: 
+00:26:18 - 00:26:18 - Sprecher SPEAKER_09: 
+00:26:18 - 00:26:18 - Sprecher SPEAKER_09: 
+00:26:18 - 00:26:18 - Sprecher SPEAKER_09: 
+00:26:18 - 00:26:18 - Sprecher SPEAKER_09: 
+00:26:18 - 00:26:21 - Sprecher SPEAKER_09:  Der beste Motorradfahrer EU-Best!
+00:26:21 - 00:26:24 - Sprecher SPEAKER_09:  Oh mein Gott, das war urheftig, Wagner!
+00:26:25 - 00:26:25 - Sprecher SPEAKER_09:  Wow!
+00:26:27 - 00:26:32 - Sprecher SPEAKER_07:  Naja, und nachdem solche Dinge passiert sind, wie das mit Stefano, Richmond und Jamie im Taxi,
+00:26:32 - 00:26:36 - Sprecher SPEAKER_07:  war es natürlich auch wichtig, dass wir ein Acht-Minuten-Gespräch hatten.
+00:26:37 - 00:26:38 - Sprecher SPEAKER_07:  Feierabend, Jamie!
+00:26:38 - 00:26:41 - Sprecher SPEAKER_07:  Oh mein Gott, Jamie, es tut mir alles so leid, was heute passiert ist.
+00:26:41 - 00:26:42 - Sprecher SPEAKER_07:  Oh, das musst du doch nicht leiden.
+00:26:42 - 00:26:44 - Sprecher SPEAKER_04:  Oh mein Gott, mir tut es ultra leid!
+00:26:44 - 00:26:45 - Sprecher SPEAKER_07:  Ich habe geheult!
+00:26:45 - 00:26:48 - Sprecher SPEAKER_07:  Wenn das ein Film gewesen wäre oder eine Serie oder sowas,
+00:26:48 - 00:26:50 - Sprecher SPEAKER_07:  ich wäre gestorben vor Lachen, weil es so dumm wäre.
+00:26:50 - 00:26:50 - Sprecher SPEAKER_07:  Ohne Scheiß, Mann!
+00:26:50 - 00:26:53 - Sprecher SPEAKER_07:  Ich habe auch schon gedacht, holy shit, wo bin ich denn jetzt hier gelandet?
+00:26:53 - 00:26:56 - Sprecher SPEAKER_04:  Ich habe eigentlich Stress bis hinten gegen die ganze Stadt brennt
+00:26:56 - 00:26:58 - Sprecher SPEAKER_04:  und bin plötzlich in irgendeiner Romanze gelandet.
+00:26:58 - 00:26:59 - Sprecher SPEAKER_04:  Wieso hat denn die Stadt eigentlich so gebrannt?
+00:27:00 - 00:27:03 - Sprecher SPEAKER_07:  Ah, wir haben heute einen großen Spezialeinsatz gehabt.
+00:27:04 - 00:27:06 - Sprecher SPEAKER_04:  Beschützt den Chief, den wichtigsten Mann im PD.
+00:27:06 - 00:27:09 - Sprecher SPEAKER_04:  Na klar, das ist doch nicht der Price, das ist doch nicht der wichtigste Mann im PD.
+00:27:10 - 00:27:11 - Sprecher SPEAKER_07:  Ja, ja, okay, okay, okay.
+00:27:11 - 00:27:14 - Sprecher SPEAKER_04:  In meinem Herzen vielleicht schon ist der sehr wichtig.
+00:27:14 - 00:27:17 - Sprecher SPEAKER_04:  Und auch mit Mr. Luke und auch mit Mr. Hayes.
+00:27:17 - 00:27:18 - Sprecher SPEAKER_04:  Und auch mit Mr. Hayes.
+00:27:18 - 00:27:18 - Sprecher SPEAKER_04:  Und vielen, vielen anderen.
+00:27:19 - 00:27:22 - Sprecher SPEAKER_04:  Hä, das war ja wohl die coolste Truppe auf der ganzen Welt.
+00:27:22 - 00:27:24 - Sprecher SPEAKER_07:  Da hat wirklich nur ich gefehlt.
+00:27:24 - 00:27:27 - Sprecher SPEAKER_07:  Ich sag ja, wir waren ein richtig cooles Team.
+00:27:27 - 00:27:30 - Sprecher SPEAKER_04:  Und weißt du, wir hatten ja, darauf will ich ja hinaus, weißt du?
+00:27:30 - 00:27:32 - Sprecher SPEAKER_04:  Das habt ihr ja einen Plan, ich erzähle das ja nicht einfach so.
+00:27:32 - 00:27:32 - Sprecher SPEAKER_04:  Ja.
+00:27:32 - 00:27:36 - Sprecher SPEAKER_07:  Das Wichtige ist jetzt nämlich an der Stelle, wir waren das einzige Team.
+00:27:36 - 00:27:38 - Sprecher SPEAKER_04:  Wir waren voll das OP-Team, Mann, ganz im Ernst.
+00:27:38 - 00:27:42 - Sprecher SPEAKER_07:  Das ist ja voll unfair, die anderen sind ja komplett Nichtskönner
+00:27:42 - 00:27:43 - Sprecher SPEAKER_07:  und ihr seid voll die OP-Leute.
+00:27:43 - 00:27:47 - Sprecher SPEAKER_07:  Ja, und dann, dann, dann, weißt du, kommt es halt, wie es kommen muss.
+00:27:47 - 00:27:47 - Sprecher SPEAKER_04:  Ja.
+00:27:47 - 00:27:49 - Sprecher SPEAKER_04:  Wir sind das einzige Team, was seinen Auftrag erfüllt.
+00:27:49 - 00:27:52 - Sprecher SPEAKER_04:  Und dann ist quasi ein Team nach dem nächsten zusammengebrochen.
+00:27:52 - 00:27:54 - Sprecher SPEAKER_04:  Und das heißt, dann war Chaos.
+00:27:54 - 00:27:55 - Sprecher SPEAKER_04:  Überall Chaos.
+00:27:55 - 00:27:56 - Sprecher SPEAKER_04:  Chaos, okay.
+00:27:56 - 00:27:57 - Sprecher SPEAKER_04:  Wir brauchen Support, wir brauchen Unterstützung.
+00:27:57 - 00:27:58 - Sprecher SPEAKER_04:  Wer kann noch helfen?
+00:27:58 - 00:27:59 - Sprecher SPEAKER_04:  Wer kann noch irgendwo hin?
+00:27:59 - 00:28:02 - Sprecher SPEAKER_04:  Aber, und war das denn so ein Moment oder war da schon alles vorbei,
+00:28:02 - 00:28:04 - Sprecher SPEAKER_07:  als du abgeholt werden musstest?
+00:28:04 - 00:28:05 - Sprecher SPEAKER_04:  Ah, das war mittendrin.
+00:28:06 - 00:28:08 - Sprecher SPEAKER_07:  Ja, also sprich, du hättest eigentlich irgendwo hingefahren werden müssen.
+00:28:09 - 00:28:10 - Sprecher SPEAKER_04:  Richtig.
+00:28:10 - 00:28:11 - Sprecher SPEAKER_04:  Es tut mir wirklich leid, Rose.
+00:28:11 - 00:28:13 - Sprecher SPEAKER_07:  Ich, ich gehe das nächste Mal dran.
+00:28:13 - 00:28:16 - Sprecher SPEAKER_07:  Und wenn du sagst, Achtung, Achtung, ich brauche dich sofort,
+00:28:17 - 00:28:17 - Sprecher SPEAKER_07:  dann steige ich aus.
+00:28:17 - 00:28:18 - Sprecher SPEAKER_07:  Und dann bin ich da.
+00:28:19 - 00:28:22 - Sprecher SPEAKER_07:  Aber ich musste Jamie leider auch manchmal darauf hinweisen,
+00:28:22 - 00:28:24 - Sprecher SPEAKER_07:  dass die ein oder andere Sache bei der DTU
+00:28:24 - 00:28:26 - Sprecher SPEAKER_07:  vielleicht nicht ganz so gut gelaufen ist,
+00:28:26 - 00:28:28 - Sprecher SPEAKER_07:  beziehungsweise nicht ganz so gut kommuniziert wurde.
+00:28:29 - 00:28:30 - Sprecher SPEAKER_07:  Rückblickend muss ich echt sagen,
+00:28:30 - 00:28:33 - Sprecher SPEAKER_07:  dass mich einige Sachen ganz schön schnell den Kopf hätten kosten können,
+00:28:33 - 00:28:35 - Sprecher SPEAKER_07:  was die DTU da fabriziert hat.
+00:28:35 - 00:28:37 - Sprecher SPEAKER_07:  Pinsel hat mich gestern angelabert,
+00:28:37 - 00:28:39 - Sprecher SPEAKER_07:  dass er genau weiß, dass ich ihn verraten habe.
+00:28:39 - 00:28:41 - Sprecher SPEAKER_07:  Und da habe ich mich gefragt, warum weiß er das eigentlich?
+00:28:42 - 00:28:43 - Sprecher SPEAKER_07:  Woher weiß er das?
+00:28:43 - 00:28:46 - Sprecher SPEAKER_07:  Ich mir gedacht, naja, irgendwie muss sich ja vielleicht einer von euch verquatscht haben.
+00:28:46 - 00:28:47 - Sprecher SPEAKER_07:  Ich habe Pinsel gesagt,
+00:28:47 - 00:28:50 - Sprecher SPEAKER_04:  dass der Scheiße gebaut hat und dass es ein Doppelagent ist.
+00:28:51 - 00:28:53 - Sprecher SPEAKER_07:  Ja, aber mit welcher, also woher wusstest du das denn in dem Moment?
+00:28:54 - 00:28:57 - Sprecher SPEAKER_04:  Boah, du fragst mich Sachen um Viertel vor zwei.
+00:28:59 - 00:29:00 - Sprecher SPEAKER_04:  Wo, wo wusste ich das denn noch?
+00:29:01 - 00:29:03 - Sprecher SPEAKER_04:  Ich habe dich angerufen, direkt nachdem ich mit Pinsel geredet habe.
+00:29:03 - 00:29:06 - Sprecher SPEAKER_07:  Direkt auf der Stelle habe ich dich angerufen.
+00:29:06 - 00:29:07 - Sprecher SPEAKER_07:  Doch, jetzt weiß ich es wieder.
+00:29:07 - 00:29:11 - Sprecher SPEAKER_04:  Du hast mich angerufen und dann kam auch Pinsel ja auf mich zu
+00:29:11 - 00:29:13 - Sprecher SPEAKER_04:  und hat mir auch ganz komische Fragen gestellt.
+00:29:14 - 00:29:16 - Sprecher SPEAKER_04:  Weshalb ich dann, das kam mir so komisch vor.
+00:29:17 - 00:29:17 - Sprecher SPEAKER_04:  Und ja.
+00:29:17 - 00:29:19 - Sprecher SPEAKER_04:  Und dann habe ich am Ende des Tages Billy gefragt.
+00:29:20 - 00:29:20 - Sprecher SPEAKER_04:  Dein Ernst?
+00:29:21 - 00:29:21 - Sprecher SPEAKER_07:  Ja.
+00:29:21 - 00:29:24 - Sprecher SPEAKER_07:  Jamie, ist dir klar, dass du das alles dann so weitergetragen hast?
+00:29:24 - 00:29:25 - Sprecher SPEAKER_07:  Was habe ich weitergetragen?
+00:29:25 - 00:29:28 - Sprecher SPEAKER_07:  Naja, alter, wenn du, wenn du Pinsel das sagst.
+00:29:28 - 00:29:29 - Sprecher SPEAKER_07:  Was habe ich denn Pinsel gesagt?
+00:29:29 - 00:29:31 - Sprecher SPEAKER_07:  Na, dass, dass er ein Doppelagent ist.
+00:29:31 - 00:29:32 - Sprecher SPEAKER_07:  Ja, natürlich ist Pinsel ein Doppelagent.
+00:29:32 - 00:29:35 - Sprecher SPEAKER_07:  Ja, aber du wusstest das von mir, Jamie, weil ich es dir gesagt habe.
+00:29:35 - 00:29:36 - Sprecher SPEAKER_07:  Und du warst so, was?
+00:29:36 - 00:29:38 - Sprecher SPEAKER_07:  Oh mein Gott, Pinsel, echt?
+00:29:38 - 00:29:39 - Sprecher SPEAKER_07:  Doch, das war genau so.
+00:29:39 - 00:29:40 - Sprecher SPEAKER_07:  Stopp, stopp, stopp, stopp, stopp, stopp.
+00:29:40 - 00:29:41 - Sprecher SPEAKER_07:  War genau so, es war genau so.
+00:29:42 - 00:29:42 - Sprecher SPEAKER_07:  So war das doch gar nicht.
+00:29:42 - 00:29:43 - Sprecher SPEAKER_07:  Es war ganz genau so.
+00:29:43 - 00:29:44 - Sprecher SPEAKER_04:  Nein, das war ganz anders.
+00:29:44 - 00:29:46 - Sprecher SPEAKER_04:  Du hast den zweiten Teil gerade komplett ignoriert.
+00:29:46 - 00:29:47 - Sprecher SPEAKER_04:  Ja, das stimmt.
+00:29:47 - 00:29:47 - Sprecher SPEAKER_04:  Ja, siehst du?
+00:29:48 - 00:29:48 - Sprecher SPEAKER_04:  Ja, sag halt nochmal.
+00:29:49 - 00:29:51 - Sprecher SPEAKER_04:  Ich habe doch auch gesagt, ich habe doch auch mit Pinsel gesprochen.
+00:29:51 - 00:29:51 - Sprecher SPEAKER_04:  Ja, aber wann denn?
+00:29:52 - 00:29:57 - Sprecher SPEAKER_04:  Das war an dem Abend, wo ich dir gesagt habe, so reicht, da habe ich am gleichen Abend ja
+00:29:57 - 00:29:58 - Sprecher SPEAKER_04:  auch mit Pinsel noch reden wollen.
+00:29:58 - 00:30:01 - Sprecher SPEAKER_04:  Ich habe doch gar nicht gesagt, Fritzi hat mir das gesagt.
+00:30:01 - 00:30:06 - Sprecher SPEAKER_04:  Ich habe festgestellt, dass Pinsel mir ganz komische Fragen gestellt hat.
+00:30:06 - 00:30:06 - Sprecher SPEAKER_04:  Ja.
+00:30:06 - 00:30:09 - Sprecher SPEAKER_04:  Und dann habe ich ihm gesagt, du, das klingt, als wärst du ein Doppelagent.
+00:30:09 - 00:30:10 - Sprecher SPEAKER_04:  Okay.
+00:30:10 - 00:30:11 - Sprecher SPEAKER_04:  Ja.
+00:30:11 - 00:30:11 - Sprecher SPEAKER_04:  Okay.
+00:30:12 - 00:30:13 - Sprecher SPEAKER_04:  Also meinte er das nur.
+00:30:13 - 00:30:13 - Sprecher SPEAKER_04:  Und das kam mir komisch vor.
+00:30:13 - 00:30:13 - Sprecher SPEAKER_04:  Okay.
+00:30:13 - 00:30:14 - Sprecher SPEAKER_04:  Und?
+00:30:14 - 00:30:18 - Sprecher SPEAKER_04:  An hab ich, dann kam unser Gespräch, wo du mir dann auch gesagt hast, ja, der hat dich
+00:30:18 - 00:30:18 - Sprecher SPEAKER_04:  auch gefragt.
+00:30:19 - 00:30:21 - Sprecher SPEAKER_07:  Bin ich mir nicht so sicher, Jamie.
+00:30:22 - 00:30:24 - Sprecher SPEAKER_07:  Bist du dir wirklich sicher, dass es genau so abgelaufen ist?
+00:30:24 - 00:30:28 - Sprecher SPEAKER_07:  Weil ich kann mich genau erinnern, wie ich dich angerufen habe, dir das erzählt hast
+00:30:28 - 00:30:29 - Sprecher SPEAKER_07:  und du warst so, was?
+00:30:29 - 00:30:30 - Sprecher SPEAKER_07:  Oh mein Gott.
+00:30:30 - 00:30:31 - Sprecher SPEAKER_07:  Wirklich?
+00:30:31 - 00:30:31 - Sprecher SPEAKER_07:  Pinsel?
+00:30:32 - 00:30:32 - Sprecher SPEAKER_07:  Oh mein Gott.
+00:30:33 - 00:30:34 - Sprecher SPEAKER_07:  So warst du.
+00:30:34 - 00:30:35 - Sprecher SPEAKER_03:  Na, das klingt überhaupt nicht nach mir.
+00:30:35 - 00:30:40 - Sprecher SPEAKER_03:  Doch, dann hättest du ja eher so reagiert nach dem Motto so, oh, ja, weiß ich schon,
+00:30:40 - 00:30:41 - Sprecher SPEAKER_07:  Fritzi, habe ich mir schon gedacht.
+00:30:41 - 00:30:42 - Sprecher SPEAKER_07:  Ich habe ihn gerade schon in die Wüste geschickt.
+00:30:42 - 00:30:43 - Sprecher SPEAKER_07:  Jamie.
+00:30:43 - 00:30:44 - Sprecher SPEAKER_07:  Hab doch Liebe nicht mit ihm.
+00:30:44 - 00:30:50 - Sprecher SPEAKER_07:  Im Grund ist es aber so, dass sowohl Pinsel plötzlich überhaupt kein, nicht mehr mit
+00:30:50 - 00:30:56 - Sprecher SPEAKER_07:  mir redet und überhaupt nichts mehr mit mir zu tun haben möchte, mich als Lügnerin darstellt,
+00:30:56 - 00:31:01 - Sprecher SPEAKER_07:  obwohl ich mich an dem Abend sehr gut mit ihm gestellt habe und übelst am rumfackeln
+00:31:01 - 00:31:02 - Sprecher SPEAKER_07:  war die ganze Zeit.
+00:31:02 - 00:31:03 - Sprecher SPEAKER_07:  Fackel hier, fackel da.
+00:31:03 - 00:31:07 - Sprecher SPEAKER_07:  Obwohl ich noch gar nichts von Fackeln wusste, weil das vor Lügens Lügentraining war.
+00:31:07 - 00:31:11 - Sprecher SPEAKER_07:  So war ich an dem Abend und dann hätten wir alles gut gewesen sein können, ja.
+00:31:11 - 00:31:12 - Sprecher SPEAKER_07:  Das war da.
+00:31:12 - 00:31:13 - Sprecher SPEAKER_07:  Und dann.
+00:31:13 - 00:31:16 - Sprecher SPEAKER_07:  Dann kam am nächsten Tag Billionärsabfuhr.
+00:31:17 - 00:31:24 - Sprecher SPEAKER_07:  Das heißt, zwei Leute, die ich komplett angefackelt hatte davor, waren plötzlich nicht mehr fackelig unterwegs.
+00:31:24 - 00:31:25 - Sprecher SPEAKER_07:  Verstehst du, Jamie?
+00:31:25 - 00:31:29 - Sprecher SPEAKER_07:  Und ich frage mich, irgendwie muss ja eine Information komisch vielleicht kommuniziert worden sein.
+00:31:30 - 00:31:37 - Sprecher SPEAKER_07:  Vielleicht kam das ja auch aber nur daran oder davon, dass Pinsel deine Aussage fehlinterpretiert hat,
+00:31:37 - 00:31:39 - Sprecher SPEAKER_07:  als Fritzi hat gesungen.
+00:31:39 - 00:31:41 - Sprecher SPEAKER_07:  So würde es Billy jetzt formulieren.
+00:31:41 - 00:31:43 - Sprecher SPEAKER_07:  Fritzi, das Vöglein.
+00:31:43 - 00:31:45 - Sprecher SPEAKER_07:  Hat mir was ins Ohr gezwitschert.
+00:31:45 - 00:31:45 - Sprecher SPEAKER_07:  So.
+00:31:45 - 00:31:46 - Sprecher SPEAKER_07:  Ach so.
+00:31:47 - 00:31:50 - Sprecher SPEAKER_09:  Guck mal, das weiß ich sogar, obwohl ich nicht an diesem Metaphernkurs teilnehmen durfte.
+00:31:50 - 00:31:52 - Sprecher SPEAKER_07:  Ich hätte echt gern teilgenommen.
+00:31:52 - 00:31:52 - Sprecher SPEAKER_07:  Ohne Scheiß.
+00:31:52 - 00:31:54 - Sprecher SPEAKER_07:  Da hätte ich richtig was gelernt.
+00:31:54 - 00:31:54 - Sprecher SPEAKER_07:  Nochmal.
+00:31:54 - 00:31:57 - Sprecher SPEAKER_07:  Stell dir vor, Lügentraining plus Metapherntraining.
+00:31:57 - 00:32:02 - Sprecher SPEAKER_07:  Und dann würde ich noch irgendwie so, ähm, ich wollte noch fiese, fiese Sprüche bei Stefano lernen.
+00:32:02 - 00:32:03 - Sprecher SPEAKER_07:  Dann wäre es Hammer.
+00:32:03 - 00:32:06 - Sprecher SPEAKER_07:  Ja, aber dazu kann ich dir sagen, zu viel Macht auf einmal ist auch nicht gut.
+00:32:06 - 00:32:08 - Sprecher SPEAKER_04:  Also, nicht, dass du zu krass wirst, wa?
+00:32:08 - 00:32:12 - Sprecher SPEAKER_07:  Damals habe ich gar nicht verstanden, warum Jamie nicht wollte, dass ich zu krass werde.
+00:32:13 - 00:32:16 - Sprecher SPEAKER_07:  Ich wollte doch einfach nur, dass niemand von uns unnötig in Gefahr gebracht wurde.
+00:32:17 - 00:32:18 - Sprecher SPEAKER_07:  Rose, wir müssen aufpassen.
+00:32:18 - 00:32:20 - Sprecher SPEAKER_07:  Aber heute war es besser.
+00:32:20 - 00:32:21 - Sprecher SPEAKER_07:  Gestern war es sehr schlecht.
+00:32:21 - 00:32:25 - Sprecher SPEAKER_07:  Denk daran, wie scheiße es gestern war beim Asiatentreff.
+00:32:25 - 00:32:26 - Sprecher SPEAKER_07:  Da, wo wir gegessen haben.
+00:32:26 - 00:32:28 - Sprecher SPEAKER_07:  Oder ich habe nichts gegessen, weil es nichts mehr zu essen gab für mich.
+00:32:30 - 00:32:34 - Sprecher SPEAKER_07:  Wahrscheinlich hatte er damals schon die Sorge, dass ich das Blatt irgendwann wenden könnte.
+00:32:35 - 00:32:36 - Sprecher SPEAKER_07:  Boah, ich habe das neue Wort gelernt.
+00:32:36 - 00:32:37 - Sprecher SPEAKER_07:  Das ist snitchen.
+00:32:37 - 00:32:38 - Sprecher SPEAKER_07:  Das habe ich von dir gelernt.
+00:32:38 - 00:32:39 - Sprecher SPEAKER_07:  Wo kann man das benutzen?
+00:32:39 - 00:32:40 - Sprecher SPEAKER_07:  Wie nahm man das?
+00:32:41 - 00:32:42 - Sprecher SPEAKER_07:  Das ist einfach verraten, oder was?
+00:32:42 - 00:32:43 - Sprecher SPEAKER_07:  Ja, genau.
+00:32:43 - 00:32:44 - Sprecher SPEAKER_07:  Ist einfach verraten.
+00:32:44 - 00:32:47 - Sprecher SPEAKER_04:  Wenn jemand quasi Infos rausgibt, die er nicht rausgeben sollte, wa?
+00:32:47 - 00:32:51 - Sprecher SPEAKER_04:  Wenn jemand quasi Leute verrät, seine Freunde, seine Kollegen, etc.
+00:32:51 - 00:32:52 - Sprecher SPEAKER_04:  Okay.
+00:32:52 - 00:32:54 - Sprecher SPEAKER_07:  Und dann sagt man ja, was haben wir da auch gelernt?
+00:32:54 - 00:32:54 - Sprecher SPEAKER_04:  Hast du gesnitcht?
+00:32:55 - 00:32:55 - Sprecher SPEAKER_04:  Snitches get stitches.
+00:32:56 - 00:32:57 - Sprecher SPEAKER_04:  Snitches get stitches.
+00:32:58 - 00:32:59 - Unbekannt:  Genau.
+00:32:59 - 00:33:00 - Sprecher SPEAKER_07:  Snitches get stitches.
+00:33:01 - 00:33:03 - Sprecher SPEAKER_07:  Auch noch so eine kleine Straßenregel.
+00:33:03 - 00:33:05 - Sprecher SPEAKER_07:  Aber davon erzähle ich dir irgendwann mal, Mr. Rocket.
+00:33:06 - 00:33:09 - Sprecher SPEAKER_07:  Aber wie es weitergeht, erfährst du erst im nächsten Brief.
+00:33:11 - 00:33:12 - Sprecher SPEAKER_07:  HDL Fritzi.
+00:33:12 - 00:33:17 - Unbekannt:  Does a human need to take the blame?
+00:33:17 - 00:33:17 - Unbekannt: 
+00:33:17 - 00:33:22 - Unbekannt:  called the right number to make the right decision.
+00:33:22 - 00:33:25 - Unbekannt:  Mr. Rocket, we have the right number.
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt:  Es wird 반드chemical.
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 
+00:33:25 - 00:33:25 - Unbekannt: 

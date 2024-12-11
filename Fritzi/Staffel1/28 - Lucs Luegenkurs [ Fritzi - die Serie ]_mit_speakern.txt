@@ -1,0 +1,430 @@
+Transkription Staffel 1 mit Sprechererkennung von 28 - Lucs Luegenkurs [ Fritzi - die Serie ].wav:
+00:00:28 - 00:00:29 - Sprecher SPEAKER_09:  Musik
+00:00:49 - 00:00:53 - Sprecher SPEAKER_09:  In meinem Leben musste ich gar nicht so oft lügen, Mr. Rocket.
+00:00:53 - 00:00:58 - Sprecher SPEAKER_06:  Eigentlich habe ich, bevor ich nach Los Santos kam, nur ein einziges Mal so richtig gelogen,
+00:00:58 - 00:00:59 - Sprecher SPEAKER_06:  nämlich als ich auf meinem Ehemann...
+00:01:00 - 00:01:03 - Sprecher SPEAKER_06:  ... und meinen damaligen Kollegen geschossen habe und danach behauptet habe, es wäre ein Versehen gewesen.
+00:01:04 - 00:01:07 - Sprecher SPEAKER_06:  Aber du weißt ja, dass das gar nicht aus Versehen war.
+00:01:08 - 00:01:11 - Sprecher SPEAKER_06:  Leider hat mich diese Stadt dazu gezwungen, das Lügen anzufangen.
+00:01:11 - 00:01:13 - Sprecher SPEAKER_06:  Und das ganz schön oft.
+00:01:15 - 00:01:17 - Sprecher SPEAKER_06:  Mann, ich wünschte, ich müsste nie lügen.
+00:01:17 - 00:01:20 - Sprecher SPEAKER_06:  Aber wenn ich nie lüge, dann passieren immer schlimme Sachen.
+00:01:20 - 00:01:25 - Sprecher SPEAKER_06:  Gestern Abend, so wie gestern Abend zum Beispiel, da habe ich kurz mal vergessen, dass man manchmal lügen muss.
+00:01:25 - 00:01:27 - Sprecher SPEAKER_06:  Und was ist? Direkt aufgeflogen. Hallo?
+00:01:27 - 00:01:27 - Sprecher SPEAKER_06:  Ja, ja.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_06:  Ja.
+00:01:30 - 00:01:34 - Sprecher SPEAKER_06:  Ich habe mir gerade mal gedacht, dass du da irgendwann ein eigenes Codewort vereinbart, um zu wissen, wann der jeweils andere lügt.
+00:01:35 - 00:01:37 - Sprecher SPEAKER_05:  Äh, Fritzi, wir brauchen so ein Codewort für Lügen.
+00:01:37 - 00:01:41 - Sprecher SPEAKER_05:  Dann wissen wir immer, wann der andere gerade lügt, weil wir gerade lügen müssen.
+00:01:41 - 00:01:41 - Sprecher SPEAKER_05:  Okay.
+00:01:42 - 00:01:48 - Sprecher SPEAKER_05:  So was wie ein kleines Geräusch, eine Interjektion oder eine onomatopoetische Aussage.
+00:01:48 - 00:01:50 - Sprecher SPEAKER_05:  Ich verstehe, ja, kenne ich beides natürlich.
+00:01:50 - 00:01:52 - Sprecher SPEAKER_06:  Sag mal, wie zum Beispiel...
+00:01:52 - 00:01:54 - Sprecher SPEAKER_06:  Nö? Wir sagen einfach so, nö?
+00:01:54 - 00:01:55 - Sprecher SPEAKER_06:  Nö?
+00:01:55 - 00:01:56 - Sprecher SPEAKER_06:  Weil das sagen wir nie.
+00:01:56 - 00:01:57 - Sprecher SPEAKER_06:  Also, nö?
+00:01:57 - 00:01:59 - Sprecher SPEAKER_06:  Das sagen wir wirklich nie. Ich hasse Leute, die sowas sagen.
+00:01:59 - 00:01:59 - Sprecher SPEAKER_06:  Okay, das ist...
+00:02:00 - 00:02:00 - Sprecher SPEAKER_06:  Das ist doch perfekt.
+00:02:00 - 00:02:01 - Sprecher SPEAKER_06:  Nö?
+00:02:01 - 00:02:01 - Sprecher SPEAKER_06:  Das passt.
+00:02:01 - 00:02:01 - Sprecher SPEAKER_06:  Nö?
+00:02:02 - 00:02:05 - Sprecher SPEAKER_06:  Also, irgendwie klang das jetzt nicht überzeugend genug.
+00:02:05 - 00:02:07 - Sprecher SPEAKER_06:  Ich habe doch gesagt, ich mache sowas nicht.
+00:02:07 - 00:02:08 - Sprecher SPEAKER_05:  Denkst du ernsthaft?
+00:02:08 - 00:02:14 - Sprecher SPEAKER_05:  Ich würde sowas tun, Leuten sowas antun und dann ihre tiefsten Ängste hervorholen, nö?
+00:02:14 - 00:02:17 - Sprecher SPEAKER_06:  Na, weil ich das als Kaution hinterlegen musste.
+00:02:17 - 00:02:17 - Sprecher SPEAKER_06:  Ja, bis später.
+00:02:18 - 00:02:18 - Sprecher SPEAKER_07:  Ach so.
+00:02:18 - 00:02:21 - Sprecher SPEAKER_06:  Also, es ist jetzt das Dritte, was sie mir sagt.
+00:02:21 - 00:02:25 - Sprecher SPEAKER_05:  Erst wollte sie einen Taser kaufen, dann ein Auto und jetzt brauchte sie das als Kaution.
+00:02:25 - 00:02:27 - Sprecher SPEAKER_07:  Ich glaube, das mit der Kaution kommt schon gut hin.
+00:02:29 - 00:02:29 - Sprecher SPEAKER_05:  Ne?
+00:02:30 - 00:02:31 - Sprecher SPEAKER_06:  Ja.
+00:02:31 - 00:02:36 - Sprecher SPEAKER_06:  Dummerweise hatte ich ab irgendeinem Zeitpunkt das Gefühl, dass ich auch Ochse andügen musste, um ihn nicht in Gefahr zu bringen.
+00:02:37 - 00:02:39 - Sprecher SPEAKER_06:  Ja, darum halte ich mich jetzt von allem fern.
+00:02:40 - 00:02:44 - Sprecher SPEAKER_06:  Scheiß auf das PD. Das PD hat mir nie irgendwas gebracht, Ochse. Nie irgendetwas.
+00:02:44 - 00:02:45 - Sprecher SPEAKER_06:  Verstehst du?
+00:02:45 - 00:02:49 - Sprecher SPEAKER_06:  Und die Geschichten, die ich mir ausgedacht habe, wurden auch immer absurder.
+00:02:49 - 00:02:55 - Sprecher SPEAKER_06:  Na, Jamie ist der Typ, auf den ich gestanden habe, den ich haben wollte vom PD, mit dem ich küssen wollte und so.
+00:02:56 - 00:02:56 - Sprecher SPEAKER_06:  Was?
+00:02:56 - 00:02:57 - Sprecher SPEAKER_06:  Ja, das wusste ich gar nicht.
+00:02:57 - 00:02:58 - Sprecher SPEAKER_06:  Hä?
+00:02:58 - 00:02:59 - Sprecher SPEAKER_06:  Was?
+00:03:00 - 00:03:01 - Sprecher SPEAKER_06:  Du wolltest rummachen, Digga?
+00:03:01 - 00:03:07 - Sprecher SPEAKER_06:  Ja, das mit dem habe ich mal zusammengearbeitet einmal und da war der voll nett zu mir und ich dachte, der hätte Interesse an mir, aber hatte er dann doch nicht.
+00:03:08 - 00:03:13 - Sprecher SPEAKER_06:  Und ich habe gedacht, wenn ich mit ihm zusammen dahin gehe, dann kommen wir uns näher, aber es war alles nur so gefakt von ihm.
+00:03:13 - 00:03:18 - Sprecher SPEAKER_06:  Er wollte anscheinend nur was über Billionaire rausfinden und deswegen hasse ich das PD jetzt auch, weil die mich alle immer nur verarschen da.
+00:03:19 - 00:03:22 - Sprecher SPEAKER_05:  Du wolltest nur? Ich wusste gar nicht, dass du auf jemanden stehst.
+00:03:23 - 00:03:29 - Sprecher SPEAKER_06:  Das Problem mit dem Lügen ist, dass man nicht mehr so leicht aus dem ganzen Wirrwarr rauskommt, wenn man einmal damit angefangen hat,
+00:03:29 - 00:03:30 - Sprecher SPEAKER_06:  Mr. Rocket.
+00:03:31 - 00:03:37 - Sprecher SPEAKER_06:  Fritzi, ich will nicht in diesem Lügen-Netz sitzen. Ich fühle mich wie so ein Fisch, der hilflos im Netz zappelt.
+00:03:38 - 00:03:41 - Sprecher SPEAKER_06:  Aber wenn man ehrlich ist, hat man ja auch gar keine andere Wahl.
+00:03:42 - 00:03:46 - Sprecher SPEAKER_06:  Oh Mann, ey, Ochse, ich rutsche in so ein Lügenloch rein in letzter Zeit.
+00:03:46 - 00:03:46 - Sprecher SPEAKER_06:  Ich auch. Ich hasse das so.
+00:03:46 - 00:03:50 - Sprecher SPEAKER_06:  Ich hasse das auch total. Das ist nur Lügschuld.
+00:03:50 - 00:03:50 - Sprecher SPEAKER_06:  Aber das ist ja Wagner.
+00:03:50 - 00:03:53 - Sprecher SPEAKER_06:  Lüg hat damals gesagt, Fritzi, du musst lügen und seitdem, seitdem ist es...
+00:03:53 - 00:03:55 - Sprecher SPEAKER_06:  Ja, Wagner zwingt mich zu lügen.
+00:03:57 - 00:03:57 - Sprecher SPEAKER_06:  Apropos Lüg.
+00:03:57 - 00:03:59 - Sprecher SPEAKER_06:  Ja, ja, ja.
+00:03:59 - 00:03:59 - Sprecher SPEAKER_06:  Ja, ja, ja.
+00:03:59 - 00:03:59 - Sprecher SPEAKER_06: 
+00:03:59 - 00:03:59 - Sprecher SPEAKER_06: 
+00:03:59 - 00:03:59 - Sprecher SPEAKER_06: 
+00:03:59 - 00:03:59 - Sprecher SPEAKER_06: 
+00:03:59 - 00:04:01 - Sprecher SPEAKER_06:  Ich weiß nicht, dass ich überhaupt anfing, so viel zu lügen.
+00:04:02 - 00:04:07 - Sprecher SPEAKER_06:  Gleichzeitig habe ich es aber auch ihm zu verdanken, dass ich verstand, wie man es richtig macht.
+00:04:34 - 00:04:50 - Unbekannt:  Ja, also, jetzt haben wir eine Leah anw francen unter fuerza.
+00:04:50 - 00:04:50 - Unbekannt: 
+00:04:50 - 00:04:50 - Unbekannt: 
+00:04:50 - 00:04:55 - Unbekannt:  Er hat hier genügend Gas напис Isabelly veramente wissen Am acrylic und AnyIFbyolar ein mit OE4 richtig viel mit im Detail?
+00:04:55 - 00:04:59 - Unbekannt:  Harte Message.
+00:05:15 - 00:05:29 - Unbekannt:  Untertitelung des ZDF, 2020
+00:05:45 - 00:05:59 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:06:10 - 00:06:11 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:06:38 - 00:06:39 - Sprecher SPEAKER_04:  Untertitelung des ZDF, 2020
+00:07:13 - 00:07:29 - Sprecher SPEAKER_00:  Untertitelung des ZDF, 2020
+00:07:39 - 00:07:42 - Unbekannt:  Untertitelung des ZDF, 2020
+00:08:01 - 00:08:08 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:08:29 - 00:08:31 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:09:13 - 00:09:25 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:09:42 - 00:09:59 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:10:08 - 00:10:09 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:30 - 00:10:40 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:11:01 - 00:11:02 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:11:30 - 00:11:35 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:12:02 - 00:12:03 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:03 - 00:12:07 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:09 - 00:12:11 - Sprecher SPEAKER_04:  Untertitelung des ZDF, 2020
+00:12:11 - 00:12:16 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:18 - 00:12:20 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:20 - 00:12:21 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06: 
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06: 
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06: 
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06: 
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06: 
+00:12:21 - 00:12:21 - Sprecher SPEAKER_06: 
+00:12:21 - 00:12:22 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:22 - 00:12:22 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:22 - 00:12:23 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:26 - 00:12:27 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:12:28 - 00:12:30 - Sprecher SPEAKER_02:  Wir haben eine Lösung für das Problem, was noch aussteht.
+00:12:31 - 00:12:32 - Sprecher SPEAKER_02:  Okay, alles klar. Hau raus.
+00:12:34 - 00:12:35 - Sprecher SPEAKER_02:  Du musst uns jetzt vertrauen.
+00:12:37 - 00:12:37 - Sprecher SPEAKER_02:  Vertraust du uns?
+00:12:39 - 00:12:43 - Sprecher SPEAKER_06:  Ja, beim Sonst. Also gerade vertraue ich sonst ehrlich gesagt eigentlich fast niemanden außer euch.
+00:12:45 - 00:12:52 - Sprecher SPEAKER_02:  Gut. Wir werden dir irgendwann in den nächsten paar Tagen, wenn wir dich kontaktieren, und dir sagen, wo du hinfahren musst.
+00:12:54 - 00:13:01 - Sprecher SPEAKER_02:  Du musst einfach nur da sein. Und das ist jetzt nicht, wo du denkst, oh mein Gott, da war ich noch nie, da will ich nicht hin, da habe ich Angst, da zu sein.
+00:13:02 - 00:13:04 - Sprecher SPEAKER_02:  Das ist einfach nur ein Ort, wo du hinfahren musst.
+00:13:04 - 00:13:09 - Sprecher SPEAKER_08:  Dann werden wir da an diesem Ort wahrscheinlich ankommen und Festnahmen durchführen.
+00:13:10 - 00:13:11 - Sprecher SPEAKER_06:  Und dich auch festnehmen.
+00:13:12 - 00:13:12 - Sprecher SPEAKER_06:  Okay.
+00:13:13 - 00:13:14 - Sprecher SPEAKER_02:  Um dich selber zu schützen.
+00:13:14 - 00:13:14 - Sprecher SPEAKER_06:  Ja.
+00:13:16 - 00:13:18 - Sprecher SPEAKER_02:  Weil du Drogen ins PD gebracht hast.
+00:13:19 - 00:13:21 - Sprecher SPEAKER_02:  Und wir dich quasi observiert haben.
+00:13:24 - 00:13:26 - Sprecher SPEAKER_02:  Das weißt du natürlich nicht, wenn du gefragt wirst, ne?
+00:13:26 - 00:13:30 - Sprecher SPEAKER_02:  Aber falls wir dann irgendwann gefragt werden von den Leuten, die wir festnehmen, sagen wir, ne?
+00:13:30 - 00:13:30 - Sprecher SPEAKER_02:  Ja.
+00:13:30 - 00:13:33 - Sprecher SPEAKER_02:  Du hast Drogen einmal ins PD gebracht und dann haben wir dich observiert.
+00:13:34 - 00:13:35 - Sprecher SPEAKER_02:  Und hatten auch andere Anhaltspunkte.
+00:13:36 - 00:13:40 - Sprecher SPEAKER_02:  Da geht es nicht um Waffen oder sonst was, sondern nur um Drogenfluss, den wir eh schon länger verfolgen.
+00:13:42 - 00:13:43 - Sprecher SPEAKER_02:  Und werden dich einfach mit festnehmen.
+00:13:44 - 00:13:44 - Sprecher SPEAKER_06:  Okay, alles klar.
+00:13:44 - 00:13:47 - Sprecher SPEAKER_06:  Das soll quasi dienen, dass diese Leute dann vor Ort sehen.
+00:13:48 - 00:13:49 - Sprecher SPEAKER_02:  Ja.
+00:13:49 - 00:13:51 - Sprecher SPEAKER_02:  Dass du nicht Teil der Rechtsstaat...
+00:13:52 - 00:13:57 - Sprecher SPEAKER_02:  ... der rechtsstaatlichen Seite war, die geöffnet hat, sondern dass du Teil der Seite warst, die die Drogen verteilt hat.
+00:13:57 - 00:13:57 - Sprecher SPEAKER_02:  Na klar.
+00:13:57 - 00:13:58 - Sprecher SPEAKER_06:  Also das hat...
+00:13:58 - 00:14:02 - Sprecher SPEAKER_06:  Das untermauert dieses, du bist die Drogenkurierin, du bist die Drogen, die daran in der Stadt.
+00:14:03 - 00:14:03 - Sprecher SPEAKER_02:  Mhm.
+00:14:04 - 00:14:06 - Sprecher SPEAKER_02:  Und danach ist es dann hoffentlich durch.
+00:14:07 - 00:14:14 - Sprecher SPEAKER_02:  Und ja, das wird wahrscheinlich, ich denke, wahrscheinlich in zwei, drei oder vier Tagen irgendwann im Laufe der Woche, Ende der Woche stattfinden.
+00:14:15 - 00:14:17 - Sprecher SPEAKER_02:  Oder sagen wir dir einfach Bescheid vorher.
+00:14:17 - 00:14:19 - Sprecher SPEAKER_02:  Fahr mal dahin, quatsch mal ein bisschen mit den Leuten.
+00:14:19 - 00:14:20 - Sprecher SPEAKER_02:  Wir stellen sicher, dass da Leute sind.
+00:14:21 - 00:14:22 - Sprecher SPEAKER_02:  Dann quatschst du mit den Leuten.
+00:14:22 - 00:14:23 - Sprecher SPEAKER_02:  Und kurz danach kommen wir.
+00:14:24 - 00:14:24 - Sprecher SPEAKER_06:  Okay.
+00:14:25 - 00:14:27 - Sprecher SPEAKER_02:  Aber dann vor Ort nicht mehr nervös werden, nicht mehr hinterfragen.
+00:14:27 - 00:14:29 - Sprecher SPEAKER_02:  Nein, ich werde jetzt nicht mehr nervös.
+00:14:29 - 00:14:29 - Sprecher SPEAKER_06:  Egal, wer das ist.
+00:14:29 - 00:14:30 - Sprecher SPEAKER_02:  Alles klar.
+00:14:30 - 00:14:32 - Sprecher SPEAKER_06:  Ich bin, ich bin entspannt.
+00:14:32 - 00:14:33 - Sprecher SPEAKER_06:  Ich bin, ich bin jetzt Entspannungsfritz.
+00:14:34 - 00:14:35 - Sprecher SPEAKER_06:  Ja, alles gut, ich kriege das voll hin.
+00:14:35 - 00:14:37 - Sprecher SPEAKER_06:  Ich glaube das noch nicht, aber ich kriege es hin.
+00:14:37 - 00:14:39 - Sprecher SPEAKER_06:  Du kriegst das hin, ich glaube an dich.
+00:14:39 - 00:14:39 - Sprecher SPEAKER_02:  Okay.
+00:14:39 - 00:14:40 - Sprecher SPEAKER_02:  Danach ist es vorbei.
+00:14:40 - 00:14:44 - Sprecher SPEAKER_02:  Und auf dem Weg dahin, denk an das, was wir dir heute beigebracht haben.
+00:14:45 - 00:14:45 - Sprecher SPEAKER_02:  Verwirrungstaktik.
+00:14:45 - 00:14:46 - Sprecher SPEAKER_02:  Nicht die ganze Wahrheit.
+00:14:46 - 00:14:48 - Sprecher SPEAKER_02:  Kurze Sätze, das, was die Leute sagen wollen.
+00:14:48 - 00:14:51 - Sprecher SPEAKER_02:  Und wenn es hart auf hart kommt, Nebelkerzen und Gasleiten.
+00:14:52 - 00:14:52 - Sprecher SPEAKER_02:  Okay.
+00:14:52 - 00:14:53 - Sprecher SPEAKER_02:  Dann zählt alles an.
+00:14:53 - 00:14:53 - Sprecher SPEAKER_02:  Ja.
+00:14:53 - 00:14:55 - Sprecher SPEAKER_02:  Aber sorgt dafür, dass du nicht brennst.
+00:14:55 - 00:14:59 - Sprecher SPEAKER_06:  Seitdem auf Wagner geschossen wurde, wurde es mit ihm immer schlimmer.
+00:14:59 - 00:15:03 - Sprecher SPEAKER_06:  Von Außenstehenden hörte ich, dass er ein gefährlicher Umgang für mich sei.
+00:15:03 - 00:15:08 - Sprecher SPEAKER_06:  Aber auch Ochse erzählte immer wieder, dass er immer aggressiver und misstrauischer wurde.
+00:15:09 - 00:15:13 - Sprecher SPEAKER_06:  Und nachdem Ochse und ich entführt wurden, war Wagner noch viel kontrollsüchtiger.
+00:15:14 - 00:15:16 - Sprecher SPEAKER_06:  Aber irgendwas passte nicht zusammen.
+00:15:16 - 00:15:18 - Sprecher SPEAKER_06:  Doch das konnte ich damals noch nicht so richtig erkennen.
+00:15:19 - 00:15:20 - Sprecher SPEAKER_06:  Keine Ahnung, Ochse.
+00:15:20 - 00:15:22 - Sprecher SPEAKER_06:  Ich meine, wir haben letztens schon darüber geredet.
+00:15:22 - 00:15:24 - Sprecher SPEAKER_06:  Über diese, oh, Wagner ist Kriminell-Geschichte, ja?
+00:15:25 - 00:15:25 - Sprecher SPEAKER_06:  Ja.
+00:15:27 - 00:15:32 - Sprecher SPEAKER_06:  Und jetzt haben mich auch noch diverse andere Leute darauf angesprochen, wie kriminell Wagner ist.
+00:15:32 - 00:15:33 - Sprecher SPEAKER_06:  Verstehst du?
+00:15:33 - 00:15:39 - Sprecher SPEAKER_06:  Selbst Billy hat zu mir gesagt, ich soll mich mal in Acht nehmen in meinem Leben, mit welchen Leuten ich zu tun habe.
+00:15:39 - 00:15:45 - Sprecher SPEAKER_06:  Und wenn die rausfinden würden, dass ich jemals irgendwie gemeinsame Sache, weißt du, weil ich da dieses eine Mal diese Drogen da hingebracht habe.
+00:15:46 - 00:15:47 - Sprecher SPEAKER_06:  Zum PD.
+00:15:47 - 00:15:49 - Sprecher SPEAKER_06:  Das, was ich dir ja auch gesagt habe.
+00:15:49 - 00:15:52 - Sprecher SPEAKER_06:  Er hat gesagt, wenn Wagner das rausfinden würde.
+00:15:52 - 00:15:53 - Sprecher SPEAKER_06:  Also er hat explizit Wagner gesagt.
+00:15:53 - 00:15:57 - Sprecher SPEAKER_06:  Er hat gesagt, wissen Sie, Sie sind ja mit Leuten befreundet, wie Wagner zum Beispiel.
+00:15:57 - 00:16:01 - Sprecher SPEAKER_06:  Naja, und ich kann mir vorstellen, dass die das nicht so gern hören würden.
+00:16:01 - 00:16:08 - Sprecher SPEAKER_06:  Und wenn Sie und solche Leute befreundet sind und dann auch noch irgendwie die rauskriegen, was Sie da gemacht haben.
+00:16:08 - 00:16:11 - Sprecher SPEAKER_06:  Naja, da ist mal ganz schnell eine Pumpgun in Ihrem Gesicht.
+00:16:12 - 00:16:16 - Sprecher SPEAKER_06:  Das ist ja der Grund, warum überhaupt das, also warum ich ihm ursprünglich nie was erzählt habe.
+00:16:16 - 00:16:20 - Sprecher SPEAKER_06:  Weil er ursprünglich zu mir gesagt hat, oh, ich habe gar nichts mehr mit Drogen zu tun.
+00:16:20 - 00:16:21 - Sprecher SPEAKER_06:  Gar nichts mehr.
+00:16:21 - 00:16:21 - Sprecher SPEAKER_06:  Gar nichts mehr.
+00:16:21 - 00:16:23 - Sprecher SPEAKER_06:  Fritzi, ich bin ganz enttäuscht von dir, ja?
+00:16:24 - 00:16:26 - Sprecher SPEAKER_06:  Also keine Ahnung, ob ich ihm das noch glauben kann oder nicht.
+00:16:27 - 00:16:30 - Sprecher SPEAKER_06:  Ochse, nach dem, was mir alle Leute erzählt haben.
+00:16:31 - 00:16:35 - Sprecher SPEAKER_06:  Er hat zu mir jetzt auch heute gesagt, dass er davon weg will und so.
+00:16:35 - 00:16:36 - Sprecher SPEAKER_05:  Das hat er sonst noch nie zu mir gesagt.
+00:16:36 - 00:16:37 - Sprecher SPEAKER_06:  Okay, alles klar.
+00:16:38 - 00:16:39 - Sprecher SPEAKER_06:  Das hört sich ja schon mal irgendwie vielleicht...
+00:16:39 - 00:16:42 - Sprecher SPEAKER_06:  Vielleicht ist es auch ein anderer Wagner, den die Leute kennen.
+00:16:42 - 00:16:45 - Sprecher SPEAKER_06:  Nein, Fritzi, er ist ein kleiner Teufel.
+00:16:46 - 00:16:47 - Sprecher SPEAKER_05:  Und er vertraut...
+00:16:47 - 00:16:50 - Sprecher SPEAKER_05:  Also wir haben da so eine Sache, wir vertrauen uns langsam immer weniger.
+00:16:50 - 00:16:51 - Sprecher SPEAKER_05:  Und das ist scheiße.
+00:16:51 - 00:16:51 - Sprecher SPEAKER_06:  So.
+00:16:53 - 00:16:56 - Sprecher SPEAKER_06:  Und wenn man vom Teufel spricht, dann ist er meistens nicht weit weg.
+00:16:57 - 00:16:58 - Sprecher SPEAKER_06:  Jetzt ruft Wagner mich schon an.
+00:16:59 - 00:17:01 - Sprecher SPEAKER_06:  Aber wir müssen uns irgendwas...
+00:17:01 - 00:17:04 - Sprecher SPEAKER_06:  Wir müssen uns entscheiden, Fritzi, für die Wahrheit.
+00:17:04 - 00:17:05 - Sprecher SPEAKER_06:  Ja, okay, dann sag...
+00:17:06 - 00:17:08 - Sprecher SPEAKER_06:  Ich hätte ihn sowieso heute getroffen.
+00:17:08 - 00:17:09 - Sprecher SPEAKER_06:  Ich hätte ihm sowieso was gesagt.
+00:17:10 - 00:17:11 - Sprecher SPEAKER_06:  Was denn?
+00:17:11 - 00:17:11 - Sprecher SPEAKER_06:  Weiß ich noch nicht.
+00:17:12 - 00:17:14 - Sprecher SPEAKER_06:  Okay, dann mache ich einfach mit dir mit.
+00:17:14 - 00:17:15 - Sprecher SPEAKER_06:  Ich habe keine Ahnung, Fritzi.
+00:17:16 - 00:17:16 - Sprecher SPEAKER_06:  Ich will nur...
+00:17:16 - 00:17:17 - Sprecher SPEAKER_06:  Hallo, Wagner.
+00:17:18 - 00:17:18 - Sprecher SPEAKER_06:  Okay.
+00:17:18 - 00:17:21 - Sprecher SPEAKER_06:  Ich bin noch ganz kurz beschäftigt und dann habe ich Zeit.
+00:17:21 - 00:17:21 - Sprecher SPEAKER_06:  Für dich.
+00:17:22 - 00:17:24 - Sprecher SPEAKER_07:  Okay, okay, okay.
+00:17:24 - 00:17:25 - Sprecher SPEAKER_07:  Alles klar, dann...
+00:17:28 - 00:17:29 - Sprecher SPEAKER_07:  Hören wir uns sicher bald.
+00:17:30 - 00:17:32 - Sprecher SPEAKER_06:  Wieso sagst du das so komisch?
+00:17:35 - 00:17:36 - Sprecher SPEAKER_07:  Ja.
+00:17:38 - 00:17:39 - Sprecher SPEAKER_07:  Was machst du gerade?
+00:17:40 - 00:17:41 - Sprecher SPEAKER_06:  Ich sitze hier mit Ochse.
+00:17:42 - 00:17:44 - Sprecher SPEAKER_07:  Ach so, okay, okay, okay.
+00:17:44 - 00:17:46 - Sprecher SPEAKER_07:  Alles klar, dann bis später.
+00:17:46 - 00:17:48 - Sprecher SPEAKER_07:  Bis später, Wagner.
+00:17:48 - 00:17:48 - Sprecher SPEAKER_06:  Tschüss.
+00:17:49 - 00:17:49 - Sprecher SPEAKER_07:  Tschüss.
+00:17:49 - 00:17:50 - Sprecher SPEAKER_07:  Tschau.
+00:17:51 - 00:17:52 - Sprecher SPEAKER_06:  Hätte dich angeschrien.
+00:17:53 - 00:17:54 - Sprecher SPEAKER_06:  Nein, er redet einfach so.
+00:17:55 - 00:17:57 - Sprecher SPEAKER_06:  Okay, alles klar.
+00:17:57 - 00:17:58 - Sprecher SPEAKER_06:  So hat er geredet.
+00:17:58 - 00:17:59 - Sprecher SPEAKER_06:  So hat er noch nie mit mir geredet.
+00:18:00 - 00:18:00 - Sprecher SPEAKER_06:  So er...
+00:18:00 - 00:18:01 - Sprecher SPEAKER_06:  Jetzt ruft er mich an.
+00:18:03 - 00:18:04 - Sprecher SPEAKER_06:  Wagner.
+00:18:06 - 00:18:09 - Sprecher SPEAKER_06:  Das ganze Lügen machte einfach jeden paranoid.
+00:18:10 - 00:18:12 - Sprecher SPEAKER_06:  Bei Wagner war es jedoch am schlimmsten.
+00:18:13 - 00:18:16 - Sprecher SPEAKER_06:  Ständig wollte er genau wissen, wo man ist und mit wem man was machte.
+00:18:16 - 00:18:20 - Sprecher SPEAKER_06:  Und natürlich hat er dann direkt nachgeprüft, weil er selbst seinen engsten Freunden nicht mehr traute.
+00:18:22 - 00:18:23 - Sprecher SPEAKER_05:  Wir lügen uns doch nicht an.
+00:18:23 - 00:18:24 - Sprecher SPEAKER_05:  Ich steh neben Fritz.
+00:18:24 - 00:18:26 - Sprecher SPEAKER_05:  Sie hat in einem Satz irgendwas gelogen.
+00:18:26 - 00:18:27 - Sprecher SPEAKER_05:  Sie hat überhaupt nichts gesagt.
+00:18:27 - 00:18:28 - Sprecher SPEAKER_05:  Sie hat gesagt, sie ist beschäftigt.
+00:18:28 - 00:18:29 - Sprecher SPEAKER_05:  Was war daran...
+00:18:30 - 00:18:32 - Sprecher SPEAKER_05:  Wagner, jetzt beruhig dich mal bitte.
+00:18:34 - 00:18:35 - Sprecher SPEAKER_05:  Wir werden uns zu dritt treffen.
+00:18:36 - 00:18:37 - Sprecher SPEAKER_05:  Und wir werden miteinander reden.
+00:18:37 - 00:18:39 - Sprecher SPEAKER_05:  Ganz vernünftig.
+00:18:39 - 00:18:40 - Sprecher SPEAKER_05:  Schön atmen.
+00:18:41 - 00:18:44 - Sprecher SPEAKER_06:  Weißt du, Lügen können ganz schön viel zerstören, Mr.
+00:18:44 - 00:18:44 - Sprecher SPEAKER_06:  Rockert.
+00:18:45 - 00:18:49 - Sprecher SPEAKER_06:  Aber am Ende waren es gar nicht meine Lügen, die den größten Schaden angerichtet haben.
+00:18:50 - 00:18:51 - Sprecher SPEAKER_06:  Also ich wusste erst mal, wo ich hin muss.
+00:18:51 - 00:18:51 - Sprecher SPEAKER_06: 
+00:18:51 - 00:18:51 - Sprecher SPEAKER_06: 
+00:18:51 - 00:18:51 - Sprecher SPEAKER_06: 
+00:18:51 - 00:18:51 - Sprecher SPEAKER_06: 
+00:18:51 - 00:18:51 - Sprecher SPEAKER_06: 
+00:18:51 - 00:18:54 - Sprecher SPEAKER_06:  Ich wusste gar nicht, Wagner, dass du wusstest, dass ich auch entführt wurde.
+00:18:56 - 00:18:57 - Sprecher SPEAKER_05:  Hat nicht so den Eindruck gemacht.
+00:18:58 - 00:19:03 - Sprecher SPEAKER_06:  Ja, wie gesagt, es hat bei mir auch gar keinen Eindruck gemacht, wie er sich vorhin verhalten hat am Telefon.
+00:19:03 - 00:19:06 - Sprecher SPEAKER_06:  Naja, ist ja auch egal, wenn ich überfahren werde oder entführt werde.
+00:19:06 - 00:19:08 - Sprecher SPEAKER_06:  Nein, ich war urgeschockt wegen allem.
+00:19:08 - 00:19:11 - Sprecher SPEAKER_08:  Aber die letzten Tage sind so viele Sachen in meinem Kopf, es...
+00:19:12 - 00:19:15 - Sprecher SPEAKER_06:  Mann, du hast gesagt, ach das, ach das.
+00:19:15 - 00:19:18 - Sprecher SPEAKER_06:  Als ich gesagt habe, du weißt bestimmt von gestern schon.
+00:19:18 - 00:19:20 - Sprecher SPEAKER_06:  Und du fragst mich, was meinst du?
+00:19:20 - 00:19:22 - Sprecher SPEAKER_06:  Und ich so, nein, dass Oxe und ich entführt worden sind.
+00:19:22 - 00:19:23 - Sprecher SPEAKER_06:  Und du sagst, ach das.
+00:19:26 - 00:19:28 - Sprecher SPEAKER_08:  Okay, aktuell, ich bin einfach voll durch den Wind.
+00:19:28 - 00:19:30 - Sprecher SPEAKER_08:  Ich weiß einfach nicht mehr, was ich glauben soll.
+00:19:30 - 00:19:34 - Sprecher SPEAKER_08:  Ich höre und erfahre so viele Dinge und das meiste ist halt gelogen.
+00:19:34 - 00:19:36 - Sprecher SPEAKER_08:  Und ich kann einfach keinem mehr vertrauen.
+00:19:37 - 00:19:43 - Sprecher SPEAKER_06:  Ich will erst mal noch eine Frage von dir beantwortet haben, bevor ich irgendwas erzähle.
+00:19:44 - 00:19:50 - Sprecher SPEAKER_06:  Wenn du sagen müsstest, wie kriminell du gerade bist, von 1 bis 100, was wäre deine
+00:19:50 - 00:19:50 - Sprecher SPEAKER_06:  Antwort?
+00:19:53 - 00:19:56 - Sprecher SPEAKER_06:  Und überleg dir genau, Wagner, überleg dir genau, was du antwortest.
+00:19:57 - 00:20:02 - Sprecher SPEAKER_08:  1 bis 100, also die Methoden, die ich aktuell verwende und wo ich mich begebe, sind ungefähr
+00:20:02 - 00:20:03 - Sprecher SPEAKER_08:  so 100% kriminell, oder?
+00:20:03 - 00:20:06 - Sprecher SPEAKER_06:  Alles klar, danke für deine Ehrlichkeit, Wagner.
+00:20:07 - 00:20:11 - Sprecher SPEAKER_05:  Und was du mir heute gesagt hast, dass du weniger mit diesen ganzen Drogengeschäften und sowas
+00:20:11 - 00:20:12 - Sprecher SPEAKER_05:  machst, das stimmt?
+00:20:12 - 00:20:14 - Sprecher SPEAKER_05:  Ja, ich möchte, ich möchte doch.
+00:20:14 - 00:20:16 - Sprecher SPEAKER_08:  Es ist so ein Hin und Her.
+00:20:16 - 00:20:18 - Sprecher SPEAKER_08:  Ich probiere davon wegzukommen und dann komme ich wieder rein.
+00:20:18 - 00:20:20 - Sprecher SPEAKER_08:  Es ist wie so eine Suche.
+00:20:20 - 00:20:20 - Sprecher SPEAKER_08:  Es ist so ein Wurfsmann.
+00:20:20 - 00:20:21 - Sprecher SPEAKER_08:  Und wie ist es gerade?
+00:20:21 - 00:20:22 - Sprecher SPEAKER_05:  Bist du gerade im Geschäft?
+00:20:23 - 00:20:24 - Sprecher SPEAKER_08:  Jetzt gerade nicht.
+00:20:24 - 00:20:27 - Sprecher SPEAKER_08:  Nö, also jetzt aktuell verkaufe ich euch keine Drogen.
+00:20:29 - 00:20:33 - Sprecher SPEAKER_06:  Obwohl Wagner bestimmt nicht Lüx Lügenkurs besucht hatte, kannte er die Lektion ausgesprochen
+00:20:33 - 00:20:34 - Sprecher SPEAKER_06:  gut.
+00:20:34 - 00:20:36 - Sprecher SPEAKER_06:  Damals habe ich das aber alles noch nicht erkannt.
+00:20:36 - 00:20:40 - Sprecher SPEAKER_06:  Stattdessen habe ich lieber seinen Worten getraut, weil ich doch an unsere Freundschaft geglaubt
+00:20:40 - 00:20:40 - Sprecher SPEAKER_06:  habe.
+00:20:41 - 00:20:45 - Sprecher SPEAKER_06:  Okay, und jetzt kommt eigentlich mein Part, der Part, den ich vielleicht nicht so richtig
+00:20:45 - 00:20:47 - Sprecher SPEAKER_06:  ausgeschmückt habe in letzter Zeit, Wagner.
+00:20:47 - 00:20:50 - Sprecher SPEAKER_06:  Einfach, weil du zu mir ursprünglich gesagt hast, dass du nicht so richtig ausgeschmückt
+00:20:50 - 00:20:50 - Sprecher SPEAKER_06: 
+00:20:50 - 00:20:53 - Sprecher SPEAKER_06:  bist, dass du dich fern aus diesem ganzen Drogengeschäft halten willst und mir eben
+00:20:53 - 00:20:57 - Sprecher SPEAKER_06:  auch gesagt hast, dass, naja, deine kriminellen Machenschaften in der Vergangenheit liegen,
+00:20:57 - 00:20:58 - Sprecher SPEAKER_06:  wie du dich vielleicht erinnern kannst.
+00:20:59 - 00:21:04 - Sprecher SPEAKER_08:  Ach, du weißt doch, ich bin oft rückfällig und möchte das halt, ich schäme mich halt
+00:21:04 - 00:21:05 - Sprecher SPEAKER_08:  ein bisschen vor dir, weißt du.
+00:21:05 - 00:21:09 - Sprecher SPEAKER_08:  Ich will einfach, dass du wieder in Ruhe deine Polizeiarbeit machen kannst, die du am liebsten
+00:21:09 - 00:21:10 - Sprecher SPEAKER_08:  eigentlich machen willst, weißt du.
+00:21:10 - 00:21:10 - Sprecher SPEAKER_08:  Ja, scheiße.
+00:21:10 - 00:21:11 - Sprecher SPEAKER_08:  Und ich halte dich ja nur auf.
+00:21:12 - 00:21:15 - Sprecher SPEAKER_08:  Oh Mann, Wagner, jetzt mach es mir nicht noch schwerer, als es eh schon ist.
+00:21:16 - 00:21:20 - Sprecher SPEAKER_06:  Mann, Wagner, ich habe einfach gedacht, mit jeder Information, die man weiß, macht man
+00:21:20 - 00:21:20 - Sprecher SPEAKER_06:  sich mehr in Gefahr.
+00:21:20 - 00:21:23 - Sprecher SPEAKER_06:  Das habe ich doch von dir gelernt damals auf unserem Parkdeck.
+00:21:23 - 00:21:26 - Sprecher SPEAKER_06:  Du hast gesagt, umso mehr du weißt, umso mehr bist du in Gefahr.
+00:21:29 - 00:21:30 - Sprecher SPEAKER_05:  Und das wollte ich dir heute auch sagen, Wagner.
+00:21:30 - 00:21:32 - Sprecher SPEAKER_05:  Ich will nur beschützen, was mir wichtig ist.
+00:21:32 - 00:21:35 - Sprecher SPEAKER_05:  Und je mehr man weiß, desto mehr Gefahr.
+00:21:36 - 00:21:40 - Sprecher SPEAKER_05:  Und darum hat sie auch Oxa eingepackt, weil Oxa habe ich alles erzählt gehabt.
+00:21:40 - 00:21:41 - Sprecher SPEAKER_06:  Ich habe das gesagt.
+00:21:42 - 00:21:44 - Sprecher SPEAKER_08:  Macht euch keine Sorgen drum.
+00:21:44 - 00:21:44 - Sprecher SPEAKER_08:  Ich kümmere mich darum.
+00:21:44 - 00:21:45 - Sprecher SPEAKER_08:  Gar kein Problem.
+00:21:45 - 00:21:47 - Sprecher SPEAKER_08:  Gib mir zwei, drei Tage.
+00:21:47 - 00:21:47 - Sprecher SPEAKER_08:  Ich will das nicht sagen, Wagner.
+00:21:47 - 00:21:48 - Sprecher SPEAKER_06:  Wir wollen das nicht sagen, Wagner.
+00:21:49 - 00:21:49 - Sprecher SPEAKER_06:  Ich möchte das nicht.
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06:  Also, was hast du jetzt gesagt?
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06:  Oh Mann, dass macht mich nicht gut.
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06: 
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06: 
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06: 
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06: 
+00:21:50 - 00:21:50 - Sprecher SPEAKER_06: 
+00:21:50 - 00:21:52 - Sprecher SPEAKER_06:  Lass uns einfach unser Ding machen.
+00:21:52 - 00:21:54 - Sprecher SPEAKER_06:  Wir machen das jetzt einfach, wir ziehen das durch.
+00:21:54 - 00:21:57 - Sprecher SPEAKER_06:  Wir haben schon genug verkauft von dem Zeug, was die uns gegeben haben.
+00:21:58 - 00:21:59 - Sprecher SPEAKER_06:  Ich bin jetzt auch da mit drin, Mann.
+00:21:59 - 00:22:01 - Sprecher SPEAKER_05:  Ich mache die Scheiße jetzt auch mit.
+00:22:01 - 00:22:04 - Sprecher SPEAKER_05:  Schafano hat gesagt, für mich gibt es kein Zurück, Joe.
+00:22:04 - 00:22:08 - Sprecher SPEAKER_05:  Und dann gibt Fritz dem jetzt immer so Zeug und dann verticke ich das.
+00:22:08 - 00:22:09 - Sprecher SPEAKER_05:  Wir haben Hälfte der Hälfte gemacht.
+00:22:10 - 00:22:14 - Sprecher SPEAKER_05:  Ich möchte nicht, dass du da – ich möchte nicht, dass die dich auf dem Schirm kriegen,
+00:22:14 - 00:22:14 - Sprecher SPEAKER_05:  Mann.
+00:22:15 - 00:22:17 - Sprecher SPEAKER_08:  Ach, so schnell kickt mich doch keiner zurück.
+00:22:18 - 00:22:19 - Sprecher SPEAKER_06:  Ja, aber ohne Scheiß,
+00:22:19 - 00:22:22 - Sprecher SPEAKER_06:  wenn die dich auf den Schirm haben wegen uns,
+00:22:22 - 00:22:23 - Sprecher SPEAKER_06:  ich hab gestern schon gedacht,
+00:22:23 - 00:22:25 - Sprecher SPEAKER_06:  ich bin die blödste Person auf der Welt,
+00:22:25 - 00:22:27 - Sprecher SPEAKER_06:  weil wegen mir ist Ochse da erst hingeraten.
+00:22:27 - 00:22:30 - Sprecher SPEAKER_06:  Weil Ochse der Einzige war, dem ich alles erzählt habe.
+00:22:32 - 00:22:33 - Sprecher SPEAKER_06:  Jetzt bist du auch da drin.
+00:22:34 - 00:22:36 - Sprecher SPEAKER_06:  Ja, wenn du deine Nase reinsteckst, noch mehr.
+00:22:36 - 00:22:38 - Sprecher SPEAKER_06:  Aber es gibt ja jetzt keinen Grund mehr.
+00:22:38 - 00:22:39 - Sprecher SPEAKER_06:  Es ist alles gut, Mann.
+00:22:39 - 00:22:41 - Sprecher SPEAKER_06:  Ich muss immer wieder, immer wieder kommen.
+00:22:42 - 00:22:43 - Sprecher SPEAKER_06:  Ochse, wir waren gestern schon entspannt.
+00:22:43 - 00:22:45 - Sprecher SPEAKER_06:  Wir haben uns gestern frei gemacht von der Sorge.
+00:22:46 - 00:22:47 - Sprecher SPEAKER_06:  Das passt jetzt alles so, oder?
+00:22:48 - 00:22:50 - Sprecher SPEAKER_06:  Ja, klar, frei und entspannt.
+00:22:50 - 00:22:51 - Sprecher SPEAKER_06:  Ich bin tiefenentspannt.
+00:22:53 - 00:22:57 - Sprecher SPEAKER_06:  Die einzige Lüge, die ich vor meinen Freunden aufrechterhalten wollte,
+00:22:57 - 00:22:59 - Sprecher SPEAKER_06:  war die Zusammenarbeit mit der DTU.
+00:22:59 - 00:23:00 - Sprecher SPEAKER_06:  Ich war mir sicher,
+00:23:01 - 00:23:03 - Sprecher SPEAKER_06:  dass sonst ich und auch andere Menschen draufgehen würden.
+00:23:04 - 00:23:07 - Sprecher SPEAKER_06:  Das ist doch dann ein guter Grund zum Lügen, oder nicht?
+00:23:07 - 00:23:08 - Sprecher SPEAKER_06:  Ich bin mir sicher,
+00:23:08 - 00:23:11 - Sprecher SPEAKER_06:  dass andere weitaus schlechtere Gründe hatten.
+00:23:12 - 00:23:13 - Sprecher SPEAKER_08:  Was ist gestern passiert?
+00:23:13 - 00:23:13 - Sprecher SPEAKER_08:  Verdammt!
+00:23:13 - 00:23:15 - Sprecher SPEAKER_08:  Wir haben heute über eine Gruppe...
+00:23:17 - 00:23:17 - Unbekannt: 
+00:23:17 - 00:23:19 - Sprecher SPEAKER_06:  Das ist eine wirklich lange Geschichte, Wolle.
+00:23:19 - 00:23:20 - Sprecher SPEAKER_06:  Ich weiß nicht.
+00:23:20 - 00:23:22 - Sprecher SPEAKER_06:  Ich hab's Wagner abends erzählt und...
+00:23:22 - 00:23:24 - Sprecher SPEAKER_06:  Ach, keine Ahnung.
+00:23:24 - 00:23:24 - Sprecher SPEAKER_06:  Es war...
+00:23:25 - 00:23:26 - Sprecher SPEAKER_06:  Ich weiß nicht, wie tief du da drin bist.
+00:23:26 - 00:23:27 - Sprecher SPEAKER_06:  Darum kann...
+00:23:27 - 00:23:30 - Sprecher SPEAKER_06:  Also, was so kriminelle Sachen angeht und sowas.
+00:23:30 - 00:23:31 - Sprecher SPEAKER_06:  Darum weiß ich nicht, ob wir was...
+00:23:31 - 00:23:33 - Sprecher SPEAKER_06:  Weil ich sag mit Kriminalität nichts am Hut.
+00:23:34 - 00:23:38 - Sprecher SPEAKER_06:  Darum habe ich versucht, bei wenigstens allem anderen ehrlich zu sein.
+00:23:38 - 00:23:40 - Sprecher SPEAKER_06:  Wie würde ich dir trotzdem sagen?
+00:23:40 - 00:23:42 - Sprecher SPEAKER_06:  Ich hab gestern am Telefon...
+00:23:42 - 00:23:42 - Sprecher SPEAKER_06:  Ich hab...
+00:23:43 - 00:23:43 - Sprecher SPEAKER_06:  Ich hab gesagt...
+00:23:43 - 00:23:45 - Sprecher SPEAKER_06:  Also, weil ich es Wagner gesagt habe, kann ich es dir auch sagen.
+00:23:45 - 00:23:48 - Sprecher SPEAKER_06:  Ich hab gesagt, dass es eine Verwechslung war und sowas.
+00:23:48 - 00:23:50 - Sprecher SPEAKER_06:  Und dass die eigentlich jemand anderen gesucht haben als mich.
+00:23:50 - 00:23:51 - Sprecher SPEAKER_06:  Und so, na?
+00:23:52 - 00:23:52 - Sprecher SPEAKER_06:  Und...
+00:23:52 - 00:23:52 - Sprecher SPEAKER_06:  Ja.
+00:23:52 - 00:23:53 - Sprecher SPEAKER_06:  Das stimmt nicht, Mann.
+00:23:53 - 00:23:54 - Sprecher SPEAKER_06:  Die wollten schon zu mir, aber...
+00:23:55 - 00:23:57 - Sprecher SPEAKER_06:  Aber es ist alles geklärt, Ashley.
+00:23:57 - 00:23:59 - Sprecher SPEAKER_06:  Das ist alles, was ich dir sagen muss dazu.
+00:23:59 - 00:24:01 - Sprecher SPEAKER_06:  Das ist besser, wenn ich gar nicht so viel sag dazu.
+00:24:01 - 00:24:03 - Sprecher SPEAKER_06:  Aber nur, dass du weißt, dass...
+00:24:03 - 00:24:05 - Sprecher SPEAKER_06:  Ich wollte dich da nicht anlügen in dem Moment.
+00:24:05 - 00:24:07 - Sprecher SPEAKER_06:  Ich war nur komplett überfordert, weil ich Todesangst hatte.
+00:24:08 - 00:24:09 - Sprecher SPEAKER_06:  Die haben mir übelst Angst gemacht.
+00:24:09 - 00:24:09 - Sprecher SPEAKER_06:  Ja, ist verständlich.
+00:24:09 - 00:24:12 - Sprecher SPEAKER_06:  Und ich dachte, ich darf niemandem irgendwas sagen.
+00:24:12 - 00:24:13 - Sprecher SPEAKER_06:  Verstehst du?
+00:24:14 - 00:24:16 - Sprecher SPEAKER_03:  Ja, ich verstehe das voll und ganz.
+00:24:17 - 00:24:18 - Sprecher SPEAKER_03:  Mach dir keine Sorgen.
+00:24:18 - 00:24:21 - Sprecher SPEAKER_03:  Ich bin nicht sauer, dass du mich angelogen hast oder sonst irgendwas.
+00:24:21 - 00:24:21 - Sprecher SPEAKER_03:  Okay?
+00:24:22 - 00:24:22 - Sprecher SPEAKER_03:  Ja, ich...
+00:24:22 - 00:24:23 - Sprecher SPEAKER_03:  Okay.
+00:24:24 - 00:24:27 - Sprecher SPEAKER_06:  Die Dimension des Lügennetzes, in dem ich gefangen war,
+00:24:28 - 00:24:30 - Sprecher SPEAKER_06:  hab ich damals nicht ansatzweise erahnt.
+00:24:33 - 00:24:36 - Sprecher SPEAKER_06:  Aber wie es weitergeht, erfährst du erst im nächsten Brief.
+00:24:37 - 00:24:38 - Sprecher SPEAKER_06:  HDL Fritzi
+00:24:49 - 00:24:51 - Unbekannt:  Die Dimension des Lügennetzes

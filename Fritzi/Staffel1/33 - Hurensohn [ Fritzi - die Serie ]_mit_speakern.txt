@@ -1,0 +1,426 @@
+Transkription Staffel 1 mit Sprechererkennung von 33 - Hurensohn [ Fritzi - die Serie ].wav:
+00:00:21 - 00:00:22 - Sprecher SPEAKER_06:  Sweetness
+00:00:38 - 00:00:39 - Sprecher SPEAKER_06:  Nächste Woche
+00:00:55 - 00:00:58 - Unbekannt:  Nächste Woche
+00:01:27 - 00:01:29 - Sprecher SPEAKER_05:  Nächste Woche
+00:01:55 - 00:01:57 - Sprecher SPEAKER_05:  Nächste Woche
+00:02:25 - 00:02:27 - Sprecher SPEAKER_05:  Nächste Woche
+00:02:54 - 00:02:57 - Sprecher SPEAKER_08:  Nächste Woche
+00:03:23 - 00:03:24 - Sprecher SPEAKER_05:  Nächste Woche
+00:03:27 - 00:03:29 - Sprecher SPEAKER_05:  Nächste Woche
+00:03:29 - 00:03:32 - Sprecher SPEAKER_08:  Nächste Woche
+00:03:32 - 00:03:34 - Sprecher SPEAKER_08:  Nächste Woche
+00:03:41 - 00:03:44 - Sprecher SPEAKER_05:  Nächste Woche
+00:03:51 - 00:03:54 - Sprecher SPEAKER_05:  Nächste Woche
+00:03:54 - 00:03:57 - Sprecher SPEAKER_02:  Ich denke, H.P. Huso ist ein fucking Niemand, den keiner kennt.
+00:03:57 - 00:03:58 - Sprecher SPEAKER_02:  Absolut.
+00:03:58 - 00:03:59 - Sprecher SPEAKER_02:  Den niemand interessiert.
+00:03:59 - 00:04:02 - Sprecher SPEAKER_02:  Der hat nicht mal wirklich Akten, der kann überhaupt nichts.
+00:04:02 - 00:04:04 - Sprecher SPEAKER_05:  Ja, Mr. Rocket.
+00:04:04 - 00:04:06 - Sprecher SPEAKER_05:  Heute erzähle ich dir von Hans-Peter Becker.
+00:04:07 - 00:04:10 - Sprecher SPEAKER_05:  Oder wie ich ihn nannte, H.P. Huso.
+00:04:10 - 00:04:12 - Sprecher SPEAKER_05:  Weil er ein Hurensohn war.
+00:04:51 - 00:04:54 - Unbekannt:  H.P. Huso
+00:05:21 - 00:05:24 - Unbekannt:  H.P. Huso
+00:05:51 - 00:05:54 - Unbekannt:  H.P. Huso
+00:06:01 - 00:06:03 - Sprecher SPEAKER_05:  Mr. Rocket, ich bin ganz ehrlich.
+00:06:03 - 00:06:05 - Sprecher SPEAKER_05:  Ich bin froh, dass dieses Kapitel endgültig vorbei ist.
+00:06:05 - 00:06:07 - Sprecher SPEAKER_05:  Und deswegen will ich mich auch kurz halten.
+00:06:08 - 00:06:11 - Sprecher SPEAKER_05:  Auch, weil das alles eh nicht wirklich so viel Sinn gemacht hat.
+00:06:11 - 00:06:13 - Sprecher SPEAKER_05:  Aber das wirst du schon selber merken.
+00:06:13 - 00:06:18 - Sprecher SPEAKER_05:  Alles begann damit, dass H.P. Huso irgendein Problem mit Richman hatte.
+00:06:19 - 00:06:19 - Sprecher SPEAKER_08:  Hallo, guten Tag.
+00:06:19 - 00:06:21 - Sprecher SPEAKER_08:  Die Tagsiebe ist auch nicht so meine erste Wahl.
+00:06:21 - 00:06:22 - Sprecher SPEAKER_08:  Warum denn nicht?
+00:06:23 - 00:06:24 - Sprecher SPEAKER_05:  Ist so kriminell.
+00:06:24 - 00:06:26 - Sprecher SPEAKER_05:  Was? Ist doch nicht kriminell. Ist nur halb so kriminell.
+00:06:27 - 00:06:27 - Sprecher SPEAKER_05:  Seit wann?
+00:06:27 - 00:06:29 - Sprecher SPEAKER_08:  Seit ich da arbeite.
+00:06:29 - 00:06:31 - Sprecher SPEAKER_05:  Ist der Richman da noch?
+00:06:31 - 00:06:33 - Sprecher SPEAKER_05:  Ja, Richie-Boy ist noch da.
+00:06:33 - 00:06:35 - Sprecher SPEAKER_08:  Dann solltet ihr den vielleicht erstmal loswerden.
+00:06:36 - 00:06:39 - Sprecher SPEAKER_05:  Nein, Richie-Boy, den genese ich irgendwann.
+00:06:40 - 00:06:42 - Sprecher SPEAKER_05:  Weißt du, der macht ein bisschen schlimme Sachen.
+00:06:42 - 00:06:46 - Sprecher SPEAKER_05:  Der hat, glaube ich, irgendwie ein Problem in seinem Herzen drin, das noch nicht so ganz geheilt ist.
+00:06:46 - 00:06:52 - Sprecher SPEAKER_05:  Und ich glaube, wenn man sich nur stark genug damit beschäftigt, dass man ihn irgendwie wieder ein bisschen, weiß ich nicht, so wie umpeppeln muss.
+00:06:53 - 00:06:53 - Sprecher SPEAKER_05:  Verstehst du?
+00:06:53 - 00:06:55 - Sprecher SPEAKER_05:  Wie zum Beispiel, wenn man ein kleines Katzenbaby gefunden hat.
+00:06:55 - 00:06:58 - Sprecher SPEAKER_05:  Und es hat ganz viele Zecken um die Augen rum.
+00:06:58 - 00:07:00 - Sprecher SPEAKER_05:  Und manchmal hat es auch ein paar kleine Stellen am Körper.
+00:07:00 - 00:07:01 - Sprecher SPEAKER_05:  Da muss man es doch nehmen.
+00:07:01 - 00:07:03 - Sprecher SPEAKER_05:  Und dann muss man es mit nach Hause nehmen.
+00:07:03 - 00:07:03 - Sprecher SPEAKER_05:  Dann muss man es füttern.
+00:07:03 - 00:07:04 - Sprecher SPEAKER_05:  Dann muss man es trocken machen.
+00:07:05 - 00:07:06 - Sprecher SPEAKER_05:  Dann muss man ihm vielleicht auch ein bisschen Medizin geben.
+00:07:06 - 00:07:09 - Sprecher SPEAKER_05:  Also sagst du eigentlich, dass ich den zunächst mal tätscheln soll?
+00:07:10 - 00:07:12 - Sprecher SPEAKER_05:  Ja, einfach auch mal lieb sein.
+00:07:12 - 00:07:15 - Sprecher SPEAKER_05:  Und dann, glaube ich, kann auch das Innere, was da kaputt gegangen ist, heilen.
+00:07:15 - 00:07:19 - Sprecher SPEAKER_05:  Und dann wird auch Richman irgendwann nicht mehr ganz so kriminell sein vielleicht.
+00:07:20 - 00:07:22 - Sprecher SPEAKER_08:  Dann hat noch mein Freund den Schluss gemacht, jetzt hock ich hier.
+00:07:23 - 00:07:25 - Sprecher SPEAKER_05:  Deine Freundin hat Schluss mit dir gemacht?
+00:07:25 - 00:07:26 - Sprecher SPEAKER_08:  Ja.
+00:07:26 - 00:07:27 - Sprecher SPEAKER_08:  Warum das denn?
+00:07:27 - 00:07:28 - Sprecher SPEAKER_05:  Weil ich so lange weg war.
+00:07:28 - 00:07:30 - Sprecher SPEAKER_08:  Weil ich so lange nach dem gesucht habe.
+00:07:31 - 00:07:33 - Sprecher SPEAKER_08:  Ich habe dir erzählt, ich bin auf dem Lehrgang.
+00:07:33 - 00:07:34 - Sprecher SPEAKER_08:  Aber das hat die nicht geglaubt.
+00:07:34 - 00:07:35 - Sprecher SPEAKER_05:  Lügen darf man nicht machen.
+00:07:36 - 00:07:37 - Sprecher SPEAKER_08:  Lügen darf man wirklich nicht machen.
+00:07:37 - 00:07:39 - Sprecher SPEAKER_05:  Ja, aber das ist Karma.
+00:07:39 - 00:07:42 - Sprecher SPEAKER_05:  Weißt du, das verstehst du vielleicht dann auch jetzt im Nachhinein,
+00:07:42 - 00:07:45 - Sprecher SPEAKER_05:  dass es wahrscheinlich das direkte Karma war, was dich jetzt erheilt hat.
+00:07:46 - 00:07:48 - Sprecher SPEAKER_05:  Aber er hatte noch ganz viele andere Probleme.
+00:07:49 - 00:07:51 - Sprecher SPEAKER_05:  Nichts von dem, was er gemacht hat, hat irgendwie Sinn ergeben.
+00:07:51 - 00:07:53 - Sprecher SPEAKER_05:  Denn er ließ sich schließlich doch befreien.
+00:07:53 - 00:07:54 - Sprecher SPEAKER_05:  Er wollte sich bei Quickie anstellen,
+00:07:54 - 00:07:57 - Sprecher SPEAKER_05:  nur um am selben Tag von Richman wieder gefeuert zu werden.
+00:07:58 - 00:08:00 - Sprecher SPEAKER_05:  Hallo, hier ist Pizzi.
+00:08:00 - 00:08:02 - Sprecher SPEAKER_03:  Hier ist Hans-Peter.
+00:08:02 - 00:08:03 - Sprecher SPEAKER_05:  Alter, ich wusste gar nicht, dass du da letztens bist.
+00:08:03 - 00:08:03 - Sprecher SPEAKER_05:  Hans-Peter?
+00:08:04 - 00:08:06 - Sprecher SPEAKER_05:  Ist das jetzt was Gutes?
+00:08:06 - 00:08:06 - Sprecher SPEAKER_05:  Was willst du?
+00:08:08 - 00:08:08 - Sprecher SPEAKER_05:  Das ist ja gut.
+00:08:09 - 00:08:11 - Sprecher SPEAKER_03:  Der Kuh kann ich zu meinem Vorzeigen nutzen.
+00:08:12 - 00:08:13 - Sprecher SPEAKER_03:  Ähm, weiß ich nicht.
+00:08:13 - 00:08:15 - Sprecher SPEAKER_05:  Kann ich dir nicht sagen.
+00:08:15 - 00:08:17 - Sprecher SPEAKER_05:  Musst du Stefano fragen wahrscheinlich.
+00:08:18 - 00:08:20 - Sprecher SPEAKER_05:  Ich habe nichts mitgekriegt.
+00:08:20 - 00:08:21 - Sprecher SPEAKER_05:  Hat er dir einfach gekündigt oder was?
+00:08:22 - 00:08:24 - Sprecher SPEAKER_05:  Also ich weiß nicht, hat er dich einfach gekündigt oder was?
+00:08:24 - 00:08:25 - Sprecher SPEAKER_05:  Nee, soll ich reingehen?
+00:08:25 - 00:08:26 - Sprecher SPEAKER_03:  Ja.
+00:08:26 - 00:08:28 - Sprecher SPEAKER_07:  Okay, das tut mir leid.
+00:08:28 - 00:08:29 - Sprecher SPEAKER_07:  Vielleicht war das ja ein Versehen oder so.
+00:08:29 - 00:08:31 - Sprecher SPEAKER_07:  Hoxe schrift dich mal an, ne?
+00:08:31 - 00:08:33 - Sprecher SPEAKER_07:  Dann werde ich ihn ganz versehen gucken, wo er zusammenkommt.
+00:08:33 - 00:08:34 - Sprecher SPEAKER_07:  Dann muss ich ganz schön Geld von ihm holen.
+00:08:35 - 00:08:37 - Sprecher SPEAKER_05:  Okay, alles klar, Hans-Peter.
+00:08:37 - 00:08:38 - Sprecher SPEAKER_05:  Ist das eine Drohung oder was?
+00:08:39 - 00:08:40 - Sprecher SPEAKER_05:  Nein.
+00:08:40 - 00:08:41 - Sprecher SPEAKER_05:  Was hast du gerade gesagt?
+00:08:42 - 00:08:42 - Sprecher SPEAKER_05:  Das ist Rache.
+00:08:42 - 00:08:43 - Sprecher SPEAKER_05:  Rache? Nee, Rache.
+00:08:44 - 00:08:46 - Sprecher SPEAKER_05:  Also Rache an Stefano ist illegal.
+00:08:47 - 00:08:48 - Sprecher SPEAKER_05:  Also an allen anderen...
+00:08:48 - 00:08:49 - Sprecher SPEAKER_05:  Hast du gesagt, Rache ist okay?
+00:08:49 - 00:08:50 - Sprecher SPEAKER_05:  Nee, bei allen anderen darfst du Rache nehmen.
+00:08:50 - 00:08:53 - Sprecher SPEAKER_05:  Aber niemals bei Stefano oder irgendwem von meinen Freunden.
+00:08:56 - 00:08:57 - Sprecher SPEAKER_05:  Nur an Stefano.
+00:08:57 - 00:09:00 - Sprecher SPEAKER_08:  Hans-Peter, das ist nur ein Job. Keine Ahnung.
+00:09:00 - 00:09:01 - Sprecher SPEAKER_05:  Vielleicht hat er das aus Versehen gemacht.
+00:09:01 - 00:09:02 - Sprecher SPEAKER_05:  Das ist voll viel Geld. Ich habe kein Geld.
+00:09:03 - 00:09:05 - Sprecher SPEAKER_05:  Frag doch mal Richman. Vielleicht hat dich Richman...
+00:09:05 - 00:09:07 - Sprecher SPEAKER_05:  Vielleicht hat dich Richman ja einfach gekündigt.
+00:09:08 - 00:09:09 - Sprecher SPEAKER_05:  Der kündigt ganz oft, Leute. Frag doch den mal.
+00:09:09 - 00:09:10 - Sprecher SPEAKER_05:  Du hast doch gesagt Stefano.
+00:09:10 - 00:09:12 - Sprecher SPEAKER_05:  Nein, ich habe gesagt, ich weiß nicht.
+00:09:12 - 00:09:14 - Sprecher SPEAKER_05:  Vielleicht war Stefano aus Versehen.
+00:09:14 - 00:09:16 - Sprecher SPEAKER_05:  Das war eine Vermutung. Das ist keine Aussage.
+00:09:16 - 00:09:18 - Sprecher SPEAKER_05:  Es ist nur eine Vermutung. Verstehst du?
+00:09:21 - 00:09:23 - Sprecher SPEAKER_08:  Du musst der Vermutung nachgehen.
+00:09:23 - 00:09:26 - Sprecher SPEAKER_05:  Ja, geh der Vermutung nach. Und alles Gute für dich.
+00:09:26 - 00:09:30 - Sprecher SPEAKER_05:  Schön, dass du bei uns gearbeitet hast heute. Das war toll. Tschüss.
+00:09:30 - 00:09:31 - Sprecher SPEAKER_05:  Ja, war voll toll.
+00:09:31 - 00:09:35 - Sprecher SPEAKER_05:  Und das hat irgendeine Sicherung bei ihm durchbrennen lassen.
+00:09:36 - 00:09:38 - Sprecher SPEAKER_05:  Anders kann ich mir das sonst gar nicht erklären.
+00:09:39 - 00:09:40 - Sprecher SPEAKER_08:  Kannst du mich wohin fahren?
+00:09:45 - 00:09:46 - Sprecher SPEAKER_05:  Na klar, komm mit.
+00:09:49 - 00:09:50 - Sprecher SPEAKER_08:  Hey.
+00:09:54 - 00:09:55 - Sprecher SPEAKER_05:  Wohin musst du denn?
+00:09:56 - 00:09:57 - Sprecher SPEAKER_05:  Zu meinem Boot.
+00:09:57 - 00:09:58 - Sprecher SPEAKER_05:  Zu deinem Boot?
+00:10:03 - 00:10:05 - Sprecher SPEAKER_05:  So, was musst du denn da machen bei deinem Boot?
+00:10:05 - 00:10:07 - Sprecher SPEAKER_05:  Was machst du mit deinem Boot? Ist das eine Yacht oder was?
+00:10:07 - 00:10:08 - Sprecher SPEAKER_05:  Was ist das?
+00:10:08 - 00:10:09 - Sprecher SPEAKER_05:  Das ist ein Schlauchboot.
+00:10:09 - 00:10:11 - Sprecher SPEAKER_05:  Ein Schlauchboot. Und was machst du mit so einem Schlauchboot?
+00:10:12 - 00:10:15 - Sprecher SPEAKER_08:  Ich wollte damit eine Runde durch die Gegend fahren.
+00:10:15 - 00:10:17 - Sprecher SPEAKER_08:  Okay, cool, cool. Kann man natürlich machen, ja.
+00:10:18 - 00:10:22 - Sprecher SPEAKER_05:  Naja, und dann hat H.P. Hu so was gesagt, was mich echt sauer gemacht hat.
+00:10:22 - 00:10:25 - Sprecher SPEAKER_05:  Ich mag's nämlich nicht, wenn jemand schlecht über meine Arbeitskollegen redet.
+00:10:27 - 00:10:28 - Sprecher SPEAKER_08:  Ich mag den richtig mal nicht.
+00:10:40 - 00:10:40 - Sprecher SPEAKER_08:  Ja?
+00:10:40 - 00:11:10 - Sprecher SPEAKER_08: 
+00:11:10 - 00:11:16 - Sprecher SPEAKER_05:  Und dann würde ich zum Beispiel meine Freunde fragen, ob die dich hier hochfahren könnten.
+00:11:17 - 00:11:22 - Sprecher SPEAKER_05:  Und dann würdest du hier auch dazu kommen. Und dann könntest du hier unten bisschen auf der Straße rumrennen.
+00:11:22 - 00:11:25 - Sprecher SPEAKER_05:  Und naja, ich würde auf dem Jägerstand sitzen.
+00:11:26 - 00:11:28 - Sprecher SPEAKER_08:  Das klingt auf jeden Fall lustig.
+00:11:28 - 00:11:30 - Sprecher SPEAKER_08:  Ich finde auch, dass es witzig sich anhört.
+00:11:30 - 00:11:34 - Sprecher SPEAKER_05:  Das kann man sich vielleicht mal überlegen, ob man so was vielleicht irgendwann mal an einem Wochenende oder so was macht.
+00:11:34 - 00:11:36 - Sprecher SPEAKER_08:  Aber warum willst du mit Bobby auf Leute schießen vom Jägerstand?
+00:11:37 - 00:11:39 - Sprecher SPEAKER_05:  Ich hab doch nie was von schießen geredet.
+00:11:40 - 00:11:42 - Sprecher SPEAKER_05:  Wieso soll ich denn auf irgendwen schießen?
+00:11:44 - 00:11:45 - Sprecher SPEAKER_08:  Wie nennt man das sonst?
+00:11:47 - 00:11:51 - Sprecher SPEAKER_05:  Was denn? Muss man was von einem Jägerstand runter machen?
+00:11:51 - 00:11:54 - Sprecher SPEAKER_05:  Ich dachte, man sitzt da einfach nur drauf und guckt und beobachtet.
+00:11:55 - 00:11:57 - Sprecher SPEAKER_05:  Vielleicht ab und zu durch ein Fernrohr gucken.
+00:11:58 - 00:12:00 - Sprecher SPEAKER_08:  Wer schießt von da auf Rehe?
+00:12:00 - 00:12:03 - Sprecher SPEAKER_05:  Naja, ich wollte gerade sagen, da müsstest du ja keine Angst haben.
+00:12:03 - 00:12:06 - Sprecher SPEAKER_05:  Aber wenn man dich im Zweifelsfall mit einem Reh verwechseln könnte, dann wäre es natürlich problematisch.
+00:12:08 - 00:12:08 - Sprecher SPEAKER_06:  Mhm.
+00:12:10 - 00:12:12 - Sprecher SPEAKER_05:  Naja, aber dieses Wochenende ist ja schon fast rum.
+00:12:12 - 00:12:15 - Sprecher SPEAKER_05:  Morgen ist wieder Montag, da müssen wir wieder alle richtig arbeiten oder so was.
+00:12:15 - 00:12:18 - Sprecher SPEAKER_05:  Keine Ahnung, ich arbeite eigentlich jeden Tag, darum ist es kein Unterschied für mich.
+00:12:18 - 00:12:20 - Sprecher SPEAKER_05:  Aber Taxifahren ist fast gar keine Arbeit mehr für mich.
+00:12:20 - 00:12:23 - Sprecher SPEAKER_05:  Außer wenn ich so lange Fahrten machen muss, wie jetzt mit dir gerade.
+00:12:25 - 00:12:26 - Sprecher SPEAKER_08:  Das ist richtig scharf, ja.
+00:12:26 - 00:12:27 - Sprecher SPEAKER_08:  Musst du heute arbeiten?
+00:12:28 - 00:12:30 - Sprecher SPEAKER_08:  Nee, ich hab mich ja gekündigt.
+00:12:32 - 00:12:34 - Sprecher SPEAKER_05:  Du hast doch nie wirklich bei uns angestellt.
+00:12:35 - 00:12:36 - Sprecher SPEAKER_08:  Doch, der Richwin hat mich angestellt.
+00:12:36 - 00:12:39 - Sprecher SPEAKER_08:  Für wie lange denn? Für einen Tag.
+00:12:39 - 00:12:41 - Sprecher SPEAKER_08:  Und ich hab richtig viel Geld verdient in der Zeit.
+00:12:42 - 00:12:44 - Sprecher SPEAKER_05:  Wie, wieso du hast richtig viel Geld verdient?
+00:12:45 - 00:12:48 - Sprecher SPEAKER_08:  Ich hab bestimmt 5 Kunden durch die Gegend gefahren.
+00:12:49 - 00:12:49 - Sprecher SPEAKER_05:  Echt, ja?
+00:12:50 - 00:12:52 - Sprecher SPEAKER_08:  Ich hab über 1000 Dollar Trinkgeld gekriegt.
+00:12:52 - 00:12:53 - Sprecher SPEAKER_08:  Haben die alle Bar gezahlt?
+00:12:55 - 00:12:56 - Sprecher SPEAKER_08:  Ja, also, ja.
+00:12:57 - 00:13:04 - Sprecher SPEAKER_05:  Naja, das heißt also, du hast Stefano dir das Geld gar nicht gegeben, was du da verdient hast an dem Tag.
+00:13:05 - 00:13:06 - Sprecher SPEAKER_05:  Weil du es ja bar eingenommen hast.
+00:13:06 - 00:13:06 - Sprecher SPEAKER_05: 
+00:13:06 - 00:13:07 - Sprecher SPEAKER_05:  Das glaub ich nicht.
+00:13:07 - 00:13:11 - Sprecher SPEAKER_05:  Nee, wenn die mir Bargeld geben, da hab ich mir immer selbst meine Karte da auf das Lesegerät gelegt.
+00:13:12 - 00:13:14 - Sprecher SPEAKER_05:  Hast dir selber Rechnungen ausgestellt direkt?
+00:13:14 - 00:13:15 - Sprecher SPEAKER_08:  Natürlich.
+00:13:15 - 00:13:16 - Sprecher SPEAKER_08:  Ah, okay, scheiße, du bist echt schlau.
+00:13:21 - 00:13:22 - Sprecher SPEAKER_05:  So, wir sind da.
+00:13:24 - 00:13:24 - Sprecher SPEAKER_05:  Supi, dankeschön.
+00:13:25 - 00:13:27 - Sprecher SPEAKER_05:  Okay, dann krieg ich von dir 200 Dollar.
+00:13:31 - 00:13:33 - Sprecher SPEAKER_05:  Dann krieg ich von dir 200 Dollar.
+00:13:35 - 00:13:36 - Sprecher SPEAKER_05:  Ja, dankeschön.
+00:13:36 - 00:13:38 - Sprecher SPEAKER_05:  Dann krieg ich von dir 200 Dollar.
+00:13:47 - 00:13:50 - Sprecher SPEAKER_05:  Scheiße, Mann. 200 Dollar krieg ich von dir.
+00:13:54 - 00:13:55 - Sprecher SPEAKER_05:  Nicht dein Ernst.
+00:13:56 - 00:13:56 - Sprecher SPEAKER_05:  Und du hebst die Hände.
+00:14:00 - 00:14:04 - Sprecher SPEAKER_05:  Was ist denn los mit dir? Was hab ich dir gemacht?
+00:14:04 - 00:14:05 - Sprecher SPEAKER_05:  Mitgehangen, mitgefangen heißt das.
+00:14:05 - 00:14:07 - Sprecher SPEAKER_05:  Wie? Mitgehangen, mitgefangen?
+00:14:08 - 00:14:08 - Sprecher SPEAKER_08:  Mitgehangen, mitgefangen.
+00:14:09 - 00:14:10 - Sprecher SPEAKER_08:  Was hab ich dir gemacht?
+00:14:11 - 00:14:13 - Sprecher SPEAKER_08:  Wie, was du gemacht hast?
+00:14:13 - 00:14:16 - Sprecher SPEAKER_05:  Ich hab dir doch überhaupt nichts getan. Ich hab dich hier übelst sicher hingefahren.
+00:14:17 - 00:14:17 - Sprecher SPEAKER_08:  Hm.
+00:14:22 - 00:14:23 - Sprecher SPEAKER_08:  Mitgehangen, mitgefangen heißt das.
+00:14:28 - 00:14:29 - Sprecher SPEAKER_08:  Zumindestens da, wo ich herkomm.
+00:14:32 - 00:14:33 - Sprecher SPEAKER_05:  Was willst du denn jetzt noch?
+00:14:35 - 00:14:36 - Sprecher SPEAKER_08:  Ist dein Auto an?
+00:14:43 - 00:14:46 - Sprecher SPEAKER_05:  Ich mach dich fertig, du Arschloch!
+00:14:46 - 00:14:48 - Sprecher SPEAKER_05:  Ich mach dich fertig, du Arschloch!
+00:14:50 - 00:14:53 - Sprecher SPEAKER_06:  Schlimmer als die Sache, die er mir geklaut hat, war dieser Spruch.
+00:14:55 - 00:14:56 - Sprecher SPEAKER_05:  Mitgehangen, mitgefangen.
+00:14:56 - 00:15:01 - Sprecher SPEAKER_05:  Das ist so ein Satz, Mr. Rocket, der sich ziemlich tief bei mir eingebrannt hat.
+00:15:02 - 00:15:04 - Sprecher SPEAKER_05:  Das wurde mir später nämlich noch öfter von Menschen gesagt.
+00:15:04 - 00:15:05 - Sprecher SPEAKER_05:  Das wurde mir später nämlich noch öfter von Menschen gesagt.
+00:15:05 - 00:15:07 - Sprecher SPEAKER_05:  Weil wir keine Ahnung hatten, was sie eigentlich taten.
+00:15:13 - 00:15:14 - Sprecher SPEAKER_03:  Oh ne...
+00:15:15 - 00:15:16 - Sprecher SPEAKER_03:  Ich...warte kurz...ich ruf mir kurz jemanden an.
+00:15:21 - 00:15:22 - Sprecher SPEAKER_08:  Ja, ja.
+00:15:25 - 00:15:26 - Sprecher SPEAKER_05:  Hallo.
+00:15:27 - 00:15:28 - Sprecher SPEAKER_05:  Ich bräuchte kurz ne Ausruf...
+00:15:28 - 00:15:30 - Sprecher SPEAKER_05:  Hey, ich hab Mr. Pierce eingesammelt, wir könnten da hin.
+00:15:31 - 00:15:34 - Sprecher SPEAKER_05:  Ähm... Uns...uns wurde ein Quickie-Taxi entwendet und...
+00:15:34 - 00:15:34 - Sprecher SPEAKER_05:  Ja?
+00:15:34 - 00:15:37 - Sprecher SPEAKER_05:  wurde auch überfallen und ein paar Sachen
+00:15:37 - 00:15:38 - Sprecher SPEAKER_05:  wurden mir abgenommen. Aber hauptsächlich geht es mir
+00:15:38 - 00:15:40 - Sprecher SPEAKER_05:  natürlich um die Auffindung unseres Quickie-Taxis.
+00:15:41 - 00:15:42 - Sprecher SPEAKER_05:  Ja, da wird schon noch besucht.
+00:15:42 - 00:15:44 - Sprecher SPEAKER_05:  Ja, ach so.
+00:15:44 - 00:15:46 - Sprecher SPEAKER_09:  Wir haben vielleicht den Namen.
+00:15:46 - 00:15:48 - Sprecher SPEAKER_05:  Der Mann heißt vielleicht Hans-Peter
+00:15:48 - 00:15:50 - Sprecher SPEAKER_05:  oder Hans-Günther. Ich bin mir nicht genau sicher.
+00:15:52 - 00:15:54 - Sprecher SPEAKER_08:  Hans-Peter oder Hans-Günther? Genau.
+00:15:55 - 00:15:56 - Sprecher SPEAKER_05:  Da können Sie doch bestimmt
+00:15:56 - 00:15:59 - Sprecher SPEAKER_05:  direkt mal eine Telefonnummer rausfinden.
+00:15:59 - 00:16:01 - Sprecher SPEAKER_05:  Oder nicht? Da hat man nicht mal bei uns gearbeitet
+00:16:01 - 00:16:02 - Sprecher SPEAKER_05:  einen Tag. Und das ist wahrscheinlich
+00:16:02 - 00:16:04 - Sprecher SPEAKER_05:  eine Racheaktion oder so.
+00:16:04 - 00:16:06 - Sprecher SPEAKER_05:  Hallo. Hans-Peter oder Hans-Günther?
+00:16:06 - 00:16:07 - Sprecher SPEAKER_08:  Ja, bringe ich mal in Erfahrung.
+00:16:08 - 00:16:10 - Sprecher SPEAKER_05:  Ich dachte, du gibst mir die jetzt kurz.
+00:16:10 - 00:16:11 - Sprecher SPEAKER_03:  Nein, auf gar keinen Fall.
+00:16:11 - 00:16:12 - Sprecher SPEAKER_08:  Warum denn nicht?
+00:16:14 - 00:16:15 - Sprecher SPEAKER_08:  Aber der war ehemaliger Mitarbeiter.
+00:16:15 - 00:16:17 - Sprecher SPEAKER_03:  Wir müssen nur einmal in die Mitarbeiter-Akten gucken
+00:16:17 - 00:16:20 - Sprecher SPEAKER_03:  und dann hätten wir den Namen. Nur ist der Chef leider nicht zu erreichen.
+00:16:20 - 00:16:22 - Sprecher SPEAKER_03:  Ja gut, das ist natürlich ärgerlich.
+00:16:22 - 00:16:24 - Sprecher SPEAKER_08:  Was ist, wenn wir uns Dienst ausweisen können?
+00:16:24 - 00:16:26 - Sprecher SPEAKER_03:  Wir haben die Daten in unserer Zentrale.
+00:16:26 - 00:16:28 - Sprecher SPEAKER_05:  Ganz genau, wir haben die doch eigentlich da.
+00:16:28 - 00:16:30 - Sprecher SPEAKER_05:  Außerdem hat der Typ mich voll bedroht.
+00:16:30 - 00:16:32 - Sprecher SPEAKER_05:  Aber wir wollen ja natürlich nur wegen
+00:16:33 - 00:16:33 - Sprecher SPEAKER_05:  Mitarbeiter.
+00:16:34 - 00:16:35 - Sprecher SPEAKER_05:  Wir wollen ja nicht weiter Sachen mit ihm sprechen,
+00:16:35 - 00:16:36 - Sprecher SPEAKER_05:  weil er noch einen Bonus kriegt.
+00:16:37 - 00:16:38 - Sprecher SPEAKER_05:  Hans, im Ernst, deinen Hass kannst du wirklich
+00:16:38 - 00:16:40 - Sprecher SPEAKER_05:  an jemand anderen auslassen.
+00:16:40 - 00:16:41 - Sprecher SPEAKER_05:  Sag halt einfach, dass du mich nicht leiden kannst.
+00:16:44 - 00:16:45 - Sprecher SPEAKER_03:  Boah, ist das was persönlich?
+00:16:47 - 00:16:48 - Sprecher SPEAKER_05:  Ja, das ist voll persönlich.
+00:16:49 - 00:16:50 - Sprecher SPEAKER_05:  Kennst du den?
+00:16:50 - 00:16:52 - Sprecher SPEAKER_05:  Ja, den kenne ich. Der ist schon die ganze Zeit immer sauer.
+00:16:52 - 00:16:54 - Sprecher SPEAKER_05:  Das ist der, der mich auch stehen hat lassen damals,
+00:16:54 - 00:16:55 - Sprecher SPEAKER_05:  als ich Streife gefahren bin mit dem.
+00:16:57 - 00:16:59 - Sprecher SPEAKER_05:  In Los Santos gab es ja echt viele Kackmenschen.
+00:16:59 - 00:17:01 - Sprecher SPEAKER_05:  Matthew war auch einer davon,
+00:17:01 - 00:17:03 - Sprecher SPEAKER_05:  aber beschissener war natürlich HP.
+00:17:04 - 00:17:07 - Sprecher SPEAKER_05:  Er hat seine kranken Spielchen immer weiter getrieben.
+00:17:07 - 00:17:09 - Sprecher SPEAKER_05:  Irgendwann hat es mir dann aber gereicht
+00:17:09 - 00:17:10 - Sprecher SPEAKER_05:  und ich habe mich gewehrt.
+00:17:19 - 00:17:21 - Sprecher SPEAKER_05:  Bleib stehen, bleib doch stehen!
+00:17:21 - 00:17:22 - Sprecher SPEAKER_05:  Was ist dein scheiß Problem?
+00:17:23 - 00:17:24 - Sprecher SPEAKER_05:  Was willst du mich dann rammen?
+00:17:25 - 00:17:26 - Sprecher SPEAKER_05:  Du sollst stehen bleiben,
+00:17:26 - 00:17:27 - Sprecher SPEAKER_05:  habe ich dir gesagt.
+00:17:48 - 00:17:49 - Sprecher SPEAKER_05:  Nichts passiert, nichts passiert!
+00:17:52 - 00:17:53 - Sprecher SPEAKER_05:  Bleib stehen, Mann!
+00:17:54 - 00:17:55 - Sprecher SPEAKER_05:  Scheiße, Mann!
+00:17:56 - 00:17:56 - Unbekannt:  Mann!
+00:18:03 - 00:18:03 - Sprecher SPEAKER_05:  Alter!
+00:18:04 - 00:18:05 - Sprecher SPEAKER_05:  Was ist denn los?
+00:18:06 - 00:18:07 - Sprecher SPEAKER_05:  Ich werde beschossen!
+00:18:07 - 00:18:09 - Sprecher SPEAKER_05:  Der schießt auf mich, der schießt auf mich!
+00:18:27 - 00:18:28 - Sprecher SPEAKER_09:  Hilfe, sie!
+00:18:31 - 00:18:33 - Sprecher SPEAKER_04:  Ich wurde angeschossen.
+00:18:34 - 00:18:35 - Sprecher SPEAKER_04:  Der Typ hat auf mich geschossen.
+00:18:35 - 00:18:37 - Sprecher SPEAKER_04:  Der Typ, der gestern mein Taxi geklaut hat
+00:18:37 - 00:18:38 - Sprecher SPEAKER_04:  und mich ausgeraubt hat.
+00:18:40 - 00:18:41 - Sprecher SPEAKER_02:  Okay, dann...
+00:18:41 - 00:18:42 - Sprecher SPEAKER_02:  Hat der auf dem Motorrad gerade, oder?
+00:18:42 - 00:18:44 - Sprecher SPEAKER_09:  Ja, einmal ins Krankenhaus.
+00:18:44 - 00:18:45 - Sprecher SPEAKER_09:  Ich laufe dann zum Krankenhaus,
+00:18:45 - 00:18:46 - Sprecher SPEAKER_09:  nimm die Platz.
+00:18:48 - 00:18:51 - Sprecher SPEAKER_02:  Das ist das, was neben uns auf dem Streifenwagen steht.
+00:18:51 - 00:18:53 - Sprecher SPEAKER_04:  Jemand muss Lady Kathleen ganz dringend anrufen.
+00:18:53 - 00:18:56 - Sprecher SPEAKER_04:  Ich sollte sie abholen mit dem Taxi.
+00:18:56 - 00:18:57 - Sprecher SPEAKER_04:  Das ist eine Kundin.
+00:18:57 - 00:18:57 - Sprecher SPEAKER_04:  Ich sage dir Bescheid.
+00:18:57 - 00:18:59 - Sprecher SPEAKER_04:  Ich mache das, kein Problem.
+00:18:59 - 00:19:00 - Sprecher SPEAKER_04:  Ich mache das.
+00:19:01 - 00:19:03 - Sprecher SPEAKER_05:  Erinnerst du dich noch an die gebrochene Rippe,
+00:19:03 - 00:19:06 - Sprecher SPEAKER_05:  die Stefano mir damals mit seinem Schlag vom PD verschoben hat?
+00:19:07 - 00:19:08 - Sprecher SPEAKER_05:  Wer hätte gedacht,
+00:19:09 - 00:19:11 - Sprecher SPEAKER_05:  dass die mir mal das Leben retten würde?
+00:19:12 - 00:19:13 - Sprecher SPEAKER_05:  Also die haben...
+00:19:13 - 00:19:15 - Sprecher SPEAKER_05:  Also die eine Rippe hat eine Kugel aufgehalten.
+00:19:16 - 00:19:17 - Sprecher SPEAKER_04:  Die Rippe?
+00:19:17 - 00:19:17 - Sprecher SPEAKER_04:  Die Rippe.
+00:19:17 - 00:19:19 - Sprecher SPEAKER_06:  Die, die ich mir gebrochen hatte,
+00:19:19 - 00:19:21 - Sprecher SPEAKER_04:  die hat sich nach oben verschoben ein bisschen
+00:19:21 - 00:19:23 - Sprecher SPEAKER_04:  und genau die hat die aufgehalten.
+00:19:24 - 00:19:25 - Sprecher SPEAKER_04:  Und welcher Bastard war das?
+00:19:26 - 00:19:28 - Sprecher SPEAKER_04:  Na, der Typ von gestern.
+00:19:28 - 00:19:30 - Sprecher SPEAKER_04:  Der Bauarbeitertyp.
+00:19:30 - 00:19:31 - Sprecher SPEAKER_05:  Hans-Peter war es.
+00:19:31 - 00:19:31 - Sprecher SPEAKER_05: 
+00:19:32 - 00:19:34 - Sprecher SPEAKER_05:  HP habe ich danach lange nicht mehr gesehen.
+00:19:35 - 00:19:37 - Sprecher SPEAKER_05:  Meistens hat er nur angerufen und war direkt danach wieder weg
+00:19:37 - 00:19:38 - Sprecher SPEAKER_05:  und nicht mehr erreichbar.
+00:19:39 - 00:19:41 - Sprecher SPEAKER_05:  Eine wirklich erbärmliche Gestalt.
+00:19:42 - 00:19:43 - Sprecher SPEAKER_08:  Guter Versuch.
+00:19:43 - 00:19:44 - Sprecher SPEAKER_05:  Was denn?
+00:19:45 - 00:19:47 - Sprecher SPEAKER_08:  Den Richie auf mich jagen zu wollen.
+00:19:48 - 00:19:50 - Sprecher SPEAKER_05:  Wieso den Richie auf dich jagen zu wollen?
+00:19:50 - 00:19:53 - Sprecher SPEAKER_05:  Ich habe schon so eine Angst.
+00:19:53 - 00:19:54 - Sprecher SPEAKER_08:  Ich bin schon so am zittern.
+00:19:54 - 00:19:56 - Sprecher SPEAKER_08:  Ich wollte nur auf ihn lieben Dank sagen.
+00:19:56 - 00:19:59 - Sprecher SPEAKER_08:  Du sollst vielleicht nicht überall rumtönen, dass du sowas hast.
+00:19:59 - 00:20:01 - Sprecher SPEAKER_08:  Das ist was, was jeder gerne hat.
+00:20:01 - 00:20:02 - Sprecher SPEAKER_08:  Okay.
+00:20:02 - 00:20:05 - Sprecher SPEAKER_05:  Damit kann man sich bei vielen Leuten sehr viele Sympathiepunkte sammeln.
+00:20:05 - 00:20:06 - Sprecher SPEAKER_08:  Alles klar.
+00:20:06 - 00:20:10 - Sprecher SPEAKER_05:  Weißt du, Hans-Peter, ich werde ganz schön viele Sympathiepunkte sammeln.
+00:20:10 - 00:20:11 - Sprecher SPEAKER_05:  Von mir an mich selber.
+00:20:12 - 00:20:15 - Sprecher SPEAKER_05:  Und an dem Tag, an dem du die abkriegst,
+00:20:15 - 00:20:17 - Sprecher SPEAKER_05:  da werde ich ein ziemlich glücklicher Mensch sein.
+00:20:17 - 00:20:18 - Sprecher SPEAKER_05:  Hans-Peter.
+00:20:18 - 00:20:19 - Sprecher SPEAKER_05:  Voll schön.
+00:20:19 - 00:20:24 - Sprecher SPEAKER_05:  Mich würde wirklich interessieren, wo du in Zukunft dann immer sitzt und dein Bier trinkst.
+00:20:24 - 00:20:27 - Sprecher SPEAKER_05:  Weil hier am Stadtpark wird das ja wohl nicht mehr sein.
+00:20:27 - 00:20:29 - Sprecher SPEAKER_05:  Wird ein ganz schön trauriges Leben sein für dich.
+00:20:30 - 00:20:31 - Sprecher SPEAKER_08:  Ja, stimmt.
+00:20:31 - 00:20:31 - Sprecher SPEAKER_08:  Ja, stimmt.
+00:20:31 - 00:20:35 - Sprecher SPEAKER_08:  Es wird ein richtig trauriges Leben, wenn ich bei meinen Freunden sitze und nicht bei irgendwelchen Idioten im Stadtpark.
+00:20:35 - 00:20:37 - Sprecher SPEAKER_05:  Kann ich mir auch vorstellen.
+00:20:37 - 00:20:38 - Sprecher SPEAKER_05:  Freunde.
+00:20:38 - 00:20:39 - Sprecher SPEAKER_05:  Süß.
+00:20:39 - 00:20:42 - Sprecher SPEAKER_08:  Aber wegen dem Taser würdest du jemanden umbringen.
+00:20:43 - 00:20:44 - Sprecher SPEAKER_05:  Nee, wie kommst du denn darauf?
+00:20:45 - 00:20:48 - Sprecher SPEAKER_08:  Es zwickt und beißt zwar ganz schön im Bein, aber...
+00:20:48 - 00:20:52 - Sprecher SPEAKER_08:  Ja, hoffentlich, hoffentlich wird sich die Scheiße richtig entzünden.
+00:20:52 - 00:20:55 - Sprecher SPEAKER_05:  Aber ich jag dir gerne noch eine zweite Kugel in das andere Bein rein.
+00:20:56 - 00:20:58 - Sprecher SPEAKER_08:  Ja, war gut so.
+00:20:58 - 00:21:00 - Sprecher SPEAKER_08:  Dann kann ich nur ein bisschen mehr Benzin in eurer Wohnung verteilen.
+00:21:00 - 00:21:04 - Sprecher SPEAKER_08:  Was laberst du für eine Scheiße, Mann? Ich bin bei meiner Wohnung und da ist nichts.
+00:21:05 - 00:21:09 - Sprecher SPEAKER_08:  Ich weiß und ich weiß jetzt auch, wo du wohnst. Warum arbeitest du mit dem PD so zusammen?
+00:21:10 - 00:21:11 - Sprecher SPEAKER_05:  Ist schon eine Weile her.
+00:21:12 - 00:21:16 - Sprecher SPEAKER_08:  Schon eine Weile? Deswegen hast du den Taser von denen. Ich habe gerade mit Wagner geredet.
+00:21:17 - 00:21:17 - Sprecher SPEAKER_08:  Ja.
+00:21:19 - 00:21:24 - Sprecher SPEAKER_08:  Und ich glaube, es wäre besser für dich, wenn du davon ablässt.
+00:21:24 - 00:21:25 - Sprecher SPEAKER_08:  Von was soll ich ablassen?
+00:21:25 - 00:21:26 - Sprecher SPEAKER_05:  Lass es einfach gut sein.
+00:21:26 - 00:21:28 - Sprecher SPEAKER_08:  Aber von was soll ich denn ablassen, HP Huso?
+00:21:29 - 00:21:30 - Sprecher SPEAKER_05:  Deinen Taser zurückzuwenden.
+00:21:31 - 00:21:31 - Sprecher SPEAKER_05:  Ich habe gesagt...
+00:21:31 - 00:21:34 - Sprecher SPEAKER_05:  Mann, hast du eigentlich gecheckt, dass es mir schon lange nicht mehr um den Scheiß Taser geht?
+00:21:34 - 00:21:38 - Sprecher SPEAKER_05:  Es geht mir einfach nur darum, um dich richtig zu ficken, verstehst du?
+00:21:38 - 00:21:38 - Sprecher SPEAKER_05:  Ja, was?
+00:21:38 - 00:21:43 - Sprecher SPEAKER_05:  Ich werde dich komplett hochnehmen. Der Scheiß Taser, den kann ich komplett drauf scheißen, Mann.
+00:21:43 - 00:21:46 - Sprecher SPEAKER_05:  Du glaubst doch nicht im Ernst, dass ich nicht einen neuen Taser brauche.
+00:21:46 - 00:21:46 - Sprecher SPEAKER_05:  Erzähl, du kannst mich nicht hochnehmen.
+00:21:46 - 00:21:48 - Sprecher SPEAKER_05:  Ich brauche überhaupt gar keinen Taser.
+00:21:49 - 00:21:59 - Sprecher SPEAKER_08:  Ja, wie gesagt, lass es einfach sein. Du schadest damit mehr deinen Leuten, deinen Freunden, als du dir irgendwas Gutes damit tust.
+00:21:59 - 00:22:00 - Sprecher SPEAKER_08:  Nee, du bist dumm.
+00:22:00 - 00:22:05 - Sprecher SPEAKER_08:  Du bist dumm, schon gemerkt hast. Ich habe dich heute den halben Abend beobachtet.
+00:22:06 - 00:22:10 - Sprecher SPEAKER_08:  Ich stand neben dir und habe dir was in deiner Hosentasche gesteckt.
+00:22:10 - 00:22:11 - Sprecher SPEAKER_08:  Nö, habe ich nicht gemerkt.
+00:22:11 - 00:22:11 - Sprecher SPEAKER_05:  Einen kleinen Zettel.
+00:22:11 - 00:22:14 - Sprecher SPEAKER_08:  Hans-Peter, ich muss jetzt mal mit dir reden.
+00:22:14 - 00:22:14 - Sprecher SPEAKER_05:  Ja.
+00:22:14 - 00:22:16 - Sprecher SPEAKER_05:  Es geht um den Kater von Stefano.
+00:22:18 - 00:22:21 - Sprecher SPEAKER_08:  Es geht um den Kater. Es ging um den Kater.
+00:22:22 - 00:22:27 - Sprecher SPEAKER_05:  Vielleicht hast du es ja schon gemerkt, Hans-Peter, aber es wird ein bisschen schwer für dich langsam in der Stadt.
+00:22:27 - 00:22:30 - Sprecher SPEAKER_05:  Die Luft wird ein bisschen dünner, immer dünner.
+00:22:30 - 00:22:31 - Sprecher SPEAKER_05:  Und sie wird weiter dünner werden.
+00:22:31 - 00:22:34 - Sprecher SPEAKER_05:  Und irgendwann wird sie ganz dünn sein.
+00:22:35 - 00:22:39 - Sprecher SPEAKER_08:  Ja, aber wenn sie dünner werden würde, dann würde ich es ja merken. Aber ich kann ja vollkommen frei atmen.
+00:22:39 - 00:22:42 - Sprecher SPEAKER_08:  Oh, Hans-Peter, irgendwann merkst du es. Hallo?
+00:22:45 - 00:22:46 - Unbekannt:  Hallo?
+00:22:50 - 00:22:55 - Sprecher SPEAKER_05:  Ehrlich, Mr. Rocket, das ist nur ein Bruchteil von dem, was der Typ wirklich abgezogen hat.
+00:22:55 - 00:23:00 - Sprecher SPEAKER_05:  Aber anders als das vielleicht bei ihm war, dreht sich mein Leben nicht nur um andere Dinge.
+00:23:00 - 00:23:01 - Sprecher SPEAKER_05:  Es ist nur eine einzige Person.
+00:23:02 - 00:23:08 - Sprecher SPEAKER_05:  Schon damals waren allerdings ganz schön viele Leute ganz schön sauer auf HP Huso.
+00:23:09 - 00:23:14 - Sprecher SPEAKER_05:  Ich würde alle umbringen. Wenn irgendwer jemand dieser Katze was tut, dann bringe ich alle um.
+00:23:14 - 00:23:16 - Sprecher SPEAKER_05:  Alle. Jeden einzelnen. Ist mir scheißegal.
+00:23:16 - 00:23:20 - Sprecher SPEAKER_05:  Irgendwer. Wenn jemand schon mal mit HP geredet hat, dann bringe ich den auch um.
+00:23:20 - 00:23:23 - Sprecher SPEAKER_05:  Wenn irgendwer schon mal HPs Hand gehalten hat, dann bringe ich den auch um.
+00:23:23 - 00:23:26 - Sprecher SPEAKER_05:  Wenn irgendwer seine Mutter ist, dann würde ich seine Mutter sowieso umbringen.
+00:23:30 - 00:23:32 - Sprecher SPEAKER_07:  Allein schon, weil sie ihn auf die Welt gebracht hat, richtig?
+00:23:32 - 00:23:38 - Sprecher SPEAKER_05:  Ja, jeder, der mit ihm in Verbindung steht, würde ich umbringen, wenn er, wenn irgendwer, wenn er irgendwie dieser Katze was tut.
+00:23:38 - 00:23:39 - Sprecher SPEAKER_04:  Ja?
+00:23:39 - 00:23:42 - Sprecher SPEAKER_04:  Ich habe mir voll Mühe gegeben. Aber der macht mich auch so wütend, der Typ.
+00:23:42 - 00:23:45 - Sprecher SPEAKER_05:  Mann, der hat mich fast abgeknallt, Doc Chuck. Ich bin fast gestorben wegen dem.
+00:23:47 - 00:23:50 - Sprecher SPEAKER_08:  Okay. Ja. Der soll den Taser wieder hergeben.
+00:23:50 - 00:23:54 - Sprecher SPEAKER_08:  Der soll seinen dummen Taser wieder hergeben. Ohne Witz.
+00:23:54 - 00:23:59 - Sprecher SPEAKER_05:  Wäre es echt lustiger, mit dem Schlagstock seine Kniescheiben zu zertrümmern?
+00:24:00 - 00:24:03 - Sprecher SPEAKER_01:  Und nach dem Sitzen in die Knie quäl ich den mit meinem Schlagstock.
+00:24:04 - 00:24:05 - Sprecher SPEAKER_01:  Ja, dann würde Hans-Peter noch die Nacht sterben, wa?
+00:24:05 - 00:24:08 - Sprecher SPEAKER_00:  So ein Arschloch. Deswegen habe ich mein Taxi nicht bekommen.
+00:24:08 - 00:24:08 - Sprecher SPEAKER_00:  Ja.
+00:24:09 - 00:24:14 - Sprecher SPEAKER_00:  In Ordnung. Wenn ich ihn sehe, dann rufe ich dich mal an, ja? Oder vielleicht kümmere ich mich auch direkt darum.
+00:24:14 - 00:24:17 - Sprecher SPEAKER_05:  Also ich glaube, Hans-Peter ist jetzt schon ziemlich gefickt.
+00:24:18 - 00:24:28 - Sprecher SPEAKER_05:  Ja, ja, den ficken wir aber auch noch, weil keiner, sagt der Fritzi, keiner tut meine beste Freundin hier weh, Digga.
+00:24:28 - 00:24:28 - Sprecher SPEAKER_07:  Ja.
+00:24:30 - 00:24:30 - Sprecher SPEAKER_07:  Ja, Mann.
+00:24:30 - 00:24:31 - Sprecher SPEAKER_07:  Weißt du, was ich meine?
+00:24:32 - 00:24:32 - Sprecher SPEAKER_07:  Ich check's voll.
+00:24:33 - 00:24:36 - Sprecher SPEAKER_07:  Und ich sag dir, ich würde den Typen noch ficken. Ich würde den Typen noch ficken.
+00:24:36 - 00:24:41 - Sprecher SPEAKER_07:  Erstens, weil der mein Auto geklaut hat. Und zweitens, weil der dir weh getan hat. Und drittens, weil er dich auch noch abgeknallt hat.
+00:24:42 - 00:24:43 - Sprecher SPEAKER_05:  Auch das noch, ja.
+00:24:43 - 00:24:43 - Sprecher SPEAKER_07:  Mhm.
+00:24:44 - 00:24:49 - Sprecher SPEAKER_05:  Und das waren noch nicht mal die gefährlichen Leute. Die kommen erst später.
+00:24:50 - 00:24:55 - Sprecher SPEAKER_05:  Die Sache ist jedenfalls nicht gut für HP ausgegangen. Aber er hat das nicht anders gewollt.
+00:24:56 - 00:24:58 - Sprecher SPEAKER_05:  Doch bis dahin ist noch ganz schön viel passiert.
+00:24:59 - 00:25:03 - Sprecher SPEAKER_05:  Aber wie es weitergeht, erfährst du erst im nächsten Brief.
+00:25:04 - 00:25:05 - Sprecher SPEAKER_05:  HDL Fritzi

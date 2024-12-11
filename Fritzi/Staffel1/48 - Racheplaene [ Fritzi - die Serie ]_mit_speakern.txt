@@ -1,0 +1,624 @@
+Transkription Staffel 1 mit Sprechererkennung von 48 - Racheplaene [ Fritzi - die Serie ].wav:
+00:00:28 - 00:00:29 - Unbekannt:  Amos
+00:00:43 - 00:00:46 - Sprecher SPEAKER_01:  Ich hab dir ja schon viel von Oxe erzählt, Mr. Rocket.
+00:00:46 - 00:00:50 - Sprecher SPEAKER_01:  Ich weiß nicht, was andere Menschen dir über Austin, Texas erzählen würden.
+00:00:51 - 00:00:53 - Sprecher SPEAKER_01:  Manche würden vielleicht sagen, er hat sie nicht mehr alle.
+00:00:54 - 00:00:57 - Sprecher SPEAKER_01:  Ritzi, du musst dir merken, ich bin ein bisschen verschallert, okay?
+00:00:58 - 00:00:59 - Sprecher SPEAKER_02:  Was ist so das...
+00:00:59 - 00:00:59 - Sprecher SPEAKER_02:  ...
+00:00:59 - 00:00:59 - Sprecher SPEAKER_02: 
+00:01:00 - 00:01:02 - Sprecher SPEAKER_02:  Was wolltest du sagen, Oxe?
+00:01:02 - 00:01:04 - Sprecher SPEAKER_02:  Ich wollte gar nichts sagen, Oxe.
+00:01:04 - 00:01:04 - Sprecher SPEAKER_02:  Okay.
+00:01:05 - 00:01:06 - Sprecher SPEAKER_02:  Das stimmt aber nicht, oder, Fritzi?
+00:01:06 - 00:01:07 - Sprecher SPEAKER_02:  Hat mich nur ein Kühl umgebratzt.
+00:01:07 - 00:01:10 - Sprecher SPEAKER_02:  Wenn du mich dann wechst, dann würde ich sofort die Freundschaft kündigen.
+00:01:10 - 00:01:13 - Sprecher SPEAKER_02:  Ich würde auch nie in deine Daumen kacken.
+00:01:13 - 00:01:15 - Sprecher SPEAKER_02:  Soll ich dir mal die Füße kneten, Chef Arno?
+00:01:15 - 00:01:16 - Sprecher SPEAKER_02:  Auf gar keinen Fall.
+00:01:16 - 00:01:17 - Sprecher SPEAKER_02:  Ich würde dir den Tritt...
+00:01:17 - 00:01:20 - Sprecher SPEAKER_02:  Ja, Oxe ist halt aber auch richtig heftig im Nehmen.
+00:01:20 - 00:01:23 - Sprecher SPEAKER_01:  Ganz genau, weil Oxe kann das alles aushalten.
+00:01:24 - 00:01:24 - Sprecher SPEAKER_01:  Ja!
+00:01:25 - 00:01:25 - Sprecher SPEAKER_01:  Ja!
+00:01:26 - 00:01:29 - Sprecher SPEAKER_01:  Andere würden dir davon berichten, was für ein guter Quickie-Mitarbeiter.
+00:01:30 - 00:01:30 - Sprecher SPEAKER_01:  Er ist...
+00:01:31 - 00:01:31 - Sprecher SPEAKER_02:  Hallo!
+00:01:32 - 00:01:32 - Sprecher SPEAKER_02:  Grüße!
+00:01:33 - 00:01:33 - Sprecher SPEAKER_01:  Hallo!
+00:01:33 - 00:01:35 - Sprecher SPEAKER_02:  Quickie-Taxi, was kann ich...
+00:01:36 - 00:01:37 - Sprecher SPEAKER_02:  Was ist das?
+00:01:37 - 00:01:39 - Sprecher SPEAKER_03:  Wir machen gerade Quickie-Bonding.
+00:01:39 - 00:01:40 - Sprecher SPEAKER_03:  Okay, was ist das?
+00:01:41 - 00:01:42 - Sprecher SPEAKER_02:  Mitarbeitermaßnahme bei uns.
+00:01:42 - 00:01:43 - Sprecher SPEAKER_02:  Wir machen alle zusammen Bonding.
+00:01:44 - 00:01:45 - Sprecher SPEAKER_02:  Okay, ich spring hier raus.
+00:01:47 - 00:01:48 - Sprecher SPEAKER_02:  Wir sehen uns!
+00:01:48 - 00:01:49 - Sprecher SPEAKER_02:  Bis dann, Oxe, adios!
+00:01:49 - 00:01:50 - Sprecher SPEAKER_02:  Ciao!
+00:01:50 - 00:01:51 - Sprecher SPEAKER_02:  Ich liebe auch Quickie.
+00:01:52 - 00:01:53 - Sprecher SPEAKER_02:  Quickie-Taxis.
+00:01:54 - 00:01:56 - Sprecher SPEAKER_02:  Hallo, hier ist Quickie-Taxi.
+00:01:56 - 00:01:58 - Sprecher SPEAKER_02:  Wir töten uns gegenseitig, aber niemals sie.
+00:01:58 - 00:01:59 - Sprecher SPEAKER_02:  Ich hab's genauso.
+00:02:00 - 00:02:04 - Sprecher SPEAKER_01:  Auf jeden Fall würden die Leute davon reden, was für kluge Dinge Oxe manchmal sagt.
+00:02:04 - 00:02:05 - Sprecher SPEAKER_01:  Du siehst echt aus wie...
+00:02:05 - 00:02:07 - Sprecher SPEAKER_02:  Du siehst Adam von...
+00:02:07 - 00:02:09 - Sprecher SPEAKER_02:  Du siehst aus wie Adam von Eternia.
+00:02:10 - 00:02:11 - Sprecher SPEAKER_02:  Wer ist das denn?
+00:02:11 - 00:02:12 - Sprecher SPEAKER_02:  Das ist He-Man.
+00:02:13 - 00:02:14 - Sprecher SPEAKER_02:  Ja.
+00:02:14 - 00:02:16 - Sprecher SPEAKER_02:  Er war's, aber er war's auch nicht, okay?
+00:02:17 - 00:02:18 - Sprecher SPEAKER_02:  Schrödinger ist Schrödinger.
+00:02:18 - 00:02:24 - Sprecher SPEAKER_02:  Sowas wie ein kleines Geräusch, eine Interjektion oder eine onomatopoetische Aussage.
+00:02:24 - 00:02:26 - Sprecher SPEAKER_02:  Ich verstehe, ja, kenn ich beides natürlich.
+00:02:26 - 00:02:28 - Sprecher SPEAKER_02:  Ich bin auch noch voll im Arsch, Fritz.
+00:02:28 - 00:02:29 - Sprecher SPEAKER_02:  Ich weiß gar nix.
+00:02:30 - 00:02:31 - Sprecher SPEAKER_02:  Du weißt voll viel, Oxe.
+00:02:31 - 00:02:33 - Sprecher SPEAKER_01:  Ich bin auch nicht so viel.
+00:02:33 - 00:02:33 - Sprecher SPEAKER_01:  Doch.
+00:02:33 - 00:02:34 - Sprecher SPEAKER_01:  Ich bin auch voll neu.
+00:02:35 - 00:02:37 - Sprecher SPEAKER_01:  Ich bin auch voll neu und wir wissen ungefähr gleich viel.
+00:02:38 - 00:02:40 - Sprecher SPEAKER_01:  Also zusammen wissen wir also alles eigentlich am Ende.
+00:02:40 - 00:02:41 - Sprecher SPEAKER_02:  Äh, okay.
+00:02:43 - 00:02:46 - Sprecher SPEAKER_01:  Und bestimmt würden dir Leute auch erzählen, was Oxe alles kann.
+00:02:47 - 00:02:50 - Sprecher SPEAKER_01:  Also ich mach das hier lose und das hier lose.
+00:02:50 - 00:02:54 - Sprecher SPEAKER_01:  Genau, und dann, Fritz, du kannst auch mal die Motorhaube auf Quickie aufmachen.
+00:02:54 - 00:02:55 - Sprecher SPEAKER_01:  Ja, mach ich sofort.
+00:02:55 - 00:02:57 - Sprecher SPEAKER_01:  Warte, ich mach das hier noch auf.
+00:02:57 - 00:02:57 - Sprecher SPEAKER_01:  Genau, dieses...
+00:02:57 - 00:02:57 - Sprecher SPEAKER_01:  Okay.
+00:02:58 - 00:02:59 - Sprecher SPEAKER_01:  Dieses Drähtchen...
+00:02:59 - 00:02:59 - Sprecher SPEAKER_01:  Fritz.
+00:02:59 - 00:02:59 - Sprecher SPEAKER_01:  Fritz.
+00:02:59 - 00:02:59 - Sprecher SPEAKER_01:  Fritz.
+00:02:59 - 00:02:59 - Sprecher SPEAKER_01: 
+00:03:00 - 00:03:00 - Sprecher SPEAKER_01:  Ich mach das hier einfach ab.
+00:03:00 - 00:03:01 - Sprecher SPEAKER_01:  Ja, okay, alles klar.
+00:03:01 - 00:03:02 - Sprecher SPEAKER_01:  Genau, einfach ab.
+00:03:02 - 00:03:03 - Sprecher SPEAKER_01:  Alle Drähte vom Motor.
+00:03:03 - 00:03:04 - Sprecher SPEAKER_02:  Okay, jetzt mach ich hier auf.
+00:03:04 - 00:03:06 - Sprecher SPEAKER_02:  Warum macht das alles kaputt?
+00:03:06 - 00:03:06 - Sprecher SPEAKER_02:  Genau.
+00:03:06 - 00:03:08 - Sprecher SPEAKER_02:  Nee, ich hol nur ihren Motor raus.
+00:03:08 - 00:03:09 - Sprecher SPEAKER_02:  Ganz entspannt.
+00:03:11 - 00:03:11 - Sprecher SPEAKER_02:  Übelkul, Oxe.
+00:03:12 - 00:03:14 - Sprecher SPEAKER_02:  Boah, wie hoch du springen kannst, ich fass es nicht.
+00:03:15 - 00:03:18 - Sprecher SPEAKER_02:  Ich geh immer so in die Leitstelle und ich tu immer so, als wär ich Isabella, damit die
+00:03:18 - 00:03:20 - Sprecher SPEAKER_02:  Leute denken, ich wär irgendwie krasser und so.
+00:03:21 - 00:03:21 - Sprecher SPEAKER_02:  Verstehst du?
+00:03:21 - 00:03:25 - Sprecher SPEAKER_02:  Dann geht so Isabella an die Leitstelle und sagt immer so, Leitstelle Quickie Taxi, was
+00:03:25 - 00:03:26 - Sprecher SPEAKER_02:  kann ich für sie tun?
+00:03:26 - 00:03:26 - Sprecher SPEAKER_02:  Äh.
+00:03:26 - 00:03:26 - Sprecher SPEAKER_02:  Hä?
+00:03:27 - 00:03:27 - Sprecher SPEAKER_02:  Alter.
+00:03:27 - 00:03:28 - Sprecher SPEAKER_02:  Was denn?
+00:03:28 - 00:03:29 - Sprecher SPEAKER_02:  Was, was, was?
+00:03:29 - 00:03:30 - Sprecher SPEAKER_02:  Das war Isabella.
+00:03:30 - 00:03:31 - Sprecher SPEAKER_02:  Das war Isabella.
+00:03:32 - 00:03:35 - Sprecher SPEAKER_01:  Der ein oder andere würde vielleicht behaupten, er sei kriminell.
+00:03:35 - 00:03:38 - Sprecher SPEAKER_01:  Und es gibt auch noch so einen Trick, dass die dann auch explodieren, aber da braucht
+00:03:38 - 00:03:39 - Sprecher SPEAKER_01:  man mehrere für.
+00:03:40 - 00:03:40 - Sprecher SPEAKER_01:  Okay, alles klar.
+00:03:41 - 00:03:41 - Sprecher SPEAKER_01:  Ich glaub schon.
+00:03:41 - 00:03:44 - Sprecher SPEAKER_01:  Okay, und jetzt, oh, sie fliegt um dich rum und hat dich gebissen.
+00:03:45 - 00:03:46 - Sprecher SPEAKER_01:  Oh Mann, ich hab sie verscheucht.
+00:03:46 - 00:03:48 - Sprecher SPEAKER_01:  Mach dir keine Sorgen, Claudia ist verscheucht.
+00:03:48 - 00:03:50 - Sprecher SPEAKER_02:  Boah, da sind ja noch ein paar Nädelchen drin.
+00:03:50 - 00:03:54 - Sprecher SPEAKER_02:  Ich würd's mir merken, Claudias Schmerzen sind nicht leicht hinzunehmen.
+00:03:55 - 00:03:57 - Sprecher SPEAKER_02:  Das ist gar nicht so leicht.
+00:03:57 - 00:03:57 - Sprecher SPEAKER_01:  Ja.
+00:03:57 - 00:03:57 - Sprecher SPEAKER_01:  Ich hab sie schon geschafft.
+00:03:57 - 00:03:58 - Sprecher SPEAKER_01:  Juhu.
+00:03:58 - 00:03:59 - Sprecher SPEAKER_01:  Aber hast du's schon geschafft?
+00:03:59 - 00:03:59 - Sprecher SPEAKER_01:  Echt?
+00:03:59 - 00:04:01 - Sprecher SPEAKER_01:  Okay, gut, ich dachte noch nicht.
+00:04:01 - 00:04:01 - Sprecher SPEAKER_01:  Oh je.
+00:04:02 - 00:04:02 - Sprecher SPEAKER_01:  Oh mein Gott.
+00:04:03 - 00:04:04 - Sprecher SPEAKER_01:  Oh mein Gott, bin ich überwunden.
+00:04:05 - 00:04:06 - Sprecher SPEAKER_02:  Pass.
+00:04:07 - 00:04:10 - Sprecher SPEAKER_02:  Musst du aufpassen, hier kann man oft abgezogen werden.
+00:04:10 - 00:04:12 - Sprecher SPEAKER_02:  Ach so, ja warte, dann park ich sie versteckelt.
+00:04:13 - 00:04:13 - Sprecher SPEAKER_01:  Versteckelt.
+00:04:14 - 00:04:15 - Sprecher SPEAKER_01:  Richtig versteckelt.
+00:04:16 - 00:04:18 - Sprecher SPEAKER_01:  Das klingt so slang, Ochse.
+00:04:19 - 00:04:20 - Sprecher SPEAKER_02:  Das klingt richtig bedrohlich.
+00:04:21 - 00:04:22 - Sprecher SPEAKER_02:  Versteckelt.
+00:04:22 - 00:04:23 - Sprecher SPEAKER_02:  Ich verstecke dich jetzt.
+00:04:24 - 00:04:25 - Sprecher SPEAKER_02:  Darunter brittierst du viel rein.
+00:04:25 - 00:04:26 - Sprecher SPEAKER_01:  Ich bin überhaupt nicht kriminell.
+00:04:26 - 00:04:27 - Sprecher SPEAKER_01:  Ich glaub, du bist nicht kriminell.
+00:04:27 - 00:04:27 - Sprecher SPEAKER_01: 
+00:04:27 - 00:04:27 - Sprecher SPEAKER_01: 
+00:04:27 - 00:04:27 - Sprecher SPEAKER_01: 
+00:04:27 - 00:04:29 - Sprecher SPEAKER_01:  Ich glaube, Frau Müller würde sowas behaupten.
+00:04:29 - 00:04:31 - Sprecher SPEAKER_01:  Aber Frau Müller ist ja sowieso eine dumme Bitch.
+00:04:31 - 00:04:33 - Sprecher SPEAKER_01:  Die Bachstätze.
+00:04:33 - 00:04:34 - Sprecher SPEAKER_01:  Ohne Scheiß, Frau Müller.
+00:04:34 - 00:04:35 - Sprecher SPEAKER_01:  Blöde Kuh.
+00:04:36 - 00:04:37 - Sprecher SPEAKER_01:  Ich riech das Hass-Objektum ein.
+00:04:37 - 00:04:40 - Sprecher SPEAKER_01:  Ich hoffe, dass Frau Müller für immer aus dieser Stadt verschwindet.
+00:04:40 - 00:04:43 - Sprecher SPEAKER_01:  Gehen Sie bitte dahinter, Frau Müller.
+00:04:43 - 00:04:44 - Sprecher SPEAKER_01:  Frau Müller, nach hinten.
+00:04:46 - 00:04:53 - Sprecher SPEAKER_01:  Manchmal, wenn ich so wütend bin, dann geh ich hier hin und guck Frau Müller beim Schlafen
+00:04:53 - 00:04:53 - Sprecher SPEAKER_01:  zu.
+00:04:54 - 00:04:55 - Sprecher SPEAKER_01:  Wirklich, Fritzi.
+00:04:55 - 00:04:57 - Sprecher SPEAKER_01:  Guck durch ihr Fenster und guck, ob sie da ist.
+00:04:57 - 00:05:02 - Sprecher SPEAKER_01:  Guck, wie sie schläft und stell mir vor, wie ich ihr ganz, ganz, ganz heimlichen Kissen
+00:05:02 - 00:05:05 - Sprecher SPEAKER_01:  ins Gesicht rücken könnte, ohne dass sie es merkt.
+00:05:05 - 00:05:08 - Sprecher SPEAKER_01:  So meinst du, hochgehen, dass ich da zu Wort wirklich in die Luft springe?
+00:05:08 - 00:05:10 - Sprecher SPEAKER_01:  Ja, wir können ja erst eine probieren.
+00:05:10 - 00:05:13 - Sprecher SPEAKER_01:  Wenn es nicht klappt, dann springen wir halt in die Luft, so wie Frau Müllers Haus.
+00:05:14 - 00:05:15 - Sprecher SPEAKER_01:  Weißt du, Frau Müller hat es verdient.
+00:05:15 - 00:05:16 - Sprecher SPEAKER_01:  Wirklich.
+00:05:16 - 00:05:21 - Sprecher SPEAKER_01:  Wovon dir auf jeden Fall viele Menschen erzählen würden, ist Oxes Liebe zu Harry Potter.
+00:05:21 - 00:05:24 - Sprecher SPEAKER_01:  Was sollen wir alle Kräfte zusammensammeln, Mann?
+00:05:24 - 00:05:25 - Sprecher SPEAKER_02:  Die können auch nichts machen.
+00:05:25 - 00:05:27 - Sprecher SPEAKER_02:  Helms Klamm war auch irgendwie, da waren 10.000.
+00:05:27 - 00:05:27 - Sprecher SPEAKER_02: 
+00:05:27 - 00:05:29 - Sprecher SPEAKER_02:  Orks und Urukais, also Rukais besser gesagt.
+00:05:29 - 00:05:32 - Sprecher SPEAKER_02:  Und da waren, trotzdem haben die gewonnen mit den Rohirrim und so.
+00:05:33 - 00:05:33 - Sprecher SPEAKER_02:  Was?
+00:05:33 - 00:05:34 - Sprecher SPEAKER_02:  Über was redest du gerade?
+00:05:35 - 00:05:39 - Sprecher SPEAKER_02:  Wie zum Beispiel, so was wie Snape bei Herr der Ringe stirbt.
+00:05:39 - 00:05:40 - Sprecher SPEAKER_01:  Das wäre voll scheiße.
+00:05:40 - 00:05:42 - Sprecher SPEAKER_01:  Fritzi, das habe ich nicht gehört.
+00:05:42 - 00:05:43 - Sprecher SPEAKER_02:  Snape, was ist das?
+00:05:43 - 00:05:45 - Sprecher SPEAKER_02:  Ich habe einen Buchclub.
+00:05:45 - 00:05:47 - Sprecher SPEAKER_02:  Da gehen mir die Bücher von Harry Potter durch.
+00:05:47 - 00:05:48 - Sprecher SPEAKER_02:  Voll interessant und so.
+00:05:48 - 00:05:49 - Sprecher SPEAKER_01:  Oh mein Gott.
+00:05:49 - 00:05:51 - Sprecher SPEAKER_01:  Ja, Ox redet auch immer über Harry Potter.
+00:05:51 - 00:05:53 - Sprecher SPEAKER_01:  So, jetzt muss ich wirklich auflegen.
+00:05:53 - 00:05:53 - Sprecher SPEAKER_01:  Fritzi.
+00:05:53 - 00:05:56 - Sprecher SPEAKER_01:  Das wäre wie bei Herr der Ringe, als Frodo vom Troll nach Storch wurde und alle dachten,
+00:05:56 - 00:05:57 - Sprecher SPEAKER_01:  jetzt ist es auch so.
+00:05:57 - 00:05:57 - Sprecher SPEAKER_02:  Aber er hat einen Korsett.
+00:05:57 - 00:05:58 - Sprecher SPEAKER_02:  Ja, das sieht so aus, aber er hatte Mithril an.
+00:05:58 - 00:05:59 - Sprecher SPEAKER_01:  Er hatte Mithril an.
+00:05:59 - 00:06:00 - Sprecher SPEAKER_01:  Er hatte Mithril an.
+00:06:00 - 00:06:00 - Sprecher SPEAKER_01:  Was für ein Ding.
+00:06:00 - 00:06:01 - Sprecher SPEAKER_01:  Was soll das sein?
+00:06:01 - 00:06:02 - Sprecher SPEAKER_01:  Was ist das?
+00:06:02 - 00:06:03 - Sprecher SPEAKER_01:  Ist das auch so ein Korsett oder was?
+00:06:04 - 00:06:07 - Sprecher SPEAKER_01:  Das war von den Zwergen geschmiedeter Kettenpanzer aus dem härtesten Stall, was es gibt.
+00:06:08 - 00:06:09 - Sprecher SPEAKER_01:  Und dadurch wurde er geschützt.
+00:06:09 - 00:06:10 - Sprecher SPEAKER_01:  Ach so.
+00:06:10 - 00:06:10 - Sprecher SPEAKER_01:  Ach so.
+00:06:10 - 00:06:11 - Sprecher SPEAKER_01:  Okay, alles klar.
+00:06:12 - 00:06:12 - Sprecher SPEAKER_01:  Ja, genau.
+00:06:13 - 00:06:14 - Sprecher SPEAKER_01:  Und dann kam auch Mr.
+00:06:14 - 00:06:15 - Sprecher SPEAKER_01:  Rocket zu Frodo oder was?
+00:06:16 - 00:06:18 - Sprecher SPEAKER_01:  Ja, das war dann eigentlich so Aragorn, aber Mr.
+00:06:18 - 00:06:20 - Sprecher SPEAKER_01:  Rocket ist ja schon ein bisschen so wie Aragorn.
+00:06:21 - 00:06:22 - Sprecher SPEAKER_01:  Keine Ahnung, Mann.
+00:06:22 - 00:06:24 - Sprecher SPEAKER_01:  Ich kenne mich mit Harry Potter überhaupt nicht aus, Oxo.
+00:06:25 - 00:06:26 - Sprecher SPEAKER_01:  Ach, das tut so weh, Fritzi.
+00:06:27 - 00:06:29 - Sprecher SPEAKER_01:  Nikolas Flamel, der ist aus Herr der Ringe.
+00:06:30 - 00:06:32 - Sprecher SPEAKER_02:  Es ist wie bei Herr der Ringe, Mann.
+00:06:32 - 00:06:35 - Sprecher SPEAKER_02:  Als sie dann fertig war nach Mord, da war nichts mehr so wie vorher.
+00:06:36 - 00:06:36 - Sprecher SPEAKER_02:  Ganz genau.
+00:06:36 - 00:06:38 - Sprecher SPEAKER_01:  Und dann ist Snape gestorben.
+00:06:39 - 00:06:41 - Sprecher SPEAKER_01:  Aber wir hoffen, dass Snape nicht sterben muss.
+00:06:42 - 00:06:43 - Sprecher SPEAKER_02:  Erst mal eine Kippe.
+00:06:44 - 00:06:48 - Sprecher SPEAKER_01:  Und auf jeden Fall auch, wie viel Spaß man mit Oxo haben kann.
+00:06:48 - 00:06:50 - Sprecher SPEAKER_01:  Was ist denn mit euch beiden eigentlich?
+00:06:50 - 00:06:51 - Sprecher SPEAKER_01:  Seid ihr nur befreundet oder?
+00:06:52 - 00:06:52 - Sprecher SPEAKER_01:  Ja.
+00:06:52 - 00:06:54 - Sprecher SPEAKER_01:  Klar, wir haben Quickie-Bonding gemacht.
+00:06:55 - 00:06:56 - Sprecher SPEAKER_01:  Wir sind übel gute Freunde.
+00:06:56 - 00:06:57 - Sprecher SPEAKER_01:  Wir sind gebondet.
+00:06:58 - 00:07:00 - Sprecher SPEAKER_02:  Könntet ihr euch was vorstellen, oder nicht?
+00:07:01 - 00:07:02 - Sprecher SPEAKER_01:  Ich kann mir viel mit Fritzi vorstellen.
+00:07:03 - 00:07:04 - Sprecher SPEAKER_01:  Mit ihr kann man Pferde stehlen.
+00:07:05 - 00:07:09 - Sprecher SPEAKER_01:  Auf jeden Fall, mein Oxo und ich, wir könnten richtig heftige Sachen machen auf dieser Welt.
+00:07:09 - 00:07:10 - Sprecher SPEAKER_01:  Nicht auf der Art.
+00:07:11 - 00:07:13 - Sprecher SPEAKER_02:  Ich kann mir super viel mit Fritzi vorstellen.
+00:07:13 - 00:07:14 - Sprecher SPEAKER_02:  Das mache ich auch regelmäßig.
+00:07:15 - 00:07:16 - Sprecher SPEAKER_01:  Könntet ihr bitte da runter gehen?
+00:07:17 - 00:07:17 - Sprecher SPEAKER_00:  Wieso?
+00:07:17 - 00:07:18 - Sprecher SPEAKER_02:  Wir sind jetzt dran.
+00:07:20 - 00:07:22 - Sprecher SPEAKER_00:  Ihr seid jetzt doch mit dem Streetblazer-Restaurant.
+00:07:22 - 00:07:22 - Sprecher SPEAKER_00:  Wir wurden ausgerufen.
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:22 - 00:07:22 - Sprecher SPEAKER_02: 
+00:07:24 - 00:07:26 - Sprecher SPEAKER_00:  Aus dem Texas von Fritzi Franklin.
+00:07:26 - 00:07:26 - Sprecher SPEAKER_02:  Ja, ja.
+00:07:26 - 00:07:27 - Sprecher SPEAKER_00:  Aber ich fahr jetzt erst das 7.
+00:07:27 - 00:07:27 - Sprecher SPEAKER_00: 
+00:07:27 - 00:07:28 - Sprecher SPEAKER_01:  Schein.
+00:07:28 - 00:07:29 - Sprecher SPEAKER_01:  Ja.
+00:07:29 - 00:07:30 - Sprecher SPEAKER_01:  Jetzt ist das Einzelrennen dran.
+00:07:31 - 00:07:31 - Sprecher SPEAKER_01:  Boah.
+00:07:31 - 00:07:33 - Sprecher SPEAKER_01:  Okay, dann gehen wir jetzt, Oxo.
+00:07:33 - 00:07:34 - Sprecher SPEAKER_01:  Scheiß auf das Datein.
+00:07:34 - 00:07:35 - Sprecher SPEAKER_01:  Scheiße hier.
+00:07:35 - 00:07:36 - Sprecher SPEAKER_01:  Komm, wir gehen zum Foodtruck.
+00:07:37 - 00:07:42 - Sprecher SPEAKER_02:  Fritzi, das Größte, was wir aus dieser Sache mitnehmen können, und das ist jetzt ganz
+00:07:42 - 00:07:43 - Sprecher SPEAKER_02:  wichtig.
+00:07:43 - 00:07:43 - Sprecher SPEAKER_02:  Mhm.
+00:07:47 - 00:07:50 - Sprecher SPEAKER_02:  Gib niemals deine Träume auf.
+00:07:50 - 00:07:51 - Sprecher SPEAKER_02:  Du bist ein Star.
+00:07:52 - 00:07:53 - Sprecher SPEAKER_02:  Jetzt reicht's mir.
+00:07:53 - 00:07:54 - Sprecher SPEAKER_02:  Guck da, Fritzi.
+00:07:56 - 00:07:58 - Sprecher SPEAKER_02:  Das hat Stefano hingeschrieben.
+00:07:58 - 00:08:01 - Sprecher SPEAKER_02:  Ja, weil Fritzi und ich noch nicht Fluch der Karibik Action hatten.
+00:08:01 - 00:08:02 - Sprecher SPEAKER_02:  Das ist eine andere Geschichte.
+00:08:02 - 00:08:03 - Sprecher SPEAKER_02:  So, was geht bei euch ab?
+00:08:04 - 00:08:05 - Sprecher SPEAKER_02:  Ich hab ein...
+00:08:05 - 00:08:05 - Sprecher SPEAKER_02:  Egal.
+00:08:06 - 00:08:08 - Sprecher SPEAKER_02:  Wir brauchen noch Fluch der Karibik Action.
+00:08:08 - 00:08:09 - Sprecher SPEAKER_02:  Mehr will ich dazu nicht sagen.
+00:08:10 - 00:08:12 - Sprecher SPEAKER_02:  Und ich sehe halt aus wie William Turner von Fluch der Karibik.
+00:08:12 - 00:08:14 - Sprecher SPEAKER_02:  Ich will Käse.
+00:08:14 - 00:08:15 - Sprecher SPEAKER_02:  Ich will auch Käse.
+00:08:15 - 00:08:16 - Sprecher SPEAKER_01:  Ich will Fünffachkäse.
+00:08:17 - 00:08:18 - Sprecher SPEAKER_01:  Ich will Dünner Käse.
+00:08:18 - 00:08:20 - Sprecher SPEAKER_01:  Ich will Sechsmalkäse.
+00:08:20 - 00:08:21 - Sprecher SPEAKER_01:  Ich will Raclette-Käse auch noch haben.
+00:08:21 - 00:08:21 - Sprecher SPEAKER_01: 
+00:08:21 - 00:08:21 - Sprecher SPEAKER_01: 
+00:08:21 - 00:08:21 - Sprecher SPEAKER_01: 
+00:08:21 - 00:08:21 - Sprecher SPEAKER_01: 
+00:08:22 - 00:08:23 - Sprecher SPEAKER_01:  Habt ihr Raclette-Käse?
+00:08:23 - 00:08:24 - Sprecher SPEAKER_01:  Jetzt gibt's kein zurück mehr.
+00:08:24 - 00:08:25 - Sprecher SPEAKER_02:  Jetzt gibt's kein zurück mehr.
+00:08:25 - 00:08:26 - Sprecher SPEAKER_02:  Ich will alles.
+00:08:26 - 00:08:27 - Sprecher SPEAKER_01:  Ich will alles.
+00:08:27 - 00:08:27 - Sprecher SPEAKER_01:  Boah, Fritzi.
+00:08:27 - 00:08:29 - Sprecher SPEAKER_01:  Ich hab gesagt, dass das meine...
+00:08:29 - 00:08:31 - Sprecher SPEAKER_01:  Also, dass nur ich die Idee hatte.
+00:08:31 - 00:08:32 - Sprecher SPEAKER_01:  Und dann...
+00:08:32 - 00:08:32 - Sprecher SPEAKER_01:  Echt?
+00:08:33 - 00:08:33 - Sprecher SPEAKER_01:  Scheiße.
+00:08:33 - 00:08:36 - Sprecher SPEAKER_01:  Dann hat er gesagt, dass er deine Stimme erkannt hat.
+00:08:36 - 00:08:37 - Sprecher SPEAKER_01:  Also, dass du ja dabei warst.
+00:08:37 - 00:08:38 - Sprecher SPEAKER_01:  Da hab ich gemeint, ja schon, du warst dabei.
+00:08:39 - 00:08:43 - Sprecher SPEAKER_01:  Aber ich hatte als stellvertretende Chefin alleine die Idee, damit du da nicht auch noch
+00:08:43 - 00:08:44 - Sprecher SPEAKER_01:  mit reingezogen wirst.
+00:08:44 - 00:08:46 - Sprecher SPEAKER_01:  Letztens hat sie mir das gleiche gesagt.
+00:08:46 - 00:08:46 - Sprecher SPEAKER_01:  Scheiße.
+00:08:46 - 00:08:49 - Sprecher SPEAKER_01:  Ja, meine Stimme war im Video.
+00:08:49 - 00:08:51 - Sprecher SPEAKER_02:  Ich hab mit Fritzi mir das ausgesagt.
+00:08:51 - 00:08:51 - Unbekannt:  Ja, aber ich hab das auch gesagt.
+00:08:52 - 00:08:53 - Sprecher SPEAKER_01:  Aber weißt du, Mr.
+00:08:53 - 00:08:56 - Sprecher SPEAKER_01:  Rocket, ich könnte noch so viele Briefe schreiben.
+00:08:56 - 00:08:58 - Sprecher SPEAKER_01:  Es würde Oxe nie gerecht werden.
+00:08:58 - 00:09:02 - Sprecher SPEAKER_01:  Genauso wie ich noch 5000 Quickie-Bondings abhalten könnte und immer noch das Gefühl
+00:09:02 - 00:09:04 - Sprecher SPEAKER_01:  hätte, es wäre noch nicht genug.
+00:09:05 - 00:09:07 - Sprecher SPEAKER_01:  Aber jetzt stand eine andere Art von Bonding an.
+00:09:07 - 00:09:09 - Sprecher SPEAKER_01:  Und die war nicht ganz so lustig.
+00:09:24 - 00:09:32 - Unbekannt: coste ist understandbar.
+00:09:32 - 00:09:34 - Unbekannt:  Nee, war nicht komplett lustig.
+00:09:34 - 00:09:34 - Unbekannt:  væ
+00:10:08 - 00:10:21 - Unbekannt:  Untertitelung des ZDF, 2020
+00:10:39 - 00:10:45 - Unbekannt:  Untertitelung des ZDF, 2020
+00:10:52 - 00:10:57 - Sprecher SPEAKER_01:  Nach allem, was wir gemeinsam durchgemacht haben, war ich Oxe die Wahrheit schuldig.
+00:10:57 - 00:11:02 - Sprecher SPEAKER_01:  Um ihn aber nicht komplett zu brechen, musste ich mich vorsichtig an das schwierige Thema herantasten.
+00:11:04 - 00:11:04 - Sprecher SPEAKER_02:  Ritzi?
+00:11:05 - 00:11:05 - Sprecher SPEAKER_02:  Mhm?
+00:11:06 - 00:11:10 - Sprecher SPEAKER_02:  Ist es Mund ein und Nase aus? Oder Nase ein, Mund aus?
+00:11:11 - 00:11:12 - Sprecher SPEAKER_02:  Nase ein, Mund aus.
+00:11:12 - 00:11:13 - Sprecher SPEAKER_02:  Okay, mach ich.
+00:11:14 - 00:11:15 - Sprecher SPEAKER_02:  Perfekt.
+00:11:18 - 00:11:21 - Sprecher SPEAKER_01:  Beruhig mich, beruhig mich. Entspann mich.
+00:11:21 - 00:11:27 - Sprecher SPEAKER_01:  Wie schaut es bei dir gerade aus, Oxe? Hast du dir doch mal Gedanken darüber gemacht, ob du der Gang beitreten willst oder nicht?
+00:11:28 - 00:11:34 - Sprecher SPEAKER_02:  Ich bin wie so eine Kurve. Ich war mir fast sicher, dass ich will. Also so richtig sicher und hatte ein gutes Gefühl.
+00:11:34 - 00:11:41 - Sprecher SPEAKER_02:  Aber heute war ich mit der Gang viel unterwegs und die tun echt ein bisschen weh in meinem Kopf.
+00:11:42 - 00:11:43 - Sprecher SPEAKER_02:  Warum, was meinst du?
+00:11:44 - 00:11:46 - Sprecher SPEAKER_02:  Die sind so super, super...
+00:11:47 - 00:11:50 - Sprecher SPEAKER_02:  Erstmal sind es super viele, dann sind die so richtig unkoordiniert.
+00:11:51 - 00:11:53 - Sprecher SPEAKER_02:  Oft auch, was ja nicht schlimm ist, weil es sind ja viele.
+00:11:54 - 00:11:58 - Sprecher SPEAKER_02:  Und dann sagen die auch immer so Sachen, die mir nicht gefallen und sind scheiße teilweise zu mir.
+00:11:59 - 00:12:00 - Sprecher SPEAKER_02:  Dann hatte ich keinen Bock mehr. Die haben gesagt,
+00:12:01 - 00:12:08 - Sprecher SPEAKER_02:  Äh, Oxe, du warst mal cool, du warst mal ein harter Typ, du warst mal richtig krass drauf und jetzt bist du nur noch nett und verweichlicht.
+00:12:08 - 00:12:13 - Sprecher SPEAKER_02:  Nur weil ich gesagt habe, dass der eine... Also, weil ich immer mal wieder sage, dass Leute nett sind.
+00:12:13 - 00:12:13 - Sprecher SPEAKER_02:  Mhm.
+00:12:15 - 00:12:18 - Sprecher SPEAKER_02:  Und dann haben die so die ganze Zeit drauf rumgehakt, dass ich so ein Weichei bin.
+00:12:19 - 00:12:20 - Sprecher SPEAKER_02:  Und das kann ich gar nicht ab.
+00:12:21 - 00:12:25 - Sprecher SPEAKER_01:  Ja, ich glaube, die machen irgendwie keinen Halt davor, wen sie abziehen und wen nicht.
+00:12:25 - 00:12:31 - Sprecher SPEAKER_01:  Weißt du, ich kann verstehen, dass man, naja, die ein oder andere Sache macht, vielleicht ab und zu.
+00:12:34 - 00:12:37 - Sprecher SPEAKER_01:  Aber, naja, nicht gegen Leute, die hier überhaupt nichts getan haben.
+00:12:38 - 00:12:43 - Sprecher SPEAKER_01:  Und wenn die auch korrekt sind, naja, dann ist es halt eigentlich auch nicht unbedingt das, was ich gut finde, Oxe.
+00:12:43 - 00:12:48 - Sprecher SPEAKER_02:  Ja, aber so wie die mit mir reden, so kann ich mir nicht ein gutes Verhältnis in der Gang mit denen vorstellen.
+00:12:48 - 00:12:51 - Sprecher SPEAKER_02:  Und das hat mir zu sehr im Kopf alles weh getan, die ganze Hin und Her.
+00:12:51 - 00:12:55 - Sprecher SPEAKER_02:  Und Oxe steigt ein und dann keine Ahnung haben, was man die ganze Zeit... Also, egal.
+00:12:56 - 00:12:58 - Sprecher SPEAKER_01:  Warum? Wer war denn doof zu dir, Oxe?
+00:13:01 - 00:13:04 - Sprecher SPEAKER_02:  Äh, Wolle, Wagner, Heu, Jack.
+00:13:05 - 00:13:08 - Sprecher SPEAKER_01:  Aber Heu ist doch dein Cousin. Cousin.
+00:13:08 - 00:13:13 - Sprecher SPEAKER_01:  Ja, klar ist er mein Cousin. Er ist trotzdem ein Arschloch. Dann habe ich ihn verprügelt. Ja.
+00:13:14 - 00:13:15 - Sprecher SPEAKER_02:  Heute war viel, Fritzi.
+00:13:16 - 00:13:16 - Sprecher SPEAKER_03:  Hm.
+00:13:16 - 00:13:17 - Sprecher SPEAKER_01:  Und dann haben die mich...
+00:13:17 - 00:13:20 - Sprecher SPEAKER_01:  Ist es nur heute so gewesen, dass die nicht so nett waren zu dir oder in letzter Zeit öfter?
+00:13:21 - 00:13:24 - Sprecher SPEAKER_01:  Hm. Immer mal wieder so ein paar Tage, aber nicht die ganze Zeit.
+00:13:24 - 00:13:27 - Sprecher SPEAKER_01:  Nie die ganze Zeit. Weißt du, was das ist, Oxe?
+00:13:28 - 00:13:28 - Sprecher SPEAKER_01:  Was?
+00:13:30 - 00:13:33 - Sprecher SPEAKER_01:  Hm, das, das, das, ja, da habe ich gelernt, wie das heißt.
+00:13:33 - 00:13:34 - Sprecher SPEAKER_01:  Prusch und Pull.
+00:13:35 - 00:13:36 - Sprecher SPEAKER_01:  Prusch und Pull.
+00:13:36 - 00:13:36 - Sprecher SPEAKER_01:  Hm.
+00:13:36 - 00:13:38 - Sprecher SPEAKER_02:  Das macht Wagner.
+00:13:38 - 00:13:43 - Sprecher SPEAKER_02:  Der macht mir... Ja, wirklich. Heute war... Heute kann ich nicht viel... Also, ich kann Wagner heute irgendwie nicht ab.
+00:13:43 - 00:13:46 - Sprecher SPEAKER_02:  Ich, ich, ich, ich entferne mich heute irgendwie voll viel von Wagner.
+00:13:47 - 00:13:49 - Sprecher SPEAKER_02:  Hm, aber morgen seid ihr dann wieder ganz eng.
+00:13:50 - 00:13:50 - Sprecher SPEAKER_01:  Nee.
+00:13:51 - 00:13:51 - Sprecher SPEAKER_01:  Doch.
+00:13:52 - 00:13:53 - Sprecher SPEAKER_01:  Meinst du?
+00:13:53 - 00:13:56 - Sprecher SPEAKER_01:  Ich weiß das. Ich habe das schon genauso beobachtet bei euch.
+00:13:56 - 00:14:00 - Sprecher SPEAKER_02:  Hm. Ich brauche manchmal so ein bisschen Wagner-Abstand.
+00:14:00 - 00:14:03 - Sprecher SPEAKER_02:  Der hält echt heftig rein manchmal bei mir.
+00:14:03 - 00:14:05 - Sprecher SPEAKER_02:  Und dann werde ich voll sauer.
+00:14:05 - 00:14:09 - Sprecher SPEAKER_02:  Und dann sagt er immer... Und dann dreht er das immer um, als wäre dann der Fehler bei mir.
+00:14:09 - 00:14:12 - Sprecher SPEAKER_02:  Und dann habe ich voll das schlechte Gewissen. Kennst du das?
+00:14:13 - 00:14:13 - Sprecher SPEAKER_01:  Gaslighten.
+00:14:14 - 00:14:15 - Sprecher SPEAKER_02:  Gaslighten heißt das.
+00:14:15 - 00:14:15 - Sprecher SPEAKER_01:  Hm.
+00:14:16 - 00:14:17 - Sprecher SPEAKER_01:  Hm.
+00:14:17 - 00:14:20 - Sprecher SPEAKER_01:  Ich habe voll viel gelernt in letzter Zeit, Oxe.
+00:14:21 - 00:14:22 - Sprecher SPEAKER_01:  Hm.
+00:14:22 - 00:14:25 - Sprecher SPEAKER_01:  So... Zwischen... Zwischenmenschlich über zwischenmenschliche Dinge.
+00:14:26 - 00:14:30 - Sprecher SPEAKER_01:  Hm. Ich kann die noch nicht richtig gut umsetzen, aber ich habe es schon mal gelernt zumindest.
+00:14:31 - 00:14:34 - Sprecher SPEAKER_01:  Doch es fiel mir echt schwer, den richtigen Moment abzupassen.
+00:14:35 - 00:14:42 - Sprecher SPEAKER_01:  Nicht nur, weil ich selbst wusste, wie weh das tut, so etwas über seine Freunde zu erfahren, sondern vor allem, weil ich wusste, was Wagner für Oxe war.
+00:14:43 - 00:14:50 - Sprecher SPEAKER_02:  Ja, wir sind ja auch eigentlich alle cool. Ich bin einfach heute, wie gesagt, mein Nervenstrang ist halt sehr kurz und deswegen hatte ich keinen Bock auf die...
+00:14:51 - 00:14:51 - Unbekannt:  Hm.
+00:14:53 - 00:14:57 - Sprecher SPEAKER_01:  Naja, vielleicht ist es sie aber auch nicht so ungerechtfertigt manchmal, Oxe. Manchmal sind einfach...
+00:14:58 - 00:14:59 - Unbekannt:  Ja.
+00:14:59 - 00:15:08 - Sprecher SPEAKER_01:  Manche einzelnen Menschen sind manchmal einfach irgendwie nicht ganz so... freundlich. Auch wenn man denkt, dass sie freundlich sind. Ich weiß auch nicht...
+00:15:08 - 00:15:09 - Unbekannt:  Ja.
+00:15:09 - 00:15:09 - Unbekannt:  Hm.
+00:15:10 - 00:15:17 - Sprecher SPEAKER_02:  Weiß nicht, manchmal müssen die vielleicht ihre Frustration an ihren Freunden auslassen, was ich nicht ganz nachvollziehen kann, aber es ist dann halt so...
+00:15:17 - 00:15:20 - Sprecher SPEAKER_02:  Naja, ich weiß nicht, ob das einfach in Ordnung ist.
+00:15:20 - 00:15:30 - Sprecher SPEAKER_02:  Ich blick da nicht durch, was die alles machen. Setzen sich eine Maske auf und sind scheiße, weiß ich nicht. Ob die sowas mit uns abziehen würden, ich kann's mir eigentlich nicht vorstellen. Ich vertraue denen.
+00:15:31 - 00:15:31 - Unbekannt: 
+00:15:33 - 00:15:42 - Sprecher SPEAKER_02:  Weißt du, wenn ich rausfinden würde, dass Wagner sich eine Maske aufsetzt und mich komplett bearscht, bedroht und sogar in Lebensgefahr bringt, dann wäre ich weg.
+00:15:43 - 00:15:43 - Unbekannt:  Hm.
+00:15:44 - 00:15:46 - Sprecher SPEAKER_02:  Aber das würde er niemals machen.
+00:15:47 - 00:15:47 - Unbekannt:  Hm.
+00:15:49 - 00:15:50 - Sprecher SPEAKER_01:  Hm.
+00:15:50 - 00:15:50 - Sprecher SPEAKER_01: 
+00:15:50 - 00:15:50 - Sprecher SPEAKER_01:  Ja.
+00:15:51 - 00:15:53 - Sprecher SPEAKER_01:  Was würdest du machen, wenn er sowas machen würde?
+00:15:54 - 00:15:55 - Unbekannt:  Hm.
+00:15:58 - 00:15:59 - Sprecher SPEAKER_02:  Weiß ich nicht. Ich...
+00:16:01 - 00:16:09 - Sprecher SPEAKER_02:  Es liegt so fern von meiner Vorstellung, dass er sowas machen würde, dass ich nicht mal genau weiß, was ich... wie ich dann reagieren würde. Wahrscheinlich...
+00:16:09 - 00:16:17 - Sprecher SPEAKER_02:  Ich wäre einfach zutiefst im Vertrauen gebrochen, so komplett zerbrochen. Und dann müsste ich die Scherben meines Herzens wieder aufsammeln.
+00:16:17 - 00:16:19 - Sprecher SPEAKER_02:  Und dann würde ich vielleicht ausziehen.
+00:16:19 - 00:16:19 - Sprecher SPEAKER_02:  Ja.
+00:16:21 - 00:16:27 - Sprecher SPEAKER_01:  Ich tastete mich einfach ganz langsam mit Was-wäre-wenn-Szenarien an den Punkt ran, an dem ich Oxe dann alles sagen konnte.
+00:16:29 - 00:16:30 - Sprecher SPEAKER_02:  Okay, also ich würde...
+00:16:31 - 00:16:38 - Sprecher SPEAKER_02:  ...körperlich und geistig komplett davon überzeugt sein, dass ich sterben würde. Aber ich wäre nicht wirklich in der Situation, dass ich sterbe.
+00:16:39 - 00:16:40 - Sprecher SPEAKER_01:  Genau. Zum Beispiel sowas.
+00:16:40 - 00:16:48 - Sprecher SPEAKER_01:  So ein bisschen wie... naja, guck mal, so das, was wir... naja, okay, nee, nicht das, was wir mit Earl gemacht haben. Das ist nicht ganz so... aber so ähnlich.
+00:16:48 - 00:16:53 - Sprecher SPEAKER_01:  Vielleicht wenn... so wie das, was wir mit Earl gemacht haben, was ich mit Earl gemacht habe, nur zehnmal Dollar.
+00:16:56 - 00:16:59 - Sprecher SPEAKER_02:  Ja, schwierig. Ich find's trotzdem ganz schön abgefuckt, oder nicht?
+00:17:00 - 00:17:06 - Sprecher SPEAKER_02:  Und zu was ist die Person dann noch fähig, die du glaubtest, ein sehr vertrautes Verhältnis zuzuhaben?
+00:17:07 - 00:17:08 - Sprecher SPEAKER_02:  Also ich fühl mich dann unsicher.
+00:17:09 - 00:17:10 - Sprecher SPEAKER_02:  Und dann will ich Rache.
+00:17:11 - 00:17:13 - Sprecher SPEAKER_02:  Ich will, dass er sich einscheißt.
+00:17:14 - 00:17:17 - Sprecher SPEAKER_02:  Dass er in einer ähnlichen Lage dann ist und glaubt...
+00:17:17 - 00:17:20 - Sprecher SPEAKER_02:  Ja, also... Rache halt.
+00:17:21 - 00:17:23 - Sprecher SPEAKER_01:  Und dann war's soweit.
+00:17:25 - 00:17:26 - Sprecher SPEAKER_01:  Hmm... Oxe?
+00:17:27 - 00:17:28 - Sprecher SPEAKER_01:  Ja, Fritzi?
+00:17:30 - 00:17:32 - Sprecher SPEAKER_01:  Hmm... Ich weiß nicht.
+00:17:34 - 00:17:35 - Sprecher SPEAKER_01:  Hmm...
+00:17:35 - 00:17:36 - Sprecher SPEAKER_01:  Hmm...
+00:17:37 - 00:17:41 - Sprecher SPEAKER_01:  Okay, es gibt jetzt was, was ich dir sagen muss. Jetzt... Ich glaub, es ist jetzt soweit.
+00:17:41 - 00:17:42 - Sprecher SPEAKER_01:  Ist jetzt soweit?
+00:17:42 - 00:17:43 - Sprecher SPEAKER_01:  Es ist jetzt soweit, glaub ich.
+00:17:44 - 00:17:45 - Sprecher SPEAKER_01:  Okay, ähm, warte.
+00:17:46 - 00:17:49 - Sprecher SPEAKER_02:  Ich weiß nicht, ob ich hier ein Pulsmessgerät hab, aber...
+00:17:49 - 00:17:51 - Sprecher SPEAKER_02:  Ist es was Schlimmes?
+00:17:52 - 00:17:53 - Sprecher SPEAKER_01:  Ja.
+00:17:55 - 00:17:56 - Sprecher SPEAKER_01:  Ernsthaft, was wirklich Schlimmes?
+00:17:57 - 00:18:00 - Sprecher SPEAKER_01:  Also schon... Ja, es ist was richtig Schlimmes.
+00:18:01 - 00:18:06 - Sprecher SPEAKER_01:  Aber ich muss dir das jetzt sagen, weil ich Angst hab jeden Tag, dass du...
+00:18:07 - 00:18:09 - Sprecher SPEAKER_01:  ...in diese Gang eintrittst.
+00:18:10 - 00:18:11 - Sprecher SPEAKER_01:  Hmm...
+00:18:11 - 00:18:15 - Sprecher SPEAKER_01:  Soll ich etwa nicht in die Gang eintreten? Ich hätt's heute fast gemacht, Fritzi.
+00:18:15 - 00:18:15 - Sprecher SPEAKER_01:  Du kannst nicht, nein, du kannst nicht.
+00:18:15 - 00:18:18 - Sprecher SPEAKER_01:  Okay, Gott sei Dank hast du's nicht getan. Aber du kannst in die Gang eintreten.
+00:18:18 - 00:18:20 - Sprecher SPEAKER_01:  Es ist jetzt nichts, was heißt, dass du nicht in die Gang eintreten kannst.
+00:18:20 - 00:18:22 - Sprecher SPEAKER_01:  Aber wieso Gott sei Dank hab ich's nicht getan?
+00:18:22 - 00:18:26 - Sprecher SPEAKER_01:  Naja, weil du das auf jeden Fall davor wissen musst, weil sonst kommst du da nicht mehr raus.
+00:18:26 - 00:18:28 - Sprecher SPEAKER_01:  Wenn du da einmal eingetreten bist, kommst du nicht mehr raus.
+00:18:28 - 00:18:31 - Sprecher SPEAKER_01:  Und stell dir mal vor, dann muss ich's dir danach irgendwann sagen, oder es kommt irgendwann raus.
+00:18:31 - 00:18:34 - Sprecher SPEAKER_01:  Und dann, hä, bist du in der Gang und musst da dein Leben lang drinbleiben oder sterben.
+00:18:35 - 00:18:38 - Sprecher SPEAKER_01:  Oh, okay! Raus damit, Fritzi, jetzt! Raus damit! Ich bin bereit!
+00:18:39 - 00:18:43 - Sprecher SPEAKER_01:  Dann hab ich Oxe erzählt, wie sich das alles von Anfang an entwickelt hat.
+00:18:43 - 00:18:46 - Sprecher SPEAKER_01:  Doch ich hab gemerkt, dass ich da einfach nicht deutlich genug war.
+00:18:47 - 00:18:49 - Sprecher SPEAKER_01:  Oder Oxe es einfach nicht wahrhaben wollte.
+00:18:50 - 00:18:54 - Sprecher SPEAKER_01:  Also war ich gezwungen, es ihm ganz deutlich klar zu machen.
+00:18:55 - 00:18:56 - Sprecher SPEAKER_01:  Oxe.
+00:18:57 - 00:19:00 - Sprecher SPEAKER_01:  Ah, ich versuch wirklich zu fragen, ich bin kein Columbo.
+00:19:00 - 00:19:02 - Sprecher SPEAKER_01:  Es waren die, es war Wagner.
+00:19:02 - 00:19:05 - Sprecher SPEAKER_01:  Es war Wagner und die Gang.
+00:19:05 - 00:19:10 - Sprecher SPEAKER_01:  Wagner und die Gang haben mir Drogen verkauft, maskiert.
+00:19:12 - 00:19:13 - Sprecher SPEAKER_01:  Das...
+00:19:14 - 00:19:21 - Sprecher SPEAKER_01:  Und wahrscheinlich waren... Also, Lü konnte mir nicht sagen, ob die das auch in der Kirche waren, Oxe.
+00:19:21 - 00:19:22 - Sprecher SPEAKER_01:  Okay, ja, ja.
+00:19:22 - 00:19:29 - Sprecher SPEAKER_01:  Er konnte das nicht zur Sicherheit sagen. Er hat nur gesagt, okay, scheiße, Fritzi, ich wollte es dir nicht sagen, weil ich weiß, dass das eigentlich deine Freunde sind.
+00:19:29 - 00:19:30 - Sprecher SPEAKER_01:  Ja.
+00:19:30 - 00:19:35 - Sprecher SPEAKER_01:  Ich hätte dir das jetzt nicht gesagt, aber du hast es anscheinend selber kombiniert.
+00:19:35 - 00:19:42 - Sprecher SPEAKER_01:  Und was soll ich noch machen? Ja, wir haben damals, als wir das Parkhaus observiert haben, sind wir halt in einem Auto hinterher gefahren.
+00:19:42 - 00:19:43 - Sprecher SPEAKER_01:  Und da sind wir dann halt zu deinen Freunden gefahren.
+00:19:45 - 00:19:45 - Sprecher SPEAKER_01:  Also in die Hood.
+00:19:45 - 00:19:47 - Sprecher SPEAKER_01:  Es ist in die Hood gefahren.
+00:19:47 - 00:19:50 - Sprecher SPEAKER_01:  Die sind hinterher und dann waren sie in der Hood.
+00:19:50 - 00:19:52 - Sprecher SPEAKER_02:  Okay, ich verstehe, ja.
+00:19:52 - 00:19:55 - Sprecher SPEAKER_02:  Ich verstehe, okay, aber ist da nicht irgendein Haken, Mann?
+00:19:55 - 00:19:57 - Sprecher SPEAKER_01:  Ist da nicht irgendeine Lücke in der scheiß Geschichte?
+00:19:57 - 00:20:01 - Sprecher SPEAKER_01:  Wie gesagt, ich habe das die letzte Zeit relativ genau mir angeguckt.
+00:20:01 - 00:20:02 - Sprecher SPEAKER_01:  Ich habe...
+00:20:02 - 00:20:03 - Sprecher SPEAKER_01:  Ich habe Gänsehaut.
+00:20:03 - 00:20:10 - Sprecher SPEAKER_01:  Und naja, wenn du all das nicht glaubst, dann glaubst du vielleicht einfach, dass der Fano einfach mal nebenher zwischendrin gedroppt hat, dass...
+00:20:10 - 00:20:10 - Sprecher SPEAKER_01:  Achso? Nee.
+00:20:10 - 00:20:13 - Sprecher SPEAKER_01:  Ich weiß schon die ganze Zeit, dass Jacks ist, der mir Drogen verkauft, Fritzi.
+00:20:13 - 00:20:14 - Sprecher SPEAKER_01:  Jack?
+00:20:14 - 00:20:17 - Sprecher SPEAKER_01:  Ich weiß nicht, die haben sich erst angefangen zu maskieren, seitdem du dabei bist.
+00:20:19 - 00:20:23 - Sprecher SPEAKER_01:  Okay, aber in der Kirche und so, die ganze Psychoscheiße mit dem Hamster, das war...
+00:20:23 - 00:20:25 - Sprecher SPEAKER_02:  Das ist nicht klar, oder?
+00:20:26 - 00:20:27 - Sprecher SPEAKER_02:  Vielleicht hat sich ja jemand eingemischt.
+00:20:28 - 00:20:30 - Sprecher SPEAKER_02:  Vielleicht ist da jemand Größeres dazu gekommen.
+00:20:30 - 00:20:31 - Sprecher SPEAKER_02:  Was heißt...
+00:20:31 - 00:20:33 - Sprecher SPEAKER_02:  Also, das war ja wie so eine Mafia.
+00:20:33 - 00:20:36 - Sprecher SPEAKER_02:  Es macht wirklich Sinn, dass die das waren, aber...
+00:20:36 - 00:20:39 - Sprecher SPEAKER_02:  Ich kann mir nicht vorstellen, dass die sowas mit uns abziehen würden, Mann.
+00:20:41 - 00:20:41 - Sprecher SPEAKER_02:  Ja.
+00:20:42 - 00:20:46 - Sprecher SPEAKER_02:  Komplett krank, Fritzi, komplett krank. Ich habe scheiß Gänsehaut.
+00:20:47 - 00:20:54 - Sprecher SPEAKER_01:  Ich weiß, Oxxel, ich weiß das. Es tut mir leid. Ich wollte es dir auch die ganze Zeit eigentlich erstmal nicht sagen, weil...
+00:20:55 - 00:20:57 - Sprecher SPEAKER_01:  Weil es Wagner ist? Hast du es Wagner gesagt?
+00:20:57 - 00:20:58 - Sprecher SPEAKER_01:  Nein, Wagner weiß das nicht.
+00:20:59 - 00:21:02 - Sprecher SPEAKER_01:  Und ich musste auch den letzten Restzweifel beseitigen.
+00:21:02 - 00:21:08 - Sprecher SPEAKER_01:  Falls du noch zweifelst, dass es wirklich die Jungs waren alles, sowohl in der Kirche als auch auf den Parkdecken.
+00:21:09 - 00:21:10 - Sprecher SPEAKER_01:  Naja, also...
+00:21:10 - 00:21:14 - Sprecher SPEAKER_01:  Einer von denen, die dabei waren, haben es eingestanden.
+00:21:15 - 00:21:16 - Sprecher SPEAKER_01:  Ja.
+00:21:17 - 00:21:18 - Sprecher SPEAKER_01:  Kann ich dir nicht sagen, Oxxel.
+00:21:18 - 00:21:22 - Sprecher SPEAKER_01:  Bitte sag Wagner, bitte sag mir, Wagner hat es zugegeben. Wenigstens das.
+00:21:24 - 00:21:28 - Sprecher SPEAKER_01:  Glaubst du wirklich, dass wir hier gerade stehen würden, wenn Wagner das zugegeben hätte?
+00:21:28 - 00:21:29 - Sprecher SPEAKER_01:  Ich wünschte es mir so, Frit...
+00:21:29 - 00:21:32 - Sprecher SPEAKER_01:  Nein, Oxxel, ganz im Ernst, Mann.
+00:21:32 - 00:21:35 - Sprecher SPEAKER_01:  Das große Problem ist, dass Wagner das nie aufgeklärt hat.
+00:21:35 - 00:21:39 - Sprecher SPEAKER_01:  Dass Wagner gleichzeitig die ganze Zeit behauptet hätte, dass wir, naja...
+00:21:39 - 00:21:43 - Sprecher SPEAKER_01:  immer ehrlich sind und uns total aufeinander verlassen können.
+00:21:44 - 00:21:44 - Sprecher SPEAKER_01:  Ja.
+00:21:45 - 00:21:46 - Sprecher SPEAKER_01:  Fritzi...
+00:21:47 - 00:21:48 - Sprecher SPEAKER_01:  Das ist...
+00:21:49 - 00:21:50 - Sprecher SPEAKER_02:  Das ist genau der Punkt.
+00:21:50 - 00:21:53 - Sprecher SPEAKER_02:  Dass Wagner ständig solche Sachen sagt.
+00:21:54 - 00:21:57 - Sprecher SPEAKER_02:  Und einem das Gefühl von Vertrautheit gibt.
+00:21:57 - 00:21:58 - Sprecher SPEAKER_02:  Und dass er...
+00:21:59 - 00:22:02 - Sprecher SPEAKER_02:  ein krass guter Kerl ist und auf uns aufpasst, einen beschützt.
+00:22:03 - 00:22:06 - Sprecher SPEAKER_02:  Und dann kommt sowas raus, Mann. Und dann...
+00:22:06 - 00:22:08 - Sprecher SPEAKER_02:  Selbst dann gesteht er es nicht ein.
+00:22:09 - 00:22:09 - Sprecher SPEAKER_02:  Und das...
+00:22:11 - 00:22:13 - Sprecher SPEAKER_02:  Ich weiß nicht, was ich glauben soll, Mann.
+00:22:15 - 00:22:19 - Sprecher SPEAKER_01:  Auch wenn Oxxel spürbar verletzt war, kam er zu einem ähnlichen Entschluss wie ich.
+00:22:19 - 00:22:23 - Sprecher SPEAKER_01:  Die hatten extrem viele Chancen, das einzugestehen.
+00:22:23 - 00:22:28 - Sprecher SPEAKER_01:  Die hatten extrem viele Chancen, das in irgendeiner Art und Weise zu sagen, dass das alles Bullshit war.
+00:22:28 - 00:22:30 - Sprecher SPEAKER_01:  Und dass sie jetzt mittlerweile das irgendwie anders sehen.
+00:22:31 - 00:22:32 - Sprecher SPEAKER_01:  Die haben es nicht gemacht, Oxxel.
+00:22:35 - 00:22:36 - Sprecher SPEAKER_01:  Eine Bedingung.
+00:22:38 - 00:22:39 - Sprecher SPEAKER_02:  Ich will wagen.
+00:22:39 - 00:22:39 - Sprecher SPEAKER_02:  Ich will, dass Wagner...
+00:22:42 - 00:22:43 - Sprecher SPEAKER_02:  ...mir das Wagners zugibt.
+00:22:44 - 00:22:45 - Sprecher SPEAKER_02:  Ich will, dass er es sagt.
+00:22:45 - 00:22:48 - Sprecher SPEAKER_02:  Oder was denkst du, was ich tun soll?
+00:22:48 - 00:22:49 - Sprecher SPEAKER_02:  Soll ich die Fresse halten?
+00:22:50 - 00:22:51 - Sprecher SPEAKER_01:  Naja, also...
+00:22:52 - 00:22:54 - Sprecher SPEAKER_01:  Vorhin hast du gesagt, du willst Rache haben.
+00:22:54 - 00:22:57 - Sprecher SPEAKER_01:  Wenn sowas passieren würde, oder nicht?
+00:22:58 - 00:23:00 - Sprecher SPEAKER_01:  Ja, aber dazu müsste ich auch...
+00:23:01 - 00:23:02 - Sprecher SPEAKER_01:  ...hundert Prozent sicher sein.
+00:23:03 - 00:23:05 - Sprecher SPEAKER_01:  Aber die Rache kannst du ja nur haben...
+00:23:07 - 00:23:09 - Sprecher SPEAKER_01:  ...wenn er denkt, dass ich es nicht weiß.
+00:23:09 - 00:23:11 - Sprecher SPEAKER_01:  Wenn du denkst, dass er es nicht weiß, Fende.
+00:23:11 - 00:23:12 - Sprecher SPEAKER_01:  Ja, genau.
+00:23:12 - 00:23:15 - Sprecher SPEAKER_01:  Also, ich glaube, wir haben da relativ das gleiche Gefühl, Oxxel.
+00:23:16 - 00:23:16 - Sprecher SPEAKER_01:  Ja.
+00:23:18 - 00:23:18 - Unbekannt:  Mhh...
+00:23:20 - 00:23:23 - Sprecher SPEAKER_01:  So wie du dich fühlst, habe ich mich auch die ganze Zeit gefühlt.
+00:23:23 - 00:23:27 - Sprecher SPEAKER_01:  Und so fühle ich mich jetzt auch manchmal, weil mir immer wieder bewusst wird, dass ich...
+00:23:27 - 00:23:29 - Sprecher SPEAKER_01:  ...zum Schluss nicht richtig...
+00:23:29 - 00:23:31 - Sprecher SPEAKER_01:  ...ich kann ihm nicht richtig vertrauen.
+00:23:31 - 00:23:33 - Sprecher SPEAKER_01:  Ich will ihm echt richtig vertrauen, aber ich kann es nicht.
+00:23:33 - 00:23:34 - Sprecher SPEAKER_01:  Und das ist wirklich schwierig.
+00:23:34 - 00:23:36 - Sprecher SPEAKER_01:  Ich habe so ein zweigespaltenes Herz, Oxxel.
+00:23:37 - 00:23:38 - Sprecher SPEAKER_01:  Ja, ich verstehe.
+00:23:38 - 00:23:39 - Sprecher SPEAKER_01:  Das mag ich alle so gerne.
+00:23:39 - 00:23:43 - Sprecher SPEAKER_01:  Und gleichzeitig weiß ich, dass sie mich nur ins Verderben führen wollen.
+00:23:43 - 00:23:46 - Sprecher SPEAKER_01:  Dass ich denen am Ende überhaupt nichts wert bin.
+00:23:46 - 00:23:49 - Sprecher SPEAKER_01:  Und darum kam auch dieses große, diese große...
+00:23:50 - 00:23:55 - Sprecher SPEAKER_01:  ...Angst, dass Eve mich komplett verarscht und irgendwie da mit H.P. Huso unterwegs ist, weil ich...
+00:23:55 - 00:23:56 - Sprecher SPEAKER_01:  ...keine Ahnung, Mann.
+00:23:56 - 00:24:00 - Sprecher SPEAKER_01:  Weil ich weiß, was Eve noch gemacht hat und dass Eve da auch dabei war.
+00:24:01 - 00:24:01 - Sprecher SPEAKER_01:  Ah...
+00:24:02 - 00:24:03 - Sprecher SPEAKER_01:  Ich fand's ja auch...
+00:24:04 - 00:24:06 - Sprecher SPEAKER_02:  Ich fand's ja auch alles schlüssig.
+00:24:06 - 00:24:08 - Sprecher SPEAKER_02:  Und ich wünschte, es wäre nicht schlüssig.
+00:24:08 - 00:24:10 - Sprecher SPEAKER_02:  Ich wünschte einfach, dass sie ein...
+00:24:10 - 00:24:11 - Sprecher SPEAKER_02:  Ja...
+00:24:13 - 00:24:14 - Sprecher SPEAKER_02:  Nicht Fritzi.
+00:24:15 - 00:24:17 - Sprecher SPEAKER_02:  Ich kann doch jetzt nicht in Zukunft rumlaufen.
+00:24:18 - 00:24:21 - Sprecher SPEAKER_02:  Und alles ist so wie vorher mit diesem Wissen.
+00:24:21 - 00:24:22 - Sprecher SPEAKER_02:  Ich wohne bei Wagner.
+00:24:22 - 00:24:23 - Sprecher SPEAKER_02:  Ich li...
+00:24:23 - 00:24:24 - Sprecher SPEAKER_02:  Ich hab...
+00:24:26 - 00:24:26 - Sprecher SPEAKER_02:  Ich...
+00:24:29 - 00:24:29 - Sprecher SPEAKER_02:  Hm...
+00:24:33 - 00:24:34 - Sprecher SPEAKER_02:  Was?
+00:24:34 - 00:24:34 - Sprecher SPEAKER_02:  Was?
+00:24:34 - 00:24:34 - Sprecher SPEAKER_02: 
+00:24:34 - 00:24:37 - Sprecher SPEAKER_02:  Was soll ich jetzt tun? Also ich drück's einfach weg. Ich bin so wie immer.
+00:24:38 - 00:24:40 - Sprecher SPEAKER_02:  Und wenn der Tag der Rache gekommen ist...
+00:24:41 - 00:24:41 - Sprecher SPEAKER_02:  Hm...
+00:24:42 - 00:24:43 - Sprecher SPEAKER_02:  Dann...
+00:24:44 - 00:24:47 - Sprecher SPEAKER_02:  ...holen wir uns jeden einzelnen von denen an einen Ort und rächen uns.
+00:24:48 - 00:24:50 - Sprecher SPEAKER_01:  Ich find, wir sollten sie in die Kirche bringen.
+00:24:52 - 00:24:56 - Sprecher SPEAKER_01:  Aber zuerst musste Oxe noch verstehen, wie meine Form der Rache aussehen sollte.
+00:24:57 - 00:25:00 - Sprecher SPEAKER_01:  Ich will nur, dass du verstehst, dass es nicht bedeutet, dass ich...
+00:25:00 - 00:25:01 - Sprecher SPEAKER_01:  ...naja, irgendwie...
+00:25:01 - 00:25:03 - Sprecher SPEAKER_01:  ...denen was Schlechtes wünsche oder sowas.
+00:25:03 - 00:25:09 - Sprecher SPEAKER_01:  Es ist nicht so, dass ich will, dass denen ihr Leben ruiniert wäre oder dass ich irgendwie zur Debatte ziehen würde, denen...
+00:25:09 - 00:25:10 - Sprecher SPEAKER_01:  ...ein Messer in den Rücken zu rammen.
+00:25:11 - 00:25:13 - Sprecher SPEAKER_01:  Egal ob im... im metaphorischen Sinn oder...
+00:25:13 - 00:25:14 - Sprecher SPEAKER_01:  ...in echt.
+00:25:15 - 00:25:15 - Sprecher SPEAKER_01:  Weder noch.
+00:25:16 - 00:25:16 - Unbekannt:  Mhm.
+00:25:17 - 00:25:20 - Sprecher SPEAKER_02:  Also 100 Prozent, ja, Fritzi, sind die da.
+00:25:20 - 00:25:20 - Sprecher SPEAKER_02:  100 Prozent.
+00:25:21 - 00:25:22 - Sprecher SPEAKER_02:  Also brauchen wir nicht mal mehr...
+00:25:23 - 00:25:26 - Sprecher SPEAKER_02:  ...fragen, ob die das zustimmen, also ob sie es zugeben.
+00:25:26 - 00:25:28 - Sprecher SPEAKER_01:  Ach so, nein. Also ich...
+00:25:28 - 00:25:31 - Sprecher SPEAKER_01:  ...mein, ich versteh, dass du mir das vielleicht nicht ganz glauben möchtest, weil ich...
+00:25:31 - 00:25:31 - Sprecher SPEAKER_01: 
+00:25:31 - 00:25:32 - Sprecher SPEAKER_01:  ...ich weiß, wie du mit Wagner...
+00:25:32 - 00:25:33 - Sprecher SPEAKER_01:  ...ähm...
+00:25:33 - 00:25:36 - Sprecher SPEAKER_01:  ...naja, wie du zu Wagner stehst, aber es ist 100 Prozent.
+00:25:37 - 00:25:41 - Sprecher SPEAKER_02:  Aber dann möchte ich genug tun in der Scheißkirche. Ich möchte, dass er es dann zugebt.
+00:25:41 - 00:25:42 - Sprecher SPEAKER_02:  Ja.
+00:25:43 - 00:25:44 - Sprecher SPEAKER_01:  Das kriegen wir hin.
+00:25:44 - 00:25:46 - Sprecher SPEAKER_02:  Und am besten müssen wir uns auch noch Schrotflinten besorgen.
+00:25:47 - 00:25:50 - Sprecher SPEAKER_02:  Weißt du, ich seh's schon, dann ziehen wir uns weiße Anzüge an...
+00:25:50 - 00:25:51 - Unbekannt:  Mhm.
+00:25:51 - 00:25:54 - Sprecher SPEAKER_02:  ...und setz ich mir ne Teufelsmaske auf...
+00:25:54 - 00:25:54 - Sprecher SPEAKER_02:  Mhm.
+00:25:55 - 00:25:55 - Sprecher SPEAKER_01:  Mhm.
+00:25:57 - 00:25:58 - Sprecher SPEAKER_02:  ...und dann...
+00:25:58 - 00:25:59 - Sprecher SPEAKER_02:  Devil, Devil.
+00:25:59 - 00:26:00 - Sprecher SPEAKER_01:  Devil, Devil.
+00:26:00 - 00:26:01 - Sprecher SPEAKER_01:  Ganz genau.
+00:26:02 - 00:26:10 - Sprecher SPEAKER_01:  Ich hatte erst etwas Angst davor, wie Ochse reagiert, Mr. Rocket. Aber ich war es ihm nun mal nach all der Zeit schuldig, wenn's schon niemand aus der Gang tat.
+00:26:11 - 00:26:15 - Sprecher SPEAKER_01:  Dann planten wir, wie unser Denkzettel am effektivsten aussehen könnte.
+00:26:18 - 00:26:21 - Sprecher SPEAKER_01:  Oh mein Gott, das wär so krank, Ochse.
+00:26:23 - 00:26:25 - Sprecher SPEAKER_02:  Das wird verrückt. Scheiße, man, ich weiß nicht.
+00:26:30 - 00:26:35 - Sprecher SPEAKER_01:  Naja, weißt du, zum Schluss könnten sie froh sein über das, was wir hier machen mit ihnen.
+00:26:37 - 00:26:39 - Sprecher SPEAKER_01:  Warum? Weil es schlimmer noch geht?
+00:26:39 - 00:26:52 - Sprecher SPEAKER_01:  Es geht immer schlimmer. Es können...guck mal, wie...was wir alles machen könnten. Wir wären zu vielen fähig, Ochse. Wir könnten ihnen einfach das Gesicht wegballern oder wir könnten...weiß ich nicht...das ganze PD hier einlaufen lassen.
+00:26:53 - 00:26:56 - Sprecher SPEAKER_01:  Die werden richtig Angst haben vor uns. Wir sind nämlich bedrohlich.
+00:26:56 - 00:26:59 - Sprecher SPEAKER_01:  Ochse, wir müssen das wirklich richtig machen, ja?
+00:26:59 - 00:27:03 - Sprecher SPEAKER_01:  Ja, bedrohlich und ernst, klar. Also, ja, wir...
+00:27:03 - 00:27:03 - Sprecher SPEAKER_01:  Wir brauchen Bronco.
+00:27:06 - 00:27:16 - Sprecher SPEAKER_01:  Glaubst du, wir...sind Irish und Bronco miteinander noch irgendwie oder haben die durch den Pornshop alles miteinander gebrochen?
+00:27:17 - 00:27:23 - Sprecher SPEAKER_02:  Irish und Bronco eigentlich...ich denke schon, dass die sich kennen. Die laufen...die fahren doch zusammen oft rum und so.
+00:27:23 - 00:27:26 - Sprecher SPEAKER_02:  Aber vor Irish hat Wagner keine Angst, oder?
+00:27:27 - 00:27:29 - Sprecher SPEAKER_02:  Denke ich nicht. Ich weiß nicht mal, ob er...
+00:27:29 - 00:27:31 - Sprecher SPEAKER_02:  Ob es überhaupt jemanden gibt, vor dem Wagner Angst hat.
+00:27:34 - 00:27:39 - Sprecher SPEAKER_02:  Aber Bronco ist auf jeden Fall jemand, den er sich vielleicht unterwirft. Keine Ahnung.
+00:27:42 - 00:27:46 - Sprecher SPEAKER_01:  Na ja, da müssen wir einfach nochmal gut uns Gedanken drüber machen.
+00:27:47 - 00:27:48 - Sprecher SPEAKER_02:  Ja, ganz gut.
+00:27:48 - 00:27:49 - Sprecher SPEAKER_02:  Okay.
+00:27:51 - 00:27:53 - Sprecher SPEAKER_01:  Gut, dass wir nochmal hier waren.
+00:27:54 - 00:27:56 - Sprecher SPEAKER_01:  Ja, ich liebe es, alte Wunden aufzureißen.
+00:27:59 - 00:28:03 - Sprecher SPEAKER_01:  Weißt du, Mr. Rocket, man sagt, dass der Weg zur Hölle mit guten Absichten gepflastert sei.
+00:28:04 - 00:28:09 - Sprecher SPEAKER_01:  Aber vielleicht war mir zu dem Zeitpunkt schon bewusst, dass es für mich da schon keinen Weg mehr zurück gab.
+00:28:11 - 00:28:12 - Sprecher SPEAKER_01:  HDL wird sie.
+00:28:12 - 00:28:24 - Sprecher SPEAKER_01:  Die Sendung wurde vom hr untertitelt.

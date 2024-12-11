@@ -1,0 +1,329 @@
+Transkription Staffel 1 mit Sprechererkennung von 20 - Bobby 1 [ Fritzi - die Serie ].wav:
+00:00:00 - 00:00:00 - Unbekannt:  Musik
+00:00:32 - 00:00:39 - Sprecher SPEAKER_01:  Zu meiner Zeit im PD hatte ich ja immer einen Taser, aber es war ja nie mein Privatpersönlicher und ich wollte immer einen eigenen haben.
+00:00:40 - 00:00:42 - Sprecher SPEAKER_01:  Aber können Sie mir noch einen Taser geben?
+00:00:43 - 00:00:44 - Sprecher SPEAKER_10:  Das kann ich nicht, nein.
+00:00:44 - 00:00:45 - Sprecher SPEAKER_01:  Achso, okay.
+00:00:47 - 00:00:48 - Sprecher SPEAKER_01:  Aber vielleicht morgen?
+00:00:50 - 00:00:51 - Sprecher SPEAKER_05:  Nein, auch nicht.
+00:00:51 - 00:00:51 - Sprecher SPEAKER_01:  Achso, okay.
+00:00:52 - 00:00:54 - Sprecher SPEAKER_00:  Schwierig, ich weiß nicht, wie du an einen Taser rankommen kannst.
+00:00:56 - 00:00:59 - Sprecher SPEAKER_00:  Das kriegt man, glaube ich, nicht so einfach. Die sind doch sicher super viel wert.
+00:01:00 - 00:01:06 - Sprecher SPEAKER_01:  Ich habe extra gefragt, ob ich privat einen Taser haben kann, aber alle meine Vorgesetzten haben gesagt nein.
+00:01:07 - 00:01:10 - Sprecher SPEAKER_01:  Und ich bräuchte von Ihnen einen Taser, den ich mitnehmen kann.
+00:01:11 - 00:01:14 - Sprecher SPEAKER_10:  Das kann ich Ihnen nicht aushändigen, das sind ja Dienstwaffen.
+00:01:14 - 00:01:19 - Sprecher SPEAKER_10:  Aber Bobby, wenn du den neuen Pawnshop aufmachst, dann musst du da auf jeden Fall Taser verkaufen.
+00:01:21 - 00:01:26 - Sprecher SPEAKER_05:  Ja, Tasers sind gut. Ich habe oft genug einen abbekommen.
+00:01:26 - 00:01:29 - Sprecher SPEAKER_01:  Von Bronco, ich habe auch schon mal von Bronco einen abgekriegt.
+00:01:30 - 00:01:33 - Sprecher SPEAKER_01:  Das war der Tag, an dem ich entschieden habe, Fritzi, du musst auch einen Taser haben.
+00:01:34 - 00:01:37 - Sprecher SPEAKER_01:  Und als ich dann einen Taser hatte, nannte ich ihn Bobby.
+00:01:37 - 00:01:39 - Sprecher SPEAKER_01:  Es gab viele Bobbys.
+00:01:39 - 00:01:42 - Sprecher SPEAKER_01:  Für meinen neuen Taser nenne ich dann Bobby.
+00:01:42 - 00:01:44 - Sprecher SPEAKER_01:  Bobby der Taser, so werde ich ihn nennen.
+00:01:44 - 00:01:45 - Sprecher SPEAKER_01:  Hast du von Bobby den Taser?
+00:01:46 - 00:01:47 - Sprecher SPEAKER_01:  Nein.
+00:01:47 - 00:01:50 - Sprecher SPEAKER_01:  Aber den habe ich als allererstes damals gefragt.
+00:01:50 - 00:01:51 - Sprecher SPEAKER_01:  Bobby ist da.
+00:01:52 - 00:01:53 - Sprecher SPEAKER_01:  Komm, Bobby.
+00:01:53 - 00:01:53 - Sprecher SPEAKER_01:  Bobby.
+00:01:55 - 00:01:57 - Sprecher SPEAKER_01:  Es war echt schwer, an sie heranzukommen.
+00:01:57 - 00:01:59 - Sprecher SPEAKER_01:  Aber leider viel zu leicht für andere sie mir.
+00:01:59 - 00:02:00 - Sprecher SPEAKER_01:  Und ich habe mir dann wieder abgenommen.
+00:02:01 - 00:02:03 - Sprecher SPEAKER_07:  Und erzähl bitte niemandem, dass du einen Taser hast.
+00:02:03 - 00:02:05 - Sprecher SPEAKER_07:  Sonst ist er schneller weg, als du gucken kannst.
+00:02:05 - 00:02:10 - Sprecher SPEAKER_07:  Er hat mich überfallen, hat mich allein hier stehen lassen, hat mir meinen Taser abgenommen und ist jetzt mit dem Taxi weggefahren.
+00:02:11 - 00:02:11 - Sprecher SPEAKER_01:  Brauchst du einen Taser?
+00:02:12 - 00:02:15 - Sprecher SPEAKER_01:  Also, ich wollte schon lange wieder einen Taser, ja.
+00:02:16 - 00:02:17 - Sprecher SPEAKER_07:  Dann lass ihn dir aber nicht klauen, ne?
+00:02:17 - 00:02:19 - Sprecher SPEAKER_07:  Nein, ich habe ihn extra in meine Tasche gesteckt.
+00:02:20 - 00:02:22 - Sprecher SPEAKER_01:  Also sind Bobby 4 und 5 jetzt auch weg.
+00:02:23 - 00:02:26 - Sprecher SPEAKER_01:  Aber immer wenn ich einen hatte, habe ich heftig getasert.
+00:02:27 - 00:02:29 - Sprecher SPEAKER_01:  Dafür habe ich mir extra den Taser geholt.
+00:02:29 - 00:02:32 - Sprecher SPEAKER_01:  Damit ich ihn ein bisschen tasern kann.
+00:02:32 - 00:02:33 - Sprecher SPEAKER_01:  Das ist nicht das.
+00:02:34 - 00:02:36 - Sprecher SPEAKER_04:  Was ist mit dir los?
+00:02:37 - 00:02:38 - Sprecher SPEAKER_04:  Was ist mit dir los?
+00:02:38 - 00:02:40 - Sprecher SPEAKER_04:  Was ist mit dir los?
+00:02:41 - 00:02:44 - Sprecher SPEAKER_04:  Und dafür ist ein Taser einfach perfekt.
+00:02:45 - 00:02:48 - Sprecher SPEAKER_01:  Rückblickend betrachtet war es wahrscheinlich nie besonders gut, dass ich einen Taser hatte.
+00:02:49 - 00:02:51 - Sprecher SPEAKER_01:  Doch Chuck hatte da mal was Schlaues zu gesagt.
+00:02:53 - 00:02:55 - Sprecher SPEAKER_02:  Vielleicht brauchst du gar keinen Taser.
+00:02:55 - 00:02:57 - Sprecher SPEAKER_02:  Vielleicht bringt dir ein Taser immer nur Unglück.
+00:02:57 - 00:02:58 - Sprecher SPEAKER_07:  Okay, warte, eben Punkt.
+00:02:58 - 00:02:59 - Sprecher SPEAKER_07:  Wir haben gesagt, dass du einen Taser hast.
+00:02:59 - 00:02:59 - Sprecher SPEAKER_07:  Wir lügen nicht.
+00:02:59 - 00:03:00 - Sprecher SPEAKER_07:  Was denn?
+00:03:00 - 00:03:01 - Sprecher SPEAKER_07:  Wo hast du den her?
+00:03:02 - 00:03:04 - Sprecher SPEAKER_01:  Oh, das kann ich dir aber wirklich nicht sagen.
+00:03:04 - 00:03:05 - Sprecher SPEAKER_01:  Dann bin ich tot.
+00:03:06 - 00:03:07 - Sprecher SPEAKER_03:  Ansonsten fragst du einfach deinen Freund.
+00:03:09 - 00:03:09 - Sprecher SPEAKER_01:  Wen denn?
+00:03:10 - 00:03:11 - Sprecher SPEAKER_03:  Mr. Rose.
+00:03:12 - 00:03:15 - Sprecher SPEAKER_01:  Von Jamie Rose hatte ich wirklich meinen ersten Taser.
+00:03:15 - 00:03:17 - Sprecher SPEAKER_01:  Das war Bobby Nummer 1.
+00:03:31 - 00:03:33 - Unbekannt:  Noch einen kompletten.
+00:03:33 - 00:03:49 - Unbekannt:  Ja, drücke 1 2 3 4.
+00:03:49 - 00:03:49 - Unbekannt: 
+00:03:49 - 00:03:49 - Unbekannt: 
+00:03:49 - 00:03:49 - Unbekannt: 
+00:03:49 - 00:03:49 - Unbekannt:  Und, guck mal, ist der T raus?
+00:03:49 - 00:03:49 - Unbekannt: 
+00:03:49 - 00:03:50 - Unbekannt:  Der SchiTT Wenn du noch nicht.
+00:03:50 - 00:03:50 - Unbekannt: 
+00:03:50 - 00:03:51 - Unbekannt:  Und dann geh ichости fram unter ein Zitronel ab.
+00:03:51 - 00:03:59 - Unbekannt: ington ein Gesch prototypes ausified boleh sense.
+00:04:16 - 00:04:29 - Unbekannt:  Untertitelung des ZDF, 2020
+00:04:48 - 00:04:53 - Unbekannt:  Untertitelung des ZDF, 2020
+00:05:27 - 00:05:29 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:05:31 - 00:05:59 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:06:10 - 00:06:29 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:06:38 - 00:06:42 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:07:02 - 00:07:04 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:07:32 - 00:07:40 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:08:09 - 00:08:12 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:08:31 - 00:08:32 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:09:03 - 00:09:11 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:09:41 - 00:09:42 - Unbekannt:  Untertitelung des ZDF, 2020
+00:10:11 - 00:10:29 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:10:40 - 00:10:42 - Sprecher SPEAKER_09:  Untertitelung des ZDF, 2020
+00:11:11 - 00:11:29 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:11:31 - 00:11:42 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:00 - 00:12:01 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:03 - 00:12:04 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:09 - 00:12:11 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:12:16 - 00:12:18 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:20 - 00:12:22 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:12:23 - 00:12:25 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2021
+00:12:29 - 00:12:31 - Sprecher SPEAKER_06:  ein paar Ecken rauszukriegen, was das so für ein Mensch ist,
+00:12:31 - 00:12:33 - Sprecher SPEAKER_06:  weil jeder hat so seine andere Meinung.
+00:12:33 - 00:12:34 - Sprecher SPEAKER_06:  Ja.
+00:12:35 - 00:12:37 - Sprecher SPEAKER_01:  Also dann bringt es dir wahrscheinlich auch nichts,
+00:12:37 - 00:12:38 - Sprecher SPEAKER_01:  wenn ich irgendwie
+00:12:39 - 00:12:41 - Sprecher SPEAKER_01:  Dinge herausfinde und dir dann sage,
+00:12:41 - 00:12:43 - Sprecher SPEAKER_01:  weil das sind ja dann nicht meine Meinung.
+00:12:43 - 00:12:45 - Sprecher SPEAKER_01:  Du wolltest bestimmt meine persönliche Meinung,
+00:12:45 - 00:12:47 - Sprecher SPEAKER_01:  weil die besonders cool ist, oder?
+00:12:47 - 00:12:49 - Sprecher SPEAKER_06:  Also wenn du andere Leute wie mich findest,
+00:12:49 - 00:12:50 - Sprecher SPEAKER_06:  dann würdest du mir natürlich unter die Arme halten.
+00:12:50 - 00:12:52 - Sprecher SPEAKER_06:  Und da helfe ich dir natürlich, Rose.
+00:12:52 - 00:12:55 - Sprecher SPEAKER_01:  Na klar, das ist bestimmt für Kriminalitätsbekämpfung da, oder nicht?
+00:12:56 - 00:12:58 - Sprecher SPEAKER_06:  Ja, kannst du was für dich behalten?
+00:12:58 - 00:12:58 - Sprecher SPEAKER_01:  Natürlich.
+00:12:59 - 00:13:00 - Sprecher SPEAKER_01:  Hey, ja.
+00:13:01 - 00:13:02 - Sprecher SPEAKER_01:  Ja, cool.
+00:13:02 - 00:13:04 - Sprecher SPEAKER_01:  Okay, das ist ein Fall, oder was?
+00:13:04 - 00:13:05 - Sprecher SPEAKER_01:  Ja, das ist für einen Fall.
+00:13:05 - 00:13:08 - Sprecher SPEAKER_01:  Okay, da habe ich mir schon gedacht, so viel konnte ich kombinieren.
+00:13:08 - 00:13:09 - Sprecher SPEAKER_01:  Ich bin gut im Kombinieren.
+00:13:09 - 00:13:12 - Sprecher SPEAKER_01:  Ja, du solltest eigentlich ein Detective werden.
+00:13:12 - 00:13:14 - Sprecher SPEAKER_01:  Ich wäre ein guter Detective geworden.
+00:13:14 - 00:13:16 - Sprecher SPEAKER_01:  Das hat sogar auch mal Luke gesagt.
+00:13:16 - 00:13:19 - Sprecher SPEAKER_01:  Aber ich war vor allem eins, nämlich loyal.
+00:13:19 - 00:13:21 - Sprecher SPEAKER_01:  Und hätte ich Billy damals schon gekannt,
+00:13:22 - 00:13:24 - Sprecher SPEAKER_01:  naja, dann wäre das alles nicht so gelaufen.
+00:13:24 - 00:13:26 - Sprecher SPEAKER_01:  Zum Glück kannte ich aber Chuck damals schon.
+00:13:27 - 00:13:27 - Sprecher SPEAKER_02:  Pützi?
+00:13:27 - 00:13:28 - Sprecher SPEAKER_02:  Ja, bitte?
+00:13:28 - 00:13:28 - Sprecher SPEAKER_01:  Bitte?
+00:13:28 - 00:13:34 - Sprecher SPEAKER_02:  Hm, angenommen die Detectives zerren dich in einen Verhörraum
+00:13:34 - 00:13:37 - Sprecher SPEAKER_02:  und fragen dich, was du über Doc Chuck weißt,
+00:13:38 - 00:13:39 - Sprecher SPEAKER_02:  was würdest du ihnen dann sagen?
+00:13:40 - 00:13:44 - Sprecher SPEAKER_01:  Äh, Doc Chuck hat mir bei meiner Nachtblindheit geholfen
+00:13:44 - 00:13:45 - Sprecher SPEAKER_01:  und erst dachte ich, er wäre kriminell,
+00:13:45 - 00:13:47 - Sprecher SPEAKER_01:  aber dann hat sich herausgestellt, dass er gar nicht kriminell ist.
+00:13:48 - 00:13:50 - Sprecher SPEAKER_02:  Perfekt, bleiben wir dabei.
+00:13:50 - 00:13:53 - Sprecher SPEAKER_02:  Aber Jamie war mir eben auch einfach ein echt guter Freund.
+00:13:56 - 00:13:57 - Sprecher SPEAKER_06:  War der da?
+00:13:58 - 00:13:58 - Unbekannt:  Ja.
+00:13:58 - 00:13:58 - Unbekannt: 
+00:14:01 - 00:14:03 - Sprecher SPEAKER_06:  Jetzt hab ich dich doch beinahe übersehen.
+00:14:03 - 00:14:05 - Sprecher SPEAKER_01:  Jetzt bist du's doch, ich hab einfach nur mal gewunken,
+00:14:05 - 00:14:07 - Sprecher SPEAKER_01:  aber ich wusste nicht, wer drin sitzt.
+00:14:07 - 00:14:07 - Sprecher SPEAKER_01:  Hallo!
+00:14:08 - 00:14:09 - Sprecher SPEAKER_01:  Ja, Grüße!
+00:14:09 - 00:14:10 - Sprecher SPEAKER_01:  Na, alles klar?
+00:14:10 - 00:14:11 - Sprecher SPEAKER_01:  Ja!
+00:14:11 - 00:14:11 - Sprecher SPEAKER_01:  Ja.
+00:14:11 - 00:14:13 - Sprecher SPEAKER_10:  Hallo, na, was geht, alles klar?
+00:14:13 - 00:14:14 - Sprecher SPEAKER_10:  Ja, Mussten selbst.
+00:14:15 - 00:14:16 - Sprecher SPEAKER_10:  Ja, auch alles klar.
+00:14:16 - 00:14:17 - Sprecher SPEAKER_01:  Und was machst du heute Abend so Schönes?
+00:14:18 - 00:14:22 - Sprecher SPEAKER_10:  Ja, ich weiß nicht, ich hab gerade kurz Mr. Richman besucht,
+00:14:22 - 00:14:24 - Sprecher SPEAKER_01:  um ihm kurz einen lieben Gruß dazulassen von mir.
+00:14:25 - 00:14:26 - Sprecher SPEAKER_01:  Und davor...
+00:14:26 - 00:14:27 - Sprecher SPEAKER_01:  Bist du zusammengeschlagen, oder was?
+00:14:27 - 00:14:29 - Sprecher SPEAKER_10:  Natürlich nicht, das wäre ja kriminell.
+00:14:29 - 00:14:31 - Sprecher SPEAKER_01:  Aber so was ähnliches.
+00:14:32 - 00:14:33 - Sprecher SPEAKER_01:  Und dann bin ich...
+00:14:33 - 00:14:37 - Sprecher SPEAKER_01:  Ey, Fritzi, das fand ich wirklich unfair, dass du mich mit einem Taser,
+00:14:38 - 00:14:42 - Sprecher SPEAKER_09:  den du wahrscheinlich vom LSBD mitgehen lassen hast, mich eben getasert hast.
+00:14:42 - 00:14:43 - Sprecher SPEAKER_06:  Das kann ich bezeugen.
+00:14:43 - 00:14:43 - Unbekannt: 
+00:14:45 - 00:14:49 - Sprecher SPEAKER_06:  Ja gut, also es wäre jetzt bei jedem anderen Officer kritisch, außer bei dem, der es halt besorgt hat.
+00:14:50 - 00:14:50 - Unbekannt:  Ja.
+00:14:52 - 00:14:55 - Sprecher SPEAKER_01:  Hast du gehört, Richie Boys ist nicht kritisch.
+00:14:55 - 00:14:57 - Sprecher SPEAKER_01:  Süß, dass du versucht hast, mich auflaufen zu lassen.
+00:14:58 - 00:15:00 - Sprecher SPEAKER_09:  Aber das ist eine illegale Schusswaffe.
+00:15:00 - 00:15:01 - Sprecher SPEAKER_01:  Ist das so, Officer?
+00:15:01 - 00:15:02 - Sprecher SPEAKER_01:  Das ist halt actually nicht wahr.
+00:15:03 - 00:15:03 - Sprecher SPEAKER_06:  Nein.
+00:15:04 - 00:15:07 - Sprecher SPEAKER_06:  Der ist halt nur schwer zu kriegen, aber besitzen können sie den.
+00:15:07 - 00:15:08 - Sprecher SPEAKER_06:  Wo bekomme ich denn so einen Taser?
+00:15:09 - 00:15:10 - Sprecher SPEAKER_06:  Das ist nicht mehr meine Aufgabe, ne?
+00:15:10 - 00:15:11 - Sprecher SPEAKER_06:  Das ist jetzt äh...
+00:15:12 - 00:15:15 - Sprecher SPEAKER_10:  Sag doch einfach, wenn das nicht illegal ist.
+00:15:15 - 00:15:17 - Sprecher SPEAKER_10:  Ja, es gibt Leute, die den verkaufen.
+00:15:18 - 00:15:24 - Sprecher SPEAKER_10:  Aber rein theoretisch, Officer, wer läuft denn so mit einem Taser rum, außer Fritzi?
+00:15:24 - 00:15:24 - Sprecher SPEAKER_09:  Äh...
+00:15:24 - 00:15:25 - Sprecher SPEAKER_09:  Und Officer?
+00:15:26 - 00:15:26 - Sprecher SPEAKER_09:  Oh, Securities.
+00:15:26 - 00:15:28 - Sprecher SPEAKER_10:  Äh, tatsächlich ja.
+00:15:28 - 00:15:30 - Sprecher SPEAKER_10:  Ich bin ja soweit wie ein Officer.
+00:15:31 - 00:15:32 - Sprecher SPEAKER_10:  Es gibt einige Leute, die mit einem Taser arbeiten.
+00:15:32 - 00:15:33 - Sprecher SPEAKER_10:  Ich bräuchte so einen Taser, wissen Sie?
+00:15:34 - 00:15:37 - Sprecher SPEAKER_09:  Angenommen, ich hätte eine registrierte AK-47.
+00:15:38 - 00:15:42 - Sprecher SPEAKER_10:  Ich habe das dumpfe Gefühl, dass das unter illegale Waffen fallen würde.
+00:15:43 - 00:15:46 - Sprecher SPEAKER_08:  So, gleich müssen wir umhören. Oh, gut. Ähm... Fritzi?
+00:15:47 - 00:15:48 - Sprecher SPEAKER_01:  Ja, bitte?
+00:15:48 - 00:15:49 - Sprecher SPEAKER_08:  Pick dich.
+00:15:49 - 00:15:50 - Sprecher SPEAKER_01:  Ja, okay, Spiegel.
+00:15:50 - 00:15:53 - Sprecher SPEAKER_01:  Wir kommen ja genau richtig wieder. Die arme Fritzi.
+00:15:53 - 00:15:56 - Sprecher SPEAKER_10:  Ich sag ja, irgendwas brodelte damals schon in Richmond.
+00:15:56 - 00:15:59 - Sprecher SPEAKER_01:  Ich hab Rose aber auch manchmal einfach vom PD abgeholt.
+00:15:59 - 00:16:02 - Sprecher SPEAKER_01:  Und einmal hat er mich einfach zu so einem Informantengespräch mitgenommen.
+00:16:02 - 00:16:05 - Sprecher SPEAKER_01:  Das war sowas von unüberlegt, Mr. Rocket.
+00:16:05 - 00:16:08 - Sprecher SPEAKER_01:  Vor allem, weil der Informant Pinsel war.
+00:16:08 - 00:16:09 - Sprecher SPEAKER_01:  Hallo, guten Abend, Kollegen.
+00:16:10 - 00:16:11 - Sprecher SPEAKER_10:  Grüße.
+00:16:11 - 00:16:11 - Sprecher SPEAKER_10:  Grüße. Hallo.
+00:16:12 - 00:16:12 - Sprecher SPEAKER_10:  Na, alles klar?
+00:16:13 - 00:16:14 - Sprecher SPEAKER_10:  Nur gleich hin?
+00:16:14 - 00:16:15 - Sprecher SPEAKER_10:  Ja, ja, selber.
+00:16:15 - 00:16:17 - Sprecher SPEAKER_10:  Ich warte nur auf Rose. Ich hole den ab.
+00:16:17 - 00:16:22 - Sprecher SPEAKER_01:  Also stelle ich mich so unauffällig zu euch, weil er telefoniert und es mir peinlich ist, so vor ihm zu stehen dannst.
+00:16:23 - 00:16:23 - Sprecher SPEAKER_01:  Grüße.
+00:16:23 - 00:16:24 - Sprecher SPEAKER_01:  Hallo.
+00:16:24 - 00:16:24 - Sprecher SPEAKER_01:  Grüße. Hey.
+00:16:24 - 00:16:27 - Sprecher SPEAKER_06:  Ja, schön, dass du da bist. Von mir aus kann man direkt los.
+00:16:27 - 00:16:28 - Sprecher SPEAKER_06:  Bist du fertig schon, ja?
+00:16:28 - 00:16:28 - Sprecher SPEAKER_06:  Jo.
+00:16:29 - 00:16:30 - Sprecher SPEAKER_06:  Okay, alles klar, Superbuddy.
+00:16:30 - 00:16:32 - Sprecher SPEAKER_01:  Rose hört nicht mal mehr selber, weißt du?
+00:16:32 - 00:16:33 - Sprecher SPEAKER_04:  Ja, der hat abgerufen.
+00:16:33 - 00:16:33 - Sprecher SPEAKER_04:  Der hat sich total verändert.
+00:16:35 - 00:16:40 - Sprecher SPEAKER_04:  Hey, ja, Rose arbeitet ja auch. Der leistet professionelle Polizeiarbeit, habe ich gehört.
+00:16:41 - 00:16:43 - Sprecher SPEAKER_06:  Genau. Außerdem habe ich eine Superbuddy, die mich gerne abholt.
+00:16:43 - 00:16:43 - Sprecher SPEAKER_06:  Ganz genau.
+00:16:43 - 00:16:45 - Sprecher SPEAKER_06:  Alle sind neidisch. Alle neidisch.
+00:16:45 - 00:16:50 - Sprecher SPEAKER_06:  Alle sind neidisch auf Rose und seine professionelle Arbeit.
+00:16:50 - 00:16:53 - Sprecher SPEAKER_01:  Na ja, komm Rose, wir gehen. Die haben irgendwelche Probleme, ja.
+00:16:53 - 00:16:54 - Sprecher SPEAKER_01:  Schönen Abend.
+00:16:55 - 00:17:01 - Sprecher SPEAKER_06:  Ja, ganz kurz, ganz kurz. Können wir mal ganz kurz Richtung Stadtpark fahren? Hast du denn auch Lust auf so einen ganz, ganz kleinen geheimen Auftrag?
+00:17:02 - 00:17:04 - Sprecher SPEAKER_06:  Klar fahren wir zum Stadtpark. Let's go.
+00:17:05 - 00:17:06 - Sprecher SPEAKER_01:  Da sind gleich ein Informanten.
+00:17:06 - 00:17:08 - Sprecher SPEAKER_01:  Was für ein Informanten denn?
+00:17:08 - 00:17:12 - Sprecher SPEAKER_06:  Ja, der hilft mir, genauso wie du bei den ein oder anderen Fällen.
+00:17:12 - 00:17:14 - Sprecher SPEAKER_06:  Ja, sehr schön, dass das geklappt hat, wa?
+00:17:15 - 00:17:15 - Sprecher SPEAKER_06:  Alter.
+00:17:16 - 00:17:16 - Sprecher SPEAKER_06:  Berichten Sie.
+00:17:17 - 00:17:20 - Sprecher SPEAKER_06:  Was wolltest du wissen? Ich habe keine Informationen über den Mann.
+00:17:21 - 00:17:22 - Sprecher SPEAKER_03:  Dreselmann, das ist nicht dein Ernst.
+00:17:22 - 00:17:28 - Sprecher SPEAKER_03:  Ich war auf der Suche nach dieser Person. Ich weiß, ich kenne Leute, die den kennen. Ich kenne den gar nicht.
+00:17:28 - 00:17:31 - Sprecher SPEAKER_03:  Ich versuche es. Es ist halt was dazwischen gekommen.
+00:17:32 - 00:17:34 - Sprecher SPEAKER_06:  Ach, also haben Sie gar nicht gesucht?
+00:17:34 - 00:17:35 - Sprecher SPEAKER_03:  Nein.
+00:17:35 - 00:17:41 - Sprecher SPEAKER_01:  Mann, Pinsel, wieso denn nicht? Wieso kannst du Rose was versprechen und dann machst du es nicht? Das ist total die schlechte Freundschaftsarbeit.
+00:17:42 - 00:17:43 - Sprecher SPEAKER_03:  Ja.
+00:17:43 - 00:17:49 - Sprecher SPEAKER_03:  Auf mich wurde heute geschossen. Ich habe versucht, ein Boot zu kentern. Ich habe versucht, ein Boot untergehen zu lassen.
+00:17:49 - 00:17:52 - Sprecher SPEAKER_03:  Ein Auto wurde vom roten Parkhaus auf die Straße gefahren.
+00:17:52 - 00:17:52 - Sprecher SPEAKER_03: 
+00:17:55 - 00:18:01 - Sprecher SPEAKER_03:  Ich habe jemanden umgeschossen. Der lag verwundet oben auf dem Parkhaus von einem anderen Dach.
+00:18:01 - 00:18:02 - Sprecher SPEAKER_03:  Wieso hast du den umgeschossen?
+00:18:03 - 00:18:07 - Sprecher SPEAKER_03:  Wir waren Kollegen und ich habe es nicht so gemeint. Dann habe ich ihn von hinten einfach angeschossen.
+00:18:07 - 00:18:10 - Sprecher SPEAKER_01:  Also hat er was Dummes zu dir gesagt oder was? Oder war aus Versehen?
+00:18:10 - 00:18:12 - Sprecher SPEAKER_01:  War das bei dir so, als du deinen Kollegen angeschossen hast?
+00:18:12 - 00:18:14 - Sprecher SPEAKER_01:  Ja, der hat mich beschimpft.
+00:18:14 - 00:18:16 - Sprecher SPEAKER_03:  Ja, der hat mich auch beschimpft.
+00:18:16 - 00:18:16 - Sprecher SPEAKER_03:  Okay, alles klar.
+00:18:16 - 00:18:18 - Sprecher SPEAKER_03:  Okay, also sind wir uns sicher, der hat es verdient?
+00:18:18 - 00:18:22 - Sprecher SPEAKER_03:  Ich kenne jemanden, der den Mann kennt, über den ich nicht mehr sprechen kann.
+00:18:22 - 00:18:22 - Sprecher SPEAKER_03: 
+00:18:22 - 00:18:24 - Sprecher SPEAKER_03:  Ich kenne jemanden, der nicht was herausfinden sollte.
+00:18:24 - 00:18:25 - Sprecher SPEAKER_03:  Geht es immer noch um Billionärmensch?
+00:18:25 - 00:18:29 - Sprecher SPEAKER_01:  Und ich habe seine Nummer. Aber der war heute nicht erreichbar, der Mr. Billionär.
+00:18:29 - 00:18:30 - Sprecher SPEAKER_01:  Ja, ich weiß.
+00:18:30 - 00:18:35 - Sprecher SPEAKER_01:  Hey, gib mir doch mal seine Nummer, dann kann ich da mal hingehen. Ich bin voll gut in so Undercover-Arbeiten.
+00:18:36 - 00:18:40 - Sprecher SPEAKER_06:  Ja, also es tut mir natürlich jetzt sehr leid. Ich wusste nicht, dass Pintel gar nichts hat.
+00:18:40 - 00:18:45 - Sprecher SPEAKER_06:  Ich dachte, der hätte jetzt für uns beide so wichtige Infos, dass wir da beide einen neuen Ansatz haben.
+00:18:45 - 00:18:46 - Sprecher SPEAKER_06:  Warum denn für uns beide? Was heißt denn für uns beide?
+00:18:47 - 00:18:49 - Sprecher SPEAKER_06:  Weiß man nicht, ich dachte, du hängst dich da auch dran.
+00:18:49 - 00:18:51 - Sprecher SPEAKER_06:  Ja, ich dachte, das wäre der Plan.
+00:18:51 - 00:18:52 - Sprecher SPEAKER_06:  Hey, hast du die Nummer vom Billionär?
+00:18:52 - 00:18:52 - Sprecher SPEAKER_01:  Ja, ich dachte, das wäre der Plan.
+00:18:52 - 00:18:54 - Sprecher SPEAKER_01:  Wie heißt der? Heißt der einfach nur Billionär?
+00:18:55 - 00:18:56 - Sprecher SPEAKER_01:  Der heißt Billy Billionär.
+00:18:56 - 00:19:01 - Sprecher SPEAKER_06:  Also nach außen ist das so ein Geschäftsmann, wie er im Buche steht.
+00:19:01 - 00:19:01 - Sprecher SPEAKER_06:  Okay.
+00:19:01 - 00:19:04 - Sprecher SPEAKER_06:  Der ist reich, der trägt das, der zeigt das auch gerne.
+00:19:04 - 00:19:05 - Sprecher SPEAKER_06:  Ja, verstehe.
+00:19:05 - 00:19:10 - Sprecher SPEAKER_06:  Und er macht mit allem möglichen Geschäfte. Und wir wollen genau herausfinden, mit wem macht er Geschäfte?
+00:19:11 - 00:19:14 - Sprecher SPEAKER_06:  Was macht er für Geschäfte? Mit wem hängt er so rum?
+00:19:15 - 00:19:16 - Sprecher SPEAKER_01:  Genau solche Sachen.
+00:19:16 - 00:19:17 - Sprecher SPEAKER_01:  Gib mir mal seine Nummer.
+00:19:17 - 00:19:19 - Sprecher SPEAKER_06:  Wir sagen können, wir möchten von ihm gemanagt werden.
+00:19:20 - 00:19:22 - Sprecher SPEAKER_01:  Ja, na klar, das können wir einrichten.
+00:19:22 - 00:19:22 - Sprecher SPEAKER_01:  Aber was ist denn das?
+00:19:22 - 00:19:26 - Sprecher SPEAKER_01:  Aber da muss ich als Fritzi hin. Das ist gar nicht viel besser.
+00:19:26 - 00:19:31 - Sprecher SPEAKER_01:  Aber ich muss als Fritzi da hin. Du bist undercover.
+00:19:31 - 00:19:33 - Sprecher SPEAKER_01:  Mich kennt eh niemand, ist doch scheißegal eigentlich.
+00:19:34 - 00:19:36 - Sprecher SPEAKER_01:  Oh mein Gott, oder vielleicht sind wir doch klar.
+00:19:37 - 00:19:39 - Sprecher SPEAKER_01:  Überleg es mir noch mal bis morgen, Rose.
+00:19:39 - 00:19:40 - Sprecher SPEAKER_01:  Genau, bis morgen können wir uns ja was überlegen.
+00:19:40 - 00:19:45 - Sprecher SPEAKER_01:  Vielleicht muss ich mich doch verkleiden und dann sage ich irgendwie, ich bin Rapperin oder sowas.
+00:19:45 - 00:19:50 - Sprecher SPEAKER_01:  Und dann musste ich Abschied von Bobby nehmen. Also nicht von meinem Taser, so weit sind wir noch nicht.
+00:19:50 - 00:19:52 - Sprecher SPEAKER_01:  Sondern von Bobby aus dem Pornshop.
+00:19:52 - 00:19:54 - Sprecher SPEAKER_01:  Wohin musst du jetzt?
+00:19:55 - 00:19:56 - Sprecher SPEAKER_05:  Zum Flughafen.
+00:19:56 - 00:20:00 - Sprecher SPEAKER_05:  Nein, du fährst da nicht alleine hin, Bobby.
+00:20:00 - 00:20:01 - Sprecher SPEAKER_01:  Was denn?
+00:20:02 - 00:20:04 - Sprecher SPEAKER_01:  Dann fahren wir da jetzt zusammen hin.
+00:20:04 - 00:20:06 - Sprecher SPEAKER_01:  Ja, ich muss doch da hin.
+00:20:06 - 00:20:09 - Sprecher SPEAKER_01:  Ja, aber wo sind deine Freunde? Wieso fahren die nicht mit?
+00:20:11 - 00:20:14 - Sprecher SPEAKER_05:  Bronco hat mich schon vorher gefeuert.
+00:20:15 - 00:20:17 - Sprecher SPEAKER_05:  Wie du warst gefeuert?
+00:20:17 - 00:20:21 - Sprecher SPEAKER_05:  Und Irish ist halt wieder geschäftlich unterwegs.
+00:20:22 - 00:20:27 - Sprecher SPEAKER_01:  Bobby, es war wirklich wunderschön. Einmal haben wir nur miteinander telefoniert.
+00:20:27 - 00:20:34 - Sprecher SPEAKER_01:  Da warst du schon ganz schön überfordert. Es war an dem Tag, an dem ich gefragt habe, ob ich einen Taser bei dir erwerben kann.
+00:20:35 - 00:20:39 - Sprecher SPEAKER_01:  Aber dann haben wir uns auch gesehen und du hast gesagt, es gibt leider keine Taser bei dir.
+00:20:39 - 00:20:45 - Sprecher SPEAKER_01:  Das hat mich sehr traurig gemacht, weil ich echt dringend einen wollte. Aber jetzt habe ich zum Glück einen. Das ist super gut.
+00:20:45 - 00:20:45 - Sprecher SPEAKER_01:  Toll.
+00:20:45 - 00:20:46 - Sprecher SPEAKER_01:  Ja.
+00:20:47 - 00:20:51 - Sprecher SPEAKER_01:  Stattdessen habe ich dann ein Fernglas bei dir gekauft. Das hast du mir so gut angepriesen.
+00:20:51 - 00:20:51 - Sprecher SPEAKER_01: 
+00:20:51 - 00:20:57 - Sprecher SPEAKER_01:  Das ist jetzt mein Lieblings-Fernglas. Und ab jetzt werde ich Bobby das Fernglas nennen. In Erinnerung an dich.
+00:20:57 - 00:21:02 - Sprecher SPEAKER_01:  Aber Bobby, wenn du den neuen Pawnshop aufmachst, dann musst du da auf jeden Fall Taser verkaufen.
+00:21:03 - 00:21:09 - Sprecher SPEAKER_05:  Ja, Tasers sind gut. Ich habe oft genug einen abbekommen.
+00:21:09 - 00:21:12 - Sprecher SPEAKER_01:  Von Bronco? Ich habe auch schon mal von Bronco einen abgekriegt.
+00:21:12 - 00:21:16 - Sprecher SPEAKER_01:  Das war der Tag, an dem ich entschieden habe, Fritzi, du musst auch einen Taser haben.
+00:21:16 - 00:21:19 - Sprecher SPEAKER_01:  Ganz kurz noch, bevor du gehst, Bobby.
+00:21:20 - 00:21:20 - Sprecher SPEAKER_01:  Ja?
+00:21:20 - 00:21:25 - Sprecher SPEAKER_01:  Würdest du sagen, dass Irish ein vertrauenswürdiger Mensch ist?
+00:21:26 - 00:21:26 - Sprecher SPEAKER_01:  Ja.
+00:21:26 - 00:21:28 - Sprecher SPEAKER_01:  Okay, gut. Danke, wollte ich nur mal wissen.
+00:21:28 - 00:21:30 - Sprecher SPEAKER_01:  Ein sehr vertrauenswürdiger Mensch.
+00:21:30 - 00:21:31 - Sprecher SPEAKER_01:  Okay, gut. Alles klar.
+00:21:31 - 00:21:32 - Sprecher SPEAKER_01:  Ja.
+00:21:32 - 00:21:44 - Sprecher SPEAKER_01:  Dann hab ganz viel Erfolg in deinem Pawnshop. Es wird eine wunderschöne Zeit. Ich hoffe, dass du viel Geld verdienst und niemals in irgendwelche kriminellen Machenschaften reingezogen wirst. Denn eins musst du wissen.
+00:21:44 - 00:21:45 - Sprecher SPEAKER_01:  Ich doch nicht.
+00:21:46 - 00:21:48 - Sprecher SPEAKER_01:  Kriminalität ist schlecht und böse.
+00:21:48 - 00:21:49 - Sprecher SPEAKER_05:  Ja.
+00:21:51 - 00:21:54 - Sprecher SPEAKER_05:  Das stimmt. Ja, ja. Ich habe heute noch nie was getan.
+00:21:55 - 00:21:57 - Sprecher SPEAKER_01:  Das ist gut. Hoffentlich bleibt das so.
+00:21:57 - 00:22:00 - Sprecher SPEAKER_01:  Danke euch Leute. Passt auf euch auf.
+00:22:00 - 00:22:01 - Sprecher SPEAKER_01:  Passt auch auf dich auf.
+00:22:02 - 00:22:03 - Sprecher SPEAKER_05:  Na klar. Grüße.
+00:22:03 - 00:22:04 - Sprecher SPEAKER_05:  Tschüss.
+00:22:04 - 00:22:04 - Sprecher SPEAKER_05: 
+00:22:05 - 00:22:13 - Sprecher SPEAKER_01:  Aber von Bobby eins, meinem Taser, musste ich auch schon bald Abschied nehmen. Aber wie es weitergeht, erfährst du erst im nächsten Brief.
+00:22:14 - 00:22:15 - Sprecher SPEAKER_01:  HDL Fritzi
+00:22:26 - 00:22:29 - Unbekannt:  Die Sendung wurde vom NDR live untertitelt.
