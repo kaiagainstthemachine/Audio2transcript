@@ -16,4 +16,4 @@ Bei den hier zu findenen Transkripten handelt es sich um Transkripte der Streame
 GTA V Roleplayserver Sektor 4.2 (https://www.sektor-rp.eu/) in der Staffel 2 wieder Ihren Charakter Fritzi Franklin spielt. Zum Ende von Staffel 1 wurde Fritzi von dem 
 Hackerkollektiv Chipher rekurtiert und zur Ausbildung nach Japan mitgenommen. Zurück in Staffel 2 arbeitet Fritzi mit ihrem Sidekick (Kappa) Harry Scholt und mit Chipher zusammen
 daran ein Informationsnetzwerk aufzubauen und so die einzelnen Fraktionen die noch so in Los Santos unterwegs sind ggf. mit Informationen zu versorgen und so die Machtverhältnisse
-im Gleichgewicht zu halten. Ob dies Fritzi gelingt und welche Hürden sich aufbauen, kann man den nachfolgenden Transktipten der VODs entnehmen.
+im Gleichgewicht zu halten. Ob dies Fritzi gelingt und welche Hürden sich aufbauen, kann man den nachfolgenden Transkripten der VODs entnehmen.
