@@ -1,0 +1,665 @@
+Transkription Staffel 2 mit Sprechererkennung von [12-12-24]_Saviarr_-_Sachen machen [SEKTOR]_cameo.wav:
+00:00:01 - 00:00:02 - Sprecher SPEAKER_06:  Harry?
+00:00:04 - 00:00:04 - Sprecher SPEAKER_04:  Oh Gott!
+00:00:05 - 00:00:06 - Sprecher SPEAKER_06:  Alles okay?
+00:00:07 - 00:00:08 - Sprecher SPEAKER_06:  Ja.
+00:00:09 - 00:00:11 - Sprecher SPEAKER_04:  Ich bin Annick.
+00:00:11 - 00:00:12 - Sprecher SPEAKER_04:  Warte, oh Gott.
+00:00:12 - 00:00:13 - Sprecher SPEAKER_04:  Was?
+00:00:15 - 00:00:16 - Sprecher SPEAKER_04:  Ich würde mich nur auf die Couch schmeißen.
+00:00:17 - 00:00:18 - Sprecher SPEAKER_07:  Bist du so müde?
+00:00:19 - 00:00:20 - Sprecher SPEAKER_04:  Geht.
+00:00:20 - 00:00:22 - Sprecher SPEAKER_04:  Hab ich. Du kannst mich nicht so erschrecken.
+00:00:23 - 00:00:24 - Sprecher SPEAKER_04:  Warum denn erschrecken?
+00:00:24 - 00:00:25 - Sprecher SPEAKER_04:  Ich habe mich übelst erschreckt.
+00:00:25 - 00:00:26 - Sprecher SPEAKER_04:  Warum?
+00:00:27 - 00:00:28 - Sprecher SPEAKER_07:  Oh Gott.
+00:00:28 - 00:00:29 - Unbekannt:  Oh Gott.
+00:00:29 - 00:00:30 - Sprecher SPEAKER_07:  Ich wohne doch auch hier, Harry.
+00:00:33 - 00:00:35 - Sprecher SPEAKER_04:  Warum hast du dich erschreckt?
+00:00:35 - 00:00:36 - Sprecher SPEAKER_07:  Ich habe dich auf den Kameras kommen sehen.
+00:00:36 - 00:00:37 - Sprecher SPEAKER_07:  Guck mal da.
+00:00:38 - 00:00:39 - Sprecher SPEAKER_04:  Siehst du mich auf der...
+00:00:40 - 00:00:41 - Sprecher SPEAKER_04:  Siehst du mich kurz mein T-Shirt über.
+00:00:41 - 00:00:42 - Sprecher SPEAKER_04:  Um Jottes Willen.
+00:00:45 - 00:00:47 - Sprecher SPEAKER_07:  Willst du auch ein paar Nachos?
+00:00:47 - 00:00:48 - Sprecher SPEAKER_04:  Nee, danke.
+00:00:49 - 00:00:51 - Sprecher SPEAKER_04:  Ich habe dich extra mit Käse überbacken.
+00:00:51 - 00:00:52 - Sprecher SPEAKER_04:  Ich habe dir ein Sandwich.
+00:00:52 - 00:00:54 - Sprecher SPEAKER_04:  Mein Lieblings-Sandwich mit Käse.
+00:00:54 - 00:00:54 - Sprecher SPEAKER_04:  Hier.
+00:00:56 - 00:00:56 - Sprecher SPEAKER_07:  Danke.
+00:00:57 - 00:00:58 - Sprecher SPEAKER_07:  Kann ich dir auch noch ein Käse?
+00:00:58 - 00:00:59 - Sprecher SPEAKER_07:  Kann ich dir auch noch ein Käse-Sandwich essen?
+00:00:59 - 00:01:00 - Sprecher SPEAKER_04:  Natürlich.
+00:01:00 - 00:01:01 - Sprecher SPEAKER_04:  Äh, später.
+00:01:01 - 00:01:02 - Sprecher SPEAKER_07:  Das ist der Mitternachts-Snack.
+00:01:02 - 00:01:03 - Sprecher SPEAKER_04:  Mhm.
+00:01:04 - 00:01:05 - Sprecher SPEAKER_07:  Nimm mal einen davon.
+00:01:06 - 00:01:06 - Sprecher SPEAKER_07:  Die sind übel gut.
+00:01:07 - 00:01:08 - Sprecher SPEAKER_07:  Ich habe doch Harlepin noch reingemacht.
+00:01:09 - 00:01:09 - Unbekannt:  Mhm.
+00:01:09 - 00:01:09 - Unbekannt:  Mhm.
+00:01:09 - 00:01:10 - Sprecher SPEAKER_04:  Ja.
+00:01:10 - 00:01:11 - Sprecher SPEAKER_04:  Nimm eigentlich einen.
+00:01:11 - 00:01:12 - Sprecher SPEAKER_07:  Ja, okay.
+00:01:13 - 00:01:14 - Sprecher SPEAKER_07:  Ja, dein Tag heute.
+00:01:14 - 00:01:15 - Sprecher SPEAKER_07:  Mhm.
+00:01:16 - 00:01:16 - Sprecher SPEAKER_04:  Gut.
+00:01:17 - 00:01:19 - Sprecher SPEAKER_07:  Ich habe mein Handy verloren.
+00:01:19 - 00:01:21 - Sprecher SPEAKER_07:  Darum konnte ich mich nicht melden.
+00:01:21 - 00:01:22 - Sprecher SPEAKER_07:  Ich habe es ewig gesucht.
+00:01:22 - 00:01:26 - Sprecher SPEAKER_07:  Und als ich es gefunden habe, habe ich vergessen, dass ich dich anrufen wollte.
+00:01:26 - 00:01:27 - Sprecher SPEAKER_04:  Es käme ein Problem.
+00:01:27 - 00:01:28 - Sprecher SPEAKER_04:  Auch mal einen Gang rausnehmen.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_04:  Und mal ein bisschen entspannen, ne?
+00:01:29 - 00:01:30 - Sprecher SPEAKER_04:  Also, alles in Ordnung.
+00:01:31 - 00:01:31 - Sprecher SPEAKER_04:  Alles in Ordnung.
+00:01:31 - 00:01:32 - Sprecher SPEAKER_04:  Ja.
+00:01:32 - 00:01:33 - Sprecher SPEAKER_04:  Ich habe heute nicht viel...
+00:01:33 - 00:01:34 - Sprecher SPEAKER_04:  Doch, ich war heute...
+00:01:34 - 00:01:35 - Sprecher SPEAKER_04:  Ich war heute im...
+00:01:35 - 00:01:35 - Sprecher SPEAKER_04:  Doch, warte.
+00:01:35 - 00:01:36 - Sprecher SPEAKER_04:  Pass auf.
+00:01:36 - 00:01:38 - Sprecher SPEAKER_04:  Ich habe heute 5000 Dollar verzockt.
+00:01:38 - 00:01:38 - Sprecher SPEAKER_07:  Mhm.
+00:01:39 - 00:01:40 - Sprecher SPEAKER_04:  Im Casino.
+00:01:41 - 00:01:43 - Sprecher SPEAKER_07:  Warte, ich stelle die Nachos mal kurz hin.
+00:01:44 - 00:01:46 - Sprecher SPEAKER_07:  Boah, die sind so lecker.
+00:01:47 - 00:01:49 - Sprecher SPEAKER_07:  Das schreckt mich jedes Mal so doll.
+00:01:52 - 00:01:52 - Sprecher SPEAKER_08:  Okay.
+00:01:52 - 00:01:53 - Sprecher SPEAKER_08:  Okay.
+00:01:53 - 00:01:53 - Sprecher SPEAKER_08:  Was?
+00:01:53 - 00:01:54 - Sprecher SPEAKER_08:  Wo warst du?
+00:01:54 - 00:01:54 - Sprecher SPEAKER_08:  Im Casino.
+00:01:54 - 00:01:55 - Sprecher SPEAKER_04:  Ich habe 5000 Dollar verzockt.
+00:01:56 - 00:01:56 - Sprecher SPEAKER_08:  Mhm.
+00:01:56 - 00:01:56 - Sprecher SPEAKER_08: 
+00:01:57 - 00:01:58 - Sprecher SPEAKER_04:  Wegmecker neben dem Automaten.
+00:01:58 - 00:01:58 - Sprecher SPEAKER_04:  Ich habe da oben gesessen.
+00:01:58 - 00:02:00 - Sprecher SPEAKER_04:  Der hat 40.000 Dollar gewonnen.
+00:02:00 - 00:02:02 - Sprecher SPEAKER_08:  Oh, hast du mit Big Mac ein bisschen geredet?
+00:02:03 - 00:02:04 - Sprecher SPEAKER_04:  Nee.
+00:02:06 - 00:02:07 - Sprecher SPEAKER_04:  Aber ich fand das Ambiente dafür nicht passend.
+00:02:08 - 00:02:09 - Sprecher SPEAKER_08:  Ja, das stimmt.
+00:02:09 - 00:02:10 - Sprecher SPEAKER_04:  Und da waren noch einige Leute mehr dabei gewesen bei ihm.
+00:02:11 - 00:02:11 - Sprecher SPEAKER_08:  Ah, okay.
+00:02:13 - 00:02:16 - Sprecher SPEAKER_04:  Dann war ich im Yellowjack Inn, weil ich Losts gesucht habe.
+00:02:16 - 00:02:17 - Sprecher SPEAKER_08:  Mhm.
+00:02:17 - 00:02:18 - Sprecher SPEAKER_05:  Da waren sie nicht.
+00:02:18 - 00:02:21 - Sprecher SPEAKER_04:  Und Kneipen-Mari habe ich dort auch nicht gefunden, weil der arbeitet nicht mehr da.
+00:02:21 - 00:02:22 - Sprecher SPEAKER_04:  Der Laden gehört ihn nicht mehr.
+00:02:23 - 00:02:23 - Sprecher SPEAKER_05:  Was?
+00:02:24 - 00:02:24 - Sprecher SPEAKER_04:  Ja.
+00:02:25 - 00:02:28 - Sprecher SPEAKER_04:  Und dann habe ich mich auf die Suche nach Kneipen...
+00:02:28 - 00:02:28 - Sprecher SPEAKER_04:  Ist er tot?
+00:02:28 - 00:02:28 - Sprecher SPEAKER_08:  Ja.
+00:02:28 - 00:02:28 - Sprecher SPEAKER_08: 
+00:02:28 - 00:02:30 - Sprecher SPEAKER_08:  Ich habe gefragt, es wurde verneint.
+00:02:32 - 00:02:35 - Sprecher SPEAKER_04:  Und ich habe mich auf die Suche nach Kneipen-Mari begeben.
+00:02:36 - 00:02:36 - Sprecher SPEAKER_04:  Mhm.
+00:02:37 - 00:02:41 - Sprecher SPEAKER_02:  Bin dann ins Handyshows, ins Split Inn gelandet.
+00:02:42 - 00:02:42 - Sprecher SPEAKER_08:  Splitzeit?
+00:02:43 - 00:02:43 - Sprecher SPEAKER_08:  Splitzeit.
+00:02:43 - 00:02:44 - Sprecher SPEAKER_04:  Ja.
+00:02:44 - 00:02:47 - Sprecher SPEAKER_04:  Juan hat mir ein Lied vollgesungen.
+00:02:47 - 00:02:49 - Sprecher SPEAKER_08:  Oh, lass mich raten.
+00:02:49 - 00:02:50 - Sprecher SPEAKER_08:  Aus seinem großen Repertoire?
+00:02:51 - 00:02:52 - Sprecher SPEAKER_04:  Na, er hat nur ihr Lied gesungen.
+00:02:52 - 00:02:54 - Sprecher SPEAKER_04:  Keine Ahnung, was sein Repertoire ist.
+00:02:54 - 00:02:54 - Sprecher SPEAKER_04:  Okay.
+00:02:54 - 00:02:55 - Sprecher SPEAKER_08:  War es ungefähr so?
+00:02:56 - 00:02:58 - Sprecher SPEAKER_08:  Oh, guys, I would be nice.
+00:02:58 - 00:02:58 - Sprecher SPEAKER_08:  Ich bin ein Liedvoll.
+00:02:58 - 00:03:02 - Sprecher SPEAKER_08:  If I can touch your body, I know not everybody.
+00:03:03 - 00:03:04 - Sprecher SPEAKER_08:  Have irgendwas like me.
+00:03:05 - 00:03:07 - Sprecher SPEAKER_08:  Wenn ich meine Augen zu machen würde, würde ich denken, du warst Juan.
+00:03:07 - 00:03:09 - Sprecher SPEAKER_08:  Ich habe das schon dreimal von ihm gehört.
+00:03:09 - 00:03:11 - Sprecher SPEAKER_08:  Ich glaube, das ist das einzige Lied, das er kann.
+00:03:11 - 00:03:11 - Sprecher SPEAKER_08:  Warum dreimal?
+00:03:13 - 00:03:16 - Sprecher SPEAKER_08:  Naja, einmal vom Unicorn, einmal im Splitzeit.
+00:03:16 - 00:03:22 - Sprecher SPEAKER_08:  Und dann habe ich ein Gag über ihn gemacht, weil, naja, der Chef gesagt hat, ich soll auch auf die Bühne.
+00:03:22 - 00:03:25 - Sprecher SPEAKER_08:  Und habe ihn dann mit Hops genommen, dass er immer nur den gleichen Song singt.
+00:03:25 - 00:03:26 - Sprecher SPEAKER_08:  Und dann hat er ihn nochmal gesungen.
+00:03:27 - 00:03:28 - Sprecher SPEAKER_04:  Okay, verstehe.
+00:03:28 - 00:03:31 - Sprecher SPEAKER_04:  Also er meinte, oh, dass du jetzt dahin gewesen bist und ihn beleidigt hast.
+00:03:32 - 00:03:32 - Sprecher SPEAKER_08:  Ja.
+00:03:33 - 00:03:34 - Sprecher SPEAKER_04:  Okay, hat er mir auch erzählt.
+00:03:34 - 00:03:35 - Sprecher SPEAKER_04:  Auf jeden Fall hat er mein Lied vollgesungen.
+00:03:35 - 00:03:36 - Sprecher SPEAKER_04:  Dann habe ich kurz mit Leuten gequatscht.
+00:03:36 - 00:03:37 - Sprecher SPEAKER_04:  Kennt er, wie es bei Harry ist.
+00:03:38 - 00:03:39 - Sprecher SPEAKER_04:  Dann war ich kurz im Tiki-Lada gewesen.
+00:03:40 - 00:03:40 - Sprecher SPEAKER_04:  Habe dann noch was gegessen.
+00:03:40 - 00:03:42 - Sprecher SPEAKER_04:  Und hier und da und dies.
+00:03:43 - 00:03:43 - Sprecher SPEAKER_04:  Habe ich noch was gemacht?
+00:03:43 - 00:03:45 - Sprecher SPEAKER_04:  Ich habe mit Neon telefoniert.
+00:03:46 - 00:03:48 - Sprecher SPEAKER_04:  Ich bin jetzt Sonntag wieder da.
+00:03:50 - 00:03:55 - Sprecher SPEAKER_04:  Ich mache zwei Tage Handypause und werde mich voll Fokus auf mein Training konzentrieren.
+00:03:56 - 00:03:57 - Sprecher SPEAKER_08:  Aber du bist hier, oder?
+00:03:57 - 00:03:57 - Sprecher SPEAKER_08:  Ja.
+00:03:58 - 00:03:59 - Sprecher SPEAKER_08:  Okay.
+00:03:59 - 00:04:00 - Sprecher SPEAKER_08:  Aber tagsüber bin ich trainieren. Wie Rocky.
+00:04:00 - 00:04:01 - Sprecher SPEAKER_04:  Treppe hoch, runter.
+00:04:01 - 00:04:03 - Sprecher SPEAKER_04:  Und ich war gerade ein Box-Toppel-Wesen.
+00:04:03 - 00:04:04 - Sprecher SPEAKER_04:  Und habe schon Schattenboxen gemacht im Ring.
+00:04:05 - 00:04:08 - Sprecher SPEAKER_08:  Warum sind deine Handballen so rot?
+00:04:08 - 00:04:10 - Sprecher SPEAKER_08:  Hast du gegen was geboxt?
+00:04:10 - 00:04:11 - Sprecher SPEAKER_08:  Ich habe vielleicht gegen den Spiegel geschlagen.
+00:04:13 - 00:04:13 - Sprecher SPEAKER_08:  Ah, Harry.
+00:04:14 - 00:04:17 - Sprecher SPEAKER_08:  Du siehst aus, als hättest du dich geprügelt an den Tänden.
+00:04:17 - 00:04:21 - Sprecher SPEAKER_08:  Ich habe beschlossen, sollte dieser Box-Topp jemals aufmachen, ich möchte boxen.
+00:04:21 - 00:04:22 - Sprecher SPEAKER_04:  Ich möchte dort boxen.
+00:04:23 - 00:04:24 - Sprecher SPEAKER_08:  Okay.
+00:04:24 - 00:04:26 - Sprecher SPEAKER_08:  Also wirst du Harry der Boxer.
+00:04:26 - 00:04:27 - Sprecher SPEAKER_04:  Weiß ich nicht.
+00:04:27 - 00:04:28 - Sprecher SPEAKER_04:  Aber ich habe richtig Bock auf Boxen.
+00:04:30 - 00:04:31 - Sprecher SPEAKER_08:  Okay.
+00:04:31 - 00:04:33 - Sprecher SPEAKER_08:  Schauen wir mal, wie das zusammenpasst.
+00:04:34 - 00:04:38 - Sprecher SPEAKER_08:  Naja, kommt drauf an, wer diesen Box-Club inne hat.
+00:04:38 - 00:04:43 - Sprecher SPEAKER_08:  Ich meine mich zu erinnern, dass das von einer speziellen Familie ausgeht.
+00:04:43 - 00:04:45 - Sprecher SPEAKER_08:  Aber vielleicht ist das auch eine falsche Erinnerung.
+00:04:45 - 00:04:46 - Sprecher SPEAKER_08:  Dann möchte ich nicht boxen.
+00:04:48 - 00:04:49 - Sprecher SPEAKER_08:  Frag nochmal, Billy.
+00:04:50 - 00:04:50 - Sprecher SPEAKER_04:  Ja, okay.
+00:04:50 - 00:04:51 - Sprecher SPEAKER_04:  Dann muss ich Billy noch mal fragen.
+00:04:51 - 00:04:53 - Sprecher SPEAKER_04:  Okay, ja, ich habe mit Neon telefoniert.
+00:04:53 - 00:04:56 - Sprecher SPEAKER_04:  Sie ist auch nicht erreichbar, relativ sporadisch.
+00:04:56 - 00:04:57 - Sprecher SPEAKER_04:  Ich muss mir einen Job vorbereiten für Weihnachten.
+00:04:57 - 00:04:58 - Unbekannt:  Ja, okay.
+00:04:58 - 00:04:58 - Unbekannt: 
+00:04:58 - 00:04:58 - Unbekannt: 
+00:04:58 - 00:04:58 - Unbekannt: 
+00:04:58 - 00:04:58 - Unbekannt: 
+00:04:58 - 00:04:58 - Unbekannt: 
+00:04:58 - 00:04:58 - Unbekannt: 
+00:05:00 - 00:05:00 - Sprecher SPEAKER_07:  Alles klar.
+00:05:00 - 00:05:00 - Sprecher SPEAKER_04: 
+00:05:00 - 00:05:00 - Sprecher SPEAKER_04: 
+00:05:00 - 00:05:02 - Sprecher SPEAKER_04:  Und deswegen geht es um die Woche, die ich jetzt trainieren werde.
+00:05:02 - 00:05:03 - Sprecher SPEAKER_04:  Mach mich richtig fit, sagt er.
+00:05:04 - 00:05:04 - Unbekannt:  Ja.
+00:05:08 - 00:05:09 - Sprecher SPEAKER_04:  Ja und mehr habe ich nicht erlebt.
+00:05:09 - 00:05:10 - Sprecher SPEAKER_04:  Ich bin echt wenig heute.
+00:05:11 - 00:05:18 - Sprecher SPEAKER_08:  Naja, kann ja nicht jeder Tag so voller Spaß und Spiel und Freude sein, wie unsere Tage
+00:05:18 - 00:05:19 - Sprecher SPEAKER_08:  sonst.
+00:05:19 - 00:05:20 - Sprecher SPEAKER_08:  Ja, das stimmt.
+00:05:20 - 00:05:23 - Sprecher SPEAKER_08:  Ich meine, hey, wenn du zurück kommst, kommt bestimmt mal wieder ein Tag, wo, ich weiß
+00:05:23 - 00:05:25 - Sprecher SPEAKER_08:  nicht, man aufs Wasser gucken kann, Harry.
+00:05:25 - 00:05:37 - Sprecher SPEAKER_08:  das vermisst du bestimmt ja ich werde mal welche wasser egal welches wasser okay aber ja da könnte
+00:05:37 - 00:05:43 - Sprecher SPEAKER_04:  man auch wirklich mal machen ach so und ich habe so einen auftritt in den spitzhals nicht dein
+00:05:43 - 00:05:52 - Sprecher SPEAKER_08:  ernst doch okay alles klar um wie viel uhr und wesentlich noch nicht weiß ich nicht aber ich
+00:05:52 - 00:06:01 - Sprecher SPEAKER_04:  das ist schlecht aber finde es raus weil sonntag ist auch um 20 uhr stimmt 20 uhr sonntag stimmt
+00:06:01 - 00:06:06 - Sprecher SPEAKER_04:  dass man nicht vergessen ob pünktlich sein auch na ja also ich meine du kannst es vergessen weil
+00:06:06 - 00:06:12 - Sprecher SPEAKER_08:  du wirst oder so vergessen ich erinnere dich dann noch mal dran ich habe letzten sonntag
+00:06:12 - 00:06:16 - Sprecher SPEAKER_04:  einen leuten erzählt dass sie um 20 uhr ist ein leuten erzählt das bringt nichts wenn du da nicht
+00:06:16 - 00:06:21 - Sprecher SPEAKER_08:  da bist wenn du selber vergisst um die uhrzeit das bringt ja gar nichts
+00:06:22 - 00:06:28 - Sprecher SPEAKER_04:  ja das recht ich versuche mich zu dann zu erinnern aber ich singe nicht ich singe nicht
+00:06:28 - 00:06:34 - Sprecher SPEAKER_04:  ins blitz heizende um mir klarzustellen du hast jetzt wird auch nicht sondern ich mache poesie
+00:06:39 - 00:06:43 - Sprecher SPEAKER_08:  weiß ich noch nicht wenn man noch poesie machen und ich kann ich besser als mit
+00:06:43 - 00:06:51 - Sprecher SPEAKER_04:  zahlen und jules ich rufe gleich zurück ja gleich eine kluge kann also ich kann keine
+00:06:51 - 00:06:52 - Sprecher SPEAKER_04:  witze erzählen wegbekommen
+00:06:52 - 00:06:56 - Sprecher SPEAKER_04:  echt und lustig und singen kann ich auch nicht und er meinte man kann ja poesie machen und dann
+00:06:56 - 00:07:00 - Sprecher SPEAKER_04:  habe ich mich so gezwungen gefühlt und habe gesagt ja ich mache poesie okay alles klar zieh ich mir
+00:07:00 - 00:07:07 - Sprecher SPEAKER_08:  rein harry das ist geschlossene veranstaltung na und ich kann da nicht kommen oder was doch
+00:07:07 - 00:07:13 - Sprecher SPEAKER_04:  bestimmt ich habe auch einen witz erzählt über hefe wie über hefe na ja ich habe gesagt ich
+00:07:13 - 00:07:21 - Sprecher SPEAKER_08:  hatte mal ein hamster der hieß hefe und jetzt ist er tot das war's guck du findest es witzig weil ich den kontext dazu kenne
+00:07:22 - 00:07:23 - Sprecher SPEAKER_03:  wenn immer gar nichts hat meinen da phase angehört haben also
+00:07:23 - 00:07:27 - Sprecher SPEAKER_03:  eigentlich ist es ja nicht lustig nein es ist auch überhaupt nicht witzig aber ich finde das ist genau
+00:07:27 - 00:07:31 - Sprecher SPEAKER_08:  das witzige das ist doch das witzige an geschichten oder dinge die überhaupt nicht witzig sind aber
+00:07:31 - 00:07:35 - Sprecher SPEAKER_08:  menschen sind nicht darauf vorbereitet dass man sie erzählt dann sind sie wird sich außerdem habe ich
+00:07:35 - 00:07:41 - Sprecher SPEAKER_08:  zwischendrin dann rauf und najaこと das war dann eigentlich das witzige ich habe es nur in der hfn
+00:07:41 - 00:07:45 - Sprecher SPEAKER_08:  los Internet
+00:07:45 - 00:07:48 - Sprecher SPEAKER_08:  versições und kino es geht ganz gut ich verpotzte noch mal rápido ganz gut meine gefühle schlecht ist Leute sind Sie witzig ehrlich gesagt
+00:07:48 - 00:07:52 - Sprecher SPEAKER_08:  die Ledner nicht wichtig Niall eigentlichIT Istэg sowas nicht phải Punkt'ma nichtEs ist in MYaciones Quickly ist also das Witz-Wiz Operation品
+00:07:52 - 00:07:53 - Sprecher SPEAKER_08:  Erzähl die gleiche Story zweimal.
+00:07:54 - 00:07:54 - Sprecher SPEAKER_08:  Gell, Juan?
+00:07:56 - 00:07:56 - Sprecher SPEAKER_08:  So war das.
+00:07:56 - 00:07:57 - Sprecher SPEAKER_08:  Okay, verstehe.
+00:07:58 - 00:08:01 - Sprecher SPEAKER_04:  Aber wir müssen mal kurz klarstellen, was Poesie ist.
+00:08:01 - 00:08:02 - Sprecher SPEAKER_04:  Das kann doch alles sein, oder?
+00:08:02 - 00:08:03 - Sprecher SPEAKER_04:  Das könnte auch einfach Anekdoten aus dem Leben sein.
+00:08:03 - 00:08:04 - Sprecher SPEAKER_04:  Naja, mach nichts Peinliches.
+00:08:05 - 00:08:06 - Sprecher SPEAKER_04:  Was wäre denn peinlich?
+00:08:06 - 00:08:08 - Sprecher SPEAKER_08:  Naja, wenn du jetzt sagst,
+00:08:08 - 00:08:10 - Sprecher SPEAKER_08:  mein Name ist Harry Scholt.
+00:08:11 - 00:08:12 - Sprecher SPEAKER_08:  Ich bin
+00:08:13 - 00:08:16 - Sprecher SPEAKER_08:  so heiß wie tausend Volt,
+00:08:16 - 00:08:18 - Sprecher SPEAKER_08:  die durch deine Adern gehen.
+00:08:20 - 00:08:21 - Sprecher SPEAKER_01:  Das ist Poesie?
+00:08:21 - 00:08:21 - Sprecher SPEAKER_01:  Wenn du denkst,
+00:08:22 - 00:08:23 - Sprecher SPEAKER_08:  bleibe ich stehen.
+00:08:24 - 00:08:26 - Sprecher SPEAKER_08:  Das wäre peinlich.
+00:08:28 - 00:08:28 - Sprecher SPEAKER_04:  Okay,
+00:08:28 - 00:08:29 - Sprecher SPEAKER_04:  scheiße, ja, okay.
+00:08:31 - 00:08:33 - Sprecher SPEAKER_04:  Ja, okay, vielleicht wusste ich nicht,
+00:08:33 - 00:08:34 - Sprecher SPEAKER_04:  was Poesie ist. Okay, alle klar.
+00:08:35 - 00:08:36 - Sprecher SPEAKER_08:  Was wollte Jules?
+00:08:36 - 00:08:38 - Sprecher SPEAKER_08:  Ruft Jules zurück. Vielleicht sagt er, ach nee, warum sollte
+00:08:38 - 00:08:40 - Sprecher SPEAKER_08:  er dir was über Claudia Koch sagen?
+00:08:40 - 00:08:42 - Sprecher SPEAKER_08:  Aber vielleicht veröffentlichen wir bald den Song.
+00:08:43 - 00:08:44 - Sprecher SPEAKER_08:  Weil Juan so gut singen kann
+00:08:45 - 00:08:46 - Sprecher SPEAKER_04:  und im Kim Label ist,
+00:08:46 - 00:08:48 - Sprecher SPEAKER_04:  wollte ich fragen, ob es auch Künstler gibt, die Cover-Songs
+00:08:48 - 00:08:49 - Sprecher SPEAKER_04:  machen.
+00:08:51 - 00:08:51 - Sprecher SPEAKER_07:  Warte, ich rufe ihn schnell an.
+00:08:53 - 00:08:54 - Sprecher SPEAKER_04:  Ja, what up?
+00:08:54 - 00:08:56 - Sprecher SPEAKER_04:  Hm, tach schön. Ey, du, ich habe mir eine ganz kurze Frage.
+00:08:58 - 00:09:01 - Sprecher SPEAKER_04:  Nehmt ihr auch Künstler ins Repertoire, die auch so Cover-Songs
+00:09:01 - 00:09:01 - Sprecher SPEAKER_04:  machen und so was?
+00:09:01 - 00:09:05 - Sprecher SPEAKER_04:  Oder müssen das selbstgeschriebene Lieder sein?
+00:09:08 - 00:09:11 - Sprecher SPEAKER_00:  Scheiße, ich werde gerade vom Kopf verfolgt, glaube ich, weil ich zu schnell war.
+00:09:12 - 00:09:12 - Sprecher SPEAKER_04:  Ja.
+00:09:13 - 00:09:14 - Sprecher SPEAKER_04:  Ähm, tut mir leid.
+00:09:14 - 00:09:17 - Sprecher SPEAKER_00:  Ich war gerade beim, ähm, Momi, ich würde dich gleich zurückrufen.
+00:09:17 - 00:09:19 - Sprecher SPEAKER_04:  So funktioniert das nicht.
+00:09:21 - 00:09:22 - Sprecher SPEAKER_00:  Okay, ich rufe dich gleich an, die wollen was von mir.
+00:09:22 - 00:09:23 - Sprecher SPEAKER_00:  Ja, okay.
+00:09:23 - 00:09:24 - Sprecher SPEAKER_00:  Ja, okay.
+00:09:24 - 00:09:25 - Sprecher SPEAKER_04:  Ist in der Polizei, kommt runter.
+00:09:25 - 00:09:26 - Sprecher SPEAKER_04:  Ich hasse es.
+00:09:27 - 00:09:28 - Sprecher SPEAKER_04:  Das klappt, das funktioniert nicht.
+00:09:29 - 00:09:30 - Sprecher SPEAKER_04:  Ich kann niemals mit diesen Menschen telefonieren.
+00:09:33 - 00:09:33 - Sprecher SPEAKER_02:  Hm.
+00:09:33 - 00:09:35 - Sprecher SPEAKER_02:  Okay, aber ich wollte vielleicht mal so nachfragen,
+00:09:35 - 00:09:38 - Sprecher SPEAKER_04:  so, ob die, ob Jules auch so eine Künstler ins Repertoire nimmt,
+00:09:38 - 00:09:39 - Sprecher SPEAKER_04:  weil Juan überlegt vielleicht,
+00:09:39 - 00:09:41 - Sprecher SPEAKER_04:  ob man am Label-Ball zu treten und vielleicht könnte man
+00:09:41 - 00:09:43 - Sprecher SPEAKER_04:  sowas vermitteln, weil man nett ist und dies und das.
+00:09:44 - 00:09:46 - Sprecher SPEAKER_04:  Ja, so ungefähr habe ich mir das vorgestellt.
+00:09:47 - 00:09:47 - Sprecher SPEAKER_08:  Ja.
+00:09:47 - 00:09:47 - Sprecher SPEAKER_08:  Ja.
+00:09:49 - 00:09:49 - Sprecher SPEAKER_04:  Nicht gut?
+00:09:49 - 00:09:49 - Sprecher SPEAKER_04:  Warum nicht?
+00:09:49 - 00:09:50 - Sprecher SPEAKER_04:  Okay, doch, okay.
+00:09:50 - 00:09:51 - Sprecher SPEAKER_04:  Nein, klar, warum nicht?
+00:09:51 - 00:09:53 - Sprecher SPEAKER_08:  Ist doch immer alles nett, ist doch super.
+00:09:53 - 00:09:54 - Sprecher SPEAKER_08:  Genau so, Harry.
+00:09:56 - 00:09:57 - Sprecher SPEAKER_02:  Ja.
+00:09:57 - 00:09:59 - Sprecher SPEAKER_02:  Die sollen mal meinen Song veröffentlichen.
+00:09:59 - 00:10:02 - Sprecher SPEAKER_08:  Ich meine, ich meine, ich meine den anderen von nicht mir,
+00:10:02 - 00:10:04 - Sprecher SPEAKER_08:  die Person, die nichts mit mir zu tun hat, Gabi.
+00:10:05 - 00:10:05 - Sprecher SPEAKER_08:  Na, von Koks.
+00:10:06 - 00:10:07 - Sprecher SPEAKER_08:  Koks.
+00:10:08 - 00:10:09 - Sprecher SPEAKER_04:  Koks, die Koks.
+00:10:09 - 00:10:10 - Sprecher SPEAKER_04:  Ja, weiß ich nicht, wann das soweit ist.
+00:10:11 - 00:10:12 - Sprecher SPEAKER_04:  Echt halt ist es.
+00:10:13 - 00:10:14 - Sprecher SPEAKER_04:  Sie wird der übelste Banger.
+00:10:14 - 00:10:17 - Sprecher SPEAKER_04:  Sie wird steil, Platz 1 in den Charts.
+00:10:18 - 00:10:18 - Sprecher SPEAKER_08:  Mhm.
+00:10:19 - 00:10:21 - Sprecher SPEAKER_08:  Sie sollen Jubel auftreten lassen.
+00:10:22 - 00:10:23 - Sprecher SPEAKER_08:  Das wäre cool.
+00:10:24 - 00:10:24 - Sprecher SPEAKER_04:  Oh.
+00:10:26 - 00:10:28 - Sprecher SPEAKER_04:  Vielleicht könnten wir, nee, selber eins finden wäre unschlau.
+00:10:28 - 00:10:28 - Sprecher SPEAKER_04:  Das wäre nicht schlau.
+00:10:29 - 00:10:30 - Sprecher SPEAKER_08:  Natürlich wäre das nicht schlau.
+00:10:31 - 00:10:32 - Sprecher SPEAKER_04:  Ja, die machen das schon.
+00:10:32 - 00:10:33 - Sprecher SPEAKER_04:  Ich glaube, ich glaube an Juan, der macht das schon.
+00:10:34 - 00:10:35 - Sprecher SPEAKER_08:  Das hat nichts mit Juan zu tun.
+00:10:38 - 00:10:39 - Sprecher SPEAKER_08:  Jules, du meinst Jules.
+00:10:41 - 00:10:41 - Sprecher SPEAKER_08:  Harry.
+00:10:41 - 00:10:43 - Sprecher SPEAKER_08:  Oh Gott, Jules, ja.
+00:10:43 - 00:10:45 - Sprecher SPEAKER_04:  Ich war gerade wieder komplett umhört, deswegen.
+00:10:46 - 00:10:47 - Sprecher SPEAKER_04:  Jetzt habe ich es verstanden.
+00:10:47 - 00:10:48 - Sprecher SPEAKER_04:  Ich meine natürlich Jules.
+00:10:49 - 00:10:49 - Sprecher SPEAKER_08:  Ja, genau.
+00:10:50 - 00:10:52 - Sprecher SPEAKER_08:  Ich habe vorhin übrigens Jules seinen persönlichen Assistenten kennen gelernt,
+00:10:53 - 00:10:54 - Sprecher SPEAKER_04:  von dem man mal erzählt hat, der so viel macht.
+00:10:54 - 00:10:55 - Sprecher SPEAKER_08:  Wer denn?
+00:10:56 - 00:10:57 - Sprecher SPEAKER_04:  Heinrich?
+00:10:59 - 00:10:59 - Sprecher SPEAKER_08:  Ach so, ja.
+00:11:00 - 00:11:02 - Sprecher SPEAKER_08:  Ähm, äh, haben die ihn nicht anders genannt?
+00:11:02 - 00:11:03 - Sprecher SPEAKER_08:  High Age oder sowas?
+00:11:04 - 00:11:04 - Sprecher SPEAKER_08:  Nee, Heinrich oder so?
+00:11:05 - 00:11:05 - Sprecher SPEAKER_04:  Ich weiß es nicht mehr.
+00:11:05 - 00:11:06 - Sprecher SPEAKER_04:  Oh ja, vielleicht so.
+00:11:07 - 00:11:07 - Sprecher SPEAKER_04:  Aber der arbeitet auch nicht mehr.
+00:11:07 - 00:11:09 - Sprecher SPEAKER_04:  Der hat jetzt, der arbeitet so anders.
+00:11:10 - 00:11:11 - Sprecher SPEAKER_08:  Wo arbeitet der jetzt?
+00:11:11 - 00:11:12 - Sprecher SPEAKER_04:  Der arbeitet jetzt im Tiki Lala.
+00:11:13 - 00:11:15 - Sprecher SPEAKER_08:  Oh, da gehen immer die ganz Großen hin.
+00:11:16 - 00:11:16 - Sprecher SPEAKER_04:  Ja.
+00:11:17 - 00:11:18 - Sprecher SPEAKER_04:  Ja, das war's.
+00:11:18 - 00:11:18 - Sprecher SPEAKER_04:  Ja, das war's.
+00:11:18 - 00:11:19 - Sprecher SPEAKER_04:  Hört nicht raus hiervon.
+00:11:20 - 00:11:23 - Sprecher SPEAKER_08:  Na, dann würde er bestimmt da eine bessere Zeit haben als in dem Plattenlabel.
+00:11:24 - 00:11:25 - Sprecher SPEAKER_04:  Ja, hat er auch gemeint.
+00:11:25 - 00:11:26 - Sprecher SPEAKER_04:  So, das hat einfach nicht gepasst.
+00:11:27 - 00:11:28 - Sprecher SPEAKER_08:  Hm.
+00:11:28 - 00:11:29 - Sprecher SPEAKER_08:  Naja.
+00:11:31 - 00:11:32 - Sprecher SPEAKER_04:  Okay, Harry.
+00:11:32 - 00:11:33 - Sprecher SPEAKER_04:  Ja?
+00:11:34 - 00:11:35 - Sprecher SPEAKER_08:  Überlegst du noch, ob es noch was gibt?
+00:11:35 - 00:11:36 - Sprecher SPEAKER_08:  Du kannst mir alles erzählen.
+00:11:36 - 00:11:38 - Sprecher SPEAKER_08:  Es gab, es gab wirklich...
+00:11:38 - 00:11:39 - Sprecher SPEAKER_08:  Ich bin noch für immer wach.
+00:11:40 - 00:11:41 - Sprecher SPEAKER_04:  Wie für immer?
+00:11:42 - 00:11:44 - Sprecher SPEAKER_08:  War nur ein Scherz, bin ich nicht.
+00:11:45 - 00:11:45 - Sprecher SPEAKER_04:  Mhm.
+00:11:47 - 00:11:47 - Sprecher SPEAKER_08:  Was denn?
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04:  Wirst du dich schlagen lassen?
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04: 
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04: 
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04: 
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04: 
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04: 
+00:11:48 - 00:11:48 - Sprecher SPEAKER_04: 
+00:11:49 - 00:11:50 - Sprecher SPEAKER_08:  Was ist denn noch passiert?
+00:11:50 - 00:11:51 - Sprecher SPEAKER_04:  Nix.
+00:11:52 - 00:11:53 - Sprecher SPEAKER_04:  Wie du geschlafen hast?
+00:11:55 - 00:11:56 - Sprecher SPEAKER_04:  Oh, warte.
+00:11:56 - 00:11:57 - Sprecher SPEAKER_04:  Na, wei.
+00:11:57 - 00:11:57 - Sprecher SPEAKER_04:  Jules?
+00:11:58 - 00:11:59 - Sprecher SPEAKER_00:  Ja, ich hab die irgendwie...
+00:11:59 - 00:12:01 - Sprecher SPEAKER_00:  Scheiße, die waren echt freundlich, die Cops, ne?
+00:12:01 - 00:12:03 - Sprecher SPEAKER_00:  Sind die Cops immer so freundlich in dieser Startrunde?
+00:12:03 - 00:12:04 - Sprecher SPEAKER_00:  Ja, die sind immer so scheiße freundlich.
+00:12:04 - 00:12:04 - Sprecher SPEAKER_04:  Ich krieg's auch...
+00:12:04 - 00:12:06 - Sprecher SPEAKER_04:  Ich krieg die immer kotzen, wenn die mich anhält.
+00:12:06 - 00:12:09 - Sprecher SPEAKER_00:  Ich hab die abgehängt mit dem Border und dann haben die gesagt, die sind nur bis 120
+00:12:10 - 00:12:10 - Sprecher SPEAKER_00:  hinterhergekommen.
+00:12:10 - 00:12:12 - Sprecher SPEAKER_00:  Ich hab gar nicht gemerkt, was die hinter mir waren.
+00:12:12 - 00:12:13 - Sprecher SPEAKER_04:  Okay, sehr gut.
+00:12:13 - 00:12:14 - Sprecher SPEAKER_04:  Gute Arbeit.
+00:12:15 - 00:12:16 - Sprecher SPEAKER_00:  Ja, also ja, ich bin aber angehalten.
+00:12:16 - 00:12:18 - Sprecher SPEAKER_00:  Die haben mir nur eine Verwarnung gegeben, ist richtig, ne?
+00:12:18 - 00:12:18 - Sprecher SPEAKER_00:  Ja, ja, ja.
+00:12:19 - 00:12:19 - Sprecher SPEAKER_04:  Die haben mir nur eine Verwarnung gegeben, ist richtig, ne?
+00:12:19 - 00:12:19 - Sprecher SPEAKER_04: 
+00:12:19 - 00:12:20 - Sprecher SPEAKER_04:  Verwarnungen sind nicht nett.
+00:12:20 - 00:12:21 - Sprecher SPEAKER_04:  Das ist nämlich der Trugschluss.
+00:12:22 - 00:12:23 - Sprecher SPEAKER_00:  Ach so, ja, dann scheiß auf die.
+00:12:23 - 00:12:26 - Sprecher SPEAKER_00:  Die sagen dir, die geben dir eine Verwarnung und die tun so, als ob sie dein Freund sind,
+00:12:26 - 00:12:29 - Sprecher SPEAKER_04:  aber die schreiben trotzdem einen Eintrag über dich in dein Aktensystem rein.
+00:12:30 - 00:12:31 - Sprecher SPEAKER_00:  Scheiße, das ist richtig hinten rum.
+00:12:31 - 00:12:32 - Sprecher SPEAKER_00:  Ja, also scheiß auf die Wechsel, wirklich.
+00:12:33 - 00:12:34 - Sprecher SPEAKER_00:  Ja, verstehe ich.
+00:12:34 - 00:12:35 - Sprecher SPEAKER_00:  Ey, pass auf, du hast mich was gegen Coversongs gefragt.
+00:12:36 - 00:12:38 - Sprecher SPEAKER_00:  Ich sag dir kurz was dazu und dann sag ich dir noch was anderes.
+00:12:38 - 00:12:42 - Sprecher SPEAKER_00:  Also, erstens, wir haben Coversong-technisch Release ein Problem.
+00:12:42 - 00:12:45 - Sprecher SPEAKER_00:  Wir dürfen keine Salversongs hochladen von der Wave-App aus.
+00:12:48 - 00:12:50 - Sprecher SPEAKER_00:  Wir müssen die Leute dann auf den Weg bringen, dann können sie Coversongs live performen.
+00:12:50 - 00:12:56 - Sprecher SPEAKER_00:  Aber, scheiße, und das ist wirklich das letzte aber, glaube ich, aber das musst du auch dann
+00:12:57 - 00:13:00 - Sprecher SPEAKER_00:  mit Winewood Records oder Goodman besprechen, Homie.
+00:13:00 - 00:13:01 - Sprecher SPEAKER_00:  Ist das kompliziert.
+00:13:01 - 00:13:03 - Sprecher SPEAKER_00:  Weil ich habe gekündigt.
+00:13:03 - 00:13:04 - Sprecher SPEAKER_04:  Wie, du hast sie gekündigt?
+00:13:04 - 00:13:06 - Sprecher SPEAKER_00:  Ja, ich habe gekündigt, Homie.
+00:13:06 - 00:13:08 - Sprecher SPEAKER_00:  Du arbeitest nicht mehr bei Winewood Records?
+00:13:09 - 00:13:10 - Sprecher SPEAKER_00:  Noch ungefähr eine halbe Stunde.
+00:13:10 - 00:13:11 - Sprecher SPEAKER_04:  Was?
+00:13:12 - 00:13:13 - Sprecher SPEAKER_00:  Ich habe gekündigt, Homie.
+00:13:13 - 00:13:14 - Sprecher SPEAKER_04:  Warum?
+00:13:15 - 00:13:18 - Sprecher SPEAKER_00:  Weil dieses abgefuckte Snob-Level, der sich nicht mehr in die Hände stellt, der sich
+00:13:18 - 00:13:18 - Sprecher SPEAKER_00: 
+00:13:18 - 00:13:18 - Sprecher SPEAKER_00: 
+00:13:18 - 00:13:19 - Sprecher SPEAKER_00:  live einfach nicht mein Ding ist.
+00:13:20 - 00:13:21 - Sprecher SPEAKER_00:  Ich will das nicht.
+00:13:21 - 00:13:22 - Sprecher SPEAKER_00:  Ich kann das nicht.
+00:13:23 - 00:13:24 - Sprecher SPEAKER_04:  Kann ich nachvollziehen.
+00:13:25 - 00:13:27 - Sprecher SPEAKER_04:  Ich glaube, es gab Komplikationen in der Kommunikation.
+00:13:27 - 00:13:30 - Sprecher SPEAKER_00:  Ein, zwei Strikes und dann logische Konsequenzen.
+00:13:30 - 00:13:31 - Sprecher SPEAKER_00:  Ich kann nicht so leben.
+00:13:32 - 00:13:34 - Sprecher SPEAKER_04:  Okay, aber, ja, okay, krass.
+00:13:35 - 00:13:38 - Sprecher SPEAKER_04:  Verstehe, tut mir leid, aber eigentlich auch nicht.
+00:13:38 - 00:13:39 - Sprecher SPEAKER_04:  Ich finde gut, dass du deinem Weg gehst.
+00:13:40 - 00:13:43 - Sprecher SPEAKER_04:  Ja, ist gut, ist nicht mein Schuh, weißt du.
+00:13:44 - 00:13:45 - Sprecher SPEAKER_04:  Okay, aber geht's dir gut?
+00:13:47 - 00:13:47 - Sprecher SPEAKER_00:  Scheiße, ja.
+00:13:47 - 00:13:48 - Sprecher SPEAKER_00:  Ich meine, ich...
+00:13:48 - 00:13:51 - Sprecher SPEAKER_00:  Ich hatte mal mehr und mal weniger Perspektiven in meinem Leben, aber mir geht's okay.
+00:13:52 - 00:13:55 - Sprecher SPEAKER_00:  Ich muss jetzt erstmal gucken, wo mein BMX ist, weil ich habe gerade vor den Kopfs den
+00:13:55 - 00:13:56 - Sprecher SPEAKER_00:  Firmenwagen eingeparkt.
+00:13:56 - 00:13:57 - Sprecher SPEAKER_04:  Ach, scheiße.
+00:13:57 - 00:13:58 - Sprecher SPEAKER_04:  War eine Firmenwagen gewesen?
+00:13:59 - 00:14:02 - Sprecher SPEAKER_00:  Ja, ich habe kein Geld, kein Auto und so, aber ich habe eine Bude, Homie.
+00:14:03 - 00:14:04 - Sprecher SPEAKER_00:  Eine Bude ist schon mal viel wert.
+00:14:04 - 00:14:05 - Sprecher SPEAKER_04:  Und einen BMX hast du auch schon mal.
+00:14:06 - 00:14:07 - Sprecher SPEAKER_04:  Ich habe mir einen BMX gekauft, ja, ja, genau.
+00:14:09 - 00:14:10 - Sprecher SPEAKER_04:  Okay, krass.
+00:14:12 - 00:14:12 - Sprecher SPEAKER_04:  Heftig.
+00:14:13 - 00:14:16 - Sprecher SPEAKER_00:  Ja, ich würde jetzt reingehen, meine Kündigung, also meinen letzten Amtstat machen, indem
+00:14:16 - 00:14:18 - Sprecher SPEAKER_00:  ich ihm die ganzen Sachen gebe.
+00:14:18 - 00:14:18 - Sprecher SPEAKER_00:  Diese...
+00:14:18 - 00:14:23 - Sprecher SPEAKER_00:  Also, ich muss das Handy über dem NFC abgeben und dann weiß ich, dass um 0 Uhr meine Karte
+00:14:23 - 00:14:26 - Sprecher SPEAKER_00:  deaktiviert wird, weil ich bei Live in Wales schon mit der Chefetage gesprochen habe.
+00:14:27 - 00:14:27 - Sprecher SPEAKER_04:  Geräusche, Alter.
+00:14:29 - 00:14:30 - Sprecher SPEAKER_04:  Okay, krass, verstehe ich.
+00:14:30 - 00:14:33 - Sprecher SPEAKER_04:  Das Ding ist, ich bin die nächsten zwei Tage nicht da, aber wollen wir Sonntag einfach
+00:14:33 - 00:14:34 - Sprecher SPEAKER_04:  mal quatschen?
+00:14:34 - 00:14:36 - Sprecher SPEAKER_04:  Ach du Homie, ruf einfach an, wenn du Bock hast, klar.
+00:14:36 - 00:14:39 - Sprecher SPEAKER_04:  Okay, hey, dann nur, wenn du Bock hast, ich will nicht aufdringlich sein oder so.
+00:14:39 - 00:14:40 - Sprecher SPEAKER_04:  Aber...
+00:14:40 - 00:14:41 - Sprecher SPEAKER_04:  Naja, ist gut, ich habe jetzt ja verdammt viel Zeit.
+00:14:42 - 00:14:43 - Sprecher SPEAKER_04:  Okay, heftig.
+00:14:43 - 00:14:45 - Sprecher SPEAKER_04:  Na, okay, ich würde sagen, dann treffen wir uns einfach mal Sonntag, ihr klingelt dann
+00:14:45 - 00:14:46 - Sprecher SPEAKER_04:  einfach mal durch.
+00:14:46 - 00:14:47 - Sprecher SPEAKER_01:  Ja.
+00:14:47 - 00:14:48 - Sprecher SPEAKER_01:  Ja, klingelst du durch, sagst du.
+00:14:48 - 00:14:52 - Sprecher SPEAKER_04:  Okay, ey, dann viel Erfolg dir und lass dich nicht unterkriegen und irgendwie...
+00:14:53 - 00:14:53 - Sprecher SPEAKER_04:  Ey, du, mir geht's super, alles gut.
+00:14:54 - 00:14:57 - Sprecher SPEAKER_04:  Ja, aber trotzdem, wenn man sich immer an irgendwas gewöhnt hat, ist es immer scheiße.
+00:14:58 - 00:14:58 - Sprecher SPEAKER_01:  Wenn man sich was?
+00:14:58 - 00:15:00 - Sprecher SPEAKER_01:  Wenn man sich immer an irgendeine Sache gewöhnt hat.
+00:15:00 - 00:15:01 - Sprecher SPEAKER_01:  An was habe ich mich gewöhnt, da?
+00:15:02 - 00:15:03 - Sprecher SPEAKER_04:  An das Label und alles.
+00:15:03 - 00:15:05 - Sprecher SPEAKER_04:  Sag mal, kannst du bitte ein bisschen leiser kommen?
+00:15:05 - 00:15:06 - Sprecher SPEAKER_04:  Was machst du hier?
+00:15:06 - 00:15:08 - Sprecher SPEAKER_00:  Nimm vor, du Homie, hör' ich zu.
+00:15:08 - 00:15:09 - Sprecher SPEAKER_00:  Ich habe mich ja gar nichts gewöhnt.
+00:15:10 - 00:15:11 - Sprecher SPEAKER_00:  Entschuldige, ich stelle wieder weg.
+00:15:11 - 00:15:12 - Sprecher SPEAKER_00:  Okay.
+00:15:12 - 00:15:14 - Sprecher SPEAKER_00:  Na gut, ich danke dir, Homie, und ich hoffe, die Infos haben dir weitergeholfen.
+00:15:14 - 00:15:15 - Sprecher SPEAKER_04:  Ja, cool.
+00:15:15 - 00:15:17 - Sprecher SPEAKER_04:  Ey, danke dir, ne?
+00:15:17 - 00:15:18 - Sprecher SPEAKER_00:  Jo, peace.
+00:15:18 - 00:15:18 - Sprecher SPEAKER_00:  Wir hören uns, tschü.
+00:15:20 - 00:15:25 - Sprecher SPEAKER_04:  Also, Jewelz kündigt jetzt gerade in diesem Moment.
+00:15:26 - 00:15:27 - Sprecher SPEAKER_06:  Warum?
+00:15:28 - 00:15:31 - Sprecher SPEAKER_04:  Weil dieser ganze Bonzen-Lifestyle und so nicht seins ist.
+00:15:31 - 00:15:32 - Sprecher SPEAKER_04:  Der kommt damit nicht so klar.
+00:15:32 - 00:15:32 - Sprecher SPEAKER_04:  Nein!
+00:15:34 - 00:15:35 - Sprecher SPEAKER_04:  Also, wenn soll man das jetzt...
+00:15:35 - 00:15:36 - Sprecher SPEAKER_04:  Das geht nicht!
+00:15:36 - 00:15:39 - Sprecher SPEAKER_05:  Wenn, dann soll das jetzt über Goodman besprochen werden.
+00:15:39 - 00:15:40 - Sprecher SPEAKER_05:  Nein!
+00:15:41 - 00:15:42 - Sprecher SPEAKER_05:  Wie nein? Doch!
+00:15:42 - 00:15:43 - Sprecher SPEAKER_05:  Nein!
+00:15:43 - 00:15:43 - Sprecher SPEAKER_05:  Nein!
+00:15:45 - 00:15:46 - Sprecher SPEAKER_04:  Hä, warum nicht?
+00:15:52 - 00:15:53 - Sprecher SPEAKER_04:  Ja, und wie Goodman macht das jetzt?
+00:15:53 - 00:15:56 - Sprecher SPEAKER_04:  Hallo, Jewelz, was machst du gerade?
+00:15:56 - 00:15:57 - Sprecher SPEAKER_08:  Oh, ne, das will ich wirklich...
+00:16:01 - 00:16:03 - Sprecher SPEAKER_08:  Was heißt das beim...
+00:16:03 - 00:16:04 - Sprecher SPEAKER_08:  Ach so, du machst gerade Feierabend?
+00:16:04 - 00:16:07 - Sprecher SPEAKER_08:  Aber Leute, ihr wisst, was das heißt, ne?
+00:16:08 - 00:16:10 - Sprecher SPEAKER_04:  Jewelz geht, glaube ich, in den Crime-Bereich.
+00:16:12 - 00:16:14 - Sprecher SPEAKER_04:  Und darauf habe ich richtig Bock.
+00:16:14 - 00:16:15 - Unbekannt:  Ja, ich auch.
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:15 - 00:16:15 - Unbekannt: 
+00:16:18 - 00:16:31 - Sprecher SPEAKER_06:  Also, ich habe schon gemerkt, dass ich hier nicht in der Lage bin, mich zu verabschieden.
+00:16:31 - 00:16:34 - Sprecher SPEAKER_04:  Ich habe schon so ein bisschen Angst vor dem Thema, dass ich hier nicht in die Frage kommen
+00:16:34 - 00:16:34 - Sprecher SPEAKER_04: 
+00:16:34 - 00:16:39 - Sprecher SPEAKER_04:  Ich habe schon das Gefühl, ich bin im Crime-Bereich.
+00:16:39 - 00:16:39 - Sprecher SPEAKER_04: 
+00:16:39 - 00:16:40 - Sprecher SPEAKER_04:  Ich habe das Gefühl, ich bin im Crime-Bereich.
+00:16:40 - 00:16:40 - Sprecher SPEAKER_04:  Ich habe das Gefühl, ich bin im Crime-Bereich.
+00:16:40 - 00:16:43 - Sprecher SPEAKER_04:  Ja, ich habe das Gefühl, ich bin im Crime-Bereich.
+00:16:47 - 00:16:47 - Sprecher SPEAKER_04:  Ich habe das Gefühl, ich bin im Crime-Bereich.
+00:16:47 - 00:16:47 - Sprecher SPEAKER_04: 
+00:16:47 - 00:16:47 - Sprecher SPEAKER_04: 
+00:16:47 - 00:16:47 - Sprecher SPEAKER_04: 
+00:16:47 - 00:16:47 - Sprecher SPEAKER_04:  Ja, genau.
+00:16:48 - 00:16:48 - Sprecher SPEAKER_04:  Ja, genau.
+00:16:48 - 00:16:49 - Sprecher SPEAKER_04:  Das weiß ich, das weiß ich.
+00:16:51 - 00:16:53 - Sprecher SPEAKER_04:  Ich bin gespannt, was da rum kommt.
+00:16:53 - 00:16:53 - Sprecher SPEAKER_04:  Ich bin gespannt.
+00:17:00 - 00:17:02 - Sprecher SPEAKER_04:  Guck mal, das ist so safe wie das Abend in der Kirche.
+00:17:02 - 00:17:03 - Sprecher SPEAKER_04:  Auch ein krasser Spruch.
+00:17:03 - 00:17:03 - Sprecher SPEAKER_06:  Und jetzt?
+00:17:07 - 00:17:11 - Unbekannt:  Ja, dann mache ich das.
+00:17:13 - 00:17:16 - Sprecher SPEAKER_08:  Darum solltest du jetzt schnell wieder zurückgehen und deine Kündigung zurücknehmen.
+00:17:16 - 00:17:19 - Sprecher SPEAKER_08:  Na klar, weil Goodman hat Jules ja aus der Scheiße gezogen.
+00:17:19 - 00:17:20 - Sprecher SPEAKER_04:  Das macht ja auch voll Sinn, dass er noch da ist.
+00:17:21 - 00:17:21 - Sprecher SPEAKER_04:  Jules!
+00:17:21 - 00:17:23 - Sprecher SPEAKER_04:  Aber er hat halt viel, viel mehr Möglichkeiten.
+00:17:23 - 00:17:25 - Sprecher SPEAKER_04:  Und Goodman macht das jetzt alleine, oder was?
+00:17:25 - 00:17:27 - Sprecher SPEAKER_08:  Er hat viel mehr Möglichkeiten, im Crime-Bereich durchzustarten.
+00:17:27 - 00:17:30 - Sprecher SPEAKER_04:  Ich dachte, dass du mit Goodman so wärst.
+00:17:30 - 00:17:32 - Sprecher SPEAKER_08:  Der hat dich doch von der Straße geholt.
+00:17:32 - 00:17:36 - Sprecher SPEAKER_08:  Wie kann es denn jetzt sein, dass eure Vorstellungen so weit auseinander gehen, Jules?
+00:18:07 - 00:18:08 - Sprecher SPEAKER_08:  Ich verstehe.
+00:18:08 - 00:18:09 - Sprecher SPEAKER_08:  Ja, das heißt...
+00:18:11 - 00:18:13 - Sprecher SPEAKER_08:  Du würdest mir gegebenenfalls auch nahe...
+00:18:13 - 00:18:17 - Sprecher SPEAKER_08:  ...nachlegen in Zukunft nicht mit dem Anliegen an, dass ich mit dir zu dir herangetreten bin,
+00:18:17 - 00:18:20 - Sprecher SPEAKER_08:  nochmal zu deinem ehemaligen Geschäftspartner heranzutreten.
+00:18:28 - 00:18:31 - Sprecher SPEAKER_04:  Auf jeden Fall ist Harry jemand, der mir so erzählt...
+00:18:31 - 00:18:32 - Sprecher SPEAKER_04:  Heute nicht, aber morgen wieder.
+00:18:33 - 00:18:35 - Sprecher SPEAKER_04:  Ey, naja, schauen wir mal.
+00:18:37 - 00:18:38 - Sprecher SPEAKER_04:  Wir sind jetzt nicht...
+00:18:38 - 00:18:40 - Sprecher SPEAKER_04:  Wir haben uns schon ein paar Mal gesehen, sind gut mit ihm.
+00:18:40 - 00:18:41 - Sprecher SPEAKER_04:  Also das ist gut.
+00:18:41 - 00:18:42 - Sprecher SPEAKER_04:  Normal halt.
+00:18:42 - 00:18:43 - Sprecher SPEAKER_08:  Wir reden.
+00:18:43 - 00:18:43 - Sprecher SPEAKER_08:  Morgen in Ruhe.
+00:18:43 - 00:18:45 - Sprecher SPEAKER_08:  Warten Sie, jetzt redet sie früher mit...
+00:18:45 - 00:18:46 - Sprecher SPEAKER_04:  Gute Nacht, Jules.
+00:18:46 - 00:18:47 - Sprecher SPEAKER_08:  Ich krieg einen Flip da.
+00:18:47 - 00:18:48 - Sprecher SPEAKER_04:  Da nimmt sie einfach dieses Spiel mir...
+00:18:48 - 00:18:49 - Sprecher SPEAKER_04:  Egal, scheiße.
+00:18:50 - 00:18:51 - Sprecher SPEAKER_04:  Was denn nun?
+00:18:52 - 00:18:53 - Sprecher SPEAKER_08:  Naja, Harry.
+00:18:54 - 00:19:04 - Sprecher SPEAKER_08:  Wenn sich Geschäftswege teilen und der Grund ist, wie Jules gerade gesagt hat, dass Ansichten so weit auseinander gehen...
+00:19:04 - 00:19:12 - Sprecher SPEAKER_08:  ...und Jules sagt, da wo ich herkomme, gibt es dafür Konsequenzen, die nicht so schön sind für die unterschiedlichen Sichtweisen, die wir hier hatten...
+00:19:12 - 00:19:13 - Sprecher SPEAKER_08:  ...dann heißt es...
+00:19:13 - 00:19:20 - Sprecher SPEAKER_08:  ...dass ich potenziell gestern zwei Leuten was erzählt habe...
+00:19:21 - 00:19:27 - Sprecher SPEAKER_08:  ...und heute trennen sich ihre Wege und einer von beiden ist anscheinend nicht die Person...
+00:19:29 - 00:19:31 - Sprecher SPEAKER_08:  ...die sauber arbeitet.
+00:19:31 - 00:19:32 - Sprecher SPEAKER_08:  Das ist es.
+00:19:33 - 00:19:36 - Sprecher SPEAKER_08:  Und Claudia Koks kann potenziell dann so auch nicht laufen.
+00:19:38 - 00:19:38 - Unbekannt:  Hä?
+00:19:40 - 00:19:41 - Sprecher SPEAKER_08:  Ja, ist okay.
+00:19:41 - 00:19:42 - Sprecher SPEAKER_08:  Leg dich jetzt hin.
+00:19:43 - 00:19:43 - Sprecher SPEAKER_04:  Ich versteh das nicht.
+00:19:44 - 00:19:45 - Sprecher SPEAKER_08:  Wie kannst du das nicht verstehen?
+00:19:46 - 00:19:48 - Sprecher SPEAKER_08:  Er hat doch gerade gesagt, auch zu dir schon, dass er gekündigt hat.
+00:19:49 - 00:19:49 - Sprecher SPEAKER_08:  Ja.
+00:19:49 - 00:19:50 - Sprecher SPEAKER_08:  Hat er dir gesagt, warum?
+00:19:51 - 00:19:52 - Sprecher SPEAKER_04:  Ja, hat nicht gepasst.
+00:19:54 - 00:19:55 - Sprecher SPEAKER_04:  Wer ist sein Geschäftspartner?
+00:19:55 - 00:19:56 - Sprecher SPEAKER_08:  Na, Goodman.
+00:19:57 - 00:20:00 - Sprecher SPEAKER_08:  Also, gehst du davon aus, dass es zwischen Goodman und ihm nicht gepasst hat?
+00:20:01 - 00:20:02 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:20:02 - 00:20:04 - Sprecher SPEAKER_04:  Man kann sich auch im Guten geschäftlich trennen.
+00:20:04 - 00:20:04 - Sprecher SPEAKER_04:  Kein Witzig doch nicht.
+00:20:05 - 00:20:07 - Sprecher SPEAKER_08:  Gut, ja, natürlich kann man sich im Guten geschäftlich trennen.
+00:20:08 - 00:20:12 - Sprecher SPEAKER_08:  Nichtsdestotrotz muss es einen richtigen Grund geben, denn die zwei haben ja anscheinend schon ziemlich viel zusammen erlebt.
+00:20:12 - 00:20:13 - Sprecher SPEAKER_08:  Wenn du richtig zurückgehst...
+00:20:13 - 00:20:18 - Sprecher SPEAKER_08:  Wenn du richtig dazugehört hast, dann weißt du noch, dass Jules erzählt hat, dass Goodman ihn damals von der Straße geholt hat und sie richtig gut sind miteinander.
+00:20:18 - 00:20:24 - Sprecher SPEAKER_08:  Das heißt, das, was da jetzt vorgefallen sein muss, muss ziemlich, ziemlich gravierend gewesen sein.
+00:20:24 - 00:20:27 - Sprecher SPEAKER_08:  Ansonsten trennen sich solche Geschäftspartner nicht.
+00:20:28 - 00:20:32 - Sprecher SPEAKER_08:  Also, ich geh mal vom Positiven aus und meine nicht gleich den Teufel an die Wand.
+00:20:33 - 00:20:38 - Sprecher SPEAKER_04:  Ich geh davon aus, dass es ähnlich gravierend sein müsste, wie wenn ich eines Tages sagen würde,
+00:20:38 - 00:20:41 - Sprecher SPEAKER_08:  oh, von meinem Geschäftspartner Harry Scholt hab ich mich wohl getrennt.
+00:20:43 - 00:20:44 - Sprecher SPEAKER_02:  Ja, aber...
+00:20:44 - 00:20:49 - Sprecher SPEAKER_02:  Vor allem dann, wenn Jules mir im nächsten Atemzug sagt, naja, ich sag's mal so, da wo ich herkomme, hätte das nicht...
+00:20:49 - 00:20:51 - Sprecher SPEAKER_08:  hätte das Konsequenzen, die nicht ganz so schön sind.
+00:20:52 - 00:20:54 - Sprecher SPEAKER_04:  Da wo er herkommt, hättest du auch einen Schokoriegel klauen können.
+00:20:54 - 00:20:57 - Sprecher SPEAKER_04:  Wahrscheinlich hättest du voll ohne Kugel in den Arm gefangen. Keine Ahnung.
+00:20:57 - 00:21:01 - Sprecher SPEAKER_08:  Gut, naja, dann gehen wir einfach davon aus, dass Goodman einfach nur einen Schokoriegel geklaut hat.
+00:21:01 - 00:21:03 - Sprecher SPEAKER_08:  Easy, dann ist doch alles cool.
+00:21:03 - 00:21:08 - Sprecher SPEAKER_08:  Naja, zum Glück bauen wir ja kein Netzwerk auf, wo es wichtig ist, ob Geschäftspartner zuverlässig sind oder nicht.
+00:21:09 - 00:21:11 - Sprecher SPEAKER_08:  Gehen wir doch einfach mal vom wenigsten Schlimmsten aus.
+00:21:11 - 00:21:12 - Sprecher SPEAKER_08:  Perfekt, gute Arbeit, Koi.
+00:21:12 - 00:21:15 - Sprecher SPEAKER_08:  Hey, erzähl doch einfach Neon, die ist bestimmt stolz auf dich.
+00:21:16 - 00:21:18 - Sprecher SPEAKER_08:  Jetzt mach mal halblang, das ist doch noch alles offen.
+00:21:19 - 00:21:21 - Sprecher SPEAKER_04:  Wir gucken, wir quatschen mit ihm und gucken mal weiter.
+00:21:22 - 00:21:24 - Sprecher SPEAKER_04:  Absolut, bin ich voll deiner Meinung.
+00:21:24 - 00:21:26 - Sprecher SPEAKER_08:  Was wollen wir uns jetzt den Kopf machen über Dinge, die wir nicht wissen?
+00:21:27 - 00:21:29 - Sprecher SPEAKER_08:  Ich mach mir keinen Kopf über Dinge, die ich nicht weiß.
+00:21:29 - 00:21:35 - Sprecher SPEAKER_08:  Naja, doch, mach ich schon, weil es wichtig ist, damit ich, wenn ich sie dann weiß, schon weiß, was für Konsequenzen ich draus ziehe.
+00:21:35 - 00:21:41 - Sprecher SPEAKER_08:  Denn ich kann jetzt schon damit verbringen, die gesamte Nacht darüber nachzudenken, was für mögliche Situationen es gäbe,
+00:21:41 - 00:21:42 - Sprecher SPEAKER_08:  die mir Jules morgen erzählen.
+00:21:42 - 00:21:44 - Sprecher SPEAKER_08:  Und wie ich damit in Zukunft umgehe.
+00:21:46 - 00:21:48 - Sprecher SPEAKER_04:  Ja, na, das erfährst du morgen.
+00:21:48 - 00:21:51 - Sprecher SPEAKER_04:  Triff dich mal mit ihm, ihr redet entspannt und dann kannst du deine Konsequenzen rausziehen.
+00:21:51 - 00:21:52 - Sprecher SPEAKER_04:  Wo ist denn dein Problem?
+00:21:53 - 00:21:56 - Sprecher SPEAKER_08:  Es gibt kein Problem, Harry, nur das, was ich dir gerade erzählt habe.
+00:21:56 - 00:21:58 - Sprecher SPEAKER_08:  Ja, aber du machst gerade Probleme, die es gerade noch nicht gibt.
+00:21:59 - 00:22:01 - Sprecher SPEAKER_08:  Ich mach gar keine Probleme, wie mach ich denn Probleme?
+00:22:02 - 00:22:03 - Sprecher SPEAKER_04:  Einfach mit der Art, wie du gerade bist.
+00:22:04 - 00:22:05 - Sprecher SPEAKER_04:  Was ist denn daran ein Problem?
+00:22:06 - 00:22:08 - Sprecher SPEAKER_04:  Das weiß ich nicht, du stellst mich hier gerade als dumm dar.
+00:22:09 - 00:22:11 - Sprecher SPEAKER_08:  Tut mir leid, ich wollte dich nicht als dumm darstellen lassen.
+00:22:11 - 00:22:12 - Sprecher SPEAKER_08:  Als ob ich nicht wüsste, was du für Konsequenzen hast.
+00:22:12 - 00:22:14 - Sprecher SPEAKER_04:  Doch, weiß ich, aber ich mach mir gerade einfach den Kopf.
+00:22:14 - 00:22:16 - Sprecher SPEAKER_04:  Erst mal gucken, erst mal beide Seiten anhören vielleicht.
+00:22:16 - 00:22:19 - Sprecher SPEAKER_08:  Okay, du bist voll nicht dumm, das wollte ich nicht, dass du dich so fühlst.
+00:22:19 - 00:22:20 - Sprecher SPEAKER_08:  Entschuldigung.
+00:22:20 - 00:22:21 - Sprecher SPEAKER_08:  Na, ist okay, alles gut.
+00:22:22 - 00:22:24 - Sprecher SPEAKER_04:  Dafür hätten sich andere Leute damals auf der Straße eine Kugel gefangen.
+00:22:27 - 00:22:28 - Sprecher SPEAKER_04:  Ist genau so ein Ding.
+00:22:30 - 00:22:31 - Sprecher SPEAKER_04:  Kann man auf viele Sachen anwenden.
+00:22:34 - 00:22:35 - Sprecher SPEAKER_04:  Also entspannt.
+00:22:35 - 00:22:37 - Sprecher SPEAKER_04:  Und deine Musiknummer ist noch nicht durch.
+00:22:47 - 00:22:52 - Sprecher SPEAKER_08:  Gut, dann hab ich die Geschichte morgen an.
+00:22:53 - 00:22:54 - Sprecher SPEAKER_04:  Dann quatsch ich mit ihm Sonntag nochmal, wenn ich da bin.
+00:22:55 - 00:22:56 - Sprecher SPEAKER_04:  Und dann gucken wir halt.
+00:22:56 - 00:22:59 - Sprecher SPEAKER_04:  Ist doch alles in Ordnung, ganz genau.
+00:22:59 - 00:23:02 - Sprecher SPEAKER_08:  Hab ja auch nie was anderes gesagt, außer schwierig.
+00:23:02 - 00:23:04 - Sprecher SPEAKER_08:  Na ja, schade auch.
+00:23:04 - 00:23:07 - Sprecher SPEAKER_04:  Und nur weil Gutmann ihn von der Straße hier geholt hat, ist er ihm halt auch nicht alles
+00:23:07 - 00:23:08 - Sprecher SPEAKER_04:  im Leben schuldig, ne?
+00:23:08 - 00:23:09 - Sprecher SPEAKER_04:  Deswegen, mal abwarten.
+00:23:10 - 00:23:12 - Sprecher SPEAKER_08:  Nö, natürlich nicht, aber war ein guter Kontakt.
+00:23:12 - 00:23:12 - Sprecher SPEAKER_08: 
+00:23:12 - 00:23:12 - Sprecher SPEAKER_08: 
+00:23:12 - 00:23:12 - Sprecher SPEAKER_08: 
+00:23:12 - 00:23:12 - Sprecher SPEAKER_08: 
+00:23:12 - 00:23:12 - Sprecher SPEAKER_08: 
+00:23:12 - 00:23:12 - Sprecher SPEAKER_08: 
+00:23:12 - 00:23:18 - Sprecher SPEAKER_08:  Dieser Jules hat Ahnung von Dingen, der hat direkt verstanden, worauf ich hinaus wollte,
+00:23:18 - 00:23:23 - Sprecher SPEAKER_08:  weil das ein Typ ist, der sich genau in dem Bereich, in dem wir unterwegs sind, anscheinend
+00:23:23 - 00:23:28 - Sprecher SPEAKER_08:  schon ein Stück weit auskennt, zumindest, sagen wir es mal so, im kriminellen Bereich.
+00:23:28 - 00:23:29 - Sprecher SPEAKER_08:  So würde ich ihn einschätzen.
+00:23:29 - 00:23:34 - Sprecher SPEAKER_08:  Wenn er sagt, er hat jahrelang auf der Straße verbracht, kommt mir so rüber, als wäre
+00:23:34 - 00:23:37 - Sprecher SPEAKER_08:  der vielleicht auch mal bei der einen oder anderen gegen einen und ausgegangen.
+00:23:37 - 00:23:42 - Sprecher SPEAKER_04:  Ja, was meinst du macht jemand, der nix hat, der nicht einen Dollar besitzt, der nix hat,
+00:23:42 - 00:23:44 - Sprecher SPEAKER_04:  außer ein BMX und vielleicht eine Wohnung?
+00:23:45 - 00:23:46 - Sprecher SPEAKER_04:  Was meinst du, wo der sich den nächsten...
+00:23:46 - 00:23:51 - Sprecher SPEAKER_04:  Vielleicht sucht er sich einen Job, vielleicht wird er Müllabfuhrfahrer, vielleicht treibt
+00:23:51 - 00:23:51 - Sprecher SPEAKER_04:  er sich irgendwo anders rum.
+00:23:52 - 00:23:57 - Sprecher SPEAKER_08:  Ja, ich bin mir sicher, dass Jules auch so ganz besonders interessant für uns bleibt,
+00:23:57 - 00:24:03 - Sprecher SPEAKER_08:  aber Harry, jemand, dem ein Plattenlabel gehört, mit der Einstellung, der war schon perfekt.
+00:24:05 - 00:24:07 - Sprecher SPEAKER_08:  Na ja, vielleicht versöhnen sie sich ja irgendwann wieder.
+00:24:08 - 00:24:11 - Sprecher SPEAKER_04:  Oder auch nicht, dann nehmen wir die Bede, wie sie kommen und fangen an zu schleifen.
+00:24:17 - 00:24:18 - Sprecher SPEAKER_04:  Das wird schon.
+00:24:19 - 00:24:20 - Sprecher SPEAKER_08:  Das wird schon.
+00:24:21 - 00:24:21 - Sprecher SPEAKER_08:  Okay.
+00:24:22 - 00:24:24 - Sprecher SPEAKER_04:  Also mach nicht so lang.
+00:24:24 - 00:24:25 - Sprecher SPEAKER_04:  Ach, was habe ich eigentlich jeden Abend?
+00:24:28 - 00:24:29 - Sprecher SPEAKER_04:  Okay?
+00:24:29 - 00:24:30 - Sprecher SPEAKER_08:  Läuft gut, Harry.
+00:24:31 - 00:24:31 - Sprecher SPEAKER_08:  Na klar.
+00:24:31 - 00:24:32 - Sprecher SPEAKER_04:  Und...
+00:24:32 - 00:24:32 - Sprecher SPEAKER_04:  Ah, nee, komm!
+00:24:33 - 00:24:34 - Sprecher SPEAKER_04:  Ach, Gott!
+00:24:34 - 00:24:36 - Sprecher SPEAKER_04:  Oh, Lally, oh, Lally, war's ein schöner Tag.
+00:24:37 - 00:24:39 - Sprecher SPEAKER_08:  Oh, Lally, oh, Lally, war's ein...
