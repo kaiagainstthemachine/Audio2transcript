@@ -1,0 +1,549 @@
+Transkription Staffel 2 mit Sprechererkennung von [12-17-24]_FurkiTV_-_Stefano - Tag 14 [Sektor RP]_cameo.wav:
+00:00:03 - 00:00:04 - Sprecher SPEAKER_01:  Da rein!
+00:00:17 - 00:00:19 - Sprecher SPEAKER_01:  Jetzt hab ich das angezogen, wie du angezogen bist.
+00:00:31 - 00:00:32 - Sprecher SPEAKER_01:  Willst du reden?
+00:00:38 - 00:00:39 - Sprecher SPEAKER_03:  Na ja, doch.
+00:00:40 - 00:00:42 - Sprecher SPEAKER_03:  Was ist das für eine dumme Frage, Stefano?
+00:00:42 - 00:00:45 - Sprecher SPEAKER_03:  Ja, ich dachte gerade irgendwie...
+00:00:45 - 00:00:48 - Sprecher SPEAKER_03:  Na, aber was ist das davor auch schon für eine dumme Frage gewesen?
+00:00:50 - 00:00:51 - Sprecher SPEAKER_02:  Ja, wieso?
+00:00:52 - 00:00:54 - Sprecher SPEAKER_03:  Na, wieso ich so angezogen bin, wie ich angezogen bin, ist doch klar.
+00:00:55 - 00:00:59 - Sprecher SPEAKER_03:  Als ob ich hier irgendwie offensichtlich als Fritzi rumlaufe.
+00:01:00 - 00:01:01 - Sprecher SPEAKER_03:  Und gucke, ob du meinen Käsekuchen isst.
+00:01:02 - 00:01:03 - Sprecher SPEAKER_02:  Ich hab deinen Käsekuchen...
+00:01:03 - 00:01:09 - Sprecher SPEAKER_02:  Ich bin extra hier hingefahren, um deinen Käsekuchen zu essen.
+00:01:09 - 00:01:10 - Sprecher SPEAKER_02:  Und ich liebe Käsekuchen.
+00:01:11 - 00:01:12 - Sprecher SPEAKER_02:  Ich hasse normalerweise Süßkram.
+00:01:12 - 00:01:13 - Sprecher SPEAKER_02:  Ich liebe Käsekuchen auch.
+00:01:13 - 00:01:15 - Sprecher SPEAKER_03:  Ich hasse Süßkram.
+00:01:15 - 00:01:17 - Sprecher SPEAKER_02:  Aber wenn ich was esse, dann ist es Käsekuchen.
+00:01:18 - 00:01:20 - Sprecher SPEAKER_02:  Boah, ist auch zu schlecht.
+00:01:20 - 00:01:21 - Sprecher SPEAKER_02:  Was geht, Fritzi?
+00:01:24 - 00:01:26 - Sprecher SPEAKER_03:  Nichts Besonderes. Was geht bei dir?
+00:01:26 - 00:01:26 - Sprecher SPEAKER_03: 
+00:01:30 - 00:01:30 - Sprecher SPEAKER_02:  Ähm...
+00:01:30 - 00:01:31 - Sprecher SPEAKER_02:  Unicorn-Kram, ne?
+00:01:33 - 00:01:34 - Sprecher SPEAKER_02:  Und sonst gar nichts.
+00:01:36 - 00:01:37 - Sprecher SPEAKER_02:  Geht's dir gut?
+00:01:37 - 00:01:38 - Sprecher SPEAKER_02:  Mir geht's gut. Wie geht's dir?
+00:01:40 - 00:01:41 - Sprecher SPEAKER_03:  Mir geht's gut.
+00:01:41 - 00:01:42 - Sprecher SPEAKER_02:  Das freut mich.
+00:01:42 - 00:01:45 - Sprecher SPEAKER_03:  Heute geht's mir nicht ganz so gut. Ich hab...
+00:01:45 - 00:01:47 - Sprecher SPEAKER_03:  zu viel geschlafen.
+00:01:48 - 00:01:48 - Sprecher SPEAKER_03:  Echt?
+00:01:49 - 00:01:50 - Sprecher SPEAKER_03:  Ja.
+00:01:50 - 00:01:51 - Sprecher SPEAKER_02:  Woran liegt das?
+00:01:54 - 00:01:55 - Sprecher SPEAKER_02:  Hast du kein Schlafen letztens gemacht?
+00:01:55 - 00:01:56 - Sprecher SPEAKER_02:  Hab einfach geschlafen.
+00:01:57 - 00:01:58 - Sprecher SPEAKER_02:  Hast du Stress?
+00:01:59 - 00:02:01 - Sprecher SPEAKER_03:  Nein, daran liegt's nicht.
+00:02:01 - 00:02:02 - Sprecher SPEAKER_03:  Ich hab einfach nur...
+00:02:03 - 00:02:04 - Sprecher SPEAKER_03:  Mein Computer hat nicht funktioniert.
+00:02:04 - 00:02:05 - Sprecher SPEAKER_03:  Und mein...
+00:02:06 - 00:02:09 - Sprecher SPEAKER_03:  Und ich bin nicht spazieren gegangen, weil...
+00:02:10 - 00:02:11 - Sprecher SPEAKER_03:  mein Hund krank ist.
+00:02:11 - 00:02:12 - Sprecher SPEAKER_03:  Und darum...
+00:02:13 - 00:02:14 - Sprecher SPEAKER_03:  bin ich eingeschlafen.
+00:02:14 - 00:02:17 - Sprecher SPEAKER_03:  Und dann hab ich geschlafen. So richtig doll geschlafen.
+00:02:17 - 00:02:18 - Sprecher SPEAKER_03:  Das war nicht gut.
+00:02:21 - 00:02:22 - Sprecher SPEAKER_02:  Was hat der Hund?
+00:02:22 - 00:02:25 - Sprecher SPEAKER_03:  Ach so, Durchfall. Ganz viel Durchfall.
+00:02:25 - 00:02:26 - Sprecher SPEAKER_03:  Hast du nichts Schlimmes?
+00:02:27 - 00:02:28 - Sprecher SPEAKER_03:  Nein, nein.
+00:02:29 - 00:02:30 - Sprecher SPEAKER_02:  Okay, gut. Dann ist er gut.
+00:02:31 - 00:02:31 - Sprecher SPEAKER_02:  Hm?
+00:02:32 - 00:02:32 - Sprecher SPEAKER_02:  Dann ist gut.
+00:02:33 - 00:02:34 - Sprecher SPEAKER_02:  Ich hab dich vermisst, ey.
+00:02:35 - 00:02:35 - Sprecher SPEAKER_02:  Ich will dir sagen...
+00:02:35 - 00:02:37 - Sprecher SPEAKER_02:  Ich dich auch, Stefano!
+00:02:37 - 00:02:38 - Sprecher SPEAKER_03:  ...lange nicht mehr gesehen.
+00:02:40 - 00:02:40 - Sprecher SPEAKER_02:  Eine Woche?
+00:02:41 - 00:02:44 - Sprecher SPEAKER_03:  Ja, na ja. Also ich wusste nicht, dass dir so schlecht wird von dem Käsesandwich.
+00:02:44 - 00:02:47 - Sprecher SPEAKER_03:  Das ist es bestimmt schlecht gewesen. Es tut mir leid.
+00:02:48 - 00:02:49 - Sprecher SPEAKER_02:  Nein, alles gut.
+00:02:49 - 00:02:50 - Sprecher SPEAKER_02:  Ich war nur außerhalb der Stadt.
+00:02:53 - 00:02:53 - Sprecher SPEAKER_02:  Private Dinge.
+00:02:53 - 00:02:55 - Sprecher SPEAKER_02:  Na ja, also als... Du hast ganz schön rumgekotzt.
+00:02:55 - 00:02:58 - Sprecher SPEAKER_03:  Also du hast rumgereiert, nachdem ich dir dieses Käsesandwich...
+00:02:58 - 00:02:58 - Sprecher SPEAKER_03: 
+00:02:58 - 00:02:59 - Sprecher SPEAKER_03:  ...gegeben hab.
+00:02:59 - 00:03:02 - Sprecher SPEAKER_03:  Ja, aber das war nicht daran. Ich hab davor schon was gegessen gehabt.
+00:03:02 - 00:03:04 - Sprecher SPEAKER_02:  Ich glaub, das war einfach nur ein bisschen zu viel und nicht...
+00:03:04 - 00:03:06 - Sprecher SPEAKER_02:  ...mein Magen war dann nicht...
+00:03:06 - 00:03:06 - Sprecher SPEAKER_02:  Okay, gut.
+00:03:08 - 00:03:08 - Sprecher SPEAKER_02:  Ähm...
+00:03:08 - 00:03:09 - Sprecher SPEAKER_02:  Okay, gut.
+00:03:11 - 00:03:11 - Sprecher SPEAKER_02:  ...Ruzzi.
+00:03:12 - 00:03:13 - Sprecher SPEAKER_03:  Was denn?
+00:03:15 - 00:03:17 - Sprecher SPEAKER_02:  Ich bin... Ich hab mein Tattoo.
+00:03:19 - 00:03:20 - Sprecher SPEAKER_03:  Aus deiner Hand?
+00:03:21 - 00:03:22 - Sprecher SPEAKER_02:  Nein, Rücken.
+00:03:22 - 00:03:23 - Sprecher SPEAKER_03:  Was für ein Tattoo?
+00:03:24 - 00:03:26 - Sprecher SPEAKER_02:  Dass ich jetzt komplett drin bin bei denen.
+00:03:29 - 00:03:33 - Sprecher SPEAKER_02:  Ich bin jetzt komplett, komplett drin. Ich darf jetzt alles mitbekommen.
+00:03:33 - 00:03:34 - Sprecher SPEAKER_02:  Ich werde jetzt auch alles erfahren.
+00:03:35 - 00:03:40 - Sprecher SPEAKER_02:  Was sie machen. Was sie treiben. Mit wem die Kontakte haben. Alles.
+00:03:41 - 00:03:42 - Sprecher SPEAKER_03:  Wie ist das abgelaufen?
+00:03:43 - 00:03:44 - Sprecher SPEAKER_02:  Was genau?
+00:03:45 - 00:03:45 - Sprecher SPEAKER_03:  Na ja, also...
+00:03:46 - 00:03:50 - Sprecher SPEAKER_03:  ...haben die einfach gesagt, hallo Stefano, heute hast du Tattoo-Termin, viel Spaß.
+00:03:50 - 00:03:52 - Sprecher SPEAKER_03:  Nein. Die haben mich mitgenommen.
+00:03:53 - 00:03:55 - Sprecher SPEAKER_02:  Im Büro. Da, wo ich normalerweise nicht rein darf.
+00:03:56 - 00:03:58 - Sprecher SPEAKER_02:  Und dann haben die mir...
+00:03:59 - 00:04:00 - Sprecher SPEAKER_02:  ...und Esteban...
+00:04:02 - 00:04:05 - Sprecher SPEAKER_02:  ...erzählt, erklärt, dass wir jetzt einer von denen sind und, äh, dass wir...
+00:04:08 - 00:04:09 - Unbekannt:  ...also Pasha...
+00:04:10 - 00:04:13 - Sprecher SPEAKER_02:  ...ja, wie sagt der? Irgend so ein Dieb-Kram, mein Junge. So was wie...
+00:04:13 - 00:04:16 - Sprecher SPEAKER_02:  ...so was wie ein Rangsystem. Wie in so einem Militär.
+00:04:16 - 00:04:17 - Sprecher SPEAKER_02:  Weißt du, was ich meine?
+00:04:18 - 00:04:20 - Sprecher SPEAKER_02:  Wie in so, so, so...
+00:04:20 - 00:04:23 - Sprecher SPEAKER_02:  Pasha ist derjenige, der für mich zuständig ist.
+00:04:24 - 00:04:25 - Sprecher SPEAKER_02:  Und ich hab mein erstes Tattoo von ihm.
+00:04:25 - 00:04:27 - Sprecher SPEAKER_02:  Und ich hab mein erstes Tattoo von Pasha bekommen. Sozusagen.
+00:04:29 - 00:04:29 - Sprecher SPEAKER_02:  Und...
+00:04:29 - 00:04:30 - Sprecher SPEAKER_02:  Pasha hat das selber gestochen?
+00:04:31 - 00:04:32 - Sprecher SPEAKER_03:  Ne, der hat gesagt, was ich...
+00:04:32 - 00:04:34 - Sprecher SPEAKER_02:  ...der hat nur gezeigt, was ich tätowieren lassen soll.
+00:04:34 - 00:04:34 - Sprecher SPEAKER_02:  Oder muss.
+00:04:34 - 00:04:35 - Sprecher SPEAKER_02:  Ach so.
+00:04:36 - 00:04:36 - Sprecher SPEAKER_02:  Aber...
+00:04:36 - 00:04:38 - Sprecher SPEAKER_02:  Hat Ayumi das gestochen?
+00:04:38 - 00:04:40 - Sprecher SPEAKER_03:  Ich weiß nicht, wer Ayumi ist.
+00:04:40 - 00:04:42 - Sprecher SPEAKER_02:  Na ja, wer hat das denn gestochen?
+00:04:42 - 00:04:44 - Sprecher SPEAKER_02:  Ich weiß nicht, wo das war. Ich glaub, das war...
+00:04:44 - 00:04:45 - Sprecher SPEAKER_02:  ...das war sogar hier in Sandystrauss.
+00:04:47 - 00:04:48 - Sprecher SPEAKER_02:  Hier drüben, da hinten hat...
+00:04:48 - 00:04:49 - Sprecher SPEAKER_02:  ...haben die das gemacht.
+00:04:52 - 00:04:54 - Sprecher SPEAKER_02:  Aber ich bin jetzt komplett drin, ne?
+00:04:54 - 00:04:55 - Sprecher SPEAKER_02:  Also komplett drin.
+00:04:56 - 00:04:58 - Sprecher SPEAKER_02:  Ich darf alles mitbekommen. Ich darf sogar mit...
+00:04:59 - 00:05:01 - Sprecher SPEAKER_02:  ...ja, alles halt. Ich gehöre zur Familie.
+00:05:01 - 00:05:02 - Sprecher SPEAKER_02:  So.
+00:05:04 - 00:05:05 - Sprecher SPEAKER_03:  Na dann...
+00:05:05 - 00:05:07 - Sprecher SPEAKER_03:  Und es gibt gar kein Zug mehr.
+00:05:07 - 00:05:07 - Sprecher SPEAKER_03:  Was?
+00:05:09 - 00:05:10 - Sprecher SPEAKER_03:  Herzlichen Glückwunsch oder so?
+00:05:10 - 00:05:12 - Sprecher SPEAKER_03:  Ja, was heißt herzlichen Glückwunsch? Also...
+00:05:13 - 00:05:14 - Sprecher SPEAKER_02:  Und was sie mir gesagt haben?
+00:05:14 - 00:05:15 - Sprecher SPEAKER_02:  Du bist für sie irrelevant.
+00:05:17 - 00:05:18 - Sprecher SPEAKER_02:  Also ich...eigentlich müsste ich gar keinen Schiss haben.
+00:05:18 - 00:05:19 - Sprecher SPEAKER_02:  Um Fritzi.
+00:05:19 - 00:05:21 - Sprecher SPEAKER_02:  Alles gut. Hab ich auch nicht anders erwartet.
+00:05:22 - 00:05:23 - Sprecher SPEAKER_02:  Was haben die mir so gesagt?
+00:05:23 - 00:05:24 - Sprecher SPEAKER_02:  Ja, keine Ahnung.
+00:05:24 - 00:05:26 - Sprecher SPEAKER_02:  Also erst mal wollten die wissen...
+00:05:26 - 00:05:28 - Sprecher SPEAKER_02:  ...von mir, ob ich dich kenne und so.
+00:05:29 - 00:05:29 - Sprecher SPEAKER_02:  Hm.
+00:05:30 - 00:05:32 - Sprecher SPEAKER_02:  Und jetzt haben die gesagt, Fritzi ist erledigt.
+00:05:35 - 00:05:36 - Sprecher SPEAKER_02:  Warum, weiß ich nicht. Also...
+00:05:37 - 00:05:39 - Sprecher SPEAKER_02:  Ich glaub wirklich, du bist nicht so...
+00:05:40 - 00:05:40 - Sprecher SPEAKER_02:  ...relevant für die.
+00:05:43 - 00:05:45 - Sprecher SPEAKER_03:  Ich weiß, hab ich auch nie was anderes erwartet eigentlich.
+00:05:45 - 00:05:48 - Sprecher SPEAKER_03:  Ja, das kam mir aber am Anfang ein bisschen anders rüber. Also, na...
+00:05:49 - 00:05:51 - Sprecher SPEAKER_02:  Am Anfang dachte ich schon, dass sie...
+00:05:52 - 00:05:55 - Sprecher SPEAKER_02:  ...also als sie nach dir gefragt haben, da dachte ich so, okay, was geht denn jetzt ab?
+00:05:56 - 00:05:56 - Sprecher SPEAKER_02:  Hm.
+00:05:56 - 00:05:57 - Sprecher SPEAKER_02:  Und hatte auch ein bisschen Schiss.
+00:05:58 - 00:06:00 - Sprecher SPEAKER_02:  Aber jetzt haben die gesagt, du bist...
+00:06:01 - 00:06:03 - Sprecher SPEAKER_02:  ...erst mal erledigt. Also, was heißt erst mal? Du bist erledigt.
+00:06:04 - 00:06:05 - Sprecher SPEAKER_02:  Also, du bist egal.
+00:06:07 - 00:06:11 - Sprecher SPEAKER_02:  Es geht um andere Sachen. Irgendein Jamaikaner oder so macht Stress. Den wollen wir jetzt erst mal finden.
+00:06:11 - 00:06:12 - Sprecher SPEAKER_02:  Was für ein Jamaikaner?
+00:06:13 - 00:06:13 - Sprecher SPEAKER_02:  Keine Ahnung.
+00:06:14 - 00:06:16 - Sprecher SPEAKER_02:  Der ist irgendwie...
+00:06:16 - 00:06:20 - Sprecher SPEAKER_02:  ...der macht irgendwie...der labert irgendwie, dass Unicorn sein Rücken ist und sowas.
+00:06:20 - 00:06:22 - Sprecher SPEAKER_02:  Den wollen die erst mal...den wollen die, glaub ich, rumlegen.
+00:06:27 - 00:06:28 - Sprecher SPEAKER_02:  Und ähm...
+00:06:28 - 00:06:29 - Sprecher SPEAKER_02:  Und du weißt nicht, wie der heißt?
+00:06:30 - 00:06:31 - Sprecher SPEAKER_02:  Hmmmm...
+00:06:32 - 00:06:32 - Sprecher SPEAKER_02:  Nein.
+00:06:34 - 00:06:36 - Sprecher SPEAKER_02:  Ich weiß nicht mal, wie der aussieht.
+00:06:38 - 00:06:39 - Sprecher SPEAKER_01:  Hm.
+00:06:39 - 00:06:40 - Sprecher SPEAKER_01:  Aber ich bekomm das eh mit.
+00:06:42 - 00:06:46 - Sprecher SPEAKER_02:  Wahrscheinlich werde ich den sogar mitfinden müssen. Und mitsuchen müssen.
+00:06:48 - 00:06:50 - Sprecher SPEAKER_03:  Kennst du Zack und Soul?
+00:06:51 - 00:06:52 - Sprecher SPEAKER_02:  Zack und Soul?
+00:06:53 - 00:06:54 - Sprecher SPEAKER_03:  Zack und Soul?
+00:06:54 - 00:06:55 - Sprecher SPEAKER_02:  Noch nie gehört.
+00:06:56 - 00:06:57 - Sprecher SPEAKER_02:  Warum?
+00:06:58 - 00:07:00 - Sprecher SPEAKER_03:  Einfach nur aus Interesse.
+00:07:02 - 00:07:03 - Sprecher SPEAKER_02:  Zack und Soul?
+00:07:04 - 00:07:10 - Sprecher SPEAKER_03:  Zack hat immer so ne Melone auf dem Kopf und Soul hat so kleine Rasterlöckchen.
+00:07:10 - 00:07:11 - Sprecher SPEAKER_03:  Nein.
+00:07:11 - 00:07:13 - Sprecher SPEAKER_03:  Die haben einen Friseursalon.
+00:07:13 - 00:07:14 - Sprecher SPEAKER_02:  Okay.
+00:07:16 - 00:07:16 - Sprecher SPEAKER_02:  Und wieso?
+00:07:16 - 00:07:17 - Sprecher SPEAKER_02:  Ich war schon ein paar mal bei euch im Unicorn.
+00:07:19 - 00:07:21 - Sprecher SPEAKER_02:  Bin noch nie gesehen, um ehrlich zu sein. Oder...oder...
+00:07:22 - 00:07:23 - Sprecher SPEAKER_02:  Keine Ahnung, ist mir nicht aufgefallen.
+00:07:24 - 00:07:24 - Sprecher SPEAKER_02:  Wieso?
+00:07:24 - 00:07:24 - Sprecher SPEAKER_02:  Okay.
+00:07:25 - 00:07:25 - Sprecher SPEAKER_03:  Ist da was?
+00:07:25 - 00:07:32 - Sprecher SPEAKER_03:  Einfach...ne, überhaupt nicht. Ich wills nur wissen, ob das...weißt du, ich mein, du kannst mir ja nicht alles erzählen, was dir die ganze Zeit passiert.
+00:07:33 - 00:07:40 - Sprecher SPEAKER_03:  Und wenn mir...was einfällt, wo ich denke, dass du schon mal was mitgekriegt haben könntest, kann ich dich ja fragen. Also es gibt gar keinen speziellen Grund.
+00:07:41 - 00:07:42 - Sprecher SPEAKER_02:  Alles gut.
+00:07:42 - 00:07:45 - Sprecher SPEAKER_02:  Sag mal, was würdest du machen, wenn du hören würdest, dass ich jemanden abgestochen hab?
+00:07:50 - 00:07:52 - Sprecher SPEAKER_03:  Dann würde ich fragen, wie es dir geht.
+00:07:54 - 00:07:57 - Sprecher SPEAKER_02:  Das wars? Und alles andere wäre dir egal?
+00:07:59 - 00:08:10 - Sprecher SPEAKER_03:  Was meinst du, was soll ich machen, Stefano? Aussteigen und sagen, mit Kriminalität hab ich nichts zu tun? Oh mein Gott, Stefano, das ist kriminell, sowas machen wir nicht, wir sind ne W-Gang.
+00:08:11 - 00:08:12 - Sprecher SPEAKER_02:  Das hast du früher mal gesagt, ja.
+00:08:14 - 00:08:15 - Sprecher SPEAKER_03:  Wen hast du abgestochen?
+00:08:17 - 00:08:18 - Sprecher SPEAKER_02:  Ich hab nur gefragt.
+00:08:20 - 00:08:22 - Sprecher SPEAKER_03:  Wen sollst du abstechen?
+00:08:25 - 00:08:26 - Sprecher SPEAKER_02:  Okay, ich hab Luke abgestochen.
+00:08:30 - 00:08:31 - Sprecher SPEAKER_03:  Der Typ, der jetzt im PD arbeitet?
+00:08:32 - 00:08:38 - Sprecher SPEAKER_02:  Ja. Anscheinend hat er Scheiße gebaut. Und ich hab nen Denkzettel verpasst.
+00:08:39 - 00:08:39 - Sprecher SPEAKER_02:  Ist er tot?
+00:08:40 - 00:08:45 - Sprecher SPEAKER_02:  Nein. Glaub ich nicht. Also ich hab ihn ja auch nicht so abgestochen, dass er davon stirbt.
+00:08:47 - 00:08:48 - Sprecher SPEAKER_02:  Ich hab ihn abgestochen.
+00:08:49 - 00:08:49 - Sprecher SPEAKER_02:  Er hat dir das auch getragen.
+00:08:50 - 00:08:52 - Sprecher SPEAKER_02:  Und ähm, M-Medic gerufen, ähm, Demi.
+00:08:55 - 00:08:57 - Sprecher SPEAKER_03:  Aber du weißt nicht, was für ne Scheiße er gemacht hat?
+00:08:57 - 00:09:00 - Sprecher SPEAKER_02:  Das weiß ich nicht. Er hat mir gesagt, ich stech den ab und fertig.
+00:09:01 - 00:09:04 - Sprecher SPEAKER_03:  Und du solltest ihm auch keine Botschaft hinterlassen dabei?
+00:09:04 - 00:09:10 - Sprecher SPEAKER_02:  M-mh. Einfach nur sagen, dass er nicht so frech sein soll. Ey, die Skrill, verpiss dich!
+00:09:12 - 00:09:12 - Unbekannt:  G-Gh.
+00:09:13 - 00:09:15 - Unbekannt:  G-g-g-g-g-g-g-g-g-g-g...
+00:09:17 - 00:09:20 - Sprecher SPEAKER_03:  Na ja, dann hast du doch getan, was dir gesagt wurde, oder?
+00:09:22 - 00:09:22 - Sprecher SPEAKER_03:  Scheiße.
+00:09:23 - 00:09:24 - Sprecher SPEAKER_02:  Ja.
+00:09:29 - 00:09:30 - Sprecher SPEAKER_02:  Das hab ich getan.
+00:09:32 - 00:09:36 - Sprecher SPEAKER_03:  Ja, manchmal muss man Sachen machen, die man vielleicht sonst nicht getan hätte, Stefano.
+00:09:37 - 00:09:37 - Sprecher SPEAKER_02:  Da hast du recht.
+00:09:38 - 00:09:40 - Sprecher SPEAKER_02:  Und ich glaube, ich muss noch einige Sachen machen.
+00:09:46 - 00:09:49 - Sprecher SPEAKER_02:  Ich hoffe nur, und ich wünsche wirklich, also wirklich, ich hoffe nur,
+00:09:51 - 00:09:52 - Sprecher SPEAKER_02:  davor hab ich auch richtig Angst,
+00:09:53 - 00:09:56 - Sprecher SPEAKER_02:  dass irgendwann der Tag kommt, dass wir uns gegenseitig die Waffe rechnen werden.
+00:09:59 - 00:10:02 - Sprecher SPEAKER_03:  Ich hab schon oft genug gesagt, Stefano, das kommt nicht in Frage.
+00:10:03 - 00:10:03 - Sprecher SPEAKER_03:  Ich hoffe.
+00:10:04 - 00:10:06 - Sprecher SPEAKER_03:  Nicht, weil ich dir keine Kugel verpassen würde,
+00:10:07 - 00:10:10 - Sprecher SPEAKER_03:  sondern weil dieses Szenario nicht zur Debatte steht.
+00:10:14 - 00:10:15 - Sprecher SPEAKER_02:  Ich hoffe.
+00:10:15 - 00:10:15 - Sprecher SPEAKER_02:  Ich hoffe.
+00:10:15 - 00:10:18 - Sprecher SPEAKER_03:  Aber keine Angst, ich würde dir trotzdem keine Kugel drücken.
+00:10:18 - 00:10:18 - Sprecher SPEAKER_03:  Oh mein Gott!
+00:10:19 - 00:10:20 - Sprecher SPEAKER_03:  Das weiß ich, dass du das nicht machen würdest.
+00:10:22 - 00:10:23 - Sprecher SPEAKER_02:  Wie geht's, Harry?
+00:10:25 - 00:10:25 - Sprecher SPEAKER_03:  Gut.
+00:10:27 - 00:10:27 - Sprecher SPEAKER_02:  Gut?
+00:10:28 - 00:10:28 - Sprecher SPEAKER_03:  Mhm.
+00:10:29 - 00:10:30 - Sprecher SPEAKER_01:  Was macht er?
+00:10:32 - 00:10:33 - Sprecher SPEAKER_03:  Das gleiche wie immer.
+00:10:34 - 00:10:35 - Sprecher SPEAKER_03:  Small-Talken.
+00:10:35 - 00:10:36 - Sprecher SPEAKER_03:  Er liebt Small-Talk.
+00:10:37 - 00:10:38 - Sprecher SPEAKER_03:  Es ist Small-Talk, Harry.
+00:10:39 - 00:10:39 - Sprecher SPEAKER_03:  Ja, das hab ich schon gemacht.
+00:10:39 - 00:10:41 - Sprecher SPEAKER_03:  Manchmal muss ich ihn von Menschen wegreißen und sagen,
+00:10:42 - 00:10:43 - Sprecher SPEAKER_03:  Harry, jetzt plapper nicht so viel mit denen.
+00:10:43 - 00:10:45 - Sprecher SPEAKER_03:  Ich meine, am Ende des Tages,
+00:10:45 - 00:10:47 - Sprecher SPEAKER_03:  wollen die Leute auch mal mit anderen Leuten reden.
+00:10:47 - 00:10:51 - Sprecher SPEAKER_03:  Aber er erzählt und erzählt den ganzen Tag von Hobbys
+00:10:51 - 00:10:53 - Sprecher SPEAKER_03:  und von Weihnachtsbeleuchtung
+00:10:53 - 00:10:56 - Sprecher SPEAKER_03:  und davon, wie gern er Käsekuchen hat,
+00:10:56 - 00:10:58 - Sprecher SPEAKER_03:  bla bla bla bla.
+00:10:58 - 00:10:58 - Sprecher SPEAKER_03:  Oh nein.
+00:11:03 - 00:11:04 - Sprecher SPEAKER_03:  Ich glaub, ich hab von mir geredet.
+00:11:08 - 00:11:09 - Sprecher SPEAKER_02:  Ja.
+00:11:10 - 00:11:10 - Sprecher SPEAKER_02:  Ja.
+00:11:12 - 00:11:14 - Sprecher SPEAKER_02:  Ich wollte irgendwas dran, ich hab vergessen, was ich fragen wollte, ne?
+00:11:16 - 00:11:17 - Sprecher SPEAKER_02:  Hä???
+00:11:17 - 00:11:18 - Sprecher SPEAKER_02:  Mhm.
+00:11:20 - 00:11:22 - Sprecher SPEAKER_03:  Ja, mir geht's boiler Totally
+00:11:22 - 00:11:23 - Sprecher SPEAKER_03:  Anschau!
+00:11:23 - 00:11:24 - Sprecher SPEAKER_03:  Hahaha ahne.
+00:11:24 - 00:11:24 - Sprecher SPEAKER_02: 
+00:11:24 - 00:11:26 - Sprecher SPEAKER_02:  Weil das sieht besser aus.
+00:11:26 - 00:11:28 - Sprecher SPEAKER_03:  Weiler,Müzik, noch mal.
+00:11:28 - 00:11:31 - Sprecher SPEAKER_03:  Aber du machst oni H을 illuminant, ne?
+00:11:32 - 00:11:34 - Sprecher SPEAKER_02:  Ach, die Fan DM know 2019.
+00:11:34 - 00:11:35 - Sprecher SPEAKER_02:  Das was payment- oder nicht ist,
+00:11:35 - 00:11:37 - Sprecher SPEAKER_02:  Ganze06 hat schnell übersteigert.
+00:11:37 - 00:11:38 - Unbekannt:  Wie ist das jetzt mit da?
+00:11:38 - 00:11:41 - Sprecher SPEAKER_03:  Also treating nearlyывайтесь, k怪st uns richtig diese Bauchstabilität?
+00:11:45 - 00:11:47 - Sprecher SPEAKER_03:  sagen, Fritz, du kannst den Schlüssel nachmachen,
+00:11:47 - 00:11:49 - Sprecher SPEAKER_03:  ich hole ihn ab. Das ist ja der Service,
+00:11:49 - 00:11:51 - Sprecher SPEAKER_03:  den wir anbieten. Hinfahren, den Schlüssel ab,
+00:11:51 - 00:11:52 - Sprecher SPEAKER_03:  holen ihn nachmachen, lassen ihn mir zurückbringen.
+00:11:53 - 00:11:53 - Sprecher SPEAKER_03:  Perfekt.
+00:11:54 - 00:11:57 - Sprecher SPEAKER_02:  Na gut. Das kann ein beschissener Automat
+00:11:57 - 00:11:59 - Sprecher SPEAKER_03:  nicht. Das können mir die Maschinen nicht nehmen,
+00:11:59 - 00:12:01 - Sprecher SPEAKER_03:  Stefano. Ja, das stimmt.
+00:12:02 - 00:12:03 - Sprecher SPEAKER_03:  Naja, könnten sie
+00:12:03 - 00:12:04 - Sprecher SPEAKER_03:  schon, aber ich glaube, niemand ist bereit,
+00:12:04 - 00:12:06 - Sprecher SPEAKER_03:  da rein Geld zu investieren.
+00:12:06 - 00:12:07 - Sprecher SPEAKER_02:  Ne.
+00:12:09 - 00:12:11 - Sprecher SPEAKER_02:  Na gut, na ja, viel Glück dabei. Was soll ich
+00:12:11 - 00:12:13 - Sprecher SPEAKER_02:  sagen? Ich hoffe, irgendwann bekommst du deinen Laden.
+00:12:14 - 00:12:14 - Sprecher SPEAKER_03:  Ja.
+00:12:15 - 00:12:15 - Sprecher SPEAKER_03:  Toi, toi, toi.
+00:12:17 - 00:12:19 - Sprecher SPEAKER_02:  Sonst nichts, oder was? Das war es?
+00:12:19 - 00:12:21 - Sprecher SPEAKER_02:  Sonst gibt es nichts zu erzählen? Gar nichts?
+00:12:22 - 00:12:23 - Sprecher SPEAKER_02:  Oder,
+00:12:23 - 00:12:25 - Sprecher SPEAKER_02:  was weiß ich? Ich meine,
+00:12:25 - 00:12:26 - Sprecher SPEAKER_02:  wir haben uns eine Woche nicht gesehen.
+00:12:27 - 00:12:28 - Sprecher SPEAKER_02:  Das sind sieben Tage.
+00:12:29 - 00:12:31 - Sprecher SPEAKER_02:  Sieben Tage, Fritzi.
+00:12:33 - 00:12:35 - Sprecher SPEAKER_03:  Ist nichts Besonderes passiert.
+00:12:38 - 00:12:39 - Sprecher SPEAKER_02:  Na gut.
+00:12:42 - 00:12:42 - Sprecher SPEAKER_02:  Okay.
+00:12:43 - 00:12:45 - Sprecher SPEAKER_03:  Ich hab mir ein Tattoo
+00:12:45 - 00:12:45 - Sprecher SPEAKER_03:  stechen lassen.
+00:12:46 - 00:12:48 - Sprecher SPEAKER_03:  Das hab ich gerade an deiner Wange da, oder was?
+00:12:48 - 00:12:50 - Sprecher SPEAKER_03:  Ach so, ne, das hab ich schon ewig.
+00:12:50 - 00:12:53 - Sprecher SPEAKER_03:  Ist dir das noch nie aufgefallen? Das hab ich schon ewig, ewig.
+00:12:53 - 00:12:55 - Sprecher SPEAKER_03:  Alter, nein, da warst du schon weg.
+00:12:55 - 00:12:57 - Sprecher SPEAKER_03:  Das hab ich mir da mal
+00:12:57 - 00:12:59 - Sprecher SPEAKER_03:  stechen lassen, nachdem ich
+00:12:59 - 00:13:01 - Sprecher SPEAKER_03:  im Krankenhaus war und sowas. Zusammen mit
+00:13:01 - 00:13:03 - Sprecher SPEAKER_03:  Harry. Also, Harry
+00:13:03 - 00:13:05 - Sprecher SPEAKER_03:  hat auch so eins. Und dann hab ich mir auch so eins
+00:13:05 - 00:13:07 - Sprecher SPEAKER_03:  stechen lassen, weil wir zusammen, na ja, nicht gestorben
+00:13:07 - 00:13:09 - Sprecher SPEAKER_03:  sind. Nachdem wir fast beide werden draufgegangen
+00:13:09 - 00:13:11 - Sprecher SPEAKER_03:  und sowas, dies, das. Na ja,
+00:13:11 - 00:13:13 - Sprecher SPEAKER_03:  dann hatte ich es weggelasert wegen Japan, weil
+00:13:13 - 00:13:14 - Sprecher SPEAKER_03:  ich dachte, das wäre problematisch.
+00:13:15 - 00:13:17 - Sprecher SPEAKER_03:  Weil die da, die, na ja, da hat man
+00:13:17 - 00:13:19 - Sprecher SPEAKER_03:  manchmal Probleme mit sichtbaren Tattoos
+00:13:19 - 00:13:21 - Sprecher SPEAKER_03:  und so. Wieso?
+00:13:21 - 00:13:22 - Sprecher SPEAKER_03:  Und wegen der Yakuza.
+00:13:22 - 00:13:24 - Sprecher SPEAKER_03:  Ach stimmt, da war ja was, genau.
+00:13:24 - 00:13:27 - Sprecher SPEAKER_03:  Ja, darum hab ich es, na ja, so ein bisschen wegglasern
+00:13:27 - 00:13:29 - Sprecher SPEAKER_03:  lassen, aber jetzt hab ich es
+00:13:29 - 00:13:31 - Sprecher SPEAKER_03:  wieder nachstechen lassen, aber das ist schon eine Weile
+00:13:31 - 00:13:32 - Sprecher SPEAKER_03:  da. Nein, ich hab mir am Oberarm was
+00:13:32 - 00:13:34 - Sprecher SPEAKER_03:  tätowieren lassen. Das war auch cool.
+00:13:35 - 00:13:37 - Sprecher SPEAKER_02:  Echt? Zeig mal. Es ist noch nicht fertig.
+00:13:37 - 00:13:39 - Sprecher SPEAKER_03:  Da sind nur die Outlines. Wenn es fertig ist, zeig ich es dir.
+00:13:39 - 00:13:40 - Sprecher SPEAKER_03:  Alles klar.
+00:13:41 - 00:13:42 - Sprecher SPEAKER_02:  Sag mal, wo ist deine Narbe?
+00:13:43 - 00:13:44 - Sprecher SPEAKER_02:  Hast du es operieren lassen?
+00:13:45 - 00:13:46 - Sprecher SPEAKER_03:  Ja,
+00:13:46 - 00:13:48 - Sprecher SPEAKER_03:  die haben übelst die guten Schönheitschirurgen
+00:13:48 - 00:13:49 - Sprecher SPEAKER_03:  in Japan.
+00:13:50 - 00:13:52 - Sprecher SPEAKER_02:  Was heißt denn, deine Narbe ist komplett weg?
+00:13:52 - 00:13:54 - Sprecher SPEAKER_03:  Naja, also, die wurde erst
+00:13:54 - 00:13:56 - Sprecher SPEAKER_03:  so fünfmal geniedelt, heißt das.
+00:13:57 - 00:13:58 - Sprecher SPEAKER_03:  Und dann wurde da dreimal drüber
+00:13:58 - 00:14:00 - Sprecher SPEAKER_03:  gelasert auch und dann nochmal geniedelt
+00:14:00 - 00:14:02 - Sprecher SPEAKER_03:  und dann musste ich jeden Tag dreimal
+00:14:02 - 00:14:04 - Sprecher SPEAKER_03:  so eine Salbe auftun und, na ja,
+00:14:04 - 00:14:07 - Sprecher SPEAKER_03:  also ein bisschen sieht man es schon, auch wenn du genau hinschaust.
+00:14:07 - 00:14:08 - Sprecher SPEAKER_02:  Naja, also es fällt
+00:14:08 - 00:14:10 - Sprecher SPEAKER_02:  kaum auf. Also gar nicht sogar.
+00:14:11 - 00:14:12 - Sprecher SPEAKER_03:  Ja, das hat nämlich der Typ
+00:14:12 - 00:14:14 - Sprecher SPEAKER_03:  damals schon gesagt, als ich mir das Tattoo lasern hab
+00:14:15 - 00:14:16 - Sprecher SPEAKER_03:  hat er gesagt so, hey, mit der Narbe
+00:14:16 - 00:14:18 - Sprecher SPEAKER_03:  würde ich es auch mal probieren mit Laser.
+00:14:18 - 00:14:20 - Sprecher SPEAKER_03:  Dann hab ich das in Japan mal nachgefragt und die haben
+00:14:20 - 00:14:21 - Sprecher SPEAKER_03:  gesagt, kein Problem.
+00:14:22 - 00:14:24 - Sprecher SPEAKER_02:  Krass, ja gut, dann ist ja...
+00:14:25 - 00:14:27 - Sprecher SPEAKER_02:  Ja, wie soll ich sagen, also ich sag...
+00:14:27 - 00:14:29 - Sprecher SPEAKER_02:  Also, deine Narbe stand ja auch so,
+00:14:29 - 00:14:30 - Sprecher SPEAKER_02:  so ist es nicht.
+00:14:30 - 00:14:33 - Sprecher SPEAKER_02:  Er hatte was. Aber...
+00:14:34 - 00:14:35 - Sprecher SPEAKER_02:  Jetzt ist es noch besser.
+00:14:35 - 00:14:37 - Sprecher SPEAKER_02:  Ja, war nur eine Erinnerung.
+00:14:37 - 00:14:40 - Sprecher SPEAKER_03:  Eine Zeit, an die ich gar nicht erinnert werden möchte.
+00:14:41 - 00:14:42 - Sprecher SPEAKER_03:  Dann frage ich nicht nach.
+00:14:43 - 00:14:44 - Sprecher SPEAKER_03:  Was denn?
+00:14:44 - 00:14:46 - Sprecher SPEAKER_02:  Also, von wo das, also von wo die...
+00:14:46 - 00:14:48 - Sprecher SPEAKER_02:  Ach so, die kamen aus dem Dienst.
+00:14:48 - 00:14:49 - Sprecher SPEAKER_03:  Ich hab mir da volle Karacho mal
+00:14:49 - 00:14:52 - Sprecher SPEAKER_03:  die Shotgun gegengeballert,
+00:14:52 - 00:14:54 - Sprecher SPEAKER_03:  als ich meinem Kollegen
+00:14:54 - 00:14:55 - Sprecher SPEAKER_03:  Deckung geben musste.
+00:14:55 - 00:14:56 - Sprecher SPEAKER_02:  Was, als Cop?
+00:14:57 - 00:15:00 - Sprecher SPEAKER_03:  Na ja, klar. Da wusste ich nicht.
+00:15:00 - 00:15:01 - Sprecher SPEAKER_03:  Also, das war ganz am Anfang.
+00:15:01 - 00:15:04 - Sprecher SPEAKER_03:  Da wusste ich nicht, dass so Waffen einen Rückschlag
+00:15:04 - 00:15:05 - Sprecher SPEAKER_03:  haben. Dann hab ich mir das voll in mein Gesicht
+00:15:05 - 00:15:07 - Sprecher SPEAKER_03:  reingeballert. Wie, du wusstest nicht, dass Waffen
+00:15:07 - 00:15:09 - Sprecher SPEAKER_02:  Rückstand, äh, Rückstand...
+00:15:11 - 00:15:11 - Sprecher SPEAKER_02:  Fritzi,
+00:15:11 - 00:15:13 - Sprecher SPEAKER_02:  Waffen haben's? Das ist, das ist...
+00:15:14 - 00:15:15 - Sprecher SPEAKER_02:  Das haben Waffen an sich.
+00:15:15 - 00:15:17 - Sprecher SPEAKER_03:  Ja das krieg ich jetzt auch.
+00:15:19 - 00:15:23 - Sprecher SPEAKER_02:  Und du hast einfach ein Shotgun auf die Fresse bekommen oder wie?
+00:15:24 - 00:15:25 - Sprecher SPEAKER_03:  Ja.
+00:15:28 - 00:15:32 - Sprecher SPEAKER_02:  Also manchmal frag ich mich was für Leute die da einstellen. Also wirklich jetzt.
+00:15:35 - 00:15:36 - Sprecher SPEAKER_02:  Aber ist doch okay.
+00:15:37 - 00:15:39 - Sprecher SPEAKER_03:  Naja einen davon hast du abgestochen.
+00:15:40 - 00:15:42 - Sprecher SPEAKER_02:  Das stimmt. Das stimmt.
+00:15:42 - 00:15:43 - Sprecher SPEAKER_02:  War er da gerade im Dienst?
+00:15:44 - 00:15:47 - Sprecher SPEAKER_02:  Nein. Und das ist ja auch das Problem. Eigentlich sollte er sogar im Dienst sein.
+00:15:48 - 00:15:58 - Sprecher SPEAKER_02:  Und mein Message war einfach nur auch wenn du im Dienst bist und wenn du deine Bullenuniform hast und deine Schutzweste leg dich nicht mit uns an.
+00:15:58 - 00:15:59 - Sprecher SPEAKER_02:  Wir stechen dich auch so abmäßig.
+00:16:00 - 00:16:07 - Sprecher SPEAKER_02:  Aber der war außerhalb und dann hat er gesagt, also ich hab ihn angerufen und hab gefragt können wir uns treffen und er meinte können wir. Ich ruf dich gleich an.
+00:16:08 - 00:16:12 - Sprecher SPEAKER_02:  Und als er mich angerufen hat hat er schon Feierabend gemacht.
+00:16:12 - 00:16:14 - Sprecher SPEAKER_02:  Und ich hab ihn abgeholt.
+00:16:14 - 00:16:15 - Sprecher SPEAKER_02:  Irgendwo und nirgendwo gebracht.
+00:16:16 - 00:16:18 - Sprecher SPEAKER_02:  Hab ihn in den Ansaal gedroppt und hab ihn abgestochen.
+00:16:19 - 00:16:21 - Sprecher SPEAKER_03:  Also hast du diese Message doch überbracht?
+00:16:22 - 00:16:24 - Sprecher SPEAKER_02:  Nicht genau. Ich hab nicht gesagt dass es vom Team kommt.
+00:16:25 - 00:16:27 - Sprecher SPEAKER_02:  Hättest du das sagen sollen?
+00:16:27 - 00:16:27 - Sprecher SPEAKER_02:  Nein.
+00:16:29 - 00:16:33 - Sprecher SPEAKER_03:  Also hast du einfach nur gesagt egal ob du im Dienst bist oder nicht.
+00:16:33 - 00:16:35 - Sprecher SPEAKER_02:  Das hab ich auch nicht gesagt. Ich hab gesagt du sollst einfach nicht frech werden.
+00:16:36 - 00:16:39 - Sprecher SPEAKER_02:  Und wenn du weiterhin frech bist.
+00:16:39 - 00:16:42 - Sprecher SPEAKER_02:  Weil der meinte der kommt auch schon oft auf die Fresse.
+00:16:42 - 00:16:46 - Sprecher SPEAKER_02:  Deswegen meinte ich irgendwann kommt einer der schlägt dir nicht auf die Fresse.
+00:16:47 - 00:16:50 - Sprecher SPEAKER_02:  Irgendwann kommt einer der bringt dich mit, bringt dich hier hin.
+00:16:50 - 00:16:52 - Sprecher SPEAKER_02:  Zieht ein Messer und stecht dich ab.
+00:16:52 - 00:16:53 - Sprecher SPEAKER_02:  Und dann hab ich zugestochen.
+00:16:55 - 00:16:57 - Sprecher SPEAKER_02:  Aber der kann ja schon denken von wem das kommt.
+00:16:57 - 00:16:58 - Sprecher SPEAKER_02:  Weil der weiß ja wo ich arbeite.
+00:17:02 - 00:17:03 - Sprecher SPEAKER_02:  Und das ist halt die Message.
+00:17:06 - 00:17:07 - Sprecher SPEAKER_02:  Und wenn nicht dann ist das halt so.
+00:17:08 - 00:17:10 - Sprecher SPEAKER_02:  Aber dir hat niemand gesagt warum.
+00:17:10 - 00:17:11 - Sprecher SPEAKER_03:  Moment Pasha ruft an.
+00:17:12 - 00:17:12 - Sprecher SPEAKER_00:  Hallo?
+00:17:13 - 00:17:15 - Sprecher SPEAKER_00:  Bin dabei. Ey Stefano.
+00:17:15 - 00:17:15 - Sprecher SPEAKER_00:  Ja?
+00:17:15 - 00:17:18 - Sprecher SPEAKER_00:  Hast du geguckt ob die Sachen irgendwo losbekommen sind?
+00:17:19 - 00:17:20 - Sprecher SPEAKER_02:  Nein ich bin noch nicht dazu gekommen.
+00:17:21 - 00:17:22 - Sprecher SPEAKER_02:  Aber werde ich machen.
+00:17:23 - 00:17:25 - Sprecher SPEAKER_00:  Wichtig. Die Geldkassette. Ich will wissen.
+00:17:26 - 00:17:27 - Sprecher SPEAKER_00:  Wer die aufmacht.
+00:17:28 - 00:17:29 - Sprecher SPEAKER_02:  Alles klar. Wer die aufmacht.
+00:17:29 - 00:17:31 - Sprecher SPEAKER_02:  Aber ob da irgendjemand in der Stadt. Ja irgendjemand in der Stadt.
+00:17:32 - 00:17:33 - Sprecher SPEAKER_02:  Alles klar.
+00:17:33 - 00:17:35 - Sprecher SPEAKER_00:  Weiß ich. Irgendjemand. So wie Oleg. Verstehst du?
+00:17:35 - 00:17:36 - Sprecher SPEAKER_02:  Mhm.
+00:17:37 - 00:17:38 - Sprecher SPEAKER_00:  Soweit ich finde so.
+00:17:38 - 00:17:38 - Sprecher SPEAKER_02:  Bis dann.
+00:17:40 - 00:17:40 - Unbekannt: 
+00:17:41 - 00:17:43 - Sprecher SPEAKER_02:  Fritzi weißt du vielleicht wer Geldkassetten aufmacht?
+00:17:48 - 00:17:48 - Sprecher SPEAKER_03:  Hm.
+00:17:50 - 00:17:52 - Sprecher SPEAKER_03:  Mal im Pawn Shop nachgefragt?
+00:17:52 - 00:17:54 - Sprecher SPEAKER_03:  Ne. Ja Pawn Shop gehört doch uns.
+00:17:55 - 00:17:56 - Sprecher SPEAKER_02:  Aber.
+00:17:56 - 00:17:57 - Sprecher SPEAKER_02:  Der Witz an der Geschichte.
+00:17:59 - 00:18:00 - Sprecher SPEAKER_02:  Also weißt du nicht?
+00:18:00 - 00:18:01 - Sprecher SPEAKER_03:  Nein.
+00:18:02 - 00:18:03 - Sprecher SPEAKER_02:  Kannst du das vielleicht herausfinden?
+00:18:04 - 00:18:08 - Sprecher SPEAKER_03:  Mich fragen Leute die ganze Zeit ob ich ihnen Geldkassetten aufmachen kann.
+00:18:11 - 00:18:12 - Sprecher SPEAKER_03:  Wegen Schlüsseldienst verstehst du?
+00:18:12 - 00:18:12 - Sprecher SPEAKER_02:  Mhm.
+00:18:14 - 00:18:16 - Sprecher SPEAKER_02:  Ich muss herausfinden wer die aufmachen kann.
+00:18:19 - 00:18:21 - Sprecher SPEAKER_02:  Wo kann ich am besten nachfragen?
+00:18:21 - 00:18:23 - Sprecher SPEAKER_02:  Also das mit Dietrich habe ich schon geklärt.
+00:18:24 - 00:18:25 - Sprecher SPEAKER_03:  Hm.
+00:18:27 - 00:18:28 - Sprecher SPEAKER_03:  Ich gebe dir mal eine Nummer.
+00:18:31 - 00:18:33 - Sprecher SPEAKER_03:  Aber egal was ist die Nummer hast du nicht von mir.
+00:18:33 - 00:18:33 - Sprecher SPEAKER_03:  Nein.
+00:18:33 - 00:18:34 - Sprecher SPEAKER_03:  Und die Info auch nicht.
+00:18:34 - 00:18:35 - Sprecher SPEAKER_03:  Alles klar.
+00:18:35 - 00:18:37 - Sprecher SPEAKER_03:  Der Typ hat gesagt er hat.
+00:18:39 - 00:18:41 - Sprecher SPEAKER_03:  Probleme was aufzukriegen.
+00:18:41 - 00:18:43 - Sprecher SPEAKER_03:  Eine Geldkassette um genau zu sein.
+00:18:43 - 00:18:44 - Sprecher SPEAKER_03:  Irgendein Erbstück.
+00:18:44 - 00:18:44 - Sprecher SPEAKER_03:  Blablabla.
+00:18:44 - 00:18:46 - Sprecher SPEAKER_03:  Hat mir irgendeine Geschichte drum erzählt.
+00:18:46 - 00:18:49 - Sprecher SPEAKER_03:  Das war vor einer Woche oder so dass er das wissen wollte.
+00:18:49 - 00:18:51 - Sprecher SPEAKER_03:  Wie also ob ich das ihm aufmachen kann.
+00:18:52 - 00:18:52 - Sprecher SPEAKER_02:  Okay.
+00:18:52 - 00:18:53 - Sprecher SPEAKER_02:  Meinst du der hat das schon aufbekommen?
+00:18:54 - 00:18:56 - Sprecher SPEAKER_03:  Vielleicht hat er es mittlerweile aufbekommen.
+00:18:57 - 00:18:58 - Sprecher SPEAKER_03:  Okay.
+00:18:58 - 00:18:58 - Sprecher SPEAKER_03:  Hm.
+00:18:59 - 00:19:01 - Sprecher SPEAKER_03:  Warte mal ich rufe erstmal selber jemand an.
+00:19:04 - 00:19:05 - Sprecher SPEAKER_03:  Oh Gott.
+00:19:05 - 00:19:08 - Sprecher SPEAKER_03:  Mein Gehirn funktioniert heute gar nicht Stefano.
+00:19:08 - 00:19:09 - Sprecher SPEAKER_03:  Ich kenne das habe ich auch verlofft.
+00:19:09 - 00:19:10 - Sprecher SPEAKER_02:  Es ist ganz schlimm.
+00:19:10 - 00:19:13 - Sprecher SPEAKER_03:  Ich muss die ganze Zeit an meine Träume denken.
+00:19:16 - 00:19:17 - Sprecher SPEAKER_02:  Deine Träume?
+00:19:18 - 00:19:19 - Sprecher SPEAKER_03:  Scheiße.
+00:19:19 - 00:19:20 - Sprecher SPEAKER_03:  Wie hieß der?
+00:19:20 - 00:19:21 - Sprecher SPEAKER_03:  Wer war das?
+00:19:21 - 00:19:22 - Sprecher SPEAKER_03:  Ah ja.
+00:19:22 - 00:19:23 - Sprecher SPEAKER_03:  Okay.
+00:19:23 - 00:19:24 - Sprecher SPEAKER_03:  Warte mir ist wieder eingefallen.
+00:19:25 - 00:19:25 - Sprecher SPEAKER_03:  Hm.
+00:19:28 - 00:19:29 - Sprecher SPEAKER_03:  Nicht zu erreichen.
+00:19:29 - 00:19:30 - Sprecher SPEAKER_03:  Na gut.
+00:19:33 - 00:19:33 - Sprecher SPEAKER_03:  Hm.
+00:19:33 - 00:19:33 - Sprecher SPEAKER_03:  Ja der продutiert.
+00:19:33 - 00:19:33 - Sprecher SPEAKER_03: 
+00:19:33 - 00:19:34 - Sprecher SPEAKER_03:  Ja der bars am Kabel.
+00:19:34 - 00:19:34 - Sprecher SPEAKER_03: 
+00:19:34 - 00:19:34 - Sprecher SPEAKER_03: 
+00:19:34 - 00:19:34 - Sprecher SPEAKER_03: 
+00:19:34 - 00:19:34 - Sprecher SPEAKER_03: 
+00:19:34 - 00:19:36 - Sprecher SPEAKER_03:  Lass mich kurz durchgucken.
+00:19:36 - 00:19:38 - Sprecher SPEAKER_03:  Der war's nicht, der war's nicht.
+00:19:38 - 00:19:40 - Sprecher SPEAKER_03:  Ja was nicht.
+00:19:40 - 00:19:43 - Sprecher SPEAKER_03:  Ja auch nicht, ja auch nicht.
+00:19:47 - 00:19:58 - Sprecher SPEAKER_03:  Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein.
+00:19:59 - 00:20:00 - Sprecher SPEAKER_03:  Wie viele Nummer hast du?
+00:20:00 - 00:20:03 - Sprecher SPEAKER_03:  Naja, viele. Was ist los mit dir, Junge?
+00:20:04 - 00:20:07 - Sprecher SPEAKER_03:  Hast du ein ganzes Telefonbuch oder was?
+00:20:07 - 00:20:08 - Sprecher SPEAKER_03:  Ich bin erst bei R. Warte.
+00:20:10 - 00:20:11 - Sprecher SPEAKER_03:  Nein, nein.
+00:20:27 - 00:20:32 - Sprecher SPEAKER_03:  Die nächste Möglichkeit ist, dass ich ihn nicht abgespeichert habe.
+00:20:32 - 00:20:33 - Unbekannt:  Ach.
+00:20:36 - 00:20:37 - Sprecher SPEAKER_03:  Nein, nein, nein.
+00:20:42 - 00:20:43 - Sprecher SPEAKER_03:  Ich habe ihn nicht abgespeichert.
+00:20:43 - 00:20:45 - Sprecher SPEAKER_03:  Okay, es wäre richtig witzig, wenn ich dir jetzt Simis Nummer geben würde.
+00:20:45 - 00:20:46 - Sprecher SPEAKER_01:  Ja.
+00:20:47 - 00:20:48 - Sprecher SPEAKER_03:  Ich mag meinen Pornshop.
+00:20:50 - 00:20:51 - Sprecher SPEAKER_01:  Lache ich?
+00:20:52 - 00:20:53 - Sprecher SPEAKER_03:  Aber ich lache.
+00:20:56 - 00:20:59 - Sprecher SPEAKER_02:  Gut, sieh. Hast du die Nummer jetzt oder nicht?
+00:21:02 - 00:21:03 - Sprecher SPEAKER_03:  Hmmmm, ja.
+00:21:06 - 00:21:07 - Sprecher SPEAKER_03:  Dann, bitte.
+00:21:12 - 00:21:13 - Sprecher SPEAKER_03:  440554.
+00:21:14 - 00:21:16 - Sprecher SPEAKER_03:  Aber der Typ ist nicht zu erreichen.
+00:21:16 - 00:21:17 - Sprecher SPEAKER_03:  Weißt du, wie der heißt?
+00:21:18 - 00:21:18 - Sprecher SPEAKER_03:  Antonio.
+00:21:21 - 00:21:22 - Sprecher SPEAKER_02:  Ist das Italiener?
+00:21:26 - 00:21:27 - Sprecher SPEAKER_03:  Ich glaube schon, ja.
+00:21:28 - 00:21:29 - Sprecher SPEAKER_02:  Alles gut.
+00:21:30 - 00:21:32 - Sprecher SPEAKER_02:  Okay, du kannst was sagen? Du wolltest irgendwas sagen? Ich habe dich unterhalten.
+00:21:32 - 00:21:33 - Sprecher SPEAKER_02:  Also, wie gesagt, du...
+00:21:34 - 00:21:37 - Sprecher SPEAKER_03:  Sag halt, du hast das irgendwie mitgekriegt. So am Rande...
+00:21:38 - 00:21:40 - Sprecher SPEAKER_03:  Golden Pound oder sowas haben...
+00:21:41 - 00:21:41 - Sprecher SPEAKER_03:  Hmmmm...
+00:21:42 - 00:21:45 - Sprecher SPEAKER_02:  Ja, dass er halt eine Geldkasse drauf machen wollte oder was.
+00:21:46 - 00:21:48 - Sprecher SPEAKER_02:  Und dann konnte ich sagen...
+00:21:49 - 00:21:52 - Sprecher SPEAKER_02:  Hast du es aufbekommen? Wenn ja, kannst du mir vielleicht helfen. Ich bin auch Italiener, mein Freund.
+00:21:53 - 00:21:57 - Sprecher SPEAKER_03:  Und was sagst du, wenn jemand, wenn er fragt, woher weißt du das?
+00:21:57 - 00:21:58 - Sprecher SPEAKER_02:  Habe ich doch mitbekommen.
+00:21:58 - 00:21:59 - Sprecher SPEAKER_03:  Wo mitbekommen?
+00:22:00 - 00:22:02 - Sprecher SPEAKER_02:  Am Rande so. Da wird rumgesprochen.
+00:22:02 - 00:22:04 - Sprecher SPEAKER_02:  An welchem Rande wird rumgesprochen?
+00:22:05 - 00:22:05 - Unbekannt:  In der Stadt.
+00:22:06 - 00:22:08 - Sprecher SPEAKER_02:  Das ist ja egal. In der Stadt wird so rumgesprochen.
+00:22:08 - 00:22:13 - Sprecher SPEAKER_02:  Nein, das ist keine gute Idee. Ich meine, keiner will hören, dass über einen selber rumgesprochen wird.
+00:22:13 - 00:22:15 - Sprecher SPEAKER_02:  Ja, soll ich dann sagen, Fritz, das kann ich auch nicht sagen.
+00:22:15 - 00:22:18 - Sprecher SPEAKER_03:  Nein, eben nicht. Aber du kannst auch nicht erzählen, dass die ganze Stadt darüber spricht.
+00:22:18 - 00:22:20 - Sprecher SPEAKER_03:  Dann sag mir mal, Pfeiffer, was soll ich sagen?
+00:22:23 - 00:22:25 - Sprecher SPEAKER_02:  Er wird fragen, woher ich das weiß.
+00:22:26 - 00:22:29 - Sprecher SPEAKER_03:  Ja eben, deswegen frage ich dich ja, was du darauf antwortest.
+00:22:29 - 00:22:31 - Sprecher SPEAKER_03:  Dann muss ich mir noch heute Nacht darüber Gedanken machen.
+00:22:32 - 00:22:35 - Sprecher SPEAKER_02:  Und so jetzt plötzlich dachte ich mir, okay, wird so rumgesprochen, habe ich so gehört.
+00:22:38 - 00:22:46 - Sprecher SPEAKER_02:  Ja, sag doch einfach, hm, so ein Typ namens Francesco hat mir die Nummer gegeben.
+00:22:47 - 00:22:48 - Sprecher SPEAKER_03:  So ein random Name droppen oder was?
+00:22:49 - 00:22:49 - Sprecher SPEAKER_02:  Ja.
+00:22:50 - 00:22:52 - Sprecher SPEAKER_02:  Okay, das ist, Junge, was ist denn los mit dir? Du bist ja richtig so.
+00:22:53 - 00:22:56 - Sprecher SPEAKER_03:  Ich meine, Francesco ist auch aus Italien, kennst du den nicht?
+00:22:56 - 00:22:57 - Sprecher SPEAKER_03:  Ja, ja, ich weiß aber, dass du so, ich bin jetzt wirklich...
+00:22:57 - 00:22:58 - Sprecher SPEAKER_02:  Der hat mir deine Nummer gegeben.
+00:22:58 - 00:22:59 - Sprecher SPEAKER_03:  Ich bin...
+00:22:59 - 00:23:02 - Sprecher SPEAKER_03:  Ich habe letztens mit dem im Gold, äh, im Ground and Pound geredet, bla bla bla.
+00:23:02 - 00:23:04 - Sprecher SPEAKER_03:  Und was, wenn er sagt, ich kenne so einen Typen nicht?
+00:23:06 - 00:23:14 - Sprecher SPEAKER_03:  Dann würde ich ihm sagen, dann würde ich mal an deiner Stelle aufpassen, mit was für Leuten ich so rede, weil anscheinend hatte ich einen Typ da ziemlich angelogen.
+00:23:15 - 00:23:20 - Sprecher SPEAKER_03:  Francesco ist anscheinend nicht so ehrlich zu dir gewesen, vielleicht hat er sich auch unter einem anderen Namen vorgestellt.
+00:23:21 - 00:23:27 - Sprecher SPEAKER_02:  Alles klar, das ist eine gute Idee, das könnte man, ja. Ansonsten, äh, ja, gut.
+00:23:27 - 00:23:31 - Sprecher SPEAKER_02:  Ich ruf ihn einfach morgen an und frage mal nach. Ich hoffe, der hat's aufbekommen.
+00:23:32 - 00:23:34 - Sprecher SPEAKER_03:  Hoffe ich auch, mehr kann ich dir leider dazu grad auch nicht sagen.
+00:23:35 - 00:23:35 - Sprecher SPEAKER_03:  Ja, das passt schon erstmal.
+00:23:37 - 00:23:40 - Sprecher SPEAKER_03:  Aber falls du es rauskriegst, würde es mich auch interessieren.
+00:23:41 - 00:23:42 - Sprecher SPEAKER_02:  Ja, kann ich dir sagen.
+00:23:43 - 00:23:44 - Sprecher SPEAKER_03:  Alles klar, Stefano.
+00:23:45 - 00:23:46 - Sprecher SPEAKER_02:  Okay.
+00:23:47 - 00:23:49 - Sprecher SPEAKER_02:  Soll ich dich irgendwo abkicken?
+00:23:49 - 00:23:50 - Sprecher SPEAKER_03:  Nein, ich lauf von hier.
+00:23:52 - 00:23:53 - Sprecher SPEAKER_02:  Pass auf dich auf.
+00:23:55 - 00:23:56 - Sprecher SPEAKER_03:  Du auch auf dich, Stefano.
+00:23:57 - 00:23:58 - Sprecher SPEAKER_02:  Mach ich. Bis dann.
