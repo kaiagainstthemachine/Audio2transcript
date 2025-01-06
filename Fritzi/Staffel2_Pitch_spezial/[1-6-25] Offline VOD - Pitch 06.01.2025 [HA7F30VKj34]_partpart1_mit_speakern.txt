@@ -1,0 +1,348 @@
+Transkription Staffel 2 mit Sprechererkennung von [1-6-25] Offline VOD - Pitch 06.01.2025 [HA7F30VKj34]_part1.wav:
+00:00:00 - 00:00:00 - Sprecher SPEAKER_05:  Blackpitch?
+00:00:01 - 00:00:02 - Sprecher SPEAKER_02:  Ja, bitte?
+00:00:02 - 00:00:04 - Sprecher SPEAKER_02:  Nehmen wir noch einen Kollegen für Sie.
+00:00:07 - 00:00:08 - Sprecher SPEAKER_02:  Wunderschönen guten Tag.
+00:00:13 - 00:00:15 - Sprecher SPEAKER_02:  Steile Frisur, steile Frisur, Sir.
+00:00:16 - 00:00:17 - Sprecher SPEAKER_04:  Bitte was?
+00:00:17 - 00:00:18 - Sprecher SPEAKER_04:  Ich hab's nicht verstanden, Senorita.
+00:00:19 - 00:00:20 - Sprecher SPEAKER_04:  Steile Frisur.
+00:00:21 - 00:00:22 - Sprecher SPEAKER_04:  Gracias, gracias.
+00:00:24 - 00:00:25 - Sprecher SPEAKER_04:  Medusa mein Name.
+00:00:26 - 00:00:27 - Sprecher SPEAKER_02:  Hallo Medusa.
+00:00:30 - 00:00:30 - Sprecher SPEAKER_05:  Mein Name.
+00:00:32 - 00:00:34 - Sprecher SPEAKER_05:  Ja, das Team ist Blackpitch.
+00:00:35 - 00:00:36 - Sprecher SPEAKER_02:  Du kannst mich auch Pitch nennen.
+00:00:36 - 00:00:38 - Sprecher SPEAKER_02:  Wir werden bestimmt super Freunde, Medusa.
+00:00:45 - 00:00:47 - Sprecher SPEAKER_02:  Ich geh mal in die Kantine hoch.
+00:00:48 - 00:00:48 - Sprecher SPEAKER_05:  Na klar.
+00:00:52 - 00:00:54 - Sprecher SPEAKER_02:  Was haben Sie heute gegessen?
+00:00:55 - 00:00:56 - Sprecher SPEAKER_04:  Um ehrlich zu sein, noch gar nicht.
+00:00:57 - 00:00:57 - Sprecher SPEAKER_02:  Noch gar nicht?
+00:00:59 - 00:01:03 - Sprecher SPEAKER_02:  Das ist aber nicht gut, mit leeren Magen zur Arbeit zu gehen.
+00:01:03 - 00:01:04 - Sprecher SPEAKER_02:  Das ist doch nicht gut.
+00:01:06 - 00:01:09 - Sprecher SPEAKER_04:  Auf was haben Sie Lust, Sir?
+00:01:13 - 00:01:15 - Sprecher SPEAKER_04:  Ich hab auf gar nichts Lust.
+00:01:15 - 00:01:15 - Sprecher SPEAKER_04:  Alles gut.
+00:01:16 - 00:01:17 - Sprecher SPEAKER_02:  Wieso haben Sie auf nichts Lust?
+00:01:17 - 00:01:19 - Sprecher SPEAKER_02:  Ist Ihnen der Appetit vergangen, Medusa?
+00:01:20 - 00:01:21 - Sprecher SPEAKER_04:  Ich hab keinen Hunger, ganz einfach.
+00:01:22 - 00:01:23 - Sprecher SPEAKER_04:  Ich bin auf Diät.
+00:01:24 - 00:01:24 - Sprecher SPEAKER_02:  Wirklich?
+00:01:25 - 00:01:26 - Sprecher SPEAKER_02:  Wie traurig.
+00:01:27 - 00:01:28 - Sprecher SPEAKER_02:  Und Sie?
+00:01:29 - 00:01:31 - Sprecher SPEAKER_05:  Ich hab gegessen, Ma'am.
+00:01:37 - 00:01:39 - Sprecher SPEAKER_03:  Wie geht's dir?
+00:01:40 - 00:01:42 - Sprecher SPEAKER_02:  Ich hoffe, dir geht's gut.
+00:01:42 - 00:01:43 - Sprecher SPEAKER_02:  Du siehst gut aus heute.
+00:01:45 - 00:01:48 - Sprecher SPEAKER_02:  Die Marschels sind heute besonders sauer, glaube ich.
+00:01:49 - 00:01:56 - Sprecher SPEAKER_02:  Sie ärgern sich darüber, dass sie den Marschel-Eid nicht aufsagen können.
+00:01:58 - 00:02:00 - Sprecher SPEAKER_02:  Ich glaube, sie schämen sich dafür.
+00:02:01 - 00:02:01 - Sprecher SPEAKER_05:  Siehst du das?
+00:02:01 - 00:02:03 - Sprecher SPEAKER_05:  Der Victor hat schon wieder so ein Blitzern in den Augen.
+00:02:06 - 00:02:07 - Sprecher SPEAKER_05:  Ja, ja, ja.
+00:02:07 - 00:02:07 - Sprecher SPEAKER_05:  Ja, ja, ja.
+00:02:07 - 00:02:09 - Sprecher SPEAKER_02:  Victor, irgendwann...
+00:02:10 - 00:02:12 - Sprecher SPEAKER_02:  ...mussst du mir eins deiner Messer geben, ja?
+00:02:13 - 00:02:13 - Sprecher SPEAKER_02:  Irgendwann.
+00:02:15 - 00:02:17 - Sprecher SPEAKER_02:  Ich glaube, die...
+00:02:19 - 00:02:21 - Sprecher SPEAKER_02:  ...sendet dich in einem falschen Licht.
+00:02:23 - 00:02:26 - Sprecher SPEAKER_02:  Was? Den hast du extra für mich gemacht?
+00:02:28 - 00:02:30 - Sprecher SPEAKER_02:  Esst er auch ohne Fleisch?
+00:02:31 - 00:02:35 - Sprecher SPEAKER_02:  Victor, Victor. Das ist so nett von dir.
+00:02:35 - 00:02:36 - Sprecher SPEAKER_02:  Das ist so nett.
+00:02:37 - 00:02:37 - Sprecher SPEAKER_02:  Dankeschön.
+00:02:49 - 00:02:51 - Sprecher SPEAKER_02:  Das ist gar nicht sauber hier.
+00:02:51 - 00:02:53 - Sprecher SPEAKER_02:  Ich will mich hier nicht hinsetzen.
+00:02:54 - 00:02:55 - Sprecher SPEAKER_02:  Das ist nicht sauber.
+00:02:55 - 00:02:57 - Sprecher SPEAKER_02:  Das ist alles nicht sauber.
+00:02:57 - 00:02:59 - Sprecher SPEAKER_02:  Dann esse ich im Stehen.
+00:03:07 - 00:03:09 - Sprecher SPEAKER_04:  Guten Hunger.
+00:03:10 - 00:03:11 - Sprecher SPEAKER_00:  Vielen Dank.
+00:03:15 - 00:03:17 - Sprecher SPEAKER_00:  Das ist ein toller Burger.
+00:03:18 - 00:03:23 - Sprecher SPEAKER_00:  Das ist auf jeden Fall besser als
+00:03:23 - 00:03:29 - Sprecher SPEAKER_00:  alles andere.
+00:03:37 - 00:03:38 - Sprecher SPEAKER_01:  Vielen Dank, Victor.
+00:03:38 - 00:04:08 - Sprecher SPEAKER_01:  Vielen Dank.
+00:04:23 - 00:04:24 - Sprecher SPEAKER_03:  Vielen Dank.
+00:04:38 - 00:04:39 - Unbekannt:  Vielen Dank.
+00:04:39 - 00:04:42 - Sprecher SPEAKER_02:  Wollen Sie nicht ein bisschen mit in die Zeitung reinschauen?
+00:04:46 - 00:04:48 - Sprecher SPEAKER_05:  Ist das dieselbe Zeitung wie gestern?
+00:04:49 - 00:04:50 - Sprecher SPEAKER_02:  Nein, das ist eine andere.
+00:04:51 - 00:04:52 - Sprecher SPEAKER_05:  Lesen Sie doch mal vor,
+00:04:53 - 00:04:53 - Sprecher SPEAKER_05:  was da steht.
+00:04:56 - 00:04:58 - Sprecher SPEAKER_02:  Also, in der Zeitung steht
+00:04:58 - 00:04:59 - Sprecher SPEAKER_02:  drin,
+00:05:00 - 00:05:01 - Sprecher SPEAKER_02:  in,
+00:05:02 - 00:05:03 - Sprecher SPEAKER_02:  wie heißt das,
+00:05:03 - 00:05:05 - Sprecher SPEAKER_02:  in der Zeitung steht drin,
+00:05:06 - 00:05:06 - Unbekannt:  in der Zeitung steht drin,
+00:05:06 - 00:05:07 - Unbekannt:  in der Zeitung steht drin,
+00:05:07 - 00:05:07 - Unbekannt:  in der Zeitung steht drin,
+00:05:07 - 00:05:08 - Sprecher SPEAKER_02:  in der Zeitung steht drin,
+00:05:08 - 00:05:08 - Sprecher SPEAKER_02:  in der Zeitung steht drin,
+00:05:08 - 00:05:10 - Sprecher SPEAKER_02:  in Paleto Bay.
+00:05:13 - 00:05:15 - Sprecher SPEAKER_02:  37 Knochen wurden
+00:05:15 - 00:05:17 - Sprecher SPEAKER_02:  in Paleto Bay
+00:05:17 - 00:05:20 - Sprecher SPEAKER_02:  in der Bucht südlich
+00:05:20 - 00:05:23 - Sprecher SPEAKER_02:  des Hafens gefunden.
+00:05:24 - 00:05:26 - Sprecher SPEAKER_02:  Die 37 Knochen
+00:05:26 - 00:05:28 - Sprecher SPEAKER_02:  sind laut forensischem
+00:05:28 - 00:05:29 - Sprecher SPEAKER_02:  Gutachten
+00:05:29 - 00:05:31 - Sprecher SPEAKER_02:  von über
+00:05:31 - 00:05:33 - Sprecher SPEAKER_02:  fünf Personen.
+00:05:35 - 00:05:37 - Sprecher SPEAKER_02:  Es handelt sich hierbei
+00:05:37 - 00:05:37 - Sprecher SPEAKER_02:  um die Oberschenkel.
+00:05:38 - 00:05:38 - Sprecher SPEAKER_02: 
+00:05:38 - 00:05:38 - Sprecher SPEAKER_02: 
+00:05:38 - 00:05:38 - Sprecher SPEAKER_02: 
+00:05:38 - 00:05:39 - Sprecher SPEAKER_02:  Die Oberschenkel sind die
+00:05:39 - 00:05:40 - Sprecher SPEAKER_02:  obersten Knochen,
+00:05:40 - 00:05:41 - Sprecher SPEAKER_02:  die obersten Knochen,
+00:05:41 - 00:05:41 - Sprecher SPEAKER_02: 
+00:05:41 - 00:05:41 - Sprecher SPEAKER_02: 
+00:05:41 - 00:05:44 - Sprecher SPEAKER_02:  sowie mehrere einzelne Wirbel.
+00:05:46 - 00:05:48 - Sprecher SPEAKER_02:  An einigen der Knochen
+00:05:48 - 00:05:52 - Sprecher SPEAKER_02:  konnte stumpfe Gewalteinwirkung
+00:05:52 - 00:05:54 - Sprecher SPEAKER_02:  festgestellt werden.
+00:05:56 - 00:05:59 - Sprecher SPEAKER_02:  Zwei der DNA-Spuren
+00:05:59 - 00:06:00 - Sprecher SPEAKER_02:  weisen auf,
+00:06:01 - 00:06:02 - Sprecher SPEAKER_02:  schon seit Jahren
+00:06:02 - 00:06:05 - Sprecher SPEAKER_02:  vermisste Opfer hin.
+00:06:07 - 00:06:08 - Sprecher SPEAKER_02:  Die anderen
+00:06:08 - 00:06:11 - Sprecher SPEAKER_02:  drei DNA-Profile konnten
+00:06:11 - 00:06:13 - Sprecher SPEAKER_02:  bislang noch nicht ermittelt werden.
+00:06:16 - 00:06:18 - Sprecher SPEAKER_02:  Die Polizei Los Santos
+00:06:20 - 00:06:21 - Sprecher SPEAKER_02:  befindet sich
+00:06:21 - 00:06:23 - Sprecher SPEAKER_02:  in ständiger Ermittlung.
+00:06:23 - 00:06:25 - Sprecher SPEAKER_02:  Über Hinweise sind wir
+00:06:25 - 00:06:28 - Sprecher SPEAKER_02:  der Bevölkerung jederzeit dankbar.
+00:06:31 - 00:06:33 - Sprecher SPEAKER_02:  Die ist aber alt,
+00:06:33 - 00:06:35 - Sprecher SPEAKER_02:  die Zeitung, die ist von letztem Jahr.
+00:06:36 - 00:06:36 - Sprecher SPEAKER_03:  Mhm.
+00:06:40 - 00:06:42 - Sprecher SPEAKER_02:  Die Kids wingen sich Profil
+00:06:42 - 00:06:42 - Sprecher SPEAKER_02: 
+00:06:42 - 00:06:45 - Sprecher SPEAKER_02:  Für ihreSTEIN anooney.com
+00:06:47 - 00:06:49 - Sprecher SPEAKER_02:  …ả curator
+00:06:49 - 00:06:50 - Sprecher SPEAKER_02:  vom Interview.
+00:06:50 - 00:06:51 - Sprecher SPEAKER_02:  Interview, ein Interview.
+00:07:00 - 00:07:02 - Sprecher SPEAKER_02:  Wer ist das?
+00:07:02 - 00:07:03 - Sprecher SPEAKER_02:  Gucken Sie mal.
+00:07:03 - 00:07:04 - Sprecher SPEAKER_02:  Kennen Sie den Typen hier?
+00:07:05 - 00:07:06 - Sprecher SPEAKER_02:  Da ist ein Bild von dem Typen
+00:07:06 - 00:07:07 - Sprecher SPEAKER_02:  vom Interview.
+00:07:08 - 00:07:09 - Sprecher SPEAKER_02:  Von PDG.
+00:07:11 - 00:07:12 - Sprecher SPEAKER_05:  Ne, habe ich noch nie gesehen,
+00:07:12 - 00:07:12 - Sprecher SPEAKER_05:  den Typen.
+00:07:14 - 00:07:14 - Sprecher SPEAKER_02:  Ferguson.
+00:07:15 - 00:07:16 - Sprecher SPEAKER_02:  Nein.
+00:07:16 - 00:07:17 - Sprecher SPEAKER_02:  Ferguson.
+00:07:18 - 00:07:20 - Sprecher SPEAKER_02:  Da steht er war mal letztes Jahr
+00:07:22 - 00:07:23 - Sprecher SPEAKER_02:  ist er noch
+00:07:23 - 00:07:29 - Sprecher SPEAKER_02:  Der sieht lustig aus.
+00:07:31 - 00:07:32 - Sprecher SPEAKER_02:  Der hat lange Haare
+00:07:32 - 00:07:33 - Sprecher SPEAKER_02:  und ein Bart
+00:07:35 - 00:07:36 - Sprecher SPEAKER_02:  und bestimmt
+00:07:36 - 00:07:37 - Sprecher SPEAKER_02:  ein schönes Lächeln.
+00:07:44 - 00:07:46 - Sprecher SPEAKER_05:  Das ist mir nicht bekannt.
+00:07:46 - 00:07:47 - Sprecher SPEAKER_05:  Habe ich noch nie gesehen.
+00:07:47 - 00:07:49 - Sprecher SPEAKER_05:  Nein, da steht auch, dass er nicht mehr da arbeitet.
+00:07:49 - 00:07:50 - Sprecher SPEAKER_02:  Das ist sein letzter Arbeitstag.
+00:07:50 - 00:07:51 - Sprecher SPEAKER_02:  Arbeitstag steht hier.
+00:07:53 - 00:07:55 - Sprecher SPEAKER_02:  An seinem letzten Arbeitstag gab
+00:07:56 - 00:07:59 - Sprecher SPEAKER_02:  der bisherige PD-Chef
+00:08:00 - 00:08:02 - Sprecher SPEAKER_02:  dieses Interview.
+00:08:03 - 00:08:03 - Sprecher SPEAKER_05:  Ah.
+00:08:06 - 00:08:07 - Sprecher SPEAKER_05:  Na gut, aktuell haben wir einen anderen PD-Chef, ne?
+00:08:08 - 00:08:09 - Sprecher SPEAKER_02:  Hm, ja.
+00:08:14 - 00:08:15 - Sprecher SPEAKER_02:  Wie ist der so?
+00:08:17 - 00:08:20 - Sprecher SPEAKER_05:  Den haben Sie gestern schon kennengelernt hier.
+00:08:20 - 00:08:22 - Sprecher SPEAKER_02:  Ich weiß, aber wie finden Sie ihn so?
+00:08:23 - 00:08:25 - Sprecher SPEAKER_05:  Ist ein sehr kompetenter, freundlicher Mann.
+00:08:29 - 00:08:32 - Sprecher SPEAKER_02:  So wie Gandalf der Weise, habt ihr gesagt.
+00:08:34 - 00:08:34 - Unbekannt:  Hm.
+00:08:36 - 00:08:40 - Sprecher SPEAKER_05:  Ich habe das nicht gesagt, keine Ahnung wer das war, aber er hat Ihnen auf jeden Fall das Marihuana besorgt, ne?
+00:08:48 - 00:08:50 - Sprecher SPEAKER_05:  Ja, aber gut, dass das geklappt hat noch.
+00:08:50 - 00:08:50 - Sprecher SPEAKER_05:  Ja, aber gut, dass das geklappt hat noch.
+00:08:50 - 00:08:50 - Sprecher SPEAKER_05: 
+00:08:50 - 00:08:50 - Sprecher SPEAKER_05: 
+00:08:50 - 00:08:50 - Sprecher SPEAKER_05: 
+00:08:50 - 00:08:51 - Sprecher SPEAKER_05:  Sehen Sie, habe ich für Sie umgesetzt.
+00:08:52 - 00:08:54 - Sprecher SPEAKER_02:  Wirklich toll, wirklich toll.
+00:08:54 - 00:08:56 - Sprecher SPEAKER_05:  Hm, natürlich, natürlich.
+00:08:58 - 00:09:02 - Sprecher SPEAKER_05:  Ja, ist ja medizinisch, muss ja auch dann so eingehalten werden, ne?
+00:09:05 - 00:09:06 - Sprecher SPEAKER_02:  Ganz genau.
+00:09:08 - 00:09:10 - Sprecher SPEAKER_02:  Medizinisch brauche ich auch noch den...
+00:09:14 - 00:09:15 - Sprecher SPEAKER_02:  ...Dominator.
+00:09:15 - 00:09:16 - Sprecher SPEAKER_03:  Hm, klar.
+00:09:17 - 00:09:19 - Sprecher SPEAKER_03:  Und 20.000 Dollar.
+00:09:19 - 00:09:20 - Sprecher SPEAKER_02:  Mhm, mhm.
+00:09:21 - 00:09:23 - Sprecher SPEAKER_02:  Und ein Messer.
+00:09:23 - 00:09:25 - Sprecher SPEAKER_05:  Mhm, was für ein Messer?
+00:09:27 - 00:09:27 - Sprecher SPEAKER_02:  Klappmesser.
+00:09:28 - 00:09:29 - Sprecher SPEAKER_05:  Ein Klappmesser, mhm.
+00:09:30 - 00:09:36 - Sprecher SPEAKER_02:  Und ich brauche medizinisch gesehen auch noch eine Therapiekatze hier.
+00:09:36 - 00:09:38 - Sprecher SPEAKER_05:  Eine Therapiekatze, okay, ja.
+00:09:40 - 00:09:43 - Sprecher SPEAKER_05:  Dann hätte ich gerne noch 20 Rohrbomben.
+00:09:44 - 00:09:45 - Sprecher SPEAKER_05:  Natürlich medizinisch, ne?
+00:09:46 - 00:09:47 - Sprecher SPEAKER_02:  Ja, ja.
+00:09:47 - 00:09:48 - Sprecher SPEAKER_02:  Also medizinische Rohrbomben.
+00:09:48 - 00:09:49 - Sprecher SPEAKER_05:  Natürlich, natürlich.
+00:09:50 - 00:09:52 - Sprecher SPEAKER_02:  Okay, hm, 20 Stück waren das, ja?
+00:09:52 - 00:09:53 - Sprecher SPEAKER_02:  Ja.
+00:09:53 - 00:09:57 - Sprecher SPEAKER_02:  Okay, okay. Also habe ich hier einen medizinischen Dominator.
+00:09:57 - 00:09:58 - Sprecher SPEAKER_03:  Ja.
+00:09:58 - 00:10:00 - Sprecher SPEAKER_05:  20.000 medizinische Dollar.
+00:10:01 - 00:10:01 - Unbekannt:  Ja.
+00:10:02 - 00:10:03 - Sprecher SPEAKER_05:  Medizinisches Klappmesser.
+00:10:03 - 00:10:04 - Sprecher SPEAKER_05:  Ja.
+00:10:04 - 00:10:06 - Sprecher SPEAKER_05:  Eine medizinische Katze.
+00:10:06 - 00:10:07 - Sprecher SPEAKER_05:  Ja.
+00:10:07 - 00:10:09 - Sprecher SPEAKER_05:  Und 20 medizinische Rohrbomben.
+00:10:09 - 00:10:10 - Unbekannt:  Mhm.
+00:10:10 - 00:10:14 - Sprecher SPEAKER_05:  Hm, alles klar. Werde ich dann so weitergeben und dann, ja.
+00:10:14 - 00:10:16 - Sprecher SPEAKER_05:  Und meine Kette aus Zähnen.
+00:10:17 - 00:10:20 - Sprecher SPEAKER_05:  Ah, die Zahn-, ja genau, genau, die Zahnkette.
+00:10:21 - 00:10:23 - Sprecher SPEAKER_05:  Okay, ja, habe ich so.
+00:10:24 - 00:10:25 - Sprecher SPEAKER_05:  Werde ich weitergeben und dann, ja.
+00:10:25 - 00:10:28 - Sprecher SPEAKER_05:  Ich brauche jemanden, mit dem ich darüber sprechen kann.
+00:10:28 - 00:10:29 - Sprecher SPEAKER_05:  Hm.
+00:10:30 - 00:10:32 - Sprecher SPEAKER_02:  Gibt es da nicht so etwas wie einen Arzt?
+00:10:33 - 00:10:37 - Sprecher SPEAKER_05:  Na, wir können mal schauen und dann, dass da so ein Arzt mal vorbeikommt, ne?
+00:10:37 - 00:10:38 - Sprecher SPEAKER_05:  Oder ein Psychologen.
+00:10:38 - 00:10:39 - Sprecher SPEAKER_05:  Eine Sprechstunde, ja.
+00:10:39 - 00:10:40 - Sprecher SPEAKER_05:  Eine Sprechstunde, ja.
+00:10:40 - 00:10:41 - Unbekannt:  Ja.
+00:10:41 - 00:10:42 - Sprecher SPEAKER_05:  Hm, hm.
+00:10:43 - 00:10:44 - Sprecher SPEAKER_05:  Wen gibt es denn da in dieser Stadt?
+00:10:45 - 00:10:46 - Sprecher SPEAKER_05:  Ja, wir haben einen Psychologen.
+00:10:46 - 00:10:48 - Sprecher SPEAKER_05:  Wir haben halt das Medical Department, ne? Da gibt es ja Ärzte.
+00:10:48 - 00:10:50 - Sprecher SPEAKER_05:  Und die können wir ja hier hinkommen lassen.
+00:11:01 - 00:11:05 - Sprecher SPEAKER_05:  Also Sie brauchen einen Therapeuten und oder Psychologen?
+00:11:06 - 00:11:08 - Sprecher SPEAKER_02:  Ja, ich muss ein Gutachten erstellen lassen.
+00:11:09 - 00:11:09 - Sprecher SPEAKER_05:  Hm, hm.
+00:11:12 - 00:11:13 - Sprecher SPEAKER_05:  Na, soll ich dann mal für Sie anfragen?
+00:11:14 - 00:11:14 - Sprecher SPEAKER_05:  Ja.
+00:11:14 - 00:11:16 - Sprecher SPEAKER_02:  Ja, natürlich, mach ich.
+00:11:16 - 00:11:16 - Sprecher SPEAKER_05:  Kein Problem.
+00:11:58 - 00:11:59 - Unbekannt:  Vielen Dank.
+00:11:59 - 00:12:03 - Unbekannt:  Ist ein KOI endlich angefangen?
+00:12:03 - 00:12:03 - Unbekannt:  Kein Problem.
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:03 - 00:12:03 - Unbekannt:  Inманent.
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:03 - 00:12:03 - Unbekannt:  Nein.
+00:12:03 - 00:12:03 - Unbekannt: 
+00:12:05 - 00:12:06 - Unbekannt:  Wie thinks?
+00:12:06 - 00:12:06 - Unbekannt:  Ich glaube keine langfristige Arbeit hat sein traffic in China bestψ.
+00:12:06 - 00:12:06 - Unbekannt: 
+00:12:06 - 00:12:06 - Unbekannt: 
+00:12:06 - 00:12:06 - Unbekannt: 
+00:12:06 - 00:12:06 - Unbekannt: 
+00:12:06 - 00:12:14 - Unbekannt:  because everybody knows what?
+00:12:41 - 00:12:43 - Unbekannt:  Vielen Dank.
+00:12:54 - 00:12:56 - Unbekannt:  Danke.
+00:13:20 - 00:13:21 - Unbekannt:  Danke.
+00:13:44 - 00:13:45 - Sprecher SPEAKER_02:  Danke.
+00:14:19 - 00:14:20 - Sprecher SPEAKER_05:  Danke.
+00:14:44 - 00:14:44 - Sprecher SPEAKER_05:  Danke.
+00:15:16 - 00:15:17 - Sprecher SPEAKER_05:  Danke.
+00:15:44 - 00:15:44 - Sprecher SPEAKER_05:  Danke.
+00:16:14 - 00:16:15 - Sprecher SPEAKER_04:  Danke.
+00:16:44 - 00:16:45 - Sprecher SPEAKER_02:  Danke.
+00:17:30 - 00:17:32 - Sprecher SPEAKER_02:  Danke.
+00:17:44 - 00:17:44 - Sprecher SPEAKER_02:  Danke.
+00:18:14 - 00:18:15 - Sprecher SPEAKER_02:  Danke.
+00:18:44 - 00:18:46 - Sprecher SPEAKER_02:  Danke.
+00:19:16 - 00:19:17 - Sprecher SPEAKER_03:  Danke.
+00:19:46 - 00:19:48 - Sprecher SPEAKER_02:  Danke.
+00:20:01 - 00:20:02 - Sprecher SPEAKER_05:  Danke.
+00:20:03 - 00:20:05 - Sprecher SPEAKER_05:  Danke.
+00:20:06 - 00:20:06 - Sprecher SPEAKER_05: 
+00:20:06 - 00:20:06 - Sprecher SPEAKER_05: 
+00:20:07 - 00:20:07 - Sprecher SPEAKER_02: 
+00:20:07 - 00:20:07 - Sprecher SPEAKER_02: 
+00:20:07 - 00:20:07 - Sprecher SPEAKER_02: 
+00:20:18 - 00:20:21 - Sprecher SPEAKER_05:  Also so viel Platz habe ich auch nicht für eine 3er WG-Mail.
+00:20:21 - 00:20:25 - Sprecher SPEAKER_02:  Wir brauchen einen medizinischen Garten. Schreib das noch auf die Liste, Brownie McConniff.
+00:20:25 - 00:20:29 - Sprecher SPEAKER_02:  Na klar, medizinischer Garten. Auch mit einem medizinischen Whirlpool?
+00:20:31 - 00:20:33 - Sprecher SPEAKER_01:  Das ist eine gute Idee.
+00:20:33 - 00:20:36 - Sprecher SPEAKER_01:  Da hätte ich gar nicht gefragt, aber das ist eine gute Idee.
+00:20:37 - 00:20:40 - Sprecher SPEAKER_05:  Na klar. Wollen Sie auch noch einen medizinischen Barbecue-Grill?
+00:20:40 - 00:20:41 - Sprecher SPEAKER_01:  Nein.
+00:20:41 - 00:20:44 - Sprecher SPEAKER_05:  Okay. Gut, schauen wir auch.
+00:20:46 - 00:20:49 - Sprecher SPEAKER_04:  Aber wollen Sie dann in Ihrem Garten vielleicht auch noch medizinische Pflanzen pflanzen?
+00:20:50 - 00:20:53 - Sprecher SPEAKER_02:  Nein, ich möchte Hortensien da pflanzen.
+00:20:53 - 00:20:54 - Sprecher SPEAKER_04:  Hortensien, okay.
+00:20:55 - 00:20:55 - Sprecher SPEAKER_04:  Medizinisch?
+00:20:57 - 00:21:02 - Sprecher SPEAKER_02:  Nein, Sie sind ja schon in einem medizinischen Garten. Dann müssen Sie nicht auch noch medizinisch sein.
+00:21:02 - 00:21:03 - Sprecher SPEAKER_05:  Ja, stimmt. Auch wieder.
+00:21:15 - 00:21:18 - Sprecher SPEAKER_02:  Ich brauche noch einen medizinischen Subwoofer.
+00:21:18 - 00:21:19 - Sprecher SPEAKER_03:  Mhm.
+00:21:23 - 00:21:25 - Sprecher SPEAKER_05:  Medizinischer Subwoofer. Die Liste wird lang, ne?
+00:21:29 - 00:21:30 - Sprecher SPEAKER_02:  Naja, wir haben ja auch Zeit.
+00:21:31 - 00:21:31 - Sprecher SPEAKER_02:  Ja, na klar.
+00:21:31 - 00:21:35 - Sprecher SPEAKER_02:  Einfach einen anderen. Aber ihr könnt ja alles bis zu meinem Geburtstag besorgen.
+00:21:35 - 00:21:36 - Sprecher SPEAKER_05:  Ja, der ist ja bald, ne?
+00:21:36 - 00:21:37 - Sprecher SPEAKER_02:  Ja, genau.
+00:21:38 - 00:21:38 - Unbekannt:  Ja, genau.
+00:21:40 - 00:21:41 - Sprecher SPEAKER_05:  Ja, genau.
+00:21:41 - 00:21:41 - Sprecher SPEAKER_05: 
+00:21:41 - 00:21:41 - Sprecher SPEAKER_05: 
+00:21:41 - 00:21:41 - Sprecher SPEAKER_05: 
+00:21:41 - 00:21:41 - Sprecher SPEAKER_05: 
+00:21:41 - 00:21:42 - Sprecher SPEAKER_05:  Mal gucken, vielleicht kriegen wir ja einen Geburtstagskuchen, ne?
+00:21:44 - 00:21:44 - Unbekannt:  Ja.
+00:21:44 - 00:21:46 - Sprecher SPEAKER_05:  Hast du einen Lieblingskuchen, Pitch?
+00:21:50 - 00:21:55 - Sprecher SPEAKER_02:  Ich glaube nicht. Ich kann mich gar nicht erinnern, wann ich mal Kuchen gegessen habe.
+00:21:56 - 00:21:58 - Sprecher SPEAKER_02:  Was ist denn mit Apfelkuchen?
+00:21:59 - 00:21:59 - Sprecher SPEAKER_02:  Ich glaube, ich hatte noch nie einen Geburtstagskuchen.
+00:22:00 - 00:22:00 - Sprecher SPEAKER_05:  Echt nicht?
+00:22:01 - 00:22:01 - Sprecher SPEAKER_02:  Nein.
+00:22:03 - 00:22:05 - Sprecher SPEAKER_05:  Ich glaube, da können wir dir bestimmt einen besorgen.
+00:22:08 - 00:22:08 - Unbekannt:  Super.
+00:22:14 - 00:22:17 - Sprecher SPEAKER_01:  Ich werde jetzt an meine Zelle gehen.
+00:22:17 - 00:22:18 - Sprecher SPEAKER_03:  Ja.
+00:22:23 - 00:22:27 - Sprecher SPEAKER_02:  Wo war sie noch? Gleich da hinten.
+00:22:27 - 00:22:28 - Sprecher SPEAKER_02:  Hinten rechts in der Ecke.
+00:22:31 - 00:22:33 - Sprecher SPEAKER_05:  Möchten Sie sich hinlegen und ein bisschen schlafen?
+00:22:34 - 00:22:35 - Sprecher SPEAKER_02:  Ich denke, ja.
+00:22:36 - 00:22:37 - Sprecher SPEAKER_05:  Das ist okay.
+00:22:38 - 00:22:40 - Sprecher SPEAKER_05:  Sie haben ja Ihre Aufgaben schon erledigt, ne?
+00:22:40 - 00:22:40 - Sprecher SPEAKER_05:  Die Zelle ist ja sauber.
+00:22:41 - 00:22:41 - Sprecher SPEAKER_05:  Sieht gut aus.
+00:22:43 - 00:22:45 - Sprecher SPEAKER_02:  Weil ich vorbildlich bin.
+00:22:45 - 00:22:47 - Sprecher SPEAKER_02:  Genau. Und deswegen haben Sie auch Privilegien.
+00:22:48 - 00:22:48 - Sprecher SPEAKER_05:  Ja, genau.
+00:22:49 - 00:22:51 - Sprecher SPEAKER_05:  Haben Sie sich hart erarbeitet.
+00:22:51 - 00:22:54 - Sprecher SPEAKER_05:  Rauchen ist ein Privileg. Wusstest du das, Medusa?
+00:22:54 - 00:22:55 - Sprecher SPEAKER_05:  Sie habe ich mir gedacht.
+00:22:57 - 00:22:59 - Sprecher SPEAKER_02:  Und ich habe dieses Privileg.
+00:23:00 - 00:23:02 - Sprecher SPEAKER_02:  Ich liebe Rauchen.
+00:23:05 - 00:23:06 - Sprecher SPEAKER_05:  Okay, gute Nacht, Ma'am.
+00:23:06 - 00:23:07 - Sprecher SPEAKER_02:  Bis später.
+00:23:08 - 00:23:08 - Sprecher SPEAKER_02:  Oder morgen.
+00:23:09 - 00:23:10 - Sprecher SPEAKER_05:  Oder immer.
+00:23:11 - 00:23:11 - Sprecher SPEAKER_02:  Ja. Butch, ich bin immer hier.
+00:23:12 - 00:23:13 - Sprecher SPEAKER_02:  Wenn ihr was braucht, sagt Bescheid!
+00:23:13 - 00:23:16 - Sprecher SPEAKER_05:  Wenn Sie was brauchen, lassen Sie uns wissen.
+00:23:16 - 00:23:16 - Sprecher SPEAKER_05: 
+00:23:16 - 00:23:18 - Sprecher SPEAKER_02:  Natürlich, natürlich.
+00:23:18 - 00:23:20 - Sprecher SPEAKER_05:  Noch gar nichts anderes.
+00:23:20 - 00:23:20 - Sprecher SPEAKER_05: 
+00:23:20 - 00:23:20 - Sprecher SPEAKER_05:  Schneiden Sie auf die Nacht Defense.
+00:23:20 - 00:23:21 - Sprecher SPEAKER_05:  Wir werden beiBoard 2050 nicht der einzige mehr ausdenken.
+00:23:21 - 00:23:21 - Unbekannt:  Deswegen nokmen wir gleich.
+00:23:21 - 00:23:21 - Unbekannt: 
+00:23:21 - 00:23:21 - Unbekannt: 
+00:23:21 - 00:23:21 - Unbekannt: 
+00:23:21 - 00:23:22 - Unbekannt:  2019?
+00:23:22 - 00:23:22 - Unbekannt: 
+00:23:22 - 00:23:22 - Unbekannt: 
+00:23:23 - 00:23:25 - Unbekannt:  farmingprzb.de
+00:23:25 - 00:23:25 - Unbekannt:  round the world
+00:23:25 - 00:23:25 - Unbekannt: 
