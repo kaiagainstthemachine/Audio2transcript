@@ -1,0 +1,1568 @@
+Transkription Staffel 2 mit Sprechererkennung von [2-2-25]_Panikfee_-_WILDER SONNTAG_part1.wav:
+00:00:00 - 00:00:01 - Sprecher SPEAKER_00:  Hey, Kurs, danke dir.
+00:00:01 - 00:00:02 - Sprecher SPEAKER_00:  Gerne.
+00:00:03 - 00:00:04 - Sprecher SPEAKER_00:  Ja, bitte.
+00:00:04 - 00:00:06 - Sprecher SPEAKER_00:  Ich danke dir vielmals, mein Lieber. Vielen Dank.
+00:00:07 - 00:00:09 - Sprecher SPEAKER_00:  Ich danke dir. Dankeschön, dankeschön.
+00:00:13 - 00:00:14 - Sprecher SPEAKER_00:  Bitte?
+00:00:14 - 00:00:14 - Unbekannt:  Bitte?
+00:00:16 - 00:00:19 - Sprecher SPEAKER_00:  Ich danke dir. Dankeschön, danke.
+00:00:20 - 00:00:21 - Sprecher SPEAKER_00:  Das ist völlig in Ordnung.
+00:00:22 - 00:00:24 - Sprecher SPEAKER_00:  Das ist eine Mahlzeit für jemanden, der es sich selber nicht leisten kann.
+00:00:24 - 00:00:26 - Sprecher SPEAKER_00:  Ich danke dir vielmals, mein Lieber. Dankeschön.
+00:00:27 - 00:00:28 - Sprecher SPEAKER_06:  Danke, Pater Kurs.
+00:00:28 - 00:00:29 - Sprecher SPEAKER_06:  Ich danke dir vielmals.
+00:00:29 - 00:00:31 - Sprecher SPEAKER_00:  Jetzt vielen Dank, dass du da warst.
+00:00:31 - 00:00:35 - Sprecher SPEAKER_00:  Ich freue mich immer wieder, dein liebes Gesicht zu sehen.
+00:00:35 - 00:00:36 - Sprecher SPEAKER_06:  Dankeschön.
+00:00:36 - 00:00:36 - Sprecher SPEAKER_06:  Danke.
+00:00:41 - 00:00:41 - Unbekannt:  Und?
+00:00:44 - 00:00:46 - Sprecher SPEAKER_06:  Naja, die Predigten nehmen langsam
+00:00:46 - 00:00:46 - Sprecher SPEAKER_06:  Fahrt auf.
+00:00:47 - 00:00:47 - Sprecher SPEAKER_11:  Gut.
+00:00:51 - 00:00:53 - Sprecher SPEAKER_11:  Aber ich bin nur bis zur Hälfte aufnahmefähig.
+00:00:54 - 00:00:55 - Sprecher SPEAKER_11:  Bist du noch krank?
+00:00:56 - 00:00:57 - Sprecher SPEAKER_11:  Wird schlimmer auch.
+00:00:57 - 00:00:57 - Sprecher SPEAKER_11:  Schlimmer.
+00:00:58 - 00:00:58 - Sprecher SPEAKER_01:  Schlimmer.
+00:00:58 - 00:01:00 - Sprecher SPEAKER_01:  Ich glaube, ich habe Fieber.
+00:01:00 - 00:01:01 - Sprecher SPEAKER_11:  Nein, Harry.
+00:01:02 - 00:01:02 - Sprecher SPEAKER_01:  Nein.
+00:01:03 - 00:01:06 - Sprecher SPEAKER_01:  Ich glaube, ich habe Fieber und morgen habe ich bestimmt keine Stimme mehr.
+00:01:07 - 00:01:09 - Sprecher SPEAKER_11:  Nein, dann musst du zu Hause liegen bleiben.
+00:01:09 - 00:01:10 - Sprecher SPEAKER_06:  Schau, der kommt mit.
+00:01:10 - 00:01:11 - Sprecher SPEAKER_11:  Mach ich auch. Sag dir, wie das ist.
+00:01:11 - 00:01:13 - Sprecher SPEAKER_11:  Naja, aber warum schläfst du dann hier?
+00:01:14 - 00:01:16 - Sprecher SPEAKER_11:  Ich muss mich hier den Kerl vor die einschlafen.
+00:01:17 - 00:01:17 - Sprecher SPEAKER_01:  Was denn?
+00:01:18 - 00:01:19 - Sprecher SPEAKER_11:  Was alles?
+00:01:20 - 00:01:21 - Sprecher SPEAKER_11:  Dein ganzes Leben?
+00:01:21 - 00:01:22 - Sprecher SPEAKER_11:  Mein Leben steht still.
+00:01:22 - 00:01:24 - Sprecher SPEAKER_11:  Harry, wer sind die? Die Grünen?
+00:01:24 - 00:01:25 - Sprecher SPEAKER_06:  Guck dir die mal an. Wer ist das?
+00:01:27 - 00:01:27 - Sprecher SPEAKER_11:  Weiß ich nicht.
+00:01:27 - 00:01:28 - Sprecher SPEAKER_11:  Aber Frank ruft mich an.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_11:  Er will dich treffen.
+00:01:29 - 00:01:29 - Sprecher SPEAKER_11:  Warte mal.
+00:01:29 - 00:01:30 - Sprecher SPEAKER_11:  Scheiße.
+00:01:30 - 00:01:31 - Sprecher SPEAKER_11:  Frank hat mich gestern auch angerufen.
+00:01:32 - 00:01:32 - Sprecher SPEAKER_06:  Ja, Frank?
+00:01:33 - 00:01:35 - Sprecher SPEAKER_11:  Jetzt gerade in der Church nach Southside.
+00:01:35 - 00:01:36 - Sprecher SPEAKER_11:  Wo bist du halt unterwegs?
+00:01:40 - 00:01:41 - Sprecher SPEAKER_11:  Na, die Predigt ist gerade vorbei, Frank.
+00:01:42 - 00:01:43 - Sprecher SPEAKER_11:  Jeden Sonntag um 20 Uhr.
+00:01:48 - 00:01:50 - Sprecher SPEAKER_11:  Na, ich würde sagen, dazwischen, oder?
+00:01:50 - 00:01:51 - Sprecher SPEAKER_11:  Oder wenn wir uns...
+00:01:51 - 00:01:52 - Sprecher SPEAKER_11:  Also, was war meine Fülle schon mal...
+00:01:54 - 00:01:54 - Sprecher SPEAKER_06:  Ja, was ist jetzt?
+00:01:56 - 00:01:57 - Sprecher SPEAKER_11:  Na, wir kommen jetzt so bei...
+00:01:59 - 00:02:06 - Sprecher SPEAKER_11:  In nominated on Rende.
+00:02:10 - 00:02:11 - Unbekannt:  Ja.
+00:02:12 - 00:02:13 - Sprecher SPEAKER_06:  Na...
+00:02:19 - 00:02:20 - Sprecher SPEAKER_06:  Hä, ach.
+00:02:24 - 00:02:24 - Sprecher SPEAKER_06:  Genau.
+00:02:24 - 00:02:27 - Sprecher SPEAKER_06:  Ich habe mir mir die Naseこう aufgendr urbanized
+00:02:27 - 00:02:27 - Sprecher SPEAKER_11:  und mit dem Lenks ע Risk nicht sitz-
+00:02:27 - 00:02:27 - Sprecher SPEAKER_11:  Hier, wo du jetzt bist,ité
+00:02:27 - 00:02:27 - Sprecher SPEAKER_11: 
+00:02:28 - 00:02:30 - Sprecher SPEAKER_11:  Im Friedhof, wir treffen uns beim Friedhof, okay.
+00:02:30 - 00:02:33 - Sprecher SPEAKER_11:  Ich hab ne Anfrage bekommen über den Schlüsselladen.
+00:02:33 - 00:02:33 - Sprecher SPEAKER_11:  Was denn?
+00:02:34 - 00:02:36 - Sprecher SPEAKER_06:  Damit ich jemanden 20 bis 30 Schlüsseln nach ihm nachbekommen.
+00:02:37 - 00:02:38 - Sprecher SPEAKER_06:  20 bis 30?
+00:02:39 - 00:02:40 - Sprecher SPEAKER_11:  Auf ein paar Rabatten bekommen.
+00:02:40 - 00:02:41 - Sprecher SPEAKER_11:  Warum?
+00:02:41 - 00:02:42 - Sprecher SPEAKER_11:  Ich hab direkt auf Verleg danach.
+00:02:46 - 00:02:50 - Sprecher SPEAKER_11:  Ich hab ihm geschrieben, dass der Empfang schlecht ist und ich mich zurückmelden werde bei ihm.
+00:02:53 - 00:02:56 - Sprecher SPEAKER_11:  Na, die brauchen 20 bis 30 Schlüssel, ob's Rabatt gibt.
+00:02:56 - 00:02:59 - Sprecher SPEAKER_11:  Wer braucht denn so viele Schlüssel für die Jet-Skis?
+00:02:59 - 00:03:04 - Sprecher SPEAKER_06:  Ähm, ne, Hakim ist der, der arbeitet bei Reds, also der wird vielleicht für die Werkstatt umwandelt.
+00:03:05 - 00:03:05 - Sprecher SPEAKER_06:  Hakim?
+00:03:06 - 00:03:07 - Sprecher SPEAKER_11:  Naja, von Redside.
+00:03:08 - 00:03:09 - Sprecher SPEAKER_06:  Achso.
+00:03:10 - 00:03:12 - Sprecher SPEAKER_06:  Aber ich fahr nicht so schnell.
+00:03:12 - 00:03:13 - Sprecher SPEAKER_11:  Achso, ja.
+00:03:15 - 00:03:16 - Sprecher SPEAKER_11:  Ich fahr 80.
+00:03:17 - 00:03:18 - Sprecher SPEAKER_06:  Das ist nicht 80.
+00:03:19 - 00:03:19 - Sprecher SPEAKER_11:  Das ist 80.
+00:03:19 - 00:03:20 - Sprecher SPEAKER_11:  Das ist nicht 80.
+00:03:24 - 00:03:25 - Sprecher SPEAKER_06:  Was will Frank?
+00:03:26 - 00:03:28 - Sprecher SPEAKER_11:  Weiß ich nicht. Er hat nur gesagt, dass er das so eine Frage hat.
+00:03:30 - 00:03:32 - Sprecher SPEAKER_11:  Aber ich weiß nicht, was für eine Frage.
+00:03:32 - 00:03:34 - Sprecher SPEAKER_06:  Okay, alles klar. Wenn...
+00:03:35 - 00:03:42 - Sprecher SPEAKER_06:  er uns auf die Sache mit dem Gespräch anspricht, bei dem er uns letztens gesehen hat, mit den...
+00:03:44 - 00:03:44 - Sprecher SPEAKER_06:  ähm...
+00:03:45 - 00:03:46 - Sprecher SPEAKER_06:  hier, Smokes Family.
+00:03:46 - 00:03:47 - Sprecher SPEAKER_06:  Ja.
+00:03:50 - 00:03:54 - Sprecher SPEAKER_06:  Geschäftliche Dinge. Nichtsdestotrotz kann man ihm ja mal an die Hand geben, dass...
+00:03:54 - 00:03:56 - Sprecher SPEAKER_06:  Menschen durchaus...
+00:03:57 - 00:03:59 - Sprecher SPEAKER_06:  nach dieser Eiersache fragen.
+00:04:00 - 00:04:01 - Sprecher SPEAKER_11:  Ja, sehr gut.
+00:04:04 - 00:04:06 - Sprecher SPEAKER_06:  Und ob er seins noch hat. Warum hubst du den denn an?
+00:04:07 - 00:04:08 - Sprecher SPEAKER_06:  Weil das Lebensmittel ist.
+00:04:08 - 00:04:11 - Sprecher SPEAKER_11:  Entschuldigung, das war keine Absicht. War aus Versehen.
+00:04:11 - 00:04:11 - Sprecher SPEAKER_06:  Wenn ich...
+00:04:11 - 00:04:14 - Sprecher SPEAKER_06:  Geht's? Das war aus Versehen. Der hat das aus Versehen gehubt.
+00:04:14 - 00:04:15 - Sprecher SPEAKER_06:  Eineinhalb Meter Abstand.
+00:04:15 - 00:04:16 - Sprecher SPEAKER_01:  Entschuldigung.
+00:04:16 - 00:04:18 - Sprecher SPEAKER_01:  Eineinhalb Meter Abstand. Eineinhalb Meter Abstand.
+00:04:18 - 00:04:20 - Sprecher SPEAKER_01:  Dann pack dir den Pudel aus, Junge.
+00:04:20 - 00:04:21 - Sprecher SPEAKER_11:  Warum denn? Der fährt doch gar nicht nach dem Anfall.
+00:04:21 - 00:04:22 - Sprecher SPEAKER_06:  Eineinhalb Meter Abstand. Hallo.
+00:04:23 - 00:04:24 - Sprecher SPEAKER_11:  Eineinhalb Meter.
+00:04:25 - 00:04:29 - Sprecher SPEAKER_06:  Harry, du bist genauso ein Arschloch wie die Leute, die mich anhupen, wenn ich auf dem Fahrrad fahre.
+00:04:30 - 00:04:32 - Sprecher SPEAKER_11:  In dem Auto bin ich ein Raudi.
+00:04:33 - 00:04:35 - Sprecher SPEAKER_06:  Du bist kein Raudi, du bist ein dummes Arschloch.
+00:04:36 - 00:04:36 - Sprecher SPEAKER_11:  Nein.
+00:04:38 - 00:04:39 - Sprecher SPEAKER_11:  Okay, das tut mir leid.
+00:04:40 - 00:04:43 - Sprecher SPEAKER_06:  Was ist mit dir, Harry? Warum bist du so?
+00:04:43 - 00:04:45 - Sprecher SPEAKER_06:  Er ist einfach nur mit seinem Fahrrad gefahren.
+00:04:46 - 00:04:48 - Sprecher SPEAKER_11:  Ja, aber auf der Straße. Stell dir mal vor, du fährst da richtig schnell lang und dann stirbt.
+00:04:48 - 00:04:49 - Sprecher SPEAKER_11:  Ja, aber wo soll er denn sonst fahren?
+00:04:49 - 00:04:50 - Sprecher SPEAKER_11:  Auf dem Bürgerstein.
+00:04:50 - 00:04:52 - Sprecher SPEAKER_11:  Warum denn auf dem Bürgerstein? Das ist ein Fahrrad. Das ist...
+00:04:52 - 00:04:54 - Sprecher SPEAKER_06:  Das ist gegen die gesetzlichen Regeln.
+00:04:55 - 00:04:57 - Sprecher SPEAKER_11:  Ja, aber stell dir mal vor, der wird umgefahren von anderen Leuten.
+00:04:57 - 00:05:00 - Sprecher SPEAKER_11:  Aber dann kann er doch nichts dafür. Das sagen nur mal die Polizisten, dass man nicht auf dem Gehweg fahren darf.
+00:05:02 - 00:05:02 - Sprecher SPEAKER_11:  Okay.
+00:05:03 - 00:05:05 - Sprecher SPEAKER_11:  Er hätte sich doch mal ruhig in den Helm hochziehen können.
+00:05:20 - 00:05:21 - Sprecher SPEAKER_11:  Äh, okay, das hat er mal. Das...
+00:05:24 - 00:05:26 - Sprecher SPEAKER_11:  Ja, also ich wüsste nicht, was... was schon kommen könnte. Also...
+00:05:26 - 00:05:31 - Sprecher SPEAKER_11:  Vielleicht wurde auch explizit von den Leuten nach dem Eif fragt halt und möchte da jetzt ein bisschen was los ist.
+00:05:41 - 00:05:42 - Sprecher SPEAKER_11:  Wäre auch eine Option.
+00:05:42 - 00:05:46 - Sprecher SPEAKER_11:  Naja, wir haben keine Namen genannt. Das ist das, was wir sagen können. Wir haben keine Namen genannt.
+00:05:47 - 00:05:50 - Sprecher SPEAKER_11:  Naja. Aber sag mal, wo ist denn der Friedhof hier? Bin ich... bin ich blöd?
+00:05:50 - 00:05:52 - Sprecher SPEAKER_11:  Ja, anscheinend schon. Fahr mal rechts.
+00:05:53 - 00:05:53 - Sprecher SPEAKER_11:  Das stimmt.
+00:06:02 - 00:06:06 - Sprecher SPEAKER_06:  Und dann folgen Sie der Straße und an... rechts.
+00:06:06 - 00:06:06 - Sprecher SPEAKER_11:  Sicher? Okay.
+00:06:06 - 00:06:09 - Sprecher SPEAKER_11:  Nein, nein, nein, du bist vorbeigefahren. Du hättest da rechts fahren müssen.
+00:06:09 - 00:06:11 - Sprecher SPEAKER_06:  Du hast gesagt, ich soll der Straße folgen.
+00:06:11 - 00:06:11 - Sprecher SPEAKER_06:  Habe es versehen.
+00:06:12 - 00:06:14 - Sprecher SPEAKER_06:  Oh ne, jetzt war es doch da vorne. Bin mir nicht sicher.
+00:06:14 - 00:06:15 - Sprecher SPEAKER_06:  Was? Was nun?
+00:06:15 - 00:06:17 - Sprecher SPEAKER_11:  Bin mir doch nicht sicher. Vielleicht war es doch da. Dreh wieder um.
+00:06:18 - 00:06:20 - Sprecher SPEAKER_06:  Das ist falsch. Das ist falsch.
+00:06:20 - 00:06:24 - Sprecher SPEAKER_06:  Aber das ist auch Friedhof mäßig. Bin mir nicht sicher, ob das ein Passwort war.
+00:06:24 - 00:06:25 - Sprecher SPEAKER_10:  Oh Gott.
+00:06:28 - 00:06:28 - Sprecher SPEAKER_06:  Jetzt rechts.
+00:06:28 - 00:06:29 - Sprecher SPEAKER_06:  Ne, geradeaus.
+00:06:29 - 00:06:31 - Sprecher SPEAKER_06:  Ne, da geradeaus. Mein ich doch. Habe ich gesagt.
+00:06:32 - 00:06:32 - Sprecher SPEAKER_11:  Mane.
+00:06:51 - 00:06:52 - Sprecher SPEAKER_11:  Hm?
+00:06:52 - 00:06:52 - Sprecher SPEAKER_11:  Hm?
+00:06:55 - 00:06:56 - Sprecher SPEAKER_11:  Haste Größeritt vor oder...
+00:06:57 - 00:06:58 - Sprecher SPEAKER_11:  wegen dem Outfit?
+00:07:00 - 00:07:01 - Sprecher SPEAKER_11:  Achso, okay. Verstehe.
+00:07:04 - 00:07:04 - Sprecher SPEAKER_11:  Na, steht ja.
+00:07:11 - 00:07:12 - Sprecher SPEAKER_11:  Machst du auf jeden Fall ein Stressfahrrad leben?
+00:07:14 - 00:07:14 - Sprecher SPEAKER_06:  Hallo.
+00:07:14 - 00:07:15 - Sprecher SPEAKER_06:  Klar, ich grüße dich.
+00:07:16 - 00:07:16 - Sprecher SPEAKER_11:  Hallo.
+00:07:16 - 00:07:17 - Sprecher SPEAKER_11:  Was geht bei euch? Alles klar?
+00:07:17 - 00:07:18 - Sprecher SPEAKER_06:  Hallo. Grüße.
+00:07:18 - 00:07:20 - Sprecher SPEAKER_04:  Ja, pass auf. Meinen Eindruck ist...
+00:07:20 - 00:07:22 - Sprecher SPEAKER_04:  Was ich von euch wollte und warum ich gestern noch angerufen habe.
+00:07:22 - 00:07:27 - Sprecher SPEAKER_04:  Zu uns kam jemand und hat uns folgende Informationen gegeben.
+00:07:28 - 00:07:30 - Sprecher SPEAKER_04:  Jemand im Norden erzählt rum, dass ihr ein Ei habt.
+00:07:30 - 00:07:33 - Sprecher SPEAKER_04:  Jetzt evaluieren wir, wer das sein könnte.
+00:07:33 - 00:07:35 - Sprecher SPEAKER_04:  Ja, dass wir ein Ei haben.
+00:07:35 - 00:07:36 - Sprecher SPEAKER_04:  Nein, nein, nein.
+00:07:37 - 00:07:37 - Sprecher SPEAKER_04:  Nochmal.
+00:07:38 - 00:07:41 - Sprecher SPEAKER_04:  Es heißt, der Kiez, wortwörtlich, hat ein Ei.
+00:07:42 - 00:07:45 - Sprecher SPEAKER_04:  Und diese Information, dass wir ein Ei haben, kommt aus dem Norden.
+00:07:46 - 00:07:46 - Sprecher SPEAKER_06:  Okay.
+00:07:47 - 00:07:49 - Sprecher SPEAKER_04:  Nur mal, ich frage, ob ihr das erzählt.
+00:07:49 - 00:07:50 - Sprecher SPEAKER_06:  Natürlich.
+00:07:50 - 00:07:51 - Sprecher SPEAKER_06:  Natürlich nicht, das wäre ja saublöd.
+00:07:52 - 00:07:54 - Sprecher SPEAKER_04:  Boah, das erzähl mal den anderen Leuten hier in der Stadt.
+00:07:55 - 00:07:58 - Sprecher SPEAKER_04:  Na jo, daran kannst du nicht messen.
+00:07:59 - 00:08:04 - Sprecher SPEAKER_06:  Also warum ich Can angefrufen habe, vor zwei Tagen war das glaube ich Can oder sowas,
+00:08:04 - 00:08:07 - Sprecher SPEAKER_06:  da haben wir uns irgendwie die ganze Zeit verpasst und dann hat es irgendwann nicht gepasst,
+00:08:08 - 00:08:13 - Sprecher SPEAKER_06:  ist, weil sowohl Harry als auch ich gefragt werden nach Eiern.
+00:08:14 - 00:08:16 - Sprecher SPEAKER_06:  Ob wir wissen, wo sie sind.
+00:08:16 - 00:08:18 - Sprecher SPEAKER_06:  Das wollte ich euch eigentlich nur mitgeben.
+00:08:19 - 00:08:19 - Sprecher SPEAKER_06:  Darum habe ich Can.
+00:08:20 - 00:08:20 - Sprecher SPEAKER_06:  Dann habe ich Can angerufen.
+00:08:21 - 00:08:24 - Sprecher SPEAKER_06:  Die Leute fragen und die Leute versuchen zusammen zu puzzeln.
+00:08:25 - 00:08:31 - Sprecher SPEAKER_06:  Aber Frank, das was wir von Anfang an gesagt haben ist, wir nennen keine Namen und das beziehen wir auch auf die Eiersache.
+00:08:31 - 00:08:36 - Sprecher SPEAKER_06:  Wäre doch saublöd, wenn wir irgendwem irgendeinen Namen sagen würden, wenn wir euch das Ei in die Hand gedrückt hätten.
+00:08:37 - 00:08:38 - Sprecher SPEAKER_04:  Boah, fühl ich.
+00:08:38 - 00:08:43 - Sprecher SPEAKER_04:  Aber das fühlen der Rest der Stadt geht, was diese Eier angeht, so offen damit um, als wäre es voll egal.
+00:08:44 - 00:08:44 - Sprecher SPEAKER_04:  Also deswegen.
+00:08:45 - 00:08:48 - Sprecher SPEAKER_11:  Na, dann sollten die Leute zumindest keine mehr haben, hoffe ich.
+00:08:51 - 00:08:53 - Sprecher SPEAKER_11:  Ja, also das war es auch tatsächlich.
+00:08:53 - 00:08:54 - Sprecher SPEAKER_04:  Wir wollten euch als erstes...
+00:08:54 - 00:08:56 - Sprecher SPEAKER_04:  Habt ihr euch ein Ei schon unter den Hagel gerissen?
+00:08:57 - 00:09:01 - Sprecher SPEAKER_04:  Ich werde darüber nicht antworten, erst mal, weil ich mich nicht größer machen will, als ich bin.
+00:09:03 - 00:09:03 - Sprecher SPEAKER_04:  Okay.
+00:09:03 - 00:09:05 - Sprecher SPEAKER_04:  Du hast viele Eier.
+00:09:06 - 00:09:08 - Sprecher SPEAKER_04:  Dann kannst du ab jetzt antworten, ich glaube, ich verhasse mich.
+00:09:09 - 00:09:13 - Sprecher SPEAKER_06:  Ja, ja, ja, Frank wollte jetzt antworten, ich habe mindestens zwei.
+00:09:15 - 00:09:18 - Sprecher SPEAKER_11:  Das wolltest du, Frank, oder sag doch, dass du es wolltest.
+00:09:18 - 00:09:19 - Sprecher SPEAKER_01:  Nein, ich wollte das nicht.
+00:09:19 - 00:09:20 - Sprecher SPEAKER_01:  Du wolltest das nicht.
+00:09:20 - 00:09:20 - Sprecher SPEAKER_01:  Was?
+00:09:21 - 00:09:22 - Sprecher SPEAKER_11:  Ich habe sein Auge schon zucken sehen.
+00:09:24 - 00:09:27 - Sprecher SPEAKER_04:  Lieber drei kleine oder einen großen Hoden, das wurde ich gestern gefragt.
+00:09:27 - 00:09:29 - Sprecher SPEAKER_04:  Das ist eine heftige Frage, wenn man darüber nachdenkt.
+00:09:32 - 00:09:33 - Sprecher SPEAKER_01:  Weiß ich auch nicht.
+00:09:34 - 00:09:34 - Sprecher SPEAKER_01:  Ja, ich...
+00:09:34 - 00:09:36 - Sprecher SPEAKER_04:  Ich könnte nicht mal antworten.
+00:09:36 - 00:09:37 - Sprecher SPEAKER_04:  Ja, heftige Frage, ne?
+00:09:37 - 00:09:39 - Sprecher SPEAKER_04:  Da kannst du auch lange nicht beschäftigen.
+00:09:39 - 00:09:41 - Sprecher SPEAKER_04:  Sind die drei Kleinen so groß wie der Große insgesamt?
+00:09:43 - 00:09:44 - Sprecher SPEAKER_04:  Mehr Informationen gibt es nicht.
+00:09:45 - 00:09:46 - Sprecher SPEAKER_04:  Dann habe ich keine Antwort.
+00:09:47 - 00:09:49 - Sprecher SPEAKER_06:  Die Sache mit den Wanzen, habt ihr die auf dem Schirm?
+00:09:51 - 00:09:52 - Unbekannt:  Ja.
+00:09:52 - 00:09:52 - Unbekannt:  Da ist es schon.
+00:09:52 - 00:09:52 - Unbekannt: 
+00:09:52 - 00:09:52 - Unbekannt: 
+00:09:52 - 00:09:53 - Sprecher SPEAKER_04:  Das ist ein bisschen eine kräftige Frage, aber...
+00:09:53 - 00:09:53 - Sprecher SPEAKER_04:  Ich kann dir nicht sagen, dass es welche gibt.
+00:09:53 - 00:09:54 - Sprecher SPEAKER_06:  Ja, ja, ja.
+00:09:54 - 00:09:54 - Sprecher SPEAKER_06: 
+00:09:54 - 00:09:54 - Sprecher SPEAKER_06: 
+00:09:54 - 00:09:54 - Sprecher SPEAKER_06: 
+00:09:54 - 00:09:58 - Sprecher SPEAKER_04:  Die stehen gerade auch bei Metzgertypen und nehmen Leute ab, ob die da hingehen, ne?
+00:09:58 - 00:09:59 - Sprecher SPEAKER_04:  Wenn sie den kennt.
+00:09:59 - 00:10:01 - Sprecher SPEAKER_04:  Bei Metzgertypen?
+00:10:01 - 00:10:03 - Sprecher SPEAKER_04:  Ja, dann kennt ihr den nicht, dann passt es.
+00:10:03 - 00:10:04 - Sprecher SPEAKER_04:  Ach so, ja, egal.
+00:10:04 - 00:10:05 - Sprecher SPEAKER_04:  In der Schlagerei?
+00:10:05 - 00:10:06 - Sprecher SPEAKER_04:  In der Nähe vom Metzger.
+00:10:06 - 00:10:07 - Sprecher SPEAKER_04:  Nein, nein, nein.
+00:10:07 - 00:10:09 - Sprecher SPEAKER_04:  Meinst du den Typen, der da auf dem Hof rumsitzt?
+00:10:09 - 00:10:09 - Sprecher SPEAKER_04:  Richtig.
+00:10:09 - 00:10:10 - Sprecher SPEAKER_04:  Ja, okay.
+00:10:10 - 00:10:10 - Sprecher SPEAKER_04:  Okay.
+00:10:10 - 00:10:14 - Sprecher SPEAKER_04:  Wollten sie uns vorhin abfangen, dann hat Can schön aus Versehen von denen ein FIBler komplett
+00:10:14 - 00:10:16 - Sprecher SPEAKER_04:  überf... äh, einen DTUler komplett überfahren.
+00:10:17 - 00:10:19 - Sprecher SPEAKER_04:  Und dann haben die uns als Lockvögel dahin gesetzt.
+00:10:19 - 00:10:20 - Sprecher SPEAKER_04:  Can abgefahren.
+00:10:21 - 00:10:22 - Sprecher SPEAKER_06:  Can abgefahren?
+00:10:22 - 00:10:23 - Sprecher SPEAKER_11:  Ja, manchmal auch.
+00:10:23 - 00:10:24 - Sprecher SPEAKER_11:  Can DTU angefahren.
+00:10:24 - 00:10:24 - Sprecher SPEAKER_11:  Can umgefahren.
+00:10:25 - 00:10:27 - Sprecher SPEAKER_11:  Ja, und du hast... du hast... du hast irgendwann eine DTU gefahren?
+00:10:27 - 00:10:28 - Sprecher SPEAKER_11:  Ja.
+00:10:28 - 00:10:29 - Sprecher SPEAKER_11:  Heftig.
+00:10:31 - 00:10:32 - Sprecher SPEAKER_06:  Okay, alles klar.
+00:10:32 - 00:10:32 - Sprecher SPEAKER_11:  Wollt nur sicher gehen, dass ihr...
+00:10:32 - 00:10:33 - Sprecher SPEAKER_11:  Gebt uns mal ne Sekunde.
+00:10:33 - 00:10:34 - Sprecher SPEAKER_11:  Ja, klar.
+00:10:34 - 00:10:35 - Sprecher SPEAKER_11:  Dass ihr das auf dem Schirm habt.
+00:10:37 - 00:10:38 - Sprecher SPEAKER_11:  Und wer bist du?
+00:10:38 - 00:10:39 - Sprecher SPEAKER_11:  Nimmst mir nicht übel, ich bin ja ein schlechter Name.
+00:10:39 - 00:10:40 - Unbekannt:  Ja, ja, ja.
+00:10:40 - 00:10:40 - Unbekannt: 
+00:10:40 - 00:10:41 - Sprecher SPEAKER_09:  Ich bin Easy.
+00:10:41 - 00:10:42 - Sprecher SPEAKER_09:  Das ist Easy.
+00:10:42 - 00:10:43 - Sprecher SPEAKER_06:  Easy.
+00:10:43 - 00:10:44 - Sprecher SPEAKER_11:  Mein Name liegt doch schon da.
+00:10:44 - 00:10:46 - Sprecher SPEAKER_11:  Ja, warum passt das Gesicht dazu nicht, als ich mich abgespeichert habe?
+00:10:47 - 00:10:48 - Sprecher SPEAKER_09:  Du hast was?
+00:10:49 - 00:10:50 - Sprecher SPEAKER_11:  Ich hab dich anders in Erinnerung.
+00:10:50 - 00:10:51 - Sprecher SPEAKER_11:  Easy.
+00:10:51 - 00:10:51 - Sprecher SPEAKER_11:  Okay.
+00:10:52 - 00:10:53 - Sprecher SPEAKER_09:  Ich bin der wahre Easy.
+00:10:54 - 00:10:54 - Sprecher SPEAKER_09:  Der wahre?
+00:10:55 - 00:10:55 - Sprecher SPEAKER_11:  Ja.
+00:10:56 - 00:10:56 - Sprecher SPEAKER_11:  Okay.
+00:10:57 - 00:10:57 - Sprecher SPEAKER_11:  Easy.
+00:10:57 - 00:10:58 - Sprecher SPEAKER_11:  Sag dir auch warum.
+00:10:58 - 00:10:58 - Sprecher SPEAKER_11:  Warum?
+00:10:59 - 00:11:02 - Sprecher SPEAKER_09:  Ich mach auf meinem Ausweis E-A-Z-Y und es steht Easy.
+00:11:02 - 00:11:03 - Sprecher SPEAKER_09:  Wie bei keinem anderen.
+00:11:05 - 00:11:06 - Sprecher SPEAKER_11:  Ist das so?
+00:11:06 - 00:11:07 - Sprecher SPEAKER_09:  Ist so.
+00:11:07 - 00:11:08 - Sprecher SPEAKER_09:  Hast du das schon mit?
+00:11:09 - 00:11:10 - Sprecher SPEAKER_09:  Hab ich schon ausgesammelt, ja.
+00:11:10 - 00:11:10 - Sprecher SPEAKER_09: 
+00:11:10 - 00:11:10 - Sprecher SPEAKER_09: 
+00:11:10 - 00:11:10 - Sprecher SPEAKER_09: 
+00:11:11 - 00:11:12 - Sprecher SPEAKER_11:  Ist der gefälscht?
+00:11:12 - 00:11:13 - Sprecher SPEAKER_09:  Will ich dir das geben, meinen Ausweis?
+00:11:14 - 00:11:15 - Sprecher SPEAKER_11:  Bzw. nicht.
+00:11:15 - 00:11:17 - Sprecher SPEAKER_11:  Wenn ich möchte, finde ich den Namen sowieso innerhalb von einer halben Stunde raus.
+00:11:17 - 00:11:18 - Sprecher SPEAKER_11:  Nicht mal.
+00:11:20 - 00:11:21 - Sprecher SPEAKER_09:  Hier, ich schalte dir das vor.
+00:11:22 - 00:11:23 - Sprecher SPEAKER_11:  Boah, das ist heftig.
+00:11:24 - 00:11:25 - Sprecher SPEAKER_09:  Sag ich dir.
+00:11:25 - 00:11:25 - Sprecher SPEAKER_09:  Ich bin der wahre.
+00:11:25 - 00:11:25 - Sprecher SPEAKER_09:  Stopp.
+00:11:25 - 00:11:26 - Sprecher SPEAKER_11:  Ich geb ihn dir zurück.
+00:11:26 - 00:11:27 - Sprecher SPEAKER_11:  Nö.
+00:11:29 - 00:11:29 - Sprecher SPEAKER_11:  Ja, okay.
+00:11:29 - 00:11:30 - Sprecher SPEAKER_11:  Ist akzeptiert.
+00:11:30 - 00:11:30 - Sprecher SPEAKER_11:  Ist der wahre.
+00:11:30 - 00:11:34 - Sprecher SPEAKER_11:  Deswegen, falls irgendwer sagt, ich heiße Easy, sagst du nein, es gibt nur einen
+00:11:34 - 00:11:35 - Sprecher SPEAKER_09:  wahren Easy.
+00:11:36 - 00:11:37 - Sprecher SPEAKER_11:  Weil ich jedem so erzählen.
+00:11:37 - 00:11:37 - Sprecher SPEAKER_11:  Ja.
+00:11:37 - 00:11:40 - Sprecher SPEAKER_11:  Wenn ich frage, wo der herkommt, sag ich vom Kiez.
+00:11:43 - 00:11:44 - Sprecher SPEAKER_11:  Ne, mach ich natürlich nicht.
+00:11:44 - 00:11:45 - Sprecher SPEAKER_11:  Okay.
+00:11:45 - 00:11:46 - Sprecher SPEAKER_04:  Ach so, Can, eine Sache noch.
+00:11:49 - 00:11:50 - Sprecher SPEAKER_06:  Sollte ich Can gerade was geben?
+00:11:51 - 00:11:53 - Sprecher SPEAKER_11:  Die machen die, machen die das öfter?
+00:11:53 - 00:11:54 - Sprecher SPEAKER_11:  Ja.
+00:11:54 - 00:11:55 - Sprecher SPEAKER_11:  Ist das ne Taktik, ja?
+00:11:55 - 00:11:56 - Sprecher SPEAKER_11:  Sie kommen wieder weg zu ihnen?
+00:11:56 - 00:11:57 - Sprecher SPEAKER_11:  Das machen die doch öfter?
+00:11:58 - 00:11:59 - Sprecher SPEAKER_09:  Na, abgefahren.
+00:11:59 - 00:12:00 - Sprecher SPEAKER_11:  Okay, verstehe, verstehe, verstehe.
+00:12:01 - 00:12:02 - Sprecher SPEAKER_02:  Was wolltest du geben?
+00:12:04 - 00:12:06 - Sprecher SPEAKER_06:  Naja, ich hab dir was mitgebracht, Can.
+00:12:07 - 00:12:07 - Sprecher SPEAKER_02:  Was denn?
+00:12:08 - 00:12:09 - Sprecher SPEAKER_06:  Nächste Nubs.
+00:12:09 - 00:12:10 - Sprecher SPEAKER_07:  Was denn?
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:10 - Sprecher SPEAKER_07: 
+00:12:10 - 00:12:11 - Sprecher SPEAKER_07:  Danke.
+00:12:13 - 00:12:14 - Sprecher SPEAKER_07:  Ach man.
+00:12:15 - 00:12:19 - Sprecher SPEAKER_06:  Naja, wenn man Can abgefahren ist, dann muss man ja auch irgendwann ein bisschen bei
+00:12:19 - 00:12:20 - Sprecher SPEAKER_06:  Kräften bleiben, oder nicht?
+00:12:25 - 00:12:26 - Sprecher SPEAKER_02:  Sehr gut.
+00:12:32 - 00:12:32 - Sprecher SPEAKER_02:  Yummy.
+00:12:33 - 00:12:40 - Sprecher SPEAKER_06:  Gut, aber habt ihr bei dieser Eiersache noch irgendwas, was ihr, naja, weiß ich nicht,
+00:12:40 - 00:12:40 - Sprecher SPEAKER_06: 
+00:12:40 - 00:12:40 - Sprecher SPEAKER_06:  wissen müsst?
+00:12:42 - 00:12:45 - Sprecher SPEAKER_06:  Sucht ihr das überhaupt oder wartet ihr, bis die Eier zu euch kommen?
+00:12:48 - 00:12:49 - Sprecher SPEAKER_02:  Ne, also wir sind da schon...
+00:12:50 - 00:12:53 - Sprecher SPEAKER_02:  Wir wollen erst mal das Puzzle vollständig haben.
+00:12:54 - 00:12:56 - Sprecher SPEAKER_06:  Welches Puzzleteil fehlt euch denn noch?
+00:12:56 - 00:13:00 - Sprecher SPEAKER_04:  Naja, es gibt eine Gruppe, die durch die Stadt rennt und jeden angreift, wo sie nur vermuten,
+00:13:00 - 00:13:01 - Sprecher SPEAKER_04:  dass die ein Ei haben.
+00:13:01 - 00:13:02 - Sprecher SPEAKER_04:  So werden wir mit Sicherheit nicht vorgehen.
+00:13:04 - 00:13:05 - Sprecher SPEAKER_06:  Mhm, kann mir vorstellen.
+00:13:05 - 00:13:06 - Sprecher SPEAKER_06:  Um wen es sich da handelt?
+00:13:07 - 00:13:09 - Sprecher SPEAKER_04:  Ich hab dich vor zwei Tagen mit den getroffenen Matschumaschti.
+00:13:09 - 00:13:09 - Sprecher SPEAKER_04:  Genau die.
+00:13:11 - 00:13:12 - Sprecher SPEAKER_06:  Mhm, okay.
+00:13:14 - 00:13:16 - Sprecher SPEAKER_04:  Ähm, zur Zufall, dass wir da waren, ne?
+00:13:16 - 00:13:16 - Sprecher SPEAKER_04:  Nicht, dass du denkst, ich hoffe es ist wenig.
+00:13:19 - 00:13:20 - Sprecher SPEAKER_04:  Ähm, ja.
+00:13:21 - 00:13:26 - Sprecher SPEAKER_04:  Und weiß ich auch nicht, einige reagieren da sehr crazy und unnachvollziehbar.
+00:13:28 - 00:13:33 - Sprecher SPEAKER_06:  Naja, es gibt die Möglichkeit, offensiv damit umzugehen, um möglichst schnell herauszufinden,
+00:13:33 - 00:13:35 - Sprecher SPEAKER_06:  wo sich ein Ei verbirgt.
+00:13:35 - 00:13:39 - Sprecher SPEAKER_06:  Weißt du, wenn ich dir sagen würde, Frank, ich hab fünf Eier.
+00:13:40 - 00:13:45 - Sprecher SPEAKER_06:  Dann ist es doch relativ klar, dass die zwei Leute oder die zwei Gruppen, die vielleicht
+00:13:45 - 00:13:50 - Sprecher SPEAKER_06:  auch noch Eier haben oder allgemein Leute, die Eier haben, dann denken, naja, dann nehme
+00:13:50 - 00:13:52 - Sprecher SPEAKER_06:  ich die als erstes hops, obwohl ich selber gar keine fünf Eier habe.
+00:13:54 - 00:13:56 - Sprecher SPEAKER_06:  Ist ne gute Taktik eigentlich.
+00:13:57 - 00:13:58 - Sprecher SPEAKER_06:  Aber kennst du Wanderhoden?
+00:13:58 - 00:13:59 - Sprecher SPEAKER_06:  Es war ein bisschen gefährlich, aber eine Möglichkeit.
+00:14:00 - 00:14:01 - Sprecher SPEAKER_04:  Sag dir, Wanderhoden war's?
+00:14:03 - 00:14:05 - Sprecher SPEAKER_06:  Naja, es lässt sich irgendwie zusammenstückeln.
+00:14:06 - 00:14:06 - Sprecher SPEAKER_06:  Nee, das gibt's.
+00:14:07 - 00:14:09 - Sprecher SPEAKER_04:  Das ist tatsächlich, das hab ich manchmal ganz selten, dass es das denn da ist.
+00:14:09 - 00:14:09 - Sprecher SPEAKER_04: 
+00:14:09 - 00:14:09 - Sprecher SPEAKER_04: 
+00:14:09 - 00:14:09 - Sprecher SPEAKER_04: 
+00:14:09 - 00:14:09 - Sprecher SPEAKER_04: 
+00:14:09 - 00:14:12 - Sprecher SPEAKER_04:  Also, wenn man im Sack der Hoden nicht ein- und nicht mehr vorhanden ist, der ist dann
+00:14:12 - 00:14:14 - Sprecher SPEAKER_04:  kurzzeitig im Körper verschluckt sozusagen.
+00:14:14 - 00:14:15 - Sprecher SPEAKER_04:  Das klingt komisch, aber das ist so.
+00:14:15 - 00:14:16 - Sprecher SPEAKER_04:  Okay, alles klar, verstehe.
+00:14:16 - 00:14:19 - Sprecher SPEAKER_06:  Und genauso kann das ja bei den Eiern auch sein, dass die einfach weggegeben werden,
+00:14:20 - 00:14:21 - Sprecher SPEAKER_04:  weitergehen, wandern, weißt du?
+00:14:22 - 00:14:22 - Sprecher SPEAKER_06:  Hm, verstehe.
+00:14:23 - 00:14:24 - Sprecher SPEAKER_06:  Habt ihr das Gefühl, das ist der Fall?
+00:14:24 - 00:14:25 - Sprecher SPEAKER_04:  Ja.
+00:14:25 - 00:14:26 - Sprecher SPEAKER_06:  Hm.
+00:14:26 - 00:14:28 - Sprecher SPEAKER_04:  Ich glaube, die sind sehr beweglich.
+00:14:29 - 00:14:32 - Sprecher SPEAKER_04:  Ich glaube, dass es dann Leute gibt, die sich dafür entscheiden, dafür zu kämpfen
+00:14:32 - 00:14:35 - Sprecher SPEAKER_04:  und dann merken, das wird nix und dann denken, dann kann das auch loswerden und so weiter
+00:14:35 - 00:14:35 - Sprecher SPEAKER_04:  und so fort.
+00:14:35 - 00:14:36 - Sprecher SPEAKER_04:  Ich glaube, das passiert ganz oft.
+00:14:37 - 00:14:38 - Sprecher SPEAKER_11:  Sag mal ein bisschen, was sind die auch wert halt, ne?
+00:14:42 - 00:14:49 - Sprecher SPEAKER_06:  Ja, manche Leute haben einfach, ja, irgendwie wollen sie, glaube ich, einfach nur auf dem
+00:14:49 - 00:14:50 - Sprecher SPEAKER_06:  Ei rumbrüten.
+00:14:51 - 00:14:51 - Unbekannt:  Ja.
+00:14:52 - 00:14:58 - Sprecher SPEAKER_06:  Das ist echt dumm, weil so werden sie nie die Großen, von denen sie träumen, irgendwann
+00:14:58 - 00:14:58 - Sprecher SPEAKER_06:  zu sein.
+00:15:01 - 00:15:02 - Sprecher SPEAKER_04:  Aber weißt du was?
+00:15:02 - 00:15:05 - Sprecher SPEAKER_04:  Ich glaube, in jedem Krieg ist es wichtig, vorher die Feinde zu beobachten.
+00:15:06 - 00:15:08 - Sprecher SPEAKER_06:  Das ist cool, dass du das sagst, obwohl du gerade gar nicht bei den Eiern bist.
+00:15:08 - 00:15:10 - Sprecher SPEAKER_06:  Aber bei der Predigt war es, da ging es nämlich auch um Krieg.
+00:15:11 - 00:15:11 - Sprecher SPEAKER_04:  Echt?
+00:15:12 - 00:15:12 - Sprecher SPEAKER_06:  Ja.
+00:15:12 - 00:15:13 - Sprecher SPEAKER_06:  Und ums Kämpfen.
+00:15:14 - 00:15:16 - Sprecher SPEAKER_04:  Ist der Prediger nicht sogar einer von denen?
+00:15:17 - 00:15:18 - Sprecher SPEAKER_06:  Pater Cruz.
+00:15:19 - 00:15:21 - Sprecher SPEAKER_06:  Pater Cruz ist ein Pfarrer.
+00:15:23 - 00:15:23 - Unbekannt:  Pst.
+00:15:25 - 00:15:27 - Sprecher SPEAKER_02:  Frank, wir haben gleich einen Termin in drei Minuten.
+00:15:27 - 00:15:28 - Sprecher SPEAKER_02:  Hab ich nicht beobachtet.
+00:15:28 - 00:15:29 - Sprecher SPEAKER_02:  Wir müssen los.
+00:15:29 - 00:15:32 - Sprecher SPEAKER_11:  Auf jeden Fall bin ich mir ziemlich sicher, dass es auf jeden Fall relativ viel regeln
+00:15:32 - 00:15:32 - Sprecher SPEAKER_11:  könnte, glaube ich.
+00:15:33 - 00:15:33 - Sprecher SPEAKER_11:  Echt?
+00:15:34 - 00:15:35 - Sprecher SPEAKER_11:  Ich wäre enttäuscht, wenn es nicht so wäre.
+00:15:37 - 00:15:38 - Sprecher SPEAKER_06:  Wenn ihr Hilfe braucht bei einer Predigt, dann schreibt sie mir.
+00:15:38 - 00:15:38 - Sprecher SPEAKER_06: 
+00:15:38 - 00:15:38 - Sprecher SPEAKER_06: 
+00:15:38 - 00:15:38 - Sprecher SPEAKER_06: 
+00:15:38 - 00:15:38 - Sprecher SPEAKER_06:  Okay.
+00:15:38 - 00:15:38 - Sprecher SPEAKER_06: 
+00:15:38 - 00:15:39 - Sprecher SPEAKER_06:  wäre, wenn ich die Puzzle-Teile auf den Kabel nehmen würde.
+00:15:39 - 00:15:41 - Sprecher SPEAKER_06:  Sag Bescheid.
+00:15:41 - 00:15:43 - Sprecher SPEAKER_06:  Vielleicht haben wir ja auch mal irgendwo irgendwas gehört.
+00:15:43 - 00:15:47 - Sprecher SPEAKER_06:  Ich meine, es gibt verschiedene Himmelsrichtungen, in die man sich orientieren kann, nicht wahr?
+00:15:48 - 00:15:49 - Sprecher SPEAKER_07:  Das stimmt.
+00:15:50 - 00:15:51 - Sprecher SPEAKER_09:  Aber ganz kurz.
+00:15:51 - 00:15:53 - Sprecher SPEAKER_09:  Wie sollen wir denn Leute...
+00:15:53 - 00:15:54 - Sprecher SPEAKER_09:  Nein, wir müssen wirklich schnell los.
+00:15:54 - 00:15:55 - Sprecher SPEAKER_09:  Wir haben keine Zeit mehr für eine Frage.
+00:15:55 - 00:15:55 - Sprecher SPEAKER_09:  Hey.
+00:15:56 - 00:15:57 - Sprecher SPEAKER_09:  Wir sind nicht erreicht.
+00:15:57 - 00:15:58 - Sprecher SPEAKER_04:  Danke euch.
+00:15:58 - 00:15:58 - Sprecher SPEAKER_04:  Bis nächste Woche.
+00:15:59 - 00:16:00 - Sprecher SPEAKER_04:  Bis nächste Woche.
+00:16:00 - 00:16:01 - Sprecher SPEAKER_11:  Dann passt auf euch auf.
+00:16:01 - 00:16:01 - Sprecher SPEAKER_11:  Bis Samstag jetzt wieder.
+00:16:02 - 00:16:02 - Sprecher SPEAKER_04:  Danke.
+00:16:02 - 00:16:03 - Sprecher SPEAKER_11:  Bis dann.
+00:16:04 - 00:16:06 - Sprecher SPEAKER_11:  Muss ich jetzt meine Bestellung auf jeden Fall anders aufheben?
+00:16:07 - 00:16:08 - Sprecher SPEAKER_06:  Lass die jetzt gehen.
+00:16:08 - 00:16:08 - Sprecher SPEAKER_06:  Die haben es auch nicht.
+00:16:08 - 00:16:08 - Sprecher SPEAKER_06: 
+00:16:08 - 00:16:09 - Sprecher SPEAKER_06:  Wir sind auch noch nicht fertig, freilich!
+00:16:09 - 00:16:09 - Sprecher SPEAKER_06:  Renn!
+00:16:09 - 00:16:10 - Sprecher SPEAKER_11:  Wir haben einen Termin.
+00:16:10 - 00:16:10 - Sprecher SPEAKER_11:  Renn!
+00:16:10 - 00:16:11 - Sprecher SPEAKER_11:  Schnell.
+00:16:11 - 00:16:13 - Sprecher SPEAKER_11:  Gucks, wir fliegen in anderthalb Stunden nach Berlin.
+00:16:13 - 00:16:14 - Sprecher SPEAKER_11:  Was soll das?
+00:16:14 - 00:16:15 - Sprecher SPEAKER_11:  Scheisse, Junge, auf Wiedersehen.
+00:16:20 - 00:16:22 - Sprecher SPEAKER_06:  Dafür sagen sie aber wenig schnell.
+00:16:24 - 00:16:28 - Sprecher SPEAKER_11:  Also dafür, dass die ganze Stadt so viel über die Eier redet, ist es aber ganz schön
+00:16:28 - 00:16:31 - Sprecher SPEAKER_06:  wild, dass sie zu uns kommen und fragen, ob wir irgendwen erzählen, dass sie ein Ei
+00:16:31 - 00:16:31 - Sprecher SPEAKER_06:  haben.
+00:16:36 - 00:16:37 - Sprecher SPEAKER_11:  Ja, unabhängig, also unabhängig....
+00:16:37 - 00:16:38 - Sprecher SPEAKER_11:  Also, Aninamek wurde die ganze Sache nicht vernetzt.
+00:16:38 - 00:16:40 - Sprecher SPEAKER_11:  Ich wüsste, du würdest trotzdem mit mir suchen, was du anjagst.
+00:16:41 - 00:16:42 - Sprecher SPEAKER_06:  Naja, total.
+00:16:44 - 00:16:46 - Sprecher SPEAKER_06:  Aber ich verstehe schon, was Frank sagt.
+00:16:46 - 00:16:48 - Sprecher SPEAKER_06:  Ist halt ein bisschen problematisch, weil...
+00:16:49 - 00:16:52 - Sprecher SPEAKER_06:  Ich meine, haben doch die Smokes Family selber gesagt,
+00:16:52 - 00:16:54 - Sprecher SPEAKER_06:  die sind zu Frank hin, haben gefragt, habt ihr ein Ei?
+00:16:54 - 00:16:56 - Sprecher SPEAKER_06:  Frank sagt nein, die glauben es.
+00:16:57 - 00:16:58 - Sprecher SPEAKER_06:  Was willst du machen?
+00:16:59 - 00:17:03 - Sprecher SPEAKER_06:  Alle aus der Truppe auf den Boden legen und durchsuchen?
+00:17:03 - 00:17:06 - Sprecher SPEAKER_06:  Und später liegt das Ei irgendwo, ich weiß nicht, in einem Tresor?
+00:17:07 - 00:17:09 - Sprecher SPEAKER_11:  Naja, auf den Boden legen und durchsuchen nicht,
+00:17:09 - 00:17:13 - Sprecher SPEAKER_11:  aber zumindest mal mit einer Feuerhälte einen Maschinengewehr vor die Sicht halten
+00:17:13 - 00:17:14 - Sprecher SPEAKER_11:  und nochmal Nachdruck verleihen.
+00:17:14 - 00:17:16 - Sprecher SPEAKER_11:  Ach, deswegen glaubst du, wollen alle Maschinengewehre,
+00:17:16 - 00:17:18 - Sprecher SPEAKER_06:  weil sie die Eier suchen und denken, nur so kriegen sie es?
+00:17:19 - 00:17:21 - Sprecher SPEAKER_11:  Mann, kacke, warum verpissen die sich jetzt eigentlich?
+00:17:21 - 00:17:23 - Sprecher SPEAKER_11:  Ich wollte bei Frank eine Maschinengewehr bestellen.
+00:17:26 - 00:17:27 - Sprecher SPEAKER_11:  War da eigentlich...
+00:17:27 - 00:17:28 - Sprecher SPEAKER_11:  Weil Billy würde ja wissen, was dahinter ist,
+00:17:28 - 00:17:30 - Sprecher SPEAKER_11:  und ich hätte ja mal eine Maschinengewehr im Schrank.
+00:17:32 - 00:17:35 - Sprecher SPEAKER_06:  Und du hältst es für klug, bei Frank eins zu bestellen?
+00:17:36 - 00:17:37 - Sprecher SPEAKER_11:  Hm, durchaus, ja.
+00:17:38 - 00:17:42 - Sprecher SPEAKER_06:  Um Frank zu zeigen, dass das, was wir ihm gesagt haben...
+00:17:42 - 00:17:44 - Sprecher SPEAKER_11:  Nee, nicht mal darum, jetzt ja nicht,
+00:17:44 - 00:17:47 - Sprecher SPEAKER_11:  aber ich hab langsam dafür, wenn es davon doch mehr Waffen und Bieten zu lang bringt,
+00:17:47 - 00:17:50 - Sprecher SPEAKER_11:  dass es doch langsam komische Fragen aufwerfen könnte.
+00:17:50 - 00:17:53 - Sprecher SPEAKER_11:  Naja, also doch, darum geht's, Harry, verstehst du nicht, was ich gerade meine?
+00:17:54 - 00:17:56 - Sprecher SPEAKER_06:  Frank und die ganze Truppe haben uns gefragt,
+00:17:58 - 00:18:01 - Sprecher SPEAKER_06:  ob wir Schnellschussfeuerwaffen rankriegen können.
+00:18:01 - 00:18:04 - Sprecher SPEAKER_06:  Wir sagen klar, und ein paar Wochen später willst du bei Frank eine bestellen?
+00:18:05 - 00:18:06 - Sprecher SPEAKER_06:  Ich mein...
+00:18:06 - 00:18:08 - Sprecher SPEAKER_06:  Du kannst das machen, du musst das nur anders verpacken.
+00:18:10 - 00:18:11 - Sprecher SPEAKER_11:  Klar, ich möchte einfach nur wissen, ob er wirklich liefert.
+00:18:14 - 00:18:15 - Sprecher SPEAKER_06:  Gut, und das willst du ihm dann sagen?
+00:18:15 - 00:18:17 - Sprecher SPEAKER_06:  Hey Frank, ich will eine Schnellschussfeuerwaffe bei dir bestellen,
+00:18:17 - 00:18:19 - Sprecher SPEAKER_06:  um zu gucken, ob du wirklich lieferst?
+00:18:19 - 00:18:20 - Sprecher SPEAKER_11:  Ach so, nehmt rein, ich nehm.
+00:18:21 - 00:18:21 - Sprecher SPEAKER_06:  Wie dann?
+00:18:25 - 00:18:26 - Sprecher SPEAKER_11:  Weiß ich nicht.
+00:18:27 - 00:18:30 - Sprecher SPEAKER_06:  Du solltest es aber wissen, wenn du gerade kurz davor warst, das zu machen.
+00:18:35 - 00:18:35 - Sprecher SPEAKER_11:  Ja.
+00:18:39 - 00:18:41 - Sprecher SPEAKER_11:  Ich hab da jetzt keine Antwort.
+00:18:41 - 00:18:44 - Sprecher SPEAKER_11:  Ich hab damit nicht mehr gerechnet, dass das Gespräch überhaupt stattfindet.
+00:18:44 - 00:18:47 - Sprecher SPEAKER_11:  Aber du wolltest ihn gerade drauf ansprechen, hast du doch gesagt.
+00:18:47 - 00:18:48 - Sprecher SPEAKER_06:  Ja.
+00:18:49 - 00:18:51 - Sprecher SPEAKER_06:  Das macht überhaupt gar keinen Sinn.
+00:18:52 - 00:18:55 - Sprecher SPEAKER_06:  Du schmälst, du, du, du machst damit sowas von alles kaputt mit so einer Frage,
+00:18:56 - 00:18:58 - Sprecher SPEAKER_06:  die du einfach so raushaust, ohne dir davor Gedanken drüber zu machen, Harry.
+00:18:59 - 00:19:00 - Sprecher SPEAKER_06:  Das wär kompletter Scheiße.
+00:19:00 - 00:19:05 - Sprecher SPEAKER_06:  Du, du schmälerst dein eigenes Standing und mein Standing und Cypher's Standing und alles Standing.
+00:19:05 - 00:19:06 - Sprecher SPEAKER_06:  Das ist Zerstörung.
+00:19:07 - 00:19:08 - Sprecher SPEAKER_06:  Willst du uns direkt in die Luft jagen?
+00:19:09 - 00:19:10 - Sprecher SPEAKER_06:  Ich mein, dann können wir auch einfach alles lassen.
+00:19:11 - 00:19:12 - Sprecher SPEAKER_11:  Ich zerstöre hier ja alles.
+00:19:14 - 00:19:16 - Sprecher SPEAKER_06:  Ich mein, wir können ab jetzt einfach sagen, wenn uns jemand fragt,
+00:19:16 - 00:19:18 - Sprecher SPEAKER_06:  hey, könnt ihr das besorgen, dann sagen wir, hey, frag doch Frank.
+00:19:19 - 00:19:20 - Unbekannt:  Frag doch einfach Frank.
+00:19:20 - 00:19:21 - Sprecher SPEAKER_11:  Ja, darum geht's doch ja nicht.
+00:19:22 - 00:19:26 - Sprecher SPEAKER_06:  Ich weiß, dass es dir darum nicht geht, aber das ist das, was es den Anschein erweckt,
+00:19:26 - 00:19:28 - Sprecher SPEAKER_06:  bei Menschen, mit denen wir Geschäfte machen wollen.
+00:19:30 - 00:19:30 - Unbekannt:  Hm.
+00:19:35 - 00:19:35 - Sprecher SPEAKER_11:  Hm, okay.
+00:19:36 - 00:19:37 - Sprecher SPEAKER_06:  Übersehe ich da was?
+00:19:38 - 00:19:39 - Sprecher SPEAKER_11:  Nee, weiß ich nicht.
+00:19:39 - 00:19:41 - Sprecher SPEAKER_11:  Also, muss man nicht heißen.
+00:19:41 - 00:19:42 - Sprecher SPEAKER_11:  Klar können wir die besorgen.
+00:19:42 - 00:19:43 - Sprecher SPEAKER_11:  Das wissen die auch, aber...
+00:19:43 - 00:19:47 - Sprecher SPEAKER_11:  Nein, das wissen die eben nicht, Harry, weil wir denen überhaupt nichts gezeigt haben bisher.
+00:19:47 - 00:19:53 - Sprecher SPEAKER_06:  Weißt du, es ist was anderes, wenn ich mit Payne quatsche und Payne sagt, gib mir meine Schrotflinte.
+00:19:53 - 00:19:57 - Sprecher SPEAKER_06:  Weil Payne durchaus schon gesehen hat, was möglich ist,
+00:19:57 - 00:20:04 - Sprecher SPEAKER_06:  beziehungsweise was für Aufträge man vermittelt und weil Payne die Verbindung zu Cypher kennt.
+00:20:05 - 00:20:05 - Sprecher SPEAKER_06:  Das ist was anderes.
+00:20:06 - 00:20:12 - Sprecher SPEAKER_06:  Aber der Kiez hat bisher in keinster Weise irgendwas von dem zu sehen gekriegt,
+00:20:12 - 00:20:16 - Sprecher SPEAKER_06:  was wir ihm versprochen haben oder was wir ihm gesagt haben, was wir können.
+00:20:16 - 00:20:17 - Sprecher SPEAKER_06:  Zumindest nicht von uns.
+00:20:18 - 00:20:22 - Sprecher SPEAKER_06:  Das heißt, wenn du zu ihm jetzt einfach gehst und fragst, ob er dir eine Waffe besorgen kann,
+00:20:22 - 00:20:24 - Sprecher SPEAKER_06:  dann denkt er sich, wieso eigentlich?
+00:20:24 - 00:20:27 - Sprecher SPEAKER_06:  Habt ihr nicht eigentlich mal gesagt, dass ihr uns das besorgen könnt?
+00:20:28 - 00:20:29 - Sprecher SPEAKER_06:  Warum besorgt ihr es euch nicht selber?
+00:20:33 - 00:20:35 - Sprecher SPEAKER_06:  Du musst davon ausgehen.
+00:20:35 - 00:20:37 - Sprecher SPEAKER_06:  Dass die nur vier Quadratmeter weit denken.
+00:20:37 - 00:20:38 - Sprecher SPEAKER_06:  Das ist eine Gang.
+00:20:40 - 00:20:41 - Sprecher SPEAKER_11:  Okay.
+00:20:43 - 00:20:44 - Sprecher SPEAKER_11:  Okay, easy, check it.
+00:20:47 - 00:20:51 - Sprecher SPEAKER_06:  Wenn die es irgendwann gerafft haben, dann kannst du locker sagen, bring mal eine rum.
+00:20:51 - 00:20:55 - Sprecher SPEAKER_06:  Ich will die vergleichen mit der, die ich zu Hause habe oder sowas.
+00:20:55 - 00:20:55 - Sprecher SPEAKER_06:  Was weiß ich?
+00:20:56 - 00:20:58 - Sprecher SPEAKER_06:  Ich verstehe schon, dass du eine haben willst.
+00:20:59 - 00:21:01 - Sprecher SPEAKER_11:  Es geht nicht darum, dass ich eine habe, sondern ich möchte einfach nur wissen, ob die wirklich liefern.
+00:21:02 - 00:21:03 - Sprecher SPEAKER_11:  Ich brauche die nicht, die Scheiße.
+00:21:05 - 00:21:06 - Sprecher SPEAKER_11:  Und Billy interessiert das auch.
+00:21:08 - 00:21:10 - Sprecher SPEAKER_06:  Gut, dann sollte das über jemand anders laufen.
+00:21:12 - 00:21:14 - Sprecher SPEAKER_11:  Dann müssen wir mal was gucken und dann über wen.
+00:21:14 - 00:21:16 - Sprecher SPEAKER_11:  Meinetwegen über Billy. Dann soll Billy eine bestellen.
+00:21:17 - 00:21:19 - Sprecher SPEAKER_11:  Na, der hat absolut gar keinen Kontakt zu denen.
+00:21:21 - 00:21:21 - Sprecher SPEAKER_11:  Aber ja.
+00:21:25 - 00:21:28 - Sprecher SPEAKER_11:  Wenn wir Irish fragen, ob der dran ist, ich glaube aber eigentlich auch nicht.
+00:21:29 - 00:21:30 - Sprecher SPEAKER_11:  Also ich wüsste noch nicht mal über wen.
+00:21:41 - 00:21:42 - Sprecher SPEAKER_06:  Redaktion Julian Windisch
+00:21:42 - 00:21:43 - Sprecher SPEAKER_06:  discussionswoa
+00:21:47 - 00:21:49 - Sprecher SPEAKER_06:  35
+00:21:49 - 00:21:50 - Unbekannt:  Ich bin
+00:21:52 - 00:21:54 - Sprecher SPEAKER_11:  Deepeles Control Bz
+00:22:03 - 00:22:05 - Sprecher SPEAKER_06:  Peace out.
+00:22:05 - 00:22:05 - Sprecher SPEAKER_06: 
+00:22:05 - 00:22:05 - Sprecher SPEAKER_06: 
+00:22:05 - 00:22:06 - Sprecher SPEAKER_06:  nur darum geht, den Kiez zu testen, ob sie das
+00:22:06 - 00:22:08 - Sprecher SPEAKER_06:  gut ausliefern können, dann ist das zwar eine Sache,
+00:22:09 - 00:22:11 - Sprecher SPEAKER_06:  die ich irgendwo nachvollziehen kann, aber dann solltest
+00:22:11 - 00:22:12 - Sprecher SPEAKER_06:  du das auf keinen Fall über dich selber machen.
+00:22:13 - 00:22:15 - Sprecher SPEAKER_06:  Weil, wie gesagt, das schmälert
+00:22:15 - 00:22:15 - Sprecher SPEAKER_06:  dein Standing.
+00:22:17 - 00:22:18 - Sprecher SPEAKER_06:  Und wenn du einfach nur
+00:22:18 - 00:22:21 - Sprecher SPEAKER_06:  eine Maschinenpistole haben willst, dann
+00:22:22 - 00:22:23 - Sprecher SPEAKER_06:  solltest du
+00:22:23 - 00:22:24 - Sprecher SPEAKER_06:  mit Seifer reden. Ich glaube, die haben
+00:22:24 - 00:22:26 - Sprecher SPEAKER_06:  einen ganz guten Draht, so
+00:22:27 - 00:22:28 - Sprecher SPEAKER_06:  Manschetti, wie man das ja ungefähr jetzt
+00:22:28 - 00:22:30 - Sprecher SPEAKER_06:  mitgekriegt hat. Zumindest saßen die ja zusammen da
+00:22:30 - 00:22:32 - Sprecher SPEAKER_06:  irgendwo drin, hast du gesagt.
+00:22:33 - 00:22:34 - Sprecher SPEAKER_11:  Ähm, ja, also
+00:22:34 - 00:22:35 - Sprecher SPEAKER_11:  tun sie sich auf jeden Fall.
+00:22:36 - 00:22:38 - Sprecher SPEAKER_11:  Wie gesagt, mir ist nicht eine Maschinenpistole. Ich meine, da ist irgendeine Pistole,
+00:22:38 - 00:22:40 - Sprecher SPEAKER_11:  jeder besorgen kann mittlerweile, es ist kein Geheimnis,
+00:22:40 - 00:22:42 - Sprecher SPEAKER_11:  aber Maschinenpistolen halt nicht.
+00:22:44 - 00:22:44 - Sprecher SPEAKER_06:  Hatatata.
+00:22:51 - 00:22:52 - Sprecher SPEAKER_11:  Oder? Ja doch, ne,
+00:22:52 - 00:22:54 - Sprecher SPEAKER_11:  Aeodisch hatte ich auch, ja doch. Ne, also Pistolen ist wirklich
+00:22:54 - 00:22:56 - Sprecher SPEAKER_11:  kein Ding, die fliegen nicht, die werden überall hinterher
+00:22:56 - 00:22:56 - Sprecher SPEAKER_11:  schmissen.
+00:22:59 - 00:23:00 - Sprecher SPEAKER_11:  Und eine Schrotzinte, wollt ihr mir für
+00:23:00 - 00:23:02 - Sprecher SPEAKER_11:  10.000 anbieten, hat der Aeodisch nicht für 15.000?
+00:23:02 - 00:23:04 - Sprecher SPEAKER_11:  verkauft? Ja, aber das ist ja auch schon eine Weile
+00:23:04 - 00:23:05 - Sprecher SPEAKER_06:  her. Okay.
+00:23:07 - 00:23:08 - Sprecher SPEAKER_06:  Wer wollte dir die anbieten?
+00:23:09 - 00:23:09 - Sprecher SPEAKER_11:  Na, Frank.
+00:23:11 - 00:23:12 - Sprecher SPEAKER_06:  Na, und warum hast du die nicht
+00:23:12 - 00:23:13 - Sprecher SPEAKER_06:  einfach genommen?
+00:23:14 - 00:23:16 - Sprecher SPEAKER_11:  Weil ich wissen wollte, was da noch im Repertoire ist.
+00:23:17 - 00:23:18 - Sprecher SPEAKER_11:  Hätte ich die jetzt einfach genommen,
+00:23:18 - 00:23:20 - Sprecher SPEAKER_11:  würde ich niemals erfahren, was da noch alles im Spiel ist.
+00:23:20 - 00:23:21 - Sprecher SPEAKER_11:  Und das ist nicht so einfach.
+00:23:26 - 00:23:28 - Sprecher SPEAKER_11:  Aber auf jeden Fall hat er halt mit Pistolen in sich
+00:23:28 - 00:23:30 - Sprecher SPEAKER_11:  geschmissen. Dittata, dittata, dittata, dittata.
+00:23:31 - 00:23:32 - Sprecher SPEAKER_11:  Na, Schrotzinte für 10.000.
+00:23:32 - 00:23:33 - Sprecher SPEAKER_06:  Wann denn?
+00:23:34 - 00:23:36 - Sprecher SPEAKER_11:  Wann denn? Als ich den das letzte Mal gesehen habe, ich weiß nicht mehr, wo
+00:23:36 - 00:23:37 - Sprecher SPEAKER_11:  der gewesen ist.
+00:23:40 - 00:23:42 - Sprecher SPEAKER_06:  Na, wann habt ihr denn darüber geredet?
+00:23:42 - 00:23:43 - Sprecher SPEAKER_11:  Stimmt, das weiß ich nicht.
+00:23:44 - 00:23:46 - Sprecher SPEAKER_11:  Doch, da wurde mit Jan abgefahren,
+00:23:46 - 00:23:47 - Sprecher SPEAKER_11:  wo du unterwegs gewesen bist.
+00:23:49 - 00:23:50 - Sprecher SPEAKER_06:  Naja, gut, dann guck halt,
+00:23:50 - 00:23:52 - Sprecher SPEAKER_06:  wie du es verpackst, sodass es nicht so rüberkommt,
+00:23:52 - 00:23:54 - Sprecher SPEAKER_06:  als könntest du den Scheiß
+00:23:54 - 00:23:55 - Sprecher SPEAKER_06:  nicht selber besorgen.
+00:23:57 - 00:23:58 - Sprecher SPEAKER_11:  Ähm, ja,
+00:23:58 - 00:24:00 - Sprecher SPEAKER_11:  muss ich mir in den Kopf machen. Vielleicht spreche ich einfach vorher mit Seifer
+00:24:00 - 00:24:01 - Sprecher SPEAKER_11:  nochmal, keine Ahnung.
+00:24:03 - 00:24:04 - Sprecher SPEAKER_11:  Ich wüsste nicht mal, wie ich sie verpacken kann.
+00:24:04 - 00:24:06 - Sprecher SPEAKER_11:  Nachher sage ich irgendwas, da steht bei der man Chatties und kommt
+00:24:06 - 00:24:08 - Sprecher SPEAKER_11:  irgendwo komische Info rüber, die man Chatties hat mir eine Knarre in den Kopf,
+00:24:08 - 00:24:09 - Sprecher SPEAKER_11:  ob ich die Waffen zusammenbringe.
+00:24:10 - 00:24:10 - Sprecher SPEAKER_06:  Ja.
+00:24:11 - 00:24:13 - Sprecher SPEAKER_11:  Wenn man sagt, man kann die selber besorgen.
+00:24:13 - 00:24:14 - Sprecher SPEAKER_11:  Keine Ahnung, wie das läuft.
+00:24:15 - 00:24:16 - Sprecher SPEAKER_11:  Ja, kläre ich mit Seifer.
+00:24:17 - 00:24:18 - Sprecher SPEAKER_06:  Okay, alles klar.
+00:24:20 - 00:24:20 - Sprecher SPEAKER_06:  Das ist doch gut.
+00:24:21 - 00:24:22 - Sprecher SPEAKER_06:  Tut mir leid, Harry, war nicht böse gemeint.
+00:24:23 - 00:24:24 - Sprecher SPEAKER_11:  Na, ich verstehe den Punkt, aber
+00:24:24 - 00:24:25 - Sprecher SPEAKER_11:  weiß ich nicht, also.
+00:24:26 - 00:24:27 - Sprecher SPEAKER_06:  Aber was?
+00:24:28 - 00:24:31 - Sprecher SPEAKER_11:  Vielleicht liegt einfach voraus, dass die alle ein bisschen weiterdenken.
+00:24:31 - 00:24:32 - Sprecher SPEAKER_06:  Aber wohin soll ich denn gehen?
+00:24:32 - 00:24:35 - Sprecher SPEAKER_06:  Wie sollen sie denn denken? Die haben doch gar keine Chance, woanders hinzudenken.
+00:24:35 - 00:24:36 - Sprecher SPEAKER_06:  Aber dann kann er alle Gründe haben.
+00:24:36 - 00:24:38 - Sprecher SPEAKER_11:  Vielleicht hat man gerade selber ein bisschen Engpässe oder so, also, weiß ich nicht.
+00:24:38 - 00:24:40 - Sprecher SPEAKER_11:  Da schmälert auch unser Standing.
+00:24:41 - 00:24:42 - Sprecher SPEAKER_11:  Na gut, dann kann ich gar nichts machen.
+00:24:44 - 00:24:45 - Sprecher SPEAKER_06:  Wie, du kannst dann gar nichts machen?
+00:24:45 - 00:24:46 - Sprecher SPEAKER_06:  Was machst du denn?
+00:24:46 - 00:24:48 - Sprecher SPEAKER_06:  Zumindest mal die Richtung betrifft, um abzutasten halt.
+00:24:50 - 00:24:51 - Sprecher SPEAKER_11:  Ich spreche mit Seifer.
+00:24:52 - 00:24:52 - Sprecher SPEAKER_06:  Okay.
+00:24:53 - 00:24:55 - Sprecher SPEAKER_11:  Ich habe nicht mal eine andere Idee,
+00:24:56 - 00:24:57 - Sprecher SPEAKER_11:  wie ich die verpacken sollte.
+00:24:57 - 00:24:59 - Sprecher SPEAKER_11:  Ohne, dass du vielleicht in irgendeiner Weise
+00:24:59 - 00:25:00 - Sprecher SPEAKER_11:  wie ein Bumerang über uns zukommen könntest.
+00:25:00 - 00:25:01 - Unbekannt:  Okay.
+00:25:05 - 00:25:05 - Sprecher SPEAKER_06:  Jetzt müsste ich mal
+00:25:05 - 00:25:06 - Sprecher SPEAKER_06:  jemand anderen reinhocken,
+00:25:06 - 00:25:07 - Sprecher SPEAKER_06:  der das bestellt.
+00:25:07 - 00:25:09 - Sprecher SPEAKER_11:  Na gut, den muss ich dann noch finden, aber
+00:25:09 - 00:25:10 - Sprecher SPEAKER_11:  kicke halt die Augen auf.
+00:25:12 - 00:25:13 - Sprecher SPEAKER_11:  Bist du wirklich Kinn?
+00:25:16 - 00:25:16 - Sprecher SPEAKER_11:  Hmmm.
+00:25:18 - 00:25:19 - Sprecher SPEAKER_11:  Ja,
+00:25:19 - 00:25:19 - Sprecher SPEAKER_11:  finde ich raus.
+00:25:20 - 00:25:20 - Sprecher SPEAKER_11:  Okay.
+00:25:52 - 00:25:54 - Sprecher SPEAKER_06:  Das steht bei dir heute noch auf dem Plan?
+00:25:55 - 00:25:56 - Sprecher SPEAKER_11:  Eigentlich, ich glaube, gar nicht mehr.
+00:25:58 - 00:25:58 - Sprecher SPEAKER_11:  Okay.
+00:25:59 - 00:26:01 - Sprecher SPEAKER_11:  Mal kurz gucken, ob mich in dem Moment noch jemand angerufen hat.
+00:26:02 - 00:26:04 - Sprecher SPEAKER_11:  Oh, er hat mich noch angerufen heute.
+00:26:05 - 00:26:07 - Sprecher SPEAKER_11:  Ich bin doch mal ehrwürdig, ich habe ihn vorhin nicht erreicht.
+00:26:09 - 00:26:10 - Sprecher SPEAKER_11:  Was machst du?
+00:26:10 - 00:26:12 - Sprecher SPEAKER_11:  Kannst du mal gucken, ob du eine Telefonnummer hast?
+00:26:13 - 00:26:14 - Sprecher SPEAKER_06:  Naja, klar.
+00:26:18 - 00:26:20 - Sprecher SPEAKER_11:  6, 6, 3.
+00:26:20 - 00:26:21 - Sprecher SPEAKER_06:  Warte mal kurz.
+00:26:24 - 00:26:26 - Sprecher SPEAKER_06:  Na komm schon, 6, 6.
+00:26:28 - 00:26:28 - Sprecher SPEAKER_11:  3.
+00:26:29 - 00:26:29 - Sprecher SPEAKER_06:  3.
+00:26:30 - 00:26:31 - Sprecher SPEAKER_11:  2, 2, 3.
+00:26:32 - 00:26:33 - Sprecher SPEAKER_06:  Nein, habe ich nicht.
+00:26:33 - 00:26:34 - Sprecher SPEAKER_11:  Okay.
+00:26:34 - 00:26:35 - Sprecher SPEAKER_11:  Ich habe ja schon gar nicht die Nummer.
+00:26:41 - 00:26:43 - Sprecher SPEAKER_11:  Ich kann die Ruhe an der Nummer fragen, ob ich ihn jetzt erreichen werde.
+00:26:43 - 00:26:43 - Sprecher SPEAKER_11:  Warte, warte.
+00:26:48 - 00:26:55 - Sprecher SPEAKER_11:  Ach, Ruhan, du musst so reden, wenn er das Telefon gar nicht hat.
+00:26:55 - 00:26:55 - Sprecher SPEAKER_11:  Hallo?
+00:27:01 - 00:27:02 - Sprecher SPEAKER_11:  Na klar, easy.
+00:27:03 - 00:27:03 - Sprecher SPEAKER_06:  Hallo?
+00:27:03 - 00:27:05 - Sprecher SPEAKER_06:  Ruhan hat auch versucht, mich anzurufen.
+00:27:06 - 00:27:06 - Sprecher SPEAKER_11:  Okay.
+00:27:06 - 00:27:09 - Sprecher SPEAKER_11:  Und Ayumi hat auch versucht, mich anzurufen.
+00:27:09 - 00:27:11 - Sprecher SPEAKER_06:  Wie es ich gehabt habe, wie ich so viele Nummern...
+00:27:12 - 00:27:13 - Sprecher SPEAKER_11:  Jetzt, hallo?
+00:27:16 - 00:27:17 - Sprecher SPEAKER_11:  Hörst du mich gerade in die Hand?
+00:27:18 - 00:27:18 - Sprecher SPEAKER_11:  Guck mal, Püppchen.
+00:27:19 - 00:27:20 - Sprecher SPEAKER_11:  Okay, nicht schlecht.
+00:27:21 - 00:27:22 - Sprecher SPEAKER_11:  Komm nicht auf...
+00:27:22 - 00:27:23 - Sprecher SPEAKER_11:  Du hast angerufen, Ruhan, komm los.
+00:27:26 - 00:27:27 - Sprecher SPEAKER_11:  Vorhin, glaube ich.
+00:27:27 - 00:27:28 - Sprecher SPEAKER_11:  Wie, letzte Woche vorhin?
+00:27:28 - 00:27:29 - Sprecher SPEAKER_11:  Warte, nicht so weit vorhin.
+00:27:29 - 00:27:29 - Sprecher SPEAKER_11:  Wir sind noch nicht.
+00:27:30 - 00:27:32 - Sprecher SPEAKER_06:  Mich hat er gestern angerufen.
+00:27:32 - 00:27:32 - Sprecher SPEAKER_06:  War gestern.
+00:27:32 - 00:27:34 - Sprecher SPEAKER_11:  Weiß ich nicht, wann waren jetzt die fünf Tage, Ruhan?
+00:27:45 - 00:27:45 - Sprecher SPEAKER_11:  Der Umgang mit der Werk czego you am
+00:27:45 - 00:27:45 - Sprecher SPEAKER_11: 
+00:27:50 - 00:27:51 - Sprecher SPEAKER_11:  Ich setze mich Rank 18 auf einen.
+00:27:57 - 00:27:58 - Sprecher SPEAKER_11:  So ist es.
+00:27:58 - 00:27:58 - Sprecher SPEAKER_11: 
+00:27:58 - 00:28:03 - Sprecher SPEAKER_11:  mein leben vorbei wird jetzt beruhigt ich mal wie was denn wer bist du denn
+00:28:08 - 00:28:11 - Sprecher SPEAKER_11:  ja ich werde schon mal für dich ein grab stellen und ein grab machen
+00:28:15 - 00:28:18 - Sprecher SPEAKER_11:  aber können wir machen also ich glaube nicht dass ich heute lang unterwegs bin
+00:28:18 - 00:28:24 - Sprecher SPEAKER_11:  aber wegen würde mich dann morgen übermorgen moment spätestens ein paar
+00:28:24 - 00:28:31 - Sprecher SPEAKER_11:  tage ruhe glücklich okay sie waren dann hören wir uns da bist deine
+00:28:40 - 00:28:41 - Sprecher SPEAKER_11:  hilfe alles entspannt
+00:28:50 - 00:28:53 - Sprecher SPEAKER_06:  weißt du dass also ried hat auf jeden fall gekündigt weil
+00:28:53 - 00:28:54 - Sprecher SPEAKER_06:  es
+00:28:54 - 00:29:02 - Sprecher SPEAKER_06:  super toxisch hat er gesagt und mit ihm zusammen ist noch jemand gegangen der
+00:29:02 - 00:29:07 - Sprecher SPEAKER_06:  hieß den habe ich letztens kennengelernt er hat da auch gearbeitet er hat zu mir gesagt
+00:29:07 - 00:29:11 - Sprecher SPEAKER_06:  ich mache dich fertig aus versehen dann habe ich ein bisschen drüber gedacht und dann war
+00:29:11 - 00:29:17 - Sprecher SPEAKER_06:  er voll sauer dass ich so wörtlich genommen habe und dann noch so wie die haben zu dritt
+00:29:17 - 00:29:21 - Sprecher SPEAKER_06:  gekündigt weißt du sorry hat nur einen stern bewertung gegeben bei schlüssel moment
+00:29:23 - 00:29:24 - Sprecher SPEAKER_11:  ja
+00:29:24 - 00:29:28 - Sprecher SPEAKER_11:  die machen alle drei völlig wirklich jetzt wird ein dreierbegräbnis
+00:29:29 - 00:29:34 - Sprecher SPEAKER_06:  doch egal dass sie doch was löst er nicht richtig gesagt wird es war irgendwann stehen
+00:29:34 - 00:29:39 - Sprecher SPEAKER_11:  mit mängeln vor uns und sagen hier wie wir sind die die reed family mit was für ein ding mit mängeln
+00:29:39 - 00:29:44 - Sprecher SPEAKER_11:  und und was man so also ich glaube da fehlt nicht mehr bitte wird eine kriminelle ganze
+00:29:44 - 00:29:51 - Sprecher SPEAKER_11:  gang gesagt wird erst eine kriminelle vereinigung so was kannst du mal checken ob du die nummer hast
+00:29:52 - 00:29:53 - Sprecher SPEAKER_11:  ja
+00:29:55 - 00:29:56 - Unbekannt:  der bau ist auch nur 605
+00:29:56 - 00:29:56 - Sprecher SPEAKER_11:  ja habe ich nicht
+00:29:56 - 00:29:57 - Sprecher SPEAKER_11:  ja habe ich nicht
+00:29:57 - 00:29:57 - Sprecher SPEAKER_11:  605
+00:29:57 - 00:29:58 - Sprecher SPEAKER_06:  605
+00:29:58 - 00:29:59 - Sprecher SPEAKER_06:  okay und 9 13
+00:29:59 - 00:30:01 - Sprecher SPEAKER_06:  warte warte ich habe schon weggelegt warte
+00:30:01 - 00:30:02 - Sprecher SPEAKER_11:  9
+00:30:02 - 00:30:03 - Sprecher SPEAKER_11:  13
+00:30:03 - 00:30:05 - Sprecher SPEAKER_06:  1 0
+00:30:05 - 00:30:07 - Sprecher SPEAKER_11:  oh man ok da muss ich jetzt zurückrufen
+00:30:07 - 00:30:09 - Sprecher SPEAKER_06:  und wetscht du brauchst schlüssel gesagt ja
+00:30:09 - 00:30:10 - Sprecher SPEAKER_11:  leitung belegt
+00:30:10 - 00:30:15 - Sprecher SPEAKER_06:  der ene der ene davon war bestimmt hakim gewesen der fragt ob du 30 schlüssel nachmachen kannst
+00:30:15 - 00:30:15 - Sprecher SPEAKER_11:  warte
+00:30:17 - 00:30:18 - Sprecher SPEAKER_08:  wer spricht
+00:30:18 - 00:30:20 - Sprecher SPEAKER_08:  naja also hier spricht fritzi
+00:30:20 - 00:30:23 - Sprecher SPEAKER_06:  ach frau fritzi servus
+00:30:23 - 00:30:24 - Sprecher SPEAKER_08:  naja ich wollte ihn nur bestellen
+00:30:24 - 00:30:24 - Sprecher SPEAKER_06: 
+00:30:24 - 00:30:24 - Sprecher SPEAKER_06: 
+00:30:24 - 00:30:24 - Sprecher SPEAKER_06: 
+00:30:24 - 00:30:26 - Sprecher SPEAKER_06:  Bescheid geben, dass ihr Schlüssel, also ihre Schlüssel sind fertig.
+00:30:26 - 00:30:28 - Sprecher SPEAKER_06:  Ich habe das auch schon auf dem WeNet gepostet.
+00:30:30 - 00:30:33 - Sprecher SPEAKER_08:  Sie haben unsere Schlüssel auf dem WeNet gepostet?
+00:30:33 - 00:30:33 - Sprecher SPEAKER_08:  Ja, klar.
+00:30:34 - 00:30:35 - Sprecher SPEAKER_08:  Frau Fritzi, ich danke Ihnen.
+00:30:36 - 00:30:38 - Sprecher SPEAKER_08:  Möchten Sie die vorbeibringen oder kann ich die abholen?
+00:30:38 - 00:30:39 - Sprecher SPEAKER_08:  Wo sind Sie denn gerade?
+00:30:39 - 00:30:41 - Sprecher SPEAKER_08:  Ich bin in meinem Büro im Norden.
+00:30:41 - 00:30:42 - Sprecher SPEAKER_08:  Im Norden, okay.
+00:30:42 - 00:30:45 - Sprecher SPEAKER_08:  Ich bin gerade am MD und liefere hier noch einen Schlüssel aus
+00:30:45 - 00:30:47 - Sprecher SPEAKER_06:  und danach kommen wir ins Büro im Norden.
+00:30:48 - 00:30:50 - Sprecher SPEAKER_08:  Ja, ganz lieb, ich danke Ihnen.
+00:30:50 - 00:30:50 - Sprecher SPEAKER_08:  Super.
+00:30:50 - 00:30:53 - Sprecher SPEAKER_08:  Ich weiß nicht, wo es ist, aber ich rufe Sie dann einfach an.
+00:30:53 - 00:30:55 - Sprecher SPEAKER_06:  Ist das in wo? In Palito?
+00:30:55 - 00:30:57 - Sprecher SPEAKER_06:  Ja, richtig, Palito City Hall.
+00:30:57 - 00:30:58 - Sprecher SPEAKER_08:  Okay, alles klar.
+00:30:58 - 00:30:59 - Sprecher SPEAKER_06:  Ja, richtig.
+00:30:59 - 00:31:00 - Sprecher SPEAKER_08:  Sehr gut, servus.
+00:31:01 - 00:31:04 - Sprecher SPEAKER_06:  Okay, jetzt müssen wir erst mal Ärztin Annika finden.
+00:31:05 - 00:31:07 - Sprecher SPEAKER_06:  Hast du die Nummer von Ärztin Annika?
+00:31:07 - 00:31:08 - Sprecher SPEAKER_06:  Nee, habe ich nicht.
+00:31:08 - 00:31:09 - Sprecher SPEAKER_11:  Aber die ist doch gar nicht hier on the road.
+00:31:09 - 00:31:11 - Sprecher SPEAKER_06:  Hallo, hier ist Schlüsselmoment.
+00:31:11 - 00:31:14 - Sprecher SPEAKER_06:  Wir machen keine Aspo-Schlüssel und Rita hat Hausverbot.
+00:31:15 - 00:31:16 - Sprecher SPEAKER_10:  Was, noch was?
+00:31:16 - 00:31:19 - Sprecher SPEAKER_06:  Wir machen keine Aspo-Schlüssel und Rita hat Hausverbot.
+00:31:19 - 00:31:21 - Sprecher SPEAKER_10:  Ja, Gott sei Dank bin ich das nicht.
+00:31:21 - 00:31:22 - Sprecher SPEAKER_10:  Ich heiße Crow, grüße Sie.
+00:31:22 - 00:31:23 - Sprecher SPEAKER_10:  Wir haben Sie eben mit dem...
+00:31:23 - 00:31:24 - Sprecher SPEAKER_10:  ... mit dem Taxi zum Schlüsseldienst gefahren.
+00:31:24 - 00:31:25 - Sprecher SPEAKER_10:  Ja.
+00:31:25 - 00:31:27 - Sprecher SPEAKER_06:  Sie haben noch den Schlüssel von meinem Kollegen.
+00:31:27 - 00:31:28 - Sprecher SPEAKER_06:  Das ist richtig.
+00:31:28 - 00:31:31 - Sprecher SPEAKER_06:  Wir sind gerade auf einem Außeneinsatz im MD.
+00:31:32 - 00:31:34 - Sprecher SPEAKER_06:  Wir sind im Außeneinsatz beim MD.
+00:31:34 - 00:31:37 - Sprecher SPEAKER_10:  Also vielleicht wollen Sie hier kurz vorbeikommen, weil ich habe den Schlüssel dabei.
+00:31:38 - 00:31:40 - Sprecher SPEAKER_06:  Weil wir sind, also wir haben alle Schlüssel dabei.
+00:31:40 - 00:31:41 - Sprecher SPEAKER_10:  Ja, sehr schön.
+00:31:41 - 00:31:42 - Sprecher SPEAKER_10:  Dann kommen wir gerade zum MD, ja?
+00:31:42 - 00:31:44 - Sprecher SPEAKER_10:  Ja, super, okay, bis dann.
+00:31:44 - 00:31:45 - Sprecher SPEAKER_10:  Ja, tschüss.
+00:31:47 - 00:31:49 - Sprecher SPEAKER_11:  Ich lasse die Kunden jetzt einfach immer zu uns, Kopari.
+00:31:49 - 00:31:52 - Sprecher SPEAKER_06:  Wenn dich mal jemand überfällt und die ganze Schlüsselbund haben möchte...
+00:31:54 - 00:31:55 - Sprecher SPEAKER_11:  ... dann bist du mauscht.
+00:31:55 - 00:31:56 - Sprecher SPEAKER_11:  Du bist ja nicht, welche Schlüssel du noch hast.
+00:31:56 - 00:31:58 - Sprecher SPEAKER_11:  Das stimmt, das weiß ich so oder so nicht.
+00:31:58 - 00:31:59 - Sprecher SPEAKER_01:  Die sind alle in meiner Tasche.
+00:31:59 - 00:32:00 - Sprecher SPEAKER_11:  Das wäre heftig.
+00:32:03 - 00:32:04 - Sprecher SPEAKER_11:  Lass dir bloß keine Schlüssel abziehen.
+00:32:05 - 00:32:07 - Sprecher SPEAKER_06:  Hast du die Nummer von Ärztin Annika?
+00:32:07 - 00:32:08 - Sprecher SPEAKER_06:  Nein, habe ich nicht.
+00:32:08 - 00:32:09 - Sprecher SPEAKER_11:  Warum nicht?
+00:32:09 - 00:32:10 - Sprecher SPEAKER_11:  Warum soll ich die denn hier haben?
+00:32:11 - 00:32:11 - Sprecher SPEAKER_11:  Naja, weiß ich nicht.
+00:32:11 - 00:32:13 - Sprecher SPEAKER_06:  Die hat doch einen Schlüssel bei uns bestellt.
+00:32:13 - 00:32:14 - Sprecher SPEAKER_06:  Wie sollen wir sie denn jetzt erreichen?
+00:32:14 - 00:32:16 - Sprecher SPEAKER_11:  Na, die wird schon irgendwann anrufen, wenn sie es braucht.
+00:32:18 - 00:32:18 - Sprecher SPEAKER_06:  Das geht nicht.
+00:32:18 - 00:32:19 - Sprecher SPEAKER_06:  Habt ihr nicht die Nummer?
+00:32:19 - 00:32:20 - Sprecher SPEAKER_06:  Wieso haben wir die nicht?
+00:32:20 - 00:32:22 - Sprecher SPEAKER_06:  Die hat doch bestellt extra.
+00:32:22 - 00:32:22 - Sprecher SPEAKER_06:  So, warte mal.
+00:32:23 - 00:32:23 - Sprecher SPEAKER_11:  Warte mal.
+00:32:23 - 00:32:23 - Sprecher SPEAKER_11: 
+00:32:23 - 00:32:23 - Sprecher SPEAKER_11:  Wann hat die...
+00:32:24 - 00:32:26 - Sprecher SPEAKER_11:  Die 808, 705.
+00:32:26 - 00:32:27 - Sprecher SPEAKER_11:  Das kann bloß die gewesen sein.
+00:32:27 - 00:32:28 - Sprecher SPEAKER_11:  30.01.
+00:32:28 - 00:32:29 - Sprecher SPEAKER_11:  Ruf da an.
+00:32:29 - 00:32:30 - Sprecher SPEAKER_11:  055.
+00:32:32 - 00:32:32 - Sprecher SPEAKER_11:  Hallo.
+00:32:33 - 00:32:33 - Sprecher SPEAKER_11:  Das kann erreichbar.
+00:32:33 - 00:32:33 - Sprecher SPEAKER_11:  Grüße.
+00:32:33 - 00:32:34 - Sprecher SPEAKER_11:  Das kann erreichbar.
+00:32:34 - 00:32:35 - Sprecher SPEAKER_11:  Das ist doch scheiße.
+00:32:36 - 00:32:37 - Sprecher SPEAKER_06:  Das muss die Nummer sein.
+00:32:37 - 00:32:40 - Sprecher SPEAKER_11:  Guck mal, ich habe extra den Otter mit dem Stethoskop gemacht.
+00:32:40 - 00:32:41 - Sprecher SPEAKER_06:  Hast du schon gesehen?
+00:32:42 - 00:32:42 - Sprecher SPEAKER_06:  Hab ich gehäkelt.
+00:32:43 - 00:32:43 - Sprecher SPEAKER_06:  Warte mal.
+00:32:43 - 00:32:44 - Sprecher SPEAKER_11:  Meine Schwester Annika.
+00:32:44 - 00:32:45 - Sprecher SPEAKER_11:  Doktor Annika, wenn ich bitten darf.
+00:32:46 - 00:32:46 - Sprecher SPEAKER_11:  So, Doktor Annika.
+00:32:47 - 00:32:48 - Sprecher SPEAKER_11:  808, 705.
+00:32:48 - 00:32:49 - Sprecher SPEAKER_11:  Hab ich abgespeichert.
+00:32:50 - 00:32:51 - Sprecher SPEAKER_11:  Ein Otter?
+00:32:51 - 00:32:51 - Sprecher SPEAKER_11:  Mhm.
+00:32:52 - 00:32:52 - Sprecher SPEAKER_11:  Warte.
+00:32:52 - 00:32:52 - Sprecher SPEAKER_11:  Warte mal.
+00:32:52 - 00:32:53 - Sprecher SPEAKER_11:  Warte mal.
+00:32:57 - 00:32:59 - Sprecher SPEAKER_11:  Ich eine nichtvisuelles самое.
+00:33:02 - 00:33:05 - Sprecher SPEAKER_06:  Aber die geht wieder los, oder was?
+00:33:05 - 00:33:05 - Sprecher SPEAKER_11:  Ja, ich würde nichth
+00:33:05 - 00:33:05 - Sprecher SPEAKER_11: 
+00:33:05 - 00:33:05 - Sprecher SPEAKER_11:  R 짧o R cezelan.
+00:33:07 - 00:33:17 - Sprecher SPEAKER_06:  F標en wie ein gel 기자,
+00:33:22 - 00:33:22 - Sprecher SPEAKER_11:  Country,
+00:33:23 - 00:33:28 - Sprecher SPEAKER_11:  situation im 1 wie er meint es ist jetzt auf uns glaubt sie schießen jetzt auf uns und das sind
+00:33:28 - 00:33:34 - Sprecher SPEAKER_11:  süßen dort ist noch süßer ein echter schlüssel moment und die holen jemand ab guck mal ich
+00:33:34 - 00:33:40 - Sprecher SPEAKER_11:  gucke dann kann ich mich uns hier harry jetzt macht ich mal nicht richtig natürlich nicht
+00:33:40 - 00:33:45 - Sprecher SPEAKER_01:  man das ist halt von früher noch manchmal so um sich entführen ja eben wie so will mich jemand
+00:33:45 - 00:33:51 - Sprecher SPEAKER_01:  entführen weiß ich ja nicht vielleicht ist plötzlich geworden gesagt gesagt wird es gibt
+00:33:51 - 00:33:58 - Sprecher SPEAKER_11:  noch monaten ist den außen ding also warum sagst du das dann so das wäre ein bisschen
+00:33:58 - 00:34:08 - Sprecher SPEAKER_11:  zu krasse wesen für mich gerade die kurze zeit ist das jetzt steigen die alle aus jetzt machen
+00:34:08 - 00:34:13 - Sprecher SPEAKER_06:  die platzfahrerwechsel ist nicht fest und was aus dem kofferraum jetzt haben die menschen aus
+00:34:13 - 00:34:18 - Sprecher SPEAKER_06:  dem kofferraum geholt und die ganze ihre maschine wäre es ist vielleicht wirklich am arsch
+00:34:18 - 00:34:19 - Sprecher SPEAKER_11:  und
+00:34:21 - 00:34:26 - Sprecher SPEAKER_11:  oder das ist jetzt der ist der security dienst aus der ist das hier tarif das was hier hat
+00:34:27 - 00:34:32 - Sprecher SPEAKER_01:  ich mache die fällig gemacht die fälle nicht mehr hat sich die maske abgezogen er steigt
+00:34:32 - 00:34:38 - Sprecher SPEAKER_01:  wieder ein ich sagte mir meine knarre ist auf anschlag sagt jedes eine sekunde
+00:34:40 - 00:34:44 - Sprecher SPEAKER_11:  ich nehme die ersten sechs du den rest haben sich neu formatiert hier die haben sich neu
+00:34:44 - 00:34:48 - Sprecher SPEAKER_01:  formatiert jetzt geht's ab aber sie kann es sein dass sie die
+00:34:49 - 00:34:55 - Sprecher SPEAKER_11:  truppe und was tut es auch mal mit security mit komischen retten rum die maskiert sind dann
+00:34:55 - 00:34:59 - Sprecher SPEAKER_11:  was gilt aber auf jeden fall seine security macht auch mal so eine komische auftritte
+00:35:06 - 00:35:08 - Sprecher SPEAKER_06:  warten wir auch so auf den taxi menschen ich habe
+00:35:08 - 00:35:11 - Sprecher SPEAKER_06:  nackt die menschen vor einen schlüssel nach gemacht er holt ihn jetzt ab
+00:35:15 - 00:35:18 - Sprecher SPEAKER_11:  wir haben echt noch viel auszuliefern ich sag's dir
+00:35:24 - 00:35:28 - Sprecher SPEAKER_06:  ich habe auch keine ahnung mehr was das alles für schlüssel sind ich muss immer anfangen zu bin
+00:35:28 - 00:35:33 - Sprecher SPEAKER_01:  ja verstehe ich habe noch ein paar taschen und frag mich nicht wo ich bin
+00:35:33 - 00:35:43 - Sprecher SPEAKER_11:  ich habe einen lager in paleto jetzt nicht in paleto beim flughafen da steht nach lager flughafen
+00:35:43 - 00:35:46 - Sprecher SPEAKER_01:  das war nicht schlecht
+00:35:46 - 00:35:49 - Sprecher SPEAKER_11:  das war nicht schlecht
+00:35:49 - 00:35:49 - Sprecher SPEAKER_11: 
+00:35:49 - 00:35:49 - Sprecher SPEAKER_11:  Ja, und was ist das denn für ein...
+00:35:50 - 00:35:51 - Sprecher SPEAKER_01:  Weiß ich nicht.
+00:35:52 - 00:35:53 - Sprecher SPEAKER_01:  Ne, doch, warte mal, das ist garantiert...
+00:35:53 - 00:35:55 - Sprecher SPEAKER_11:  Bist du sicher, dass du das Lager nicht von Cypher bekommen hast, den Schlüssel?
+00:35:56 - 00:35:57 - Sprecher SPEAKER_01:  Mhh...
+00:35:58 - 00:35:59 - Sprecher SPEAKER_01:  Eigentlich schon.
+00:35:59 - 00:36:01 - Sprecher SPEAKER_01:  Dass das so ein Lager ist, hat doch jemanden zurückzuführen...
+00:36:02 - 00:36:06 - Sprecher SPEAKER_11:  Ja, davon haben sie mir erzählt, aber davon habe ich keinen Schlüssel gekriegt.
+00:36:07 - 00:36:08 - Sprecher SPEAKER_11:  Die haben doch einen eben, oder nicht?
+00:36:08 - 00:36:08 - Sprecher SPEAKER_11:  Nein!
+00:36:09 - 00:36:10 - Sprecher SPEAKER_06:  Nein, natürlich, doppelt doch.
+00:36:10 - 00:36:11 - Sprecher SPEAKER_11:  Ich glaube nicht.
+00:36:12 - 00:36:15 - Sprecher SPEAKER_11:  Dann müssen wir doch mal gucken am Flughafen, welches Lager das ist, was da drin ist.
+00:36:15 - 00:36:16 - Sprecher SPEAKER_06:  Naja, ja.
+00:36:18 - 00:36:21 - Sprecher SPEAKER_06:  Das habe ich schon ewig, ich glaube, das habe ich schon viel länger, den Schlüssel dazu.
+00:36:22 - 00:36:23 - Sprecher SPEAKER_06:  Seit Monaten.
+00:36:24 - 00:36:24 - Sprecher SPEAKER_06:  Wie seit Monaten?
+00:36:25 - 00:36:25 - Sprecher SPEAKER_11:  Vor so Jahren.
+00:36:26 - 00:36:28 - Sprecher SPEAKER_11:  Das ist unser Arbeitslager, oder wie?
+00:36:29 - 00:36:29 - Unbekannt:  Nein, das ist nicht...
+00:36:29 - 00:36:31 - Sprecher SPEAKER_11:  Das klingt falsch, oder?
+00:36:32 - 00:36:33 - Sprecher SPEAKER_11:  Ähm, ja.
+00:36:35 - 00:36:36 - Sprecher SPEAKER_06:  Wie lange brauchen die denn, bis die hier sind?
+00:36:37 - 00:36:40 - Sprecher SPEAKER_06:  Ich glaube, ich gehe mir... Komm mal mit, ich muss mir jetzt mal was holen.
+00:36:40 - 00:36:44 - Sprecher SPEAKER_06:  Ich habe nämlich in letzter Zeit... Ich brauche Vitamintabletten oder sowas.
+00:36:45 - 00:36:49 - Sprecher SPEAKER_06:  Ich habe in letzter Zeit nämlich echt immer wieder vergessen zu essen.
+00:36:51 - 00:36:51 - Sprecher SPEAKER_03:  Wirklich?
+00:36:51 - 00:36:57 - Sprecher SPEAKER_03:  Ja, und irgendwie, ich glaube, ich habe irgendwie, weiß ich nicht, eine Mangelerscheinung.
+00:36:57 - 00:36:58 - Sprecher SPEAKER_06:  Das ist aber schlecht, wenn ich das dann bei mir überleben muss.
+00:36:59 - 00:37:00 - Sprecher SPEAKER_11:  Naja, das wäre lächerlich.
+00:37:02 - 00:37:03 - Sprecher SPEAKER_06:  Hallo, Miss.
+00:37:03 - 00:37:04 - Sprecher SPEAKER_06:  Grüße.
+00:37:04 - 00:37:11 - Sprecher SPEAKER_11:  Also, ich weiß nicht, was sie mir verschreiben können. Auf jeden Fall habe ich das Gefühl... Koffeintabletten, perfekt, ich nehme Koffeintabletten.
+00:37:11 - 00:37:12 - Sprecher SPEAKER_11:  Geil, davon bin ich auch drei.
+00:37:18 - 00:37:21 - Sprecher SPEAKER_06:  Glauben Sie, das hilft gegen leeren Magen?
+00:37:21 - 00:37:23 - Sprecher SPEAKER_11:  Bestimmt. Ich liebe Koffeintabletten.
+00:37:23 - 00:37:24 - Sprecher SPEAKER_11:  Ich probiere mal.
+00:37:29 - 00:37:34 - Sprecher SPEAKER_06:  Weiß ich nicht, aber das wirkt nicht sofort. Sagen Sie, okay, verstehe.
+00:37:34 - 00:37:37 - Sprecher SPEAKER_11:  Irgendwie nicht. Aber ich sage Ihnen, der ist auch köstlich.
+00:37:39 - 00:37:40 - Sprecher SPEAKER_06:  Was isst du da?
+00:37:40 - 00:37:41 - Sprecher SPEAKER_06:  Ein Taco, ja.
+00:37:41 - 00:37:42 - Sprecher SPEAKER_06:  Was ist das, ein Taco?
+00:37:42 - 00:37:43 - Sprecher SPEAKER_06:  Oh, klar.
+00:37:43 - 00:37:44 - Sprecher SPEAKER_11:  Wo hast du denn den Taco her?
+00:37:44 - 00:37:45 - Sprecher SPEAKER_06:  Noch hinterm Tresen.
+00:37:45 - 00:37:47 - Sprecher SPEAKER_06:  Wie hinterm Tresen?
+00:37:47 - 00:37:47 - Sprecher SPEAKER_06:  Der lag hier.
+00:37:48 - 00:37:52 - Sprecher SPEAKER_06:  Du hast ja einfach... Das tut mir leid, das war aus Versehen, das wollte er nicht einfach wegnehmen von Ihnen.
+00:37:53 - 00:37:53 - Sprecher SPEAKER_11:  Tut mir wirklich leid.
+00:37:53 - 00:37:55 - Sprecher SPEAKER_11:  Ihr könnt doch nicht einfach Ihr Mittagessen wegnehmen.
+00:37:56 - 00:37:59 - Sprecher SPEAKER_06:  Ich gebe Ihnen 50 Dollar, davon können Sie sich 10 neue bestellen, okay?
+00:38:00 - 00:38:06 - Sprecher SPEAKER_11:  Und dazu kaufe ich mir noch extra nochmal zwei Packungen Pflaster, damit wir Ihren Tagesumsatz erreichen.
+00:38:07 - 00:38:10 - Sprecher SPEAKER_11:  Eine Packung Pflaster für 41 Dollar, was ist das?
+00:38:10 - 00:38:12 - Sprecher SPEAKER_06:  Das ist wirklich übertrieben.
+00:38:12 - 00:38:13 - Sprecher SPEAKER_06:  Ist das schon Schmerzseit?
+00:38:13 - 00:38:14 - Sprecher SPEAKER_11:  Ist da noch eine Schelme drauf oder wie ist das?
+00:38:14 - 00:38:15 - Sprecher SPEAKER_11:  Ist das so ein doppeltes Ding?
+00:38:16 - 00:38:17 - Sprecher SPEAKER_11:  Ist ja Wucher.
+00:38:23 - 00:38:25 - Sprecher SPEAKER_11:  Aber ich würde jetzt ja mal die Koffeintabletten probieren.
+00:38:26 - 00:38:27 - Sprecher SPEAKER_01:  Ja, also ich krieg die nicht auf.
+00:38:30 - 00:38:31 - Sprecher SPEAKER_11:  Sie reden auch einfach.
+00:38:32 - 00:38:33 - Sprecher SPEAKER_06:  Ich krieg die nicht auf, Harry.
+00:38:34 - 00:38:37 - Sprecher SPEAKER_06:  Ich weiß nicht, da ist eine Kindersicherung drin, ich krieg die einfach nicht auf.
+00:38:37 - 00:38:39 - Sprecher SPEAKER_11:  Und ich möchte die einfach nicht aufmachen.
+00:38:39 - 00:38:41 - Sprecher SPEAKER_06:  Ja, weil du es auch nicht hinkriegst.
+00:38:47 - 00:38:50 - Sprecher SPEAKER_06:  Wollte nurOffice verwenden.
+00:38:52 - 00:38:52 - Sprecher SPEAKER_06:  Aber es wird wohl...
+00:38:52 - 00:38:52 - Sprecher SPEAKER_06:  Das ist natürlichнт super so.
+00:38:52 - 00:38:54 - Sprecher SPEAKER_06:  Dieôi sleeves in der Pakete, man muss bei Freitung drauf leadsen.
+00:38:54 - 00:38:56 - Sprecher SPEAKER_06:  Ja, genau, wir müssen Ahh-Nai magik für Hasawu sein.
+00:38:56 - 00:39:02 - Sprecher SPEAKER_06:  Dann müsste ich auch neighborhood vor dir haben, Progress sondern dein einziger Trainingsfeld?
+00:39:02 - 00:39:05 - Sprecher SPEAKER_06:  Ne OxiDuck занимierst dich wirklich, wenn du Dich einsch不会st.
+00:39:05 - 00:39:07 - Sprecher SPEAKER_11:  Donc Ich bin jetzt imان Endang Katarn.
+00:39:07 - 00:39:08 - Sprecher SPEAKER_11:  Du bist überzeugter, ich bin noget weiter mental an evidenz vas machen, du solltest so
+00:39:08 - 00:39:08 - Sprecher SPEAKER_11: 
+00:39:08 - 00:39:08 - Sprecher SPEAKER_11: 
+00:39:08 - 00:39:13 - Sprecher SPEAKER_11:  Auch wenn ich diese Form соглас Morit Uni ist und Ja, nach
+00:39:18 - 00:39:19 - Sprecher SPEAKER_11:  Die Nussbaums?
+00:39:21 - 00:39:23 - Sprecher SPEAKER_11:  So, das hat der Nussbaum selber repostet.
+00:39:24 - 00:39:25 - Sprecher SPEAKER_11:  Hashtag die Nussbaums.
+00:39:27 - 00:39:28 - Sprecher SPEAKER_11:  Ach, deswegen.
+00:39:32 - 00:39:33 - Sprecher SPEAKER_11:  Ah, die sehen wirklich gut aus.
+00:39:34 - 00:39:35 - Sprecher SPEAKER_06:  Toll, nicht wahr?
+00:39:39 - 00:39:42 - Sprecher SPEAKER_11:  Der Nussbaum, der kann doch nicht so führen, aber der sieht auch einfach aus wie ein Verbrecher.
+00:39:42 - 00:39:42 - Sprecher SPEAKER_11:  Sag dir das.
+00:39:44 - 00:39:47 - Sprecher SPEAKER_06:  Ja, ich hatte mal einen Kumpel, der sah so ähnlich aus.
+00:39:47 - 00:39:48 - Sprecher SPEAKER_11:  Wirklich?
+00:39:48 - 00:39:48 - Sprecher SPEAKER_03:  Ja.
+00:39:49 - 00:39:50 - Sprecher SPEAKER_06:  Ist ja heftig.
+00:39:50 - 00:39:53 - Sprecher SPEAKER_03:  Also der hat aber auch so komisch geredet eigentlich.
+00:39:54 - 00:40:00 - Sprecher SPEAKER_06:  Der hat auch immer so rumgewinert oder wie man das nennt.
+00:40:00 - 00:40:00 - Sprecher SPEAKER_06:  Der hat auch so...
+00:40:04 - 00:40:04 - Sprecher SPEAKER_06:  Schlagober.
+00:40:04 - 00:40:05 - Sprecher SPEAKER_06:  Schlagober.
+00:40:07 - 00:40:07 - Sprecher SPEAKER_07:  Was?
+00:40:07 - 00:40:08 - Sprecher SPEAKER_07:  Was hat der auch gesagt?
+00:40:09 - 00:40:10 - Sprecher SPEAKER_07:  Was hat der gesagt?
+00:40:10 - 00:40:12 - Sprecher SPEAKER_06:  Fritzi, Fritzi, meine Hamster Fritzi.
+00:40:13 - 00:40:14 - Sprecher SPEAKER_06:  Ja, und dann hat er...
+00:40:14 - 00:40:16 - Sprecher SPEAKER_06:  Na, ich kann das nicht nachmachen.
+00:40:16 - 00:40:18 - Sprecher SPEAKER_06:  Der hat so einen Dialekt gehabt.
+00:40:18 - 00:40:20 - Sprecher SPEAKER_06:  So ein bisschen wie der Nussbaum.
+00:40:20 - 00:40:22 - Sprecher SPEAKER_06:  Und der sah auch so ein bisschen so gefährlich aus.
+00:40:22 - 00:40:25 - Sprecher SPEAKER_11:  Achso, ne, den Dialekt kann ich nicht...
+00:40:27 - 00:40:27 - Sprecher SPEAKER_11:  ...inirisch.
+00:40:30 - 00:40:31 - Sprecher SPEAKER_11:  Doch, habe die Ehre.
+00:40:32 - 00:40:35 - Sprecher SPEAKER_06:  So, ich puste jetzt zurück, also ganz im Ernst, ich muss jetzt zurück.
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:35 - Sprecher SPEAKER_06: 
+00:40:35 - 00:40:36 - Sprecher SPEAKER_06:  wie lange sollen wir auf unsere Kunden warten?
+00:40:37 - 00:40:37 - Unbekannt:  Hm.
+00:40:39 - 00:40:41 - Sprecher SPEAKER_11:  Ist wirklich so, wenn wir schon so lange
+00:40:41 - 00:40:42 - Sprecher SPEAKER_11:  offen haben, ist das eine Frechheit.
+00:40:45 - 00:40:46 - Sprecher SPEAKER_10:  Ich bin froh, dass wir noch stehen.
+00:40:46 - 00:40:47 - Sprecher SPEAKER_11:  Hallo, hier ist Schlüsselmoment.
+00:40:48 - 00:40:50 - Sprecher SPEAKER_06:  Hallo, grüße Sie. Wir warten hier gerade.
+00:40:51 - 00:40:53 - Sprecher SPEAKER_06:  Ja, uns ist gerade, äh,
+00:40:53 - 00:40:54 - Sprecher SPEAKER_10:  ja, ja, ja, ne,
+00:40:55 - 00:40:57 - Sprecher SPEAKER_10:  uns ist, die Spritanzeige ist kaputt
+00:40:57 - 00:40:58 - Sprecher SPEAKER_10:  und dann ist uns einer noch von
+00:40:58 - 00:41:01 - Sprecher SPEAKER_10:  Reds Out Repair reingefahren, ne.
+00:41:01 - 00:41:02 - Sprecher SPEAKER_10:  Das ist ja ungelegen, natürlich.
+00:41:02 - 00:41:03 - Sprecher SPEAKER_06:  Ja, ja, ja.
+00:41:04 - 00:41:06 - Sprecher SPEAKER_06:  Das ist ja natürlich problematisch
+00:41:06 - 00:41:08 - Sprecher SPEAKER_06:  für Ihre Zeit, aber umso problematischer
+00:41:08 - 00:41:09 - Sprecher SPEAKER_06:  für unsere Zeit.
+00:41:10 - 00:41:11 - Sprecher SPEAKER_10:  Ja, ja, ja,
+00:41:11 - 00:41:14 - Sprecher SPEAKER_10:  vier Minuten, fünf Minuten, ja.
+00:41:14 - 00:41:16 - Sprecher SPEAKER_10:  Vier bis fünf Minuten, das ist schwierig.
+00:41:17 - 00:41:17 - Sprecher SPEAKER_10:  Ja, ja.
+00:41:18 - 00:41:19 - Sprecher SPEAKER_10:  Das ist aber heftig.
+00:41:19 - 00:41:22 - Sprecher SPEAKER_10:  Wir sind gerade quasi schräg gegenüber vom DOJ.
+00:41:22 - 00:41:24 - Sprecher SPEAKER_06:  Gut, alles klar, aber haben Sie
+00:41:24 - 00:41:25 - Sprecher SPEAKER_06:  schon wieder neuen Sprit?
+00:41:26 - 00:41:28 - Sprecher SPEAKER_10:  Ja, ja, ja, und die sind auch gerade, ne,
+00:41:28 - 00:41:29 - Sprecher SPEAKER_10:  neue Klebeböden am Einbauen.
+00:41:30 - 00:41:32 - Sprecher SPEAKER_06:  Gut, alles klar, dann aber schnell.
+00:41:33 - 00:41:34 - Sprecher SPEAKER_10:  Ja, äh. Bis gleich.
+00:41:36 - 00:41:38 - Sprecher SPEAKER_11:  Apropos Sprit, hab ick noch Sprit im Kofferraum.
+00:41:39 - 00:41:40 - Sprecher SPEAKER_11:  Ach, übrigens, der, der Cob hat
+00:41:40 - 00:41:42 - Sprecher SPEAKER_11:  mir geschrieben. Welcher Cob?
+00:41:43 - 00:41:44 - Sprecher SPEAKER_11:  Der mir meine Fahrzeug, äh,
+00:41:44 - 00:41:46 - Sprecher SPEAKER_11:  Dings Papiere abgenommen hat. Ja, was hat
+00:41:46 - 00:41:48 - Sprecher SPEAKER_06:  er geschrieben? Dass er wie, dass er
+00:41:48 - 00:41:50 - Sprecher SPEAKER_11:  die, ähm, dass er, ähm, dass wir uns
+00:41:50 - 00:41:52 - Sprecher SPEAKER_11:  nochmal treffen müssten, damit er mir meine Papiere
+00:41:52 - 00:41:54 - Sprecher SPEAKER_11:  zurückgeben kann. Es ihn sehr leid tut, dass er die doch
+00:41:54 - 00:41:55 - Sprecher SPEAKER_11:  einstecken hatte.
+00:41:58 - 00:42:00 - Sprecher SPEAKER_06:  Also sind die gar nicht, ist er, hat er die gar nicht
+00:42:00 - 00:42:02 - Sprecher SPEAKER_06:  vollge, sei, sabbert oder was war?
+00:42:03 - 00:42:04 - Sprecher SPEAKER_06:  Ja, anscheinend, der mit Kaffee vollgekippt hat.
+00:42:04 - 00:42:06 - Sprecher SPEAKER_11:  Ja, aber das ist doch nett, dass er sich meldet.
+00:42:06 - 00:42:08 - Sprecher SPEAKER_06:  Guck, die Polizei hilft auch.
+00:42:08 - 00:42:10 - Sprecher SPEAKER_06:  Die Polizei hilft auch, Harry. Das ist doch
+00:42:10 - 00:42:12 - Sprecher SPEAKER_06:  nett. Also, eigentlich, ist der nett, weil sonst
+00:42:12 - 00:42:14 - Sprecher SPEAKER_11:  hätte der den Böses hier, die
+00:42:15 - 00:42:16 - Sprecher SPEAKER_11:  Schwand. Ist doch nett.
+00:42:16 - 00:42:18 - Sprecher SPEAKER_11:  Ja, ist nett. Ist, ist einfach auch, er hat auch
+00:42:18 - 00:42:19 - Sprecher SPEAKER_11:  einfach Glück gehabt in dem,
+00:42:21 - 00:42:22 - Sprecher SPEAKER_11:  weil ick, die war schon in Planung, die wiederzuholen.
+00:42:24 - 00:42:26 - Sprecher SPEAKER_06:  Ist das Doktor Annika?
+00:42:27 - 00:42:27 - Sprecher SPEAKER_11:  Weiß ick,
+00:42:28 - 00:42:30 - Sprecher SPEAKER_11:  weiß ick nicht. Nein, das ist sie nicht.
+00:42:36 - 00:42:36 - Sprecher SPEAKER_11:  Das ist doch nett.
+00:42:36 - 00:42:36 - Sprecher SPEAKER_11: 
+00:42:36 - 00:42:37 - Sprecher SPEAKER_11:  Jetzt hast du einmal Doktor Annika,
+00:42:37 - 00:42:38 - Sprecher SPEAKER_11:  ihr sagt direkt wieder Einsatz. Hallo, guten Tag.
+00:42:39 - 00:42:41 - Sprecher SPEAKER_11:  Einwohnerstürm, würden Sie bitte Ihr Kfz hier entfernen?
+00:42:43 - 00:42:43 - Sprecher SPEAKER_06:  Selbstverständlich.
+00:42:44 - 00:42:46 - Sprecher SPEAKER_06:  Danke Ihnen. Sie können in der Parkgarage parken
+00:42:46 - 00:42:48 - Sprecher SPEAKER_03:  oder da hinten. Wir wollten eigentlich nur kurz
+00:42:48 - 00:42:50 - Sprecher SPEAKER_06:  einen Schlüssel ausliefern für Doktor
+00:42:50 - 00:42:52 - Sprecher SPEAKER_06:  Annika, aber leider haben wir sie nicht
+00:42:52 - 00:42:53 - Sprecher SPEAKER_06:  angetroffen.
+00:42:54 - 00:42:56 - Sprecher SPEAKER_03:  Ich glaube, die ist, ich gucke kurz,
+00:42:57 - 00:42:58 - Sprecher SPEAKER_03:  ich glaube, die ist aber nicht
+00:42:58 - 00:43:00 - Sprecher SPEAKER_03:  im Dienst. Okay, tut uns leid,
+00:43:00 - 00:43:02 - Sprecher SPEAKER_06:  wir wollten deswegen, weil wir gedacht haben, es dauert noch ein paar
+00:43:02 - 00:43:04 - Sprecher SPEAKER_06:  Sekunden, nur 30 Sekunden, deswegen haben wir hier geparkt.
+00:43:05 - 00:43:06 - Unbekannt:  Ich verstehe.
+00:43:06 - 00:43:08 - Sprecher SPEAKER_03:  Hervorragend, hervorragend. Gut, na gut.
+00:43:08 - 00:43:10 - Sprecher SPEAKER_03:  Ist ja niemand verstorben, also alles gut.
+00:43:10 - 00:43:12 - Sprecher SPEAKER_03:  Zum Glück nicht, ja zum Glück nicht.
+00:43:13 - 00:43:14 - Sprecher SPEAKER_03:  Hervorragend, hervorragend.
+00:43:14 - 00:43:16 - Sprecher SPEAKER_06:  Dann fahren wir lieber hier rüber.
+00:43:17 - 00:43:18 - Sprecher SPEAKER_03:  Okay.
+00:43:18 - 00:43:18 - Sprecher SPEAKER_03:  Sehr gut, dank Ihnen.
+00:43:26 - 00:43:27 - Sprecher SPEAKER_05:  Uah, alte Haare.
+00:43:35 - 00:43:37 - Sprecher SPEAKER_06:  Uah, guck mal, da wird jemand
+00:43:37 - 00:43:38 - Sprecher SPEAKER_06:  Kombinierendes eingeliefert.
+00:43:40 - 00:43:40 - Sprecher SPEAKER_11:  Nein, du kannst mir
+00:43:40 - 00:43:42 - Sprecher SPEAKER_11:  Platz machen, sonst hätten die den nicht abladen können.
+00:43:42 - 00:43:44 - Sprecher SPEAKER_11:  Sonst hätten die Sheriffs da gerade nicht parken können.
+00:43:49 - 00:43:50 - Sprecher SPEAKER_11:  Und jetzt kommt unser Kunde.
+00:43:51 - 00:43:51 - Sprecher SPEAKER_11:  Hey, unser Kunde.
+00:43:52 - 00:43:53 - Sprecher SPEAKER_07:  Ja?
+00:43:54 - 00:43:55 - Sprecher SPEAKER_06:  Ja, schickst du Dispatch?
+00:43:57 - 00:43:58 - Sprecher SPEAKER_07:  Ja, super, bis gleich, ciao.
+00:43:58 - 00:44:00 - Sprecher SPEAKER_07:  Aber ich frag nur, weil die hier so rumsteht.
+00:44:01 - 00:44:03 - Sprecher SPEAKER_06:  Meine Web, achso, mein Auto.
+00:44:04 - 00:44:05 - Sprecher SPEAKER_07:  Der Sultan, right?
+00:44:05 - 00:44:06 - Sprecher SPEAKER_07:  Ja, ich hab's nicht vergessen.
+00:44:07 - 00:44:08 - Sprecher SPEAKER_06:  Ich hab's ehrlich gesagt da stehen lassen.
+00:44:08 - 00:44:09 - Sprecher SPEAKER_06:  Steht ihr euch im Weg?
+00:44:10 - 00:44:13 - Sprecher SPEAKER_07:  Nein, nein, nein, ich wollte nur gewusst haben, ob irgendwas passiert ist.
+00:44:13 - 00:44:14 - Sprecher SPEAKER_07:  Ob wir das Ding wegschaffen müssen oder, oder, oder.
+00:44:15 - 00:44:17 - Sprecher SPEAKER_07:  Oh, da liegt eine Leiche drin, ihr müsst es wegschaffen.
+00:44:18 - 00:44:19 - Sprecher SPEAKER_07:  Okay.
+00:44:19 - 00:44:20 - Sprecher SPEAKER_07:  War nur ein Scherz, holt später ab.
+00:44:21 - 00:44:21 - Sprecher SPEAKER_06:  Okay.
+00:44:21 - 00:44:23 - Sprecher SPEAKER_06:  Danke, die, fürs Bescheid sagen.
+00:44:24 - 00:44:24 - Sprecher SPEAKER_07:  Bis dann.
+00:44:28 - 00:44:29 - Sprecher SPEAKER_11:  Aber deswegen
+00:44:29 - 00:44:30 - Sprecher SPEAKER_11:  auch immer Tankern ist am Kopf.
+00:44:30 - 00:44:31 - Sprecher SPEAKER_11:  Warum?
+00:44:31 - 00:44:34 - Sprecher SPEAKER_11:  Ja, aber Kollegen fahren dann damit, bleiben liegen
+00:44:34 - 00:44:37 - Sprecher SPEAKER_02:  und dann ist der Tankernister wieder nicht aufgefüllt.
+00:44:37 - 00:44:39 - Sprecher SPEAKER_02:  Naja, ist kein Problem, einfach das Taxi da liegen lassen.
+00:44:39 - 00:44:40 - Sprecher SPEAKER_06:  Also stehen lassen, das ist dann Marketing.
+00:44:41 - 00:44:42 - Sprecher SPEAKER_06:  So haben wir das früher gemacht.
+00:44:43 - 00:44:44 - Sprecher SPEAKER_02:  Und ein neues Taxi holen.
+00:44:44 - 00:44:45 - Sprecher SPEAKER_02:  Ich bin gerade alleine.
+00:44:45 - 00:44:48 - Sprecher SPEAKER_06:  Naja, ist doch egal, einfach neues Taxi holen.
+00:44:48 - 00:44:49 - Sprecher SPEAKER_06:  Das hat ja noch länger gedauert.
+00:44:50 - 00:44:53 - Sprecher SPEAKER_06:  Nein, nein, sie müssen dann das Schmutztaxi aus dem Norden anrufen.
+00:44:53 - 00:44:54 - Sprecher SPEAKER_06:  Die holen sie dann ab.
+00:44:55 - 00:44:58 - Sprecher SPEAKER_06:  Dann lassen sie noch andere Kunden abholen.
+00:44:58 - 00:44:59 - Sprecher SPEAKER_06:  Und den Kunden,
+00:44:59 - 00:45:00 - Sprecher SPEAKER_06:  die sie dann, also von denen sie dann abholen,
+00:45:00 - 00:45:02 - Sprecher SPEAKER_06:  die Dispatches haben, sagen sie dann herzlich willkommen
+00:45:02 - 00:45:04 - Sprecher SPEAKER_06:  bei Texas Taxis. Und wenn dann der Typ aus dem
+00:45:04 - 00:45:06 - Sprecher SPEAKER_06:  anderen Taxi sagt, das ist nicht Texas Taxis,
+00:45:06 - 00:45:08 - Sprecher SPEAKER_06:  das ist Sandy Taxis, sagt ihr
+00:45:08 - 00:45:10 - Sprecher SPEAKER_06:  nein, Sandy Taxis gehört
+00:45:10 - 00:45:11 - Sprecher SPEAKER_06:  uns.
+00:45:12 - 00:45:14 - Sprecher SPEAKER_02:  Und dann lässt du dich zu einem neuen Taxi
+00:45:14 - 00:45:16 - Sprecher SPEAKER_06:  fahren, holst ein neues Taxi und dann lässt du
+00:45:16 - 00:45:18 - Sprecher SPEAKER_06:  das wieder irgendwo stehen und dann wieder
+00:45:18 - 00:45:20 - Sprecher SPEAKER_06:  und dann wieder und überall stehen Taxis rum von
+00:45:20 - 00:45:22 - Sprecher SPEAKER_06:  Texas Taxis und das ist super Marketing.
+00:45:23 - 00:45:25 - Sprecher SPEAKER_02:  Also stehen nur Taxis
+00:45:25 - 00:45:26 - Sprecher SPEAKER_02:  und nicht fahrende Taxis.
+00:45:28 - 00:45:30 - Sprecher SPEAKER_06:  Naja doch, das ist ja dann die ganze Zeit präsent.
+00:45:30 - 00:45:31 - Sprecher SPEAKER_06:  Das ist doch super.
+00:45:32 - 00:45:33 - Sprecher SPEAKER_02:  Ist auch gut.
+00:45:34 - 00:45:36 - Sprecher SPEAKER_02:  Ja, aber das ist direkt neben Reds und das hätte noch länger
+00:45:36 - 00:45:38 - Sprecher SPEAKER_02:  gedauert, wenn ich jetzt bei den anderen angerufen hätte.
+00:45:39 - 00:45:40 - Sprecher SPEAKER_02:  Ja, verstehe, aber auch sehr löblich, dass du
+00:45:40 - 00:45:42 - Sprecher SPEAKER_11:  uns nicht warten lassen wolltest. Sehr nett.
+00:45:43 - 00:45:44 - Sprecher SPEAKER_06:  Also hier sind die
+00:45:44 - 00:45:46 - Sprecher SPEAKER_06:  vier Schlüssel.
+00:45:47 - 00:45:48 - Sprecher SPEAKER_02:  Danke.
+00:45:48 - 00:45:49 - Sprecher SPEAKER_06:  Bitte gerne.
+00:45:50 - 00:45:52 - Sprecher SPEAKER_06:  Sie haben sich kein explizites Design
+00:45:52 - 00:45:54 - Sprecher SPEAKER_06:  gewünscht, dementsprechend
+00:45:54 - 00:45:56 - Sprecher SPEAKER_06:  mach das bitte 750
+00:45:56 - 00:45:57 - Sprecher SPEAKER_06:  Dollar.
+00:45:58 - 00:45:59 - Sprecher SPEAKER_02:  Okay.
+00:46:02 - 00:46:03 - Sprecher SPEAKER_02:  Hier hast du 1000.
+00:46:04 - 00:46:06 - Sprecher SPEAKER_06:  Vielen Dank, das ist sehr großzügig von Ihnen.
+00:46:07 - 00:46:08 - Sprecher SPEAKER_06:  Bitte beehren Sie Schlüsselmoment
+00:46:08 - 00:46:10 - Sprecher SPEAKER_06:  jederzeit wieder und geben Sie uns eine gute
+00:46:10 - 00:46:12 - Sprecher SPEAKER_06:  Bewertung oder eine schlechte Bewertung,
+00:46:12 - 00:46:14 - Sprecher SPEAKER_06:  wenn Sie das so fühlen, aber lieber eine gute Bewertung.
+00:46:15 - 00:46:16 - Sprecher SPEAKER_02:  Ja, machen wir eine gute, ne?
+00:46:17 - 00:46:17 - Sprecher SPEAKER_02:  Okay, super.
+00:46:18 - 00:46:18 - Sprecher SPEAKER_02:  Das wäre super nett.
+00:46:19 - 00:46:19 - Sprecher SPEAKER_02:  Ja, danke.
+00:46:20 - 00:46:21 - Sprecher SPEAKER_02:  Ich wünsche Ihnen noch einen super schönen Tag.
+00:46:22 - 00:46:23 - Sprecher SPEAKER_11:  Danke, gleichfalls.
+00:46:23 - 00:46:23 - Sprecher SPEAKER_11:  Tschüss.
+00:46:23 - 00:46:28 - Sprecher SPEAKER_11:  Wir sind ein Todesurteil gewesen.
+00:46:29 - 00:46:30 - Sprecher SPEAKER_06:  Naja, jetzt los, weiter.
+00:46:35 - 00:46:36 - Sprecher SPEAKER_06:  Hast du noch Kraft
+00:46:36 - 00:46:38 - Sprecher SPEAKER_06:  oder fällst du um, wenn wir noch zu jemandem fahren?
+00:46:39 - 00:46:40 - Sprecher SPEAKER_11:  Ich weiß es nicht, schau mal dabei, würde ich sagen.
+00:46:41 - 00:46:42 - Sprecher SPEAKER_11:  Okay, dann müssen wir jetzt nach Paleto.
+00:46:43 - 00:46:44 - Sprecher SPEAKER_11:  Ich will nicht, da ist mich zwischen Tisch und Boden
+00:46:44 - 00:46:45 - Sprecher SPEAKER_11:  Dreck oder so.
+00:46:48 - 00:46:49 - Sprecher SPEAKER_06:  Die hat gerade angerufen
+00:46:49 - 00:46:53 - Sprecher SPEAKER_06:  und hat gesagt, ob ich meine Whip bei denen in der Straße vergessen habe.
+00:46:54 - 00:46:55 - Sprecher SPEAKER_11:  Was ist denn eine Whip?
+00:46:55 - 00:46:57 - Sprecher SPEAKER_06:  Naja, habe ich nämlich auch gefragt.
+00:46:57 - 00:46:59 - Sprecher SPEAKER_06:  Ich habe erst überlegt, ob er eine Pistole gefunden hat.
+00:46:59 - 00:47:00 - Sprecher SPEAKER_06:  Ich dachte immer, eine Whip wäre eine Pistole.
+00:47:00 - 00:47:00 - Sprecher SPEAKER_06: 
+00:47:00 - 00:47:00 - Sprecher SPEAKER_06: 
+00:47:00 - 00:47:00 - Sprecher SPEAKER_06: 
+00:47:01 - 00:47:03 - Sprecher SPEAKER_06:  Ja, aber eine Pistole ist eine Strap.
+00:47:03 - 00:47:04 - Sprecher SPEAKER_11:  Eine Strap.
+00:47:05 - 00:47:08 - Sprecher SPEAKER_11:  Ich fahre mit meiner Whip und habe meine Strap.
+00:47:08 - 00:47:09 - Sprecher SPEAKER_11:  Ich bin kein Nagel.
+00:47:09 - 00:47:10 - Sprecher SPEAKER_05:  Aber, warte mal, eine Whip ist ein Auto, oder wie?
+00:47:11 - 00:47:12 - Sprecher SPEAKER_05:  Naja, ja, mein Auto steht bei denen.
+00:47:12 - 00:47:15 - Sprecher SPEAKER_06:  Die wollten wissen, ob ich das mit Absicht dahin gestellt habe
+00:47:15 - 00:47:17 - Sprecher SPEAKER_06:  oder ob das jemand sich irgendwie unter den Nagel gerissen hat
+00:47:17 - 00:47:18 - Sprecher SPEAKER_06:  oder so, oder ob sie was damit machen sollen.
+00:47:19 - 00:47:21 - Sprecher SPEAKER_11:  Ja, du hättest sagen müssen, du stehst mit Absicht da,
+00:47:21 - 00:47:22 - Sprecher SPEAKER_11:  weil du hast jetzt eine Wohnung bei denen in der Haute gemietet.
+00:47:23 - 00:47:25 - Sprecher SPEAKER_06:  Na, der hat sich wahrscheinlich gefreut.
+00:47:25 - 00:47:26 - Sprecher SPEAKER_06:  Die ist nämlich nett.
+00:47:26 - 00:47:28 - Sprecher SPEAKER_11:  Ja, der hat sich bestimmt wirklich gefreut.
+00:47:29 - 00:47:30 - Sprecher SPEAKER_06:  Ich habe gesagt, dass ich nicht in die Haute gehen will.
+00:47:30 - 00:47:31 - Sprecher SPEAKER_06:  Er hat eine Leiche im Kopf. Warum?
+00:47:31 - 00:47:33 - Sprecher SPEAKER_06:  Er soll bitte das Auto wegbringen.
+00:47:34 - 00:47:37 - Sprecher SPEAKER_11:  Ich würde lachen, wenn sie verschrotten lassen, wie du das glauben hast.
+00:47:37 - 00:47:38 - Sprecher SPEAKER_11:  Nein, nein, dann habe ich ganz schnell gesagt, das war ein Scherz.
+00:47:38 - 00:47:41 - Sprecher SPEAKER_01:  Weil er hat es einfach so ganz ernst hingenommen.
+00:47:41 - 00:47:42 - Sprecher SPEAKER_01:  Er hat gesagt, okay.
+00:47:43 - 00:47:44 - Sprecher SPEAKER_11:  Aber das ist gut, dass die das machen.
+00:47:44 - 00:47:45 - Sprecher SPEAKER_11:  Die nehmen die Sachen wenigstens noch ernst.
+00:47:46 - 00:47:46 - Sprecher SPEAKER_11:  Ja.
+00:47:48 - 00:47:50 - Sprecher SPEAKER_11:  Und du hättest dann so etwas gesucht,
+00:47:50 - 00:47:51 - Sprecher SPEAKER_11:  irgendwo auf einen Container mit einem Schiff,
+00:47:51 - 00:47:53 - Sprecher SPEAKER_11:  Richtung irgendwo hin.
+00:47:56 - 00:47:57 - Unbekannt:  Ja.
+00:47:57 - 00:47:58 - Sprecher SPEAKER_11:  Paleto jetzt, ne?
+00:48:00 - 00:48:02 - Sprecher SPEAKER_11:  Okay, die Nussbaums, alle klar machen.
+00:48:02 - 00:48:04 - Sprecher SPEAKER_11:  Zu den Nussbaums, ab zu den Nussbaums.
+00:48:04 - 00:48:05 - Sprecher SPEAKER_06:  In der City Hall.
+00:48:06 - 00:48:08 - Sprecher SPEAKER_06:  Paleto City Hall, ich habe keinem gelassen, schon mal wo die sein sollen.
+00:48:08 - 00:48:09 - Sprecher SPEAKER_11:  Aber so groß ist Paleto ja nicht.
+00:48:10 - 00:48:12 - Sprecher SPEAKER_06:  Naja, so groß ist Paleto wirklich nicht.
+00:48:12 - 00:48:14 - Sprecher SPEAKER_06:  Wo könnte denn dann eine City Hall sein?
+00:48:15 - 00:48:16 - Sprecher SPEAKER_06:  Ja, wahrscheinlich.
+00:48:16 - 00:48:18 - Sprecher SPEAKER_06:  Naja, klar. Ich drücke es mal hier.
+00:48:18 - 00:48:19 - Sprecher SPEAKER_06:  Ich mache mal an.
+00:48:20 - 00:48:22 - Sprecher SPEAKER_11:  Navi baut auch bald raus. Frisst die Licht.
+00:48:24 - 00:48:26 - Sprecher SPEAKER_06:  Du machst dein Navi ihrer Haus, wirklich?
+00:48:27 - 00:48:28 - Sprecher SPEAKER_11:  Ja, alle frissen nur die Licht.
+00:48:28 - 00:48:30 - Sprecher SPEAKER_11:  Weg damit. Okay, okay.
+00:48:34 - 00:48:37 - Sprecher SPEAKER_11:  Ich brauche jeden PS, den ich rausholen kann.
+00:48:37 - 00:48:37 - Sprecher SPEAKER_11: 
+00:48:37 - 00:48:37 - Unbekannt: 
+00:48:39 - 00:48:41 - Sprecher SPEAKER_11:  Aber ich sage dir, das hat sich richtig gelohnt.
+00:48:47 - 00:48:49 - Sprecher SPEAKER_06:  Bist du zufrieden, ja?
+00:48:49 - 00:48:50 - Sprecher SPEAKER_11:  Das ist richtig gut.
+00:48:51 - 00:48:52 - Sprecher SPEAKER_11:  Kannst du gut damit fahren?
+00:48:52 - 00:48:52 - Sprecher SPEAKER_11:  Ja.
+00:48:53 - 00:48:55 - Sprecher SPEAKER_11:  Eigentlich schon zu gut.
+00:48:56 - 00:48:57 - Sprecher SPEAKER_11:  Zu gut, weil du alles gewinnst, Harry?
+00:48:59 - 00:49:00 - Sprecher SPEAKER_11:  Mit einer neuen Einstellung würde ich noch nicht fahren.
+00:49:01 - 00:49:05 - Sprecher SPEAKER_11:  Aber wie gesagt, so wie es ist, die Wahrscheinlichkeit auf beste Zeit ist zu gering.
+00:49:07 - 00:49:11 - Sprecher SPEAKER_11:  Aber ich habe Kiba noch mal rumschrauben lassen, weil Kiba ist der Experte, was solche Sachen betrifft.
+00:49:13 - 00:49:14 - Sprecher SPEAKER_11:  Und der hat alles so gemacht.
+00:49:15 - 00:49:17 - Sprecher SPEAKER_11:  Das ist heftig, einfach heftig.
+00:49:21 - 00:49:24 - Sprecher SPEAKER_06:  Na ja, cool. Hauptsache du bist zufrieden und fährst sicher.
+00:49:24 - 00:49:25 - Sprecher SPEAKER_11:  Auf jeden Fall.
+00:49:25 - 00:49:27 - Unbekannt:  Ich bin zufrieden.
+00:49:27 - 00:49:27 - Unbekannt: 
+00:49:27 - 00:49:27 - Unbekannt:  Ich bin zufrieden.
+00:49:27 - 00:49:27 - Unbekannt: 
+00:49:27 - 00:49:27 - Unbekannt: 
+00:49:27 - 00:49:27 - Unbekannt: 
+00:49:27 - 00:49:27 - Unbekannt: 
+00:49:30 - 00:49:32 - Sprecher SPEAKER_06:  Du bist zufrieden.
+00:49:32 - 00:49:47 - Sprecher SPEAKER_06:  Ja, doch eigentlich ist das gut, Schrott.
+00:49:47 - 00:49:47 - Sprecher SPEAKER_06:  Aber...
+00:49:48 - 00:49:48 - Unbekannt:  ...
+00:49:48 - 00:49:50 - Sprecher SPEAKER_11:  Ah, realmente uner espeisch.
+00:49:50 - 00:49:51 - Sprecher SPEAKER_11:  Wir attributes sind perfekt.
+00:49:51 - 00:49:51 - Sprecher SPEAKER_11:  Und du hast das Hmm soit auch gefragt.
+00:49:51 - 00:49:52 - Sprecher SPEAKER_11:  Ich habe mich nicht getroffen, aber ich habe die classics gemacht.
+00:49:52 - 00:49:53 - Sprecher SPEAKER_11:  Hey!
+00:49:57 - 00:50:01 - Sprecher SPEAKER_11:  Ich hatte mal ne Frage, aus welchen Region bestehen Schlüssel.
+00:50:01 - 00:50:05 - Sprecher SPEAKER_11:  Ich sag, ich melde die alle so, boah, guck mal, der ist ja viel mehr als wir.
+00:50:06 - 00:50:09 - Sprecher SPEAKER_11:  Aber was die nicht wussten, hätte ich schon mal da gewesen, wenn ich mir das nicht gemerkt habe.
+00:50:11 - 00:50:13 - Sprecher SPEAKER_06:  Achso, ich dachte, du hättest das vielleicht von mir gelernt.
+00:50:14 - 00:50:15 - Sprecher SPEAKER_11:  Achso, von dir sowieso.
+00:50:15 - 00:50:18 - Sprecher SPEAKER_11:  Wenn ich dir mal zugucke, erklär ich da übelst viel.
+00:50:18 - 00:50:22 - Sprecher SPEAKER_06:  Und was habt ihr so gemacht? Habt ihr einen Schlüssel nachgemacht?
+00:50:24 - 00:50:27 - Sprecher SPEAKER_11:  Na, unter anderem. Aber ich hab auch viel Quatsch, bin ich ehrlich.
+00:50:29 - 00:50:31 - Sprecher SPEAKER_11:  Aber ich hab ein Stempel, dass ich teilgenommen habe.
+00:50:32 - 00:50:37 - Sprecher SPEAKER_06:  Okay, cool. Das ist gut, dann kriegst du keine Gehaltskürzung.
+00:50:39 - 00:50:40 - Sprecher SPEAKER_11:  Warte mal, was soll denn das jetzt?
+00:50:40 - 00:50:48 - Sprecher SPEAKER_06:  Naja, man muss immer an Fortbildungskursen teilnehmen, sonst wird das Gehalt prozentual monatlich um 10% gekürzt.
+00:50:48 - 00:50:52 - Sprecher SPEAKER_11:  Du hast mir bis vor letzte Woche noch erzählt, dass ich mit dem Geschäftsführer bin.
+00:50:52 - 00:50:53 - Sprecher SPEAKER_11:  Jetzt wird über Gehaltskürzungen gesprochen.
+00:50:54 - 00:50:55 - Sprecher SPEAKER_11:  Na siehst du, so ändern sich die Zeiten.
+00:50:56 - 00:50:59 - Sprecher SPEAKER_11:  Da ist der Gembel, den man eingeht, Harry, bei Schlüsselmoment.
+00:51:00 - 00:51:02 - Sprecher SPEAKER_11:  Ich hab einen Auftrag gegründet heute, für 20, 30 Schlüssel.
+00:51:02 - 00:51:05 - Sprecher SPEAKER_11:  Was ist da, was ist da, was ist da, was ist da, was ist da?
+00:51:05 - 00:51:08 - Sprecher SPEAKER_06:  Oh, Blaulicht in Redwoods Saloon.
+00:51:11 - 00:51:12 - Sprecher SPEAKER_06:  Was ist denn passiert?
+00:51:14 - 00:51:15 - Sprecher SPEAKER_11:  Weiß ich nicht, ich darf fragen.
+00:51:17 - 00:51:18 - Sprecher SPEAKER_06:  Okay.
+00:51:18 - 00:51:18 - Sprecher SPEAKER_06:  Oh Gott.
+00:51:23 - 00:51:26 - Sprecher SPEAKER_11:  Na klar. Hallo Kollegen, braucht ihr Hilfe? Na klar.
+00:51:49 - 00:51:50 - Sprecher SPEAKER_06:  Hallo.
+00:51:50 - 00:51:51 - Sprecher SPEAKER_06:  Hallo Deputies.
+00:51:51 - 00:51:52 - Sprecher SPEAKER_06:  Guten Abend.
+00:51:52 - 00:51:55 - Sprecher SPEAKER_06:  Guten Abend. Hat der Saloon geschlossen?
+00:51:57 - 00:51:59 - Sprecher SPEAKER_07:  Hm, nee, eigentlich nicht.
+00:51:59 - 00:52:03 - Sprecher SPEAKER_07:  Okay, gut, ist was Schlimmes passiert? Oh mein Gott, ist das Blut auf dem Boden?
+00:52:03 - 00:52:04 - Sprecher SPEAKER_06:  Nein.
+00:52:04 - 00:52:05 - Sprecher SPEAKER_06:  Oh mein Gott.
+00:52:05 - 00:52:08 - Sprecher SPEAKER_06:  Das ist, oh Gott, haben Sie jemanden getötet?
+00:52:08 - 00:52:09 - Sprecher SPEAKER_06:  Nee, natürlich nicht.
+00:52:09 - 00:52:10 - Sprecher SPEAKER_06:  Sondern?
+00:52:10 - 00:52:12 - Sprecher SPEAKER_06:  Wir sind doch Freunde und Helfer und töten nicht.
+00:52:13 - 00:52:16 - Sprecher SPEAKER_06:  Naja, ja, aber das weiß ich nicht, was ist passiert?
+00:52:17 - 00:52:20 - Sprecher SPEAKER_06:  Es ist ein Einsatz aus, wir können gerade nicht drüber reden, Sie verstehen das?
+00:52:20 - 00:52:25 - Sprecher SPEAKER_06:  Ach so, Verzeihung, Verzeihung, das wollte ich nicht, ich wollte mit drin eigentlich nur ein Steak holen.
+00:52:26 - 00:52:26 - Sprecher SPEAKER_06:  Dann...
+00:52:27 - 00:52:27 - Sprecher SPEAKER_08:  Machen Sie das.
+00:52:27 - 00:52:31 - Sprecher SPEAKER_08:  ... können Sie hier entlang gehen und dann von da aus tragen, das ist gar kein Problem.
+00:52:31 - 00:52:32 - Sprecher SPEAKER_06:  Okay, ich wollte nur fragen, nicht, dass ich Ihre Arbeit störe.
+00:52:33 - 00:52:34 - Sprecher SPEAKER_06:  Nee, natürlich nicht.
+00:52:34 - 00:52:35 - Sprecher SPEAKER_06:  Okay, super, vielen Dank.
+00:52:35 - 00:52:36 - Sprecher SPEAKER_06:  Ich hoffe, das ist gut, auf Sie geht.
+00:52:36 - 00:52:36 - Sprecher SPEAKER_06:  Okay, Deputies.
+00:52:37 - 00:52:38 - Sprecher SPEAKER_11:  So.
+00:52:38 - 00:52:39 - Sprecher SPEAKER_11:  Ist das Blut?
+00:52:42 - 00:52:43 - Sprecher SPEAKER_11:  Durch das Blut?
+00:52:44 - 00:52:46 - Sprecher SPEAKER_11:  Darf ich hier außen, darf ich hier rum gehen, hier, hier?
+00:52:47 - 00:52:47 - Unbekannt:  Ah.
+00:52:49 - 00:52:50 - Sprecher SPEAKER_11:  Okay, aber der Laden ist offen, ja?
+00:52:52 - 00:52:54 - Sprecher SPEAKER_11:  Also kann ich jetzt nicht müde mit einem Bier trinken, ohne dass ich gleich verhaftet werde von Ihnen?
+00:52:54 - 00:52:56 - Sprecher SPEAKER_11:  Ich kann ja Bier trinken und ich hol' mir ein Steak.
+00:52:57 - 00:52:57 - Sprecher SPEAKER_06:  Okay, okay.
+00:52:57 - 00:52:59 - Sprecher SPEAKER_06:  Aber lauf nicht durch das Blut, die haben jemand erschossen.
+00:53:00 - 00:53:01 - Sprecher SPEAKER_11:  Ach du Scheiße, Junge.
+00:53:03 - 00:53:05 - Sprecher SPEAKER_06:  Also haben die nicht, sagen die nicht, aber ich glaub trotzdem, dass das so ist.
+00:53:07 - 00:53:09 - Sprecher SPEAKER_11:  Schon ein großer Blutfleck auch.
+00:53:12 - 00:53:12 - Sprecher SPEAKER_06:  Hallo.
+00:53:14 - 00:53:14 - Sprecher SPEAKER_11:  Grüße.
+00:53:15 - 00:53:15 - Sprecher SPEAKER_11:  Hallo.
+00:53:15 - 00:53:16 - Sprecher SPEAKER_11:  Grüße.
+00:53:17 - 00:53:18 - Sprecher SPEAKER_11:  Herzlich willkommen.
+00:53:18 - 00:53:19 - Sprecher SPEAKER_11:  Wer wurde da draußen erschossen?
+00:53:20 - 00:53:22 - Sprecher SPEAKER_13:  Keine Ahnung, irgendeiner mit einer Fleck.
+00:53:23 - 00:53:24 - Sprecher SPEAKER_06:  Irgendeiner mit einer Fleck?
+00:53:24 - 00:53:28 - Sprecher SPEAKER_06:  Von den, von den, von den Sheriffs oder was?
+00:53:28 - 00:53:30 - Sprecher SPEAKER_13:  Nee, der hatte eine rote Fleck.
+00:53:31 - 00:53:31 - Sprecher SPEAKER_06:  Ach so.
+00:53:32 - 00:53:33 - Sprecher SPEAKER_06:  Sheriffs, die kamen da nachher erst dazu.
+00:53:35 - 00:53:37 - Sprecher SPEAKER_11:  Die dürften einfach nur die Schießerei gehört haben.
+00:53:37 - 00:53:39 - Sprecher SPEAKER_11:  Ja, machst du nicht geschwund, dass er überall war?
+00:53:39 - 00:53:40 - Sprecher SPEAKER_11:  Mhm.
+00:53:41 - 00:53:41 - Sprecher SPEAKER_06:  Naja, gut.
+00:53:42 - 00:53:44 - Sprecher SPEAKER_11:  Was kann man euch denn Gutes tun?
+00:53:45 - 00:53:47 - Sprecher SPEAKER_11:  Ich sag euch, ich will jetzt die Fahrt hier nach oben, ist auch ziemlich lange, ich hab'
+00:53:47 - 00:53:49 - Sprecher SPEAKER_11:  ein bisschen Hunger, wenn ich ehrlich bin.
+00:53:49 - 00:53:50 - Sprecher SPEAKER_06:  Ich auch.
+00:53:50 - 00:53:52 - Sprecher SPEAKER_06:  Könnt ihr uns so was wie, also, könnt ihr uns so was wie so ein, so ein, so ein, so ein
+00:53:52 - 00:53:55 - Sprecher SPEAKER_06:  Special-Menü zusammenstellen, einfach mit allen leckeren Sachen?
+00:53:56 - 00:53:58 - Sprecher SPEAKER_06:  Ich pack das alles in meine Tasche rein.
+00:53:59 - 00:54:02 - Sprecher SPEAKER_11:  Oh Gott, zeigt dir der Autofahrer vor, dass er einen Koffer aufmacht?
+00:54:02 - 00:54:07 - Sprecher SPEAKER_13:  Also, ich kann euch, ich kann euch das Cowboy-Menü machen und das Glory-Spite-Menü, dann habt
+00:54:07 - 00:54:08 - Sprecher SPEAKER_13:  ihr von allem etwas.
+00:54:08 - 00:54:09 - Sprecher SPEAKER_13:  Mo, ich hab' sie echt gerne, aber danke.
+00:54:09 - 00:54:10 - Sprecher SPEAKER_13:  Ja, sorry.
+00:54:12 - 00:54:14 - Sprecher SPEAKER_01:  Cowboy, ich will ein Cowboy-Menü.
+00:54:15 - 00:54:16 - Sprecher SPEAKER_01:  Jaha.
+00:54:16 - 00:54:17 - Sprecher SPEAKER_13:  Gibt aber keinen Hut dazu, ne?
+00:54:17 - 00:54:18 - Sprecher SPEAKER_13:  Ich will auch ein Cowboy-Menü.
+00:54:18 - 00:54:18 - Sprecher SPEAKER_13:  Das ist schlimm.
+00:54:19 - 00:54:20 - Sprecher SPEAKER_01:  Ja, dann mach ich zwei Cowboy-Menüs.
+00:54:20 - 00:54:21 - Sprecher SPEAKER_13:  Was für Getränke?
+00:54:21 - 00:54:22 - Sprecher SPEAKER_13:  Alles außer Whisky?
+00:54:23 - 00:54:26 - Sprecher SPEAKER_06:  Ich will alles außer, also, außer Alkohol.
+00:54:27 - 00:54:28 - Sprecher SPEAKER_11:  Alles außer Alkohol.
+00:54:28 - 00:54:29 - Sprecher SPEAKER_11:  Nee, Alkohol auch nicht, wirklich nicht.
+00:54:30 - 00:54:30 - Sprecher SPEAKER_11:  Diesmal nicht, heut' nicht.
+00:54:32 - 00:54:34 - Sprecher SPEAKER_11:  Okay, kein Alkohol für beide, ja?
+00:54:35 - 00:54:35 - Sprecher SPEAKER_13:  Mhh, mhh.
+00:54:35 - 00:54:41 - Sprecher SPEAKER_13:  Also, da hätten wir zur Auswahl, Chili-A-Doux, Eistee, Pfirsich oder Zitrone, Kaffee oder
+00:54:41 - 00:54:42 - Sprecher SPEAKER_13:  Root-Bier.
+00:54:42 - 00:54:42 - Sprecher SPEAKER_13:  Eistee, Eistee, Eistee.
+00:54:43 - 00:54:44 - Sprecher SPEAKER_13:  Eistee, alles klar.
+00:54:44 - 00:54:44 - Sprecher SPEAKER_13:  Und welchen?
+00:54:45 - 00:54:45 - Sprecher SPEAKER_11:  Zitrone, bitte.
+00:54:46 - 00:54:46 - Sprecher SPEAKER_11:  Ich liebe Zitrone.
+00:54:47 - 00:54:48 - Sprecher SPEAKER_06:  Ich will Pfirsich.
+00:54:50 - 00:54:51 - Sprecher SPEAKER_13:  Okay, dann zwei mal.
+00:54:51 - 00:54:51 - Sprecher SPEAKER_13: 
+00:54:51 - 00:54:51 - Sprecher SPEAKER_13: 
+00:54:51 - 00:54:51 - Sprecher SPEAKER_13: 
+00:54:51 - 00:54:53 - Sprecher SPEAKER_13:  Zwei mal Pfirsich und zwei mal Zitrone.
+00:54:53 - 00:54:55 - Sprecher SPEAKER_13:  Alles klar, mach' es euch fertig.
+00:54:55 - 00:54:55 - Sprecher SPEAKER_13:  Vielen Dank.
+00:54:56 - 00:54:56 - Sprecher SPEAKER_06:  Jo.
+00:54:58 - 00:55:00 - Sprecher SPEAKER_11:  Bist du dir sicher, dass du das alles in der Tasche dann kriegst?
+00:55:01 - 00:55:02 - Sprecher SPEAKER_06:  Naja, ja.
+00:55:02 - 00:55:05 - Sprecher SPEAKER_06:  Ich mein, der Rest, den nimmst du einfach in die Hand und dann packen wir das ins Auto.
+00:55:06 - 00:55:07 - Sprecher SPEAKER_11:  Ja, okay, klar, kein Ding.
+00:55:07 - 00:55:08 - Sprecher SPEAKER_11:  Das ist Markus, oder?
+00:55:10 - 00:55:10 - Sprecher SPEAKER_06:  Ja.
+00:55:10 - 00:55:11 - Sprecher SPEAKER_06:  Okay, gut.
+00:55:11 - 00:55:15 - Sprecher SPEAKER_06:  Ich wollte es nur sicher wissen, weil das letzte Mal hatte er keinen Hut auf und mit
+00:55:15 - 00:55:16 - Sprecher SPEAKER_06:  Hut sieht er so anders aus.
+00:55:19 - 00:55:21 - Sprecher SPEAKER_12:  Es kommt aber drauf an, welchen Markus du meinst, ne?
+00:55:21 - 00:55:22 - Sprecher SPEAKER_12:  Ja.
+00:55:22 - 00:55:23 - Sprecher SPEAKER_12:  Oh Gott, ist nicht euer Ernst?
+00:55:23 - 00:55:23 - Sprecher SPEAKER_06:  Gibt's mehrere Marken?
+00:55:23 - 00:55:25 - Sprecher SPEAKER_06:  Es gibt hier zwei Markus, die arbeiten hier.
+00:55:25 - 00:55:26 - Sprecher SPEAKER_12:  Markus, Markus, der Marken.
+00:55:27 - 00:55:27 - Sprecher SPEAKER_06:  Was?
+00:55:27 - 00:55:28 - Sprecher SPEAKER_06:  Markus.
+00:55:29 - 00:55:32 - Sprecher SPEAKER_12:  Es gibt einmal den Chef Markus und einmal gibt's Markus.
+00:55:32 - 00:55:33 - Sprecher SPEAKER_12:  Den Oberschef Markus.
+00:55:33 - 00:55:34 - Sprecher SPEAKER_12:  Okay, ich meinte Chef Markus.
+00:55:34 - 00:55:35 - Sprecher SPEAKER_06:  Ist das Chef Markus?
+00:55:36 - 00:55:37 - Sprecher SPEAKER_12:  Nee, das ist nicht Chef Markus.
+00:55:37 - 00:55:37 - Sprecher SPEAKER_12:  Das ist nicht Chef Markus.
+00:55:37 - 00:55:38 - Sprecher SPEAKER_12:  Okay, das ist neuer Markus.
+00:55:38 - 00:55:39 - Sprecher SPEAKER_12:  Nein, bin Oberschef.
+00:55:39 - 00:55:40 - Sprecher SPEAKER_12:  Okay, das ist der neue Markus.
+00:55:40 - 00:55:41 - Sprecher SPEAKER_06:  Das ist der alte Markus.
+00:55:41 - 00:55:42 - Sprecher SPEAKER_12:  Also vom Alter alt.
+00:55:42 - 00:55:43 - Sprecher SPEAKER_12:  Oh Gott.
+00:55:43 - 00:55:44 - Sprecher SPEAKER_06:  Okay, er sah gar nicht so alt aus.
+00:55:44 - 00:55:45 - Sprecher SPEAKER_06:  Okay.
+00:55:45 - 00:55:46 - Sprecher SPEAKER_06:  Na ja, gut, dann ist kein Problem.
+00:55:46 - 00:55:48 - Sprecher SPEAKER_06:  Also kein Wunder, dass er nicht aussieht wie Chef Markus.
+00:55:48 - 00:55:49 - Sprecher SPEAKER_06:  Ich kannte Chef Markus.
+00:55:51 - 00:55:52 - Sprecher SPEAKER_12:  Ja, den, ja.
+00:55:52 - 00:55:56 - Sprecher SPEAKER_12:  Der ist grad bei Bürgermeisteraudienz.
+00:55:56 - 00:55:56 - Sprecher SPEAKER_12:  Okay, verstehe.
+00:55:57 - 00:55:59 - Sprecher SPEAKER_06:  Na ja, also da draußen wird einfach geschossen.
+00:55:59 - 00:56:02 - Sprecher SPEAKER_06:  Das Blut von da draußen gehört jemand mit ner roten Fleck, ja?
+00:56:03 - 00:56:03 - Sprecher SPEAKER_09:  Ja.
+00:56:03 - 00:56:04 - Sprecher SPEAKER_09:  Oh.
+00:56:04 - 00:56:05 - Sprecher SPEAKER_09:  Leid, Schiller.
+00:56:05 - 00:56:06 - Sprecher SPEAKER_09:  Und die haben gegenseitig auf einen hinageschossen.
+00:56:06 - 00:56:09 - Sprecher SPEAKER_06:  Also jemand mit ner roten Fleck auf jemand mit ner roten Fleck.
+00:56:12 - 00:56:13 - Sprecher SPEAKER_06:  Ich war nicht hier.
+00:56:14 - 00:56:14 - Sprecher SPEAKER_06:  Also.
+00:56:14 - 00:56:15 - Sprecher SPEAKER_06:  So, okay.
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06: 
+00:56:15 - 00:56:15 - Sprecher SPEAKER_06:  Ich glaub nicht.
+00:56:17 - 00:56:17 - Sprecher SPEAKER_06:  Keine Ahnung.
+00:56:17 - 00:56:20 - Sprecher SPEAKER_06:  Mann, da passiert einmal was in Paleto und keiner kriegt's mit.
+00:56:24 - 00:56:27 - Sprecher SPEAKER_06:  Ich dachte hier oben wär Kriminalität auf Null.
+00:56:29 - 00:56:31 - Sprecher SPEAKER_06:  Hab hier auch sonst noch nichts groß mitgekriegt, aber.
+00:56:35 - 00:56:37 - Sprecher SPEAKER_11:  Das war die Blutlache.
+00:56:37 - 00:56:38 - Sprecher SPEAKER_06:  Wohnt ihr hier?
+00:56:38 - 00:56:38 - Sprecher SPEAKER_11:  Ja.
+00:56:38 - 00:56:38 - Sprecher SPEAKER_11:  Nee.
+00:56:39 - 00:56:41 - Sprecher SPEAKER_11:  Sind hier oben eigentlich Wohnungen frei?
+00:56:41 - 00:56:41 - Sprecher SPEAKER_11:  Weißt du das im Kopf?
+00:56:42 - 00:56:44 - Sprecher SPEAKER_11:  Boah, ich glaub, glaubst du ja gestern Einreise nicht.
+00:56:44 - 00:56:45 - Sprecher SPEAKER_11:  Ja.
+00:56:45 - 00:56:45 - Sprecher SPEAKER_11:  Ich glaub, du hast ja auch.
+00:56:47 - 00:56:47 - Sprecher SPEAKER_11:  Nicht mehr.
+00:56:48 - 00:56:48 - Sprecher SPEAKER_11:  Bist du frech?
+00:56:48 - 00:56:49 - Sprecher SPEAKER_11:  Okay.
+00:56:50 - 00:56:52 - Sprecher SPEAKER_11:  Ansonsten war ab und zu ein Motel was frei.
+00:56:54 - 00:56:56 - Sprecher SPEAKER_06:  Hier gibt's übelst die schönen Häuser mit Meerblick.
+00:56:56 - 00:56:57 - Sprecher SPEAKER_06:  Die sind richtig schön.
+00:56:57 - 00:56:59 - Sprecher SPEAKER_06:  Ich versteh, warum man hier wohnen will.
+00:57:01 - 00:57:02 - Sprecher SPEAKER_12:  Schön und rar.
+00:57:02 - 00:57:03 - Sprecher SPEAKER_06:  Ja.
+00:57:03 - 00:57:05 - Sprecher SPEAKER_06:  Man kann sich auf die Lauer legen.
+00:57:05 - 00:57:06 - Sprecher SPEAKER_06:  Tagelang, wochenlang.
+00:57:07 - 00:57:08 - Sprecher SPEAKER_06:  Und dann lossprinten.
+00:57:11 - 00:57:13 - Sprecher SPEAKER_06:  Und dann schnell nen Mietvertrag unterschreiben.
+00:57:13 - 00:57:14 - Sprecher SPEAKER_01:  Hm.
+00:57:14 - 00:57:15 - Unbekannt:  Ja.
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:15 - 00:57:15 - Unbekannt: 
+00:57:16 - 00:57:17 - Sprecher SPEAKER_01:  Kann aber schnell sein.
+00:57:17 - 00:57:18 - Sprecher SPEAKER_06:  Hm.
+00:57:18 - 00:57:18 - Sprecher SPEAKER_06:  Ganz genau.
+00:57:19 - 00:57:20 - Sprecher SPEAKER_11:  Sehr schnell.
+00:57:20 - 00:57:23 - Sprecher SPEAKER_11:  Und das kann ja auch jeder jeden Tag zu jeder Uhrzeit sein.
+00:57:24 - 00:57:25 - Sprecher SPEAKER_11:  Ja, ja, ja.
+00:57:25 - 00:57:25 - Sprecher SPEAKER_11:  Ist auch richtig.
+00:57:26 - 00:57:28 - Sprecher SPEAKER_11:  Dann haben wir wenigstens feste Termine.
+00:57:28 - 00:57:28 - Sprecher SPEAKER_05:  Oh.
+00:57:29 - 00:57:31 - Sprecher SPEAKER_11:  Na gut, wir kriegen, wir werden niemals ne Wohnung kriegen.
+00:57:32 - 00:57:32 - Sprecher SPEAKER_11:  Niemals.
+00:57:32 - 00:57:32 - Sprecher SPEAKER_11:  Kriegen wir weiter hin.
+00:57:36 - 00:57:40 - Sprecher SPEAKER_12:  Na, wenn's nur ein Hotelzimmer sein darf, da sind wohl welche frei hier oben.
+00:57:41 - 00:57:43 - Sprecher SPEAKER_12:  Aber auf einer Skala von eins bis zehn, wie hässlich sind die?
+00:57:44 - 00:57:45 - Unbekannt:  Ja, ich glaub, die sind auch frei.
+00:57:45 - 00:57:45 - Unbekannt: 
+00:57:45 - 00:57:45 - Unbekannt: 
+00:57:45 - 00:57:45 - Unbekannt: 
+00:57:45 - 00:57:45 - Unbekannt: 
+00:57:45 - 00:57:45 - Unbekannt: 
+00:57:45 - 00:57:46 - Sprecher SPEAKER_12:  Da muss ich passen.
+00:57:46 - 00:57:48 - Sprecher SPEAKER_11:  Sind die jetzt auch noch frei, nach dem gestern Einreise?
+00:57:48 - 00:57:48 - Sprecher SPEAKER_06:  Also ja.
+00:57:48 - 00:57:51 - Sprecher SPEAKER_06:  Und dem Hotel, wo ich bin, die sind eigentlich ganz schick.
+00:57:52 - 00:57:53 - Sprecher SPEAKER_11:  Okay, der ist schon mal vielversprechend.
+00:57:55 - 00:57:56 - Sprecher SPEAKER_12:  Teil klein, aber...
+00:57:56 - 00:57:58 - Sprecher SPEAKER_12:  Willow, wie sind denn die im Hotelzimmer hier in Palito?
+00:57:58 - 00:58:00 - Sprecher SPEAKER_12:  Du bist doch eh in einem untergekommen.
+00:58:00 - 00:58:01 - Sprecher SPEAKER_12:  Die zwei.
+00:58:02 - 00:58:04 - Sprecher SPEAKER_12:  Was ich seh, neben anderen glaub ich, die sind hässlich.
+00:58:04 - 00:58:06 - Sprecher SPEAKER_06:  Ich bin gleich bei euch.
+00:58:06 - 00:58:08 - Sprecher SPEAKER_06:  Und was, was macht, macht ihr alle so?
+00:58:10 - 00:58:11 - Sprecher SPEAKER_12:  Ich deale.
+00:58:12 - 00:58:13 - Sprecher SPEAKER_06:  Mit was?
+00:58:14 - 00:58:14 - Sprecher SPEAKER_12:  Mit Autos.
+00:58:14 - 00:58:15 - Sprecher SPEAKER_12:  Mit Autos.
+00:58:15 - 00:58:15 - Sprecher SPEAKER_06: 
+00:58:15 - 00:58:15 - Sprecher SPEAKER_06: 
+00:58:15 - 00:58:15 - Sprecher SPEAKER_06: 
+00:58:16 - 00:58:17 - Sprecher SPEAKER_12:  Das ist heftig.
+00:58:17 - 00:58:18 - Sprecher SPEAKER_12:  Ich auch.
+00:58:19 - 00:58:20 - Sprecher SPEAKER_12:  Gebrauchstagenhandel.
+00:58:20 - 00:58:21 - Sprecher SPEAKER_12:  Nee, Neuwagen.
+00:58:21 - 00:58:22 - Sprecher SPEAKER_12:  Neuwagen.
+00:58:22 - 00:58:22 - Sprecher SPEAKER_12:  Hier oben.
+00:58:22 - 00:58:23 - Sprecher SPEAKER_06:  Ach, hier oben, ja.
+00:58:23 - 00:58:24 - Sprecher SPEAKER_06:  Beim Palito Car Dealer, ja.
+00:58:25 - 00:58:26 - Sprecher SPEAKER_12:  Ah, verstehe.
+00:58:26 - 00:58:26 - Sprecher SPEAKER_06:  Cool.
+00:58:26 - 00:58:28 - Sprecher SPEAKER_12:  Ich geb euch mal eure Menüs, ne.
+00:58:28 - 00:58:30 - Sprecher SPEAKER_06:  Okay, ich pack das alles in die Tasche.
+00:58:31 - 00:58:32 - Sprecher SPEAKER_06:  Mhm, mhm.
+00:58:33 - 00:58:35 - Sprecher SPEAKER_06:  Okay, oh Gott, da ist wirklich wenig Platz nur noch drin.
+00:58:38 - 00:58:40 - Sprecher SPEAKER_13:  Ja, ich hab das schon mal ein bisschen aufgeteilt, ne.
+00:58:41 - 00:58:43 - Sprecher SPEAKER_13:  Ich hätt jetzt gelacht, wenn du gesagt hättest, ich hab schon mal püriert, damit's
+00:58:43 - 00:58:44 - Sprecher SPEAKER_13:  weniger bleibt.
+00:58:44 - 00:58:44 - Sprecher SPEAKER_13: 
+00:58:44 - 00:58:45 - Sprecher SPEAKER_13:  Ja, ich hab das schon mal ein bisschen aufgeteilt, ne.
+00:58:45 - 00:58:45 - Sprecher SPEAKER_13: 
+00:58:45 - 00:58:46 - Sprecher SPEAKER_13:  Ich hab auch noch einen Flaschen Kakao dabei.
+00:58:46 - 00:58:47 - Sprecher SPEAKER_06:  Ich hab ne 5 Liter Flasche Kakao dabei.
+00:58:48 - 00:58:50 - Sprecher SPEAKER_06:  So ne Thermoskanne hat mir, hat mir Willi gegeben, Harry.
+00:58:50 - 00:58:51 - Sprecher SPEAKER_06:  So.
+00:58:51 - 00:58:52 - Sprecher SPEAKER_13:  Werdet ihr eben?
+00:58:52 - 00:58:55 - Sprecher SPEAKER_13:  Willi hat mir ne 5 Liter Kakao Thermoskanne gegeben.
+00:58:55 - 00:58:55 - Sprecher SPEAKER_06:  Warum das denn?
+00:58:56 - 00:58:57 - Sprecher SPEAKER_13:  Naja, dass ich den ganzen Tag Kakao trinken kann.
+00:58:58 - 00:58:59 - Sprecher SPEAKER_06:  Ich kann das nicht mit euch.
+00:58:59 - 00:58:59 - Sprecher SPEAKER_13: 
+00:59:00 - 00:59:00 - Sprecher SPEAKER_06:  Danke schön.
+00:59:00 - 00:59:01 - Sprecher SPEAKER_06:  Wollt ihr zusammen oder mit Rind?
+00:59:01 - 00:59:02 - Sprecher SPEAKER_13:  Ich zahl das, ja.
+00:59:03 - 00:59:03 - Sprecher SPEAKER_13:  Alles klar.
+00:59:03 - 00:59:06 - Sprecher SPEAKER_13:  Dann macht das einmal 200 Dollar bitte.
+00:59:06 - 00:59:06 - Sprecher SPEAKER_13:  Alles klar.
+00:59:07 - 00:59:08 - Sprecher SPEAKER_13:  Ich mach das mal.
+00:59:08 - 00:59:08 - Sprecher SPEAKER_13:  Hallo.
+00:59:08 - 00:59:09 - Sprecher SPEAKER_13:  Hallo.
+00:59:09 - 00:59:10 - Sprecher SPEAKER_13:  Ja, alles klar.
+00:59:10 - 00:59:10 - Sprecher SPEAKER_13:  Ah, ja klar.
+00:59:11 - 00:59:13 - Sprecher SPEAKER_13:  Okay, wir haben zwar noch Diskobeleuchtung überscheinbar geschlossen.
+00:59:13 - 00:59:14 - Sprecher SPEAKER_13:  Oh, danke schön.
+00:59:14 - 00:59:15 - Sprecher SPEAKER_13:  Ich hab das auch.
+00:59:15 - 00:59:15 - Sprecher SPEAKER_13:  Ich freu mich auf euch.
+00:59:16 - 00:59:16 - Sprecher SPEAKER_13:  Schmeckt es euch, ne?
+00:59:16 - 00:59:17 - Sprecher SPEAKER_13:  Vielen Dank.
+00:59:17 - 00:59:18 - Sprecher SPEAKER_13:  Okay, danke.
+00:59:18 - 00:59:18 - Sprecher SPEAKER_11:  Danke euch.
+00:59:19 - 00:59:20 - Sprecher SPEAKER_11:  Ja, dann bis bald weiter zum Kundentermin.
+00:59:20 - 00:59:22 - Sprecher SPEAKER_06:  Und schönen guten Abend euch noch.
+00:59:22 - 00:59:23 - Sprecher SPEAKER_11:  Gleichfalls.
+00:59:23 - 00:59:23 - Sprecher SPEAKER_06:  Schönen Abend.
+00:59:23 - 00:59:24 - Sprecher SPEAKER_06:  Bis dann.
+00:59:24 - 00:59:25 - Sprecher SPEAKER_06:  Tschüssi.
+00:59:25 - 00:59:25 - Sprecher SPEAKER_11:  Ja, ciao.
+00:59:31 - 00:59:34 - Sprecher SPEAKER_06:  Ist ja langweilig, dass die nicht mal was mitkriegen, wer hier draußen angeschossen
+00:59:34 - 00:59:34 - Sprecher SPEAKER_06:  wurde.
+00:59:35 - 00:59:36 - Sprecher SPEAKER_06:  Die wissen ja nicht, was hier passiert ist.
+00:59:36 - 00:59:36 - Sprecher SPEAKER_11:  Die quatschen bloß nicht.
+00:59:37 - 00:59:37 - Sprecher SPEAKER_11:  Die klapper Köpfe.
+00:59:38 - 00:59:39 - Sprecher SPEAKER_11:  Die klapper Köpfe.
+00:59:39 - 00:59:40 - Sprecher SPEAKER_11:  Oh, guck mal.
+00:59:40 - 00:59:41 - Sprecher SPEAKER_11:  Jetzt ist es ab.
+00:59:41 - 00:59:41 - Sprecher SPEAKER_11:  Vorsicht.
+00:59:41 - 00:59:42 - Sprecher SPEAKER_11:  Nicht langlaufen.
+00:59:42 - 00:59:43 - Sprecher SPEAKER_11:  Ich laufe doch nicht lang.
+00:59:43 - 00:59:44 - Sprecher SPEAKER_06:  Ist das Miss Robin?
+00:59:44 - 00:59:45 - Sprecher SPEAKER_06:  Ne, das ist nicht Miss Robin.
+00:59:47 - 00:59:49 - Sprecher SPEAKER_01:  Ne, das ist nicht Miss Robin und gerne einen großen Bogen machen.
+00:59:49 - 00:59:49 - Sprecher SPEAKER_01:  Danke.
+00:59:49 - 00:59:50 - Sprecher SPEAKER_01:  Hier ist ein Tatort.
+00:59:50 - 00:59:51 - Sprecher SPEAKER_01:  Achso, ja, ich gehe.
+00:59:51 - 00:59:52 - Sprecher SPEAKER_11:  Mann.
+00:59:54 - 00:59:54 - Sprecher SPEAKER_11:  Wo geht der denn hin?
+00:59:54 - 00:59:55 - Sprecher SPEAKER_11:  Das ist so cool.
+00:59:56 - 00:59:57 - Sprecher SPEAKER_01:  Sheriffs, wir haben ihnen was mitgebracht.
+00:59:57 - 00:59:58 - Sprecher SPEAKER_06:  Der Herr Beautys meine ich natürlich.

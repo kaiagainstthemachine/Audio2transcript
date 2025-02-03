@@ -1,0 +1,1039 @@
+Transkription Staffel 2 mit Sprechererkennung von [2-2-25]_Panikfee_-_WILDER SONNTAG_part4.wav:
+00:00:58 - 00:00:59 - Unbekannt:  Untertitelung des ZDF, 2020
+00:01:24 - 00:01:29 - Unbekannt:  Untertitelung des ZDF, 2020
+00:01:52 - 00:01:59 - Unbekannt:  Untertitelung des ZDF, 2020
+00:02:28 - 00:02:29 - Unbekannt:  Untertitelung des ZDF, 2020
+00:02:45 - 00:02:58 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:03:11 - 00:03:16 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:03:31 - 00:03:35 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:04:13 - 00:04:29 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:04:43 - 00:04:56 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:05:09 - 00:05:14 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:05:41 - 00:05:59 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:06:07 - 00:06:08 - Sprecher SPEAKER_06:  Untertitelung des ZDF, 2020
+00:06:47 - 00:06:59 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:07:03 - 00:07:10 - Sprecher SPEAKER_04:  Untertitelung des ZDF, 2020
+00:07:42 - 00:07:43 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:08:04 - 00:08:11 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:08:44 - 00:08:59 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:09:02 - 00:09:04 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:09:38 - 00:09:40 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:09:45 - 00:09:48 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:00 - 00:10:02 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:02 - 00:10:03 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:10 - 00:10:11 - Unbekannt:  Untertitelung des ZDF, 2020
+00:10:13 - 00:10:17 - Sprecher SPEAKER_01:  Untertitelung des ZDF, 2020
+00:10:20 - 00:10:22 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:22 - 00:10:27 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:27 - 00:10:29 - Sprecher SPEAKER_02:  Untertitelung des ZDF, 2020
+00:10:29 - 00:10:33 - Sprecher SPEAKER_01:  Warum hast du eine Hosentasche?
+00:10:33 - 00:10:34 - Sprecher SPEAKER_01:  Was ist das?
+00:10:34 - 00:10:36 - Sprecher SPEAKER_01:  Ist das ein Reißverschluss da dran?
+00:10:36 - 00:10:37 - Sprecher SPEAKER_01:  Was ist das?
+00:10:41 - 00:10:42 - Sprecher SPEAKER_01:  Ich weiß, ich würde nicht dran denken,
+00:10:42 - 00:10:43 - Sprecher SPEAKER_01:  dass das eine Hosentasche ist.
+00:10:43 - 00:10:46 - Sprecher SPEAKER_01:  Ich muss nur kurz noch Papiere fertig machen,
+00:10:47 - 00:10:49 - Sprecher SPEAKER_04:  dass die Dame Taxi fahren darf.
+00:10:49 - 00:10:50 - Sprecher SPEAKER_04:  Alles gut, ganz entspannt.
+00:10:50 - 00:10:52 - Sprecher SPEAKER_01:  Herzlich willkommen bei Texas Taxis,
+00:10:52 - 00:10:53 - Sprecher SPEAKER_01:  ihrem neuen Arbeitgeber.
+00:10:59 - 00:10:59 - Sprecher SPEAKER_01:  Ja, weiß ich nicht.
+00:11:00 - 00:11:01 - Sprecher SPEAKER_01:  Gneit hier wirklich, keine Ahnung.
+00:11:01 - 00:11:02 - Sprecher SPEAKER_01:  Ich würde an alles denken,
+00:11:02 - 00:11:03 - Sprecher SPEAKER_01:  aber nicht an eine Hosentasche.
+00:11:03 - 00:11:05 - Sprecher SPEAKER_01:  Ist vielleicht, keine Ahnung,
+00:11:05 - 00:11:09 - Sprecher SPEAKER_01:  sieht aus wie ein Unterwasser-Neopren-Geldbeutel.
+00:11:10 - 00:11:11 - Sprecher SPEAKER_01:  Vielleicht hat jemand bei dir
+00:11:11 - 00:11:13 - Sprecher SPEAKER_01:  einen Unterwasser-Neopren-Geldbeutel verloren.
+00:11:13 - 00:11:14 - Sprecher SPEAKER_01:  Vielleicht ist es das.
+00:11:40 - 00:11:43 - Sprecher SPEAKER_01:  Ich weiß nicht.
+00:12:11 - 00:12:17 - Sprecher SPEAKER_00:  Ich weiß nicht.
+00:12:23 - 00:12:24 - Sprecher SPEAKER_01:  Danke schön, ich trinke keinen Alkohol.
+00:12:26 - 00:12:27 - Sprecher SPEAKER_01:  Aber super lieb von Ihnen.
+00:12:27 - 00:12:28 - Sprecher SPEAKER_01:  Vielen Dank.
+00:12:29 - 00:12:30 - Sprecher SPEAKER_00:  Könnte man ja wissen,
+00:12:30 - 00:12:31 - Sprecher SPEAKER_00:  wie man hier trinken kann.
+00:12:31 - 00:12:32 - Sprecher SPEAKER_00:  Bier, weil Bier ist das Beste auf der Welt.
+00:12:33 - 00:12:34 - Sprecher SPEAKER_01:  Na ja, klar, lassen Sie sich nicht abhalten.
+00:12:35 - 00:12:36 - Sprecher SPEAKER_00:  Na klar, meine Brust.
+00:12:39 - 00:12:40 - Sprecher SPEAKER_01:  Was für eine Brust.
+00:13:09 - 00:13:10 - Sprecher SPEAKER_02:  Was ist das?
+00:13:10 - 00:13:10 - Sprecher SPEAKER_02: 
+00:13:11 - 00:13:12 - Sprecher SPEAKER_02:  Keine Ahnung.
+00:13:14 - 00:13:15 - Sprecher SPEAKER_02:  Das habe ich auch nicht verstanden.
+00:13:15 - 00:13:17 - Sprecher SPEAKER_02:  Irgendwas mit der Brust.
+00:13:17 - 00:13:18 - Sprecher SPEAKER_02:  Das habe ich auch nicht verstanden.
+00:13:18 - 00:13:19 - Sprecher SPEAKER_02:  Aber sonst ging es.
+00:13:23 - 00:13:24 - Unbekannt:  Was ist mit...
+00:13:40 - 00:13:43 - Sprecher SPEAKER_02:  Du nur noch Videos zu retten.
+00:13:43 - 00:13:44 - Sprecher SPEAKER_02:  Alles nur noch im Interview.
+00:13:44 - 00:13:44 - Unbekannt: 
+00:13:44 - 00:13:44 - Unbekannt: 
+00:13:44 - 00:13:44 - Unbekannt: 
+00:13:44 - 00:13:44 - Sprecher SPEAKER_02:  Wenn ihr euchomonperformiert habt,
+00:13:44 - 00:13:44 - Sprecher SPEAKER_02: 
+00:13:44 - 00:13:47 - Sprecher SPEAKER_02:  Jaja, ich glaube,
+00:13:47 - 00:13:47 - Sprecher SPEAKER_02:  ich male nicht wieder.
+00:13:47 - 00:13:47 - Sprecher SPEAKER_02:  Das war das auf brother John.
+00:13:47 - 00:13:52 - Sprecher SPEAKER_02:  Wir sehen uns am Taraas.
+00:14:06 - 00:14:07 - Sprecher SPEAKER_05:  L
+00:14:07 - 00:14:09 - Sprecher SPEAKER_05:  O
+00:14:09 - 00:14:09 - Sprecher SPEAKER_05:  L
+00:14:12 - 00:14:13 - Sprecher SPEAKER_05:  O
+00:14:13 - 00:14:16 - Sprecher SPEAKER_05:  L
+00:14:16 - 00:14:17 - Sprecher SPEAKER_05:  O
+00:14:17 - 00:14:20 - Unbekannt:  L
+00:14:20 - 00:14:20 - Unbekannt: 
+00:14:20 - 00:14:21 - Sprecher SPEAKER_03:  L
+00:14:25 - 00:14:25 - Sprecher SPEAKER_03:  O
+00:14:26 - 00:14:27 - Sprecher SPEAKER_03:  L
+00:14:27 - 00:14:27 - Sprecher SPEAKER_03: 
+00:14:27 - 00:14:27 - Sprecher SPEAKER_03:  L
+00:14:27 - 00:14:28 - Sprecher SPEAKER_03:  O
+00:14:28 - 00:14:28 - Sprecher SPEAKER_03: 
+00:14:28 - 00:14:28 - Sprecher SPEAKER_03:  O
+00:14:28 - 00:14:28 - Unbekannt: 
+00:14:28 - 00:14:28 - Unbekannt:  O
+00:14:28 - 00:14:28 - Unbekannt: 
+00:14:31 - 00:14:31 - Sprecher SPEAKER_03:  O
+00:14:32 - 00:14:33 - Sprecher SPEAKER_03:  L
+00:14:33 - 00:14:33 - Sprecher SPEAKER_03:  O
+00:14:33 - 00:14:33 - Sprecher SPEAKER_03: 
+00:14:33 - 00:14:33 - Sprecher SPEAKER_03:  O
+00:14:33 - 00:14:33 - Sprecher SPEAKER_03: 
+00:14:33 - 00:14:33 - Sprecher SPEAKER_03:  O
+00:14:33 - 00:14:33 - Sprecher SPEAKER_03: 
+00:14:33 - 00:14:34 - Sprecher SPEAKER_03:  O
+00:14:34 - 00:14:34 - Unbekannt: 
+00:14:34 - 00:14:34 - Unbekannt:  O
+00:14:34 - 00:14:34 - Unbekannt: 
+00:14:34 - 00:14:34 - Unbekannt:  O
+00:14:34 - 00:14:34 - Unbekannt: 
+00:14:35 - 00:14:36 - Unbekannt:  O
+00:14:47 - 00:14:48 - Sprecher SPEAKER_06:  L
+00:14:52 - 00:14:52 - Unbekannt:  L
+00:14:53 - 00:14:54 - Sprecher SPEAKER_04:  O
+00:14:58 - 00:14:59 - Sprecher SPEAKER_04:  L
+00:14:59 - 00:14:59 - Sprecher SPEAKER_01:  O
+00:14:59 - 00:14:59 - Sprecher SPEAKER_01:  L
+00:14:59 - 00:14:59 - Sprecher SPEAKER_01:  O
+00:14:59 - 00:14:59 - Sprecher SPEAKER_01:  L
+00:15:00 - 00:15:01 - Sprecher SPEAKER_01:  O
+00:15:01 - 00:15:01 - Sprecher SPEAKER_01:  L
+00:15:01 - 00:15:01 - Sprecher SPEAKER_01:  O
+00:15:01 - 00:15:01 - Sprecher SPEAKER_01:  L
+00:15:01 - 00:15:01 - Sprecher SPEAKER_01:  O
+00:15:02 - 00:15:03 - Unbekannt:  L
+00:15:06 - 00:15:06 - Sprecher SPEAKER_01:  O
+00:15:11 - 00:15:11 - Unbekannt:  L
+00:15:18 - 00:15:19 - Sprecher SPEAKER_01:  L
+00:15:19 - 00:15:19 - Sprecher SPEAKER_01: 
+00:15:19 - 00:15:19 - Sprecher SPEAKER_01:  L
+00:15:19 - 00:15:20 - Sprecher SPEAKER_01:  O
+00:15:20 - 00:15:20 - Sprecher SPEAKER_04:  L
+00:15:20 - 00:15:21 - Sprecher SPEAKER_04:  O
+00:15:21 - 00:15:21 - Sprecher SPEAKER_04:  L
+00:15:21 - 00:15:21 - Sprecher SPEAKER_04:  O
+00:15:21 - 00:15:22 - Sprecher SPEAKER_04:  L
+00:15:22 - 00:15:22 - Sprecher SPEAKER_04:  O
+00:15:22 - 00:15:22 - Sprecher SPEAKER_04: 
+00:15:22 - 00:15:22 - Sprecher SPEAKER_04:  O
+00:15:22 - 00:15:22 - Sprecher SPEAKER_04:  L
+00:15:22 - 00:15:23 - Sprecher SPEAKER_04:  O
+00:15:24 - 00:15:24 - Sprecher SPEAKER_01:  L
+00:15:48 - 00:15:49 - Sprecher SPEAKER_01:  O
+00:15:49 - 00:15:50 - Sprecher SPEAKER_04:  L
+00:15:50 - 00:15:50 - Sprecher SPEAKER_04: 
+00:15:50 - 00:15:50 - Sprecher SPEAKER_04:  L
+00:15:50 - 00:15:50 - Sprecher SPEAKER_04:  O
+00:15:50 - 00:15:51 - Sprecher SPEAKER_04:  O
+00:15:51 - 00:15:51 - Sprecher SPEAKER_04:  L
+00:15:51 - 00:15:51 - Sprecher SPEAKER_04:  O
+00:15:51 - 00:15:51 - Sprecher SPEAKER_04: 
+00:15:51 - 00:15:51 - Sprecher SPEAKER_04:  L
+00:15:51 - 00:15:51 - Unbekannt:  L
+00:15:54 - 00:15:55 - Sprecher SPEAKER_04:  O
+00:15:55 - 00:15:55 - Sprecher SPEAKER_04:  L
+00:15:55 - 00:15:56 - Sprecher SPEAKER_04:  L
+00:16:05 - 00:16:06 - Sprecher SPEAKER_04:  O
+00:16:17 - 00:16:17 - Sprecher SPEAKER_04:  L
+00:16:19 - 00:16:21 - Sprecher SPEAKER_04:  Warum war die nicht freundlich?
+00:16:21 - 00:16:23 - Sprecher SPEAKER_02:  Ach, die will immer was mit Ohren.
+00:16:24 - 00:16:24 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:16:25 - 00:16:26 - Sprecher SPEAKER_04:  Wie was mit Ohren?
+00:16:26 - 00:16:28 - Sprecher SPEAKER_04:  Keine Ahnung. Die ist verrückt.
+00:16:30 - 00:16:32 - Sprecher SPEAKER_01:  So stellst du jemanden Verrückten ein.
+00:16:32 - 00:16:35 - Sprecher SPEAKER_04:  Ach, weil ich gerne verrückte Leute
+00:16:35 - 00:16:36 - Sprecher SPEAKER_04:  um mich herum habe.
+00:16:37 - 00:16:39 - Sprecher SPEAKER_01:  Und dann zerbrichst du dir wieder den Kopf
+00:16:39 - 00:16:39 - Sprecher SPEAKER_01:  über die.
+00:16:40 - 00:16:42 - Sprecher SPEAKER_04:  Ja, aber die ist ja auf meiner Seite
+00:16:42 - 00:16:43 - Sprecher SPEAKER_04:  dann hoffentlich.
+00:16:44 - 00:16:44 - Sprecher SPEAKER_01:  Hoffentlich.
+00:16:52 - 00:16:54 - Sprecher SPEAKER_01:  So, da sind wir.
+00:16:54 - 00:16:55 - Sprecher SPEAKER_01:  Mhm.
+00:17:01 - 00:17:02 - Sprecher SPEAKER_01:  Ich mag einfach mal hier.
+00:17:03 - 00:17:05 - Sprecher SPEAKER_04:  Ja, da auf der Brücke ist doch cool, oder?
+00:17:05 - 00:17:07 - Sprecher SPEAKER_01:  Ja, ja, ja, bestimmt. Wo ist die Brücke?
+00:17:07 - 00:17:08 - Sprecher SPEAKER_01:  Hinter uns rechts da.
+00:17:11 - 00:17:12 - Sprecher SPEAKER_01:  Ja, das ist cool, das ist cool.
+00:17:24 - 00:17:26 - Sprecher SPEAKER_01:  Ich war hier mal mit nem Kumpel.
+00:17:29 - 00:17:29 - Sprecher SPEAKER_01:  Echt?
+00:17:29 - 00:17:30 - Sprecher SPEAKER_01:  Da waren ja noch gar keine Freunde.
+00:17:30 - 00:17:32 - Sprecher SPEAKER_01:  Da war ja noch mein Chef.
+00:17:33 - 00:17:35 - Sprecher SPEAKER_01:  Und da hat er die ganze Zeit mir irgendwie
+00:17:35 - 00:17:38 - Sprecher SPEAKER_01:  komisch Leute gezeigt, die wir bespitzeln sollen.
+00:17:38 - 00:17:39 - Sprecher SPEAKER_01:  Also nicht bespitzeln ist falsch.
+00:17:39 - 00:17:42 - Sprecher SPEAKER_01:  Der hat gesagt, guck mal, die haben einen Ehestreit oder sowas.
+00:17:42 - 00:17:43 - Sprecher SPEAKER_01:  Und dann hat er sich das die ganze Zeit
+00:17:43 - 00:17:45 - Sprecher SPEAKER_01:  angeguckt und ich stand daneben und wusste nicht,
+00:17:45 - 00:17:46 - Sprecher SPEAKER_01:  was ich tun soll.
+00:17:46 - 00:17:48 - Sprecher SPEAKER_01:  Ja, weil ich auch beim Taxi gehe.
+00:17:48 - 00:17:49 - Sprecher SPEAKER_01:  Da hab ich gerade angefangen beim Taxi.
+00:17:51 - 00:17:52 - Sprecher SPEAKER_04:  Und was hast du dann gemacht?
+00:17:52 - 00:17:54 - Sprecher SPEAKER_04:  Naja, ich hab einfach gewartet.
+00:17:54 - 00:17:56 - Sprecher SPEAKER_02:  Ich hab die ganze Zeit gewartet einfach,
+00:17:56 - 00:17:59 - Sprecher SPEAKER_02:  weil ich ja, naja, Taxipraktikantin sozusagen war
+00:17:59 - 00:18:00 - Sprecher SPEAKER_02:  und ich saß die ganze Zeit im Taxi
+00:18:00 - 00:18:02 - Sprecher SPEAKER_02:  und der hat die ganze Zeit nur angucken wollen,
+00:18:02 - 00:18:04 - Sprecher SPEAKER_02:  wie irgendwelche Leute sich streiten.
+00:18:04 - 00:18:05 - Sprecher SPEAKER_04:  Oh Gott.
+00:18:06 - 00:18:07 - Sprecher SPEAKER_02:  Das war krank.
+00:18:08 - 00:18:08 - Sprecher SPEAKER_04:  Mhm.
+00:18:11 - 00:18:12 - Sprecher SPEAKER_01:  Das ist wirklich schön.
+00:18:13 - 00:18:14 - Sprecher SPEAKER_01:  Ja, oder?
+00:18:14 - 00:18:14 - Sprecher SPEAKER_01:  Ja.
+00:18:18 - 00:18:21 - Sprecher SPEAKER_01:  Ich hab für dich
+00:18:21 - 00:18:22 - Sprecher SPEAKER_01:  etwas dabei
+00:18:22 - 00:18:25 - Sprecher SPEAKER_01:  und zwar hab ich einmal
+00:18:29 - 00:18:30 - Sprecher SPEAKER_01:  ein Eistee
+00:18:30 - 00:18:36 - Sprecher SPEAKER_01:  und dann hab ich noch
+00:18:36 - 00:18:37 - Sprecher SPEAKER_01:  ein Sandwich.
+00:18:38 - 00:18:39 - Sprecher SPEAKER_04:  Dankeschön.
+00:18:39 - 00:18:40 - Sprecher SPEAKER_04:  Naja, bitte.
+00:18:40 - 00:18:41 - Sprecher SPEAKER_01:  Danke.
+00:18:43 - 00:18:45 - Sprecher SPEAKER_01:  Nach einem anstrengenden Tag
+00:18:45 - 00:18:47 - Sprecher SPEAKER_01:  muss man ja auch mal ein bisschen entspannen.
+00:18:48 - 00:18:49 - Sprecher SPEAKER_04:  Auf jeden Fall.
+00:18:54 - 00:18:56 - Sprecher SPEAKER_01:  Hat sich die Lage bei dir
+00:18:56 - 00:18:57 - Sprecher SPEAKER_01:  wieder ein bisschen beruhigt, Earl?
+00:18:59 - 00:18:59 - Sprecher SPEAKER_04:  Nee.
+00:19:00 - 00:19:02 - Sprecher SPEAKER_04:  Ja, ich weiß es nicht so genau.
+00:19:05 - 00:19:07 - Sprecher SPEAKER_04:  Ich hab mit niemandem
+00:19:07 - 00:19:07 - Sprecher SPEAKER_04:  bisher gesprochen,
+00:19:07 - 00:19:09 - Sprecher SPEAKER_04:  weil ich ja jetzt nicht da war.
+00:19:12 - 00:19:13 - Sprecher SPEAKER_04:  Und der...
+00:19:13 - 00:19:14 - Sprecher SPEAKER_04:  Ach so, du warst bei deinem Bruder.
+00:19:15 - 00:19:16 - Sprecher SPEAKER_04:  Nee.
+00:19:16 - 00:19:17 - Sprecher SPEAKER_04:  Nee, ich war nicht bei
+00:19:17 - 00:19:18 - Sprecher SPEAKER_04:  meinem Bruder.
+00:19:18 - 00:19:19 - Sprecher SPEAKER_04:  Ich war bei meiner Mutter schon.
+00:19:19 - 00:19:20 - Sprecher SPEAKER_01:  Aber du hast vorhin gesagt,
+00:19:20 - 00:19:21 - Sprecher SPEAKER_01:  du warst bei deinem Bruder.
+00:19:22 - 00:19:23 - Sprecher SPEAKER_01:  Nee, nee, nee, nee, nee.
+00:19:23 - 00:19:24 - Sprecher SPEAKER_04:  Ich war bei meiner Mutter.
+00:19:25 - 00:19:27 - Sprecher SPEAKER_04:  Aber vorhin hast du was anderes gesagt.
+00:19:27 - 00:19:28 - Sprecher SPEAKER_01:  Nee, ich hab...
+00:19:28 - 00:19:28 - Sprecher SPEAKER_04:  Nein, nein, nein.
+00:19:29 - 00:19:30 - Sprecher SPEAKER_04:  Das ist falsch verstanden.
+00:19:30 - 00:19:31 - Sprecher SPEAKER_04:  Der Bruder ist verrückt.
+00:19:32 - 00:19:34 - Sprecher SPEAKER_04:  Mit dem hab ich nichts zu tun.
+00:19:36 - 00:19:37 - Sprecher SPEAKER_01:  Aber vorhin hast du gesagt,
+00:19:37 - 00:19:38 - Sprecher SPEAKER_01:  du warst jetzt nicht bei deiner Mutter gerade.
+00:19:39 - 00:19:40 - Sprecher SPEAKER_01:  Ja, weil ich mich rausreden wollte,
+00:19:40 - 00:19:40 - Sprecher SPEAKER_04:  war ich...
+00:19:41 - 00:19:42 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:19:42 - 00:19:42 - Sprecher SPEAKER_04:  Was?
+00:19:43 - 00:19:44 - Sprecher SPEAKER_04:  Na, ich wollte...
+00:19:45 - 00:19:46 - Sprecher SPEAKER_04:  Ich war natürlich bei meiner Mutter.
+00:19:46 - 00:19:47 - Sprecher SPEAKER_04:  Ich wollte das nur so sagen, dass...
+00:19:47 - 00:19:47 - Sprecher SPEAKER_04: 
+00:19:47 - 00:19:48 - Sprecher SPEAKER_04:  Weil...
+00:19:49 - 00:19:52 - Sprecher SPEAKER_04:  Weil ich das Thema einfach nicht gerne anspreche.
+00:19:54 - 00:19:55 - Sprecher SPEAKER_04:  Weißt du?
+00:19:55 - 00:19:57 - Sprecher SPEAKER_01:  Nee, verstehe ich nicht.
+00:19:57 - 00:19:59 - Sprecher SPEAKER_04:  Na, das mit dem...
+00:19:59 - 00:20:01 - Sprecher SPEAKER_04:  mit dem Ex von...
+00:20:01 - 00:20:02 - Sprecher SPEAKER_04:  Oder vielleicht Ex von meiner Mutter.
+00:20:08 - 00:20:09 - Sprecher SPEAKER_01:  Na ja, okay.
+00:20:10 - 00:20:10 - Sprecher SPEAKER_01:  Keine Ahnung.
+00:20:10 - 00:20:11 - Sprecher SPEAKER_01:  Wirst du schon wissen.
+00:20:11 - 00:20:14 - Sprecher SPEAKER_01:  Hatte kurz das Gefühl, du lügst mich an.
+00:20:15 - 00:20:15 - Sprecher SPEAKER_04:  Nee.
+00:20:17 - 00:20:19 - Sprecher SPEAKER_04:  Okay, doch, ich hab gelogen vorhin.
+00:20:20 - 00:20:21 - Sprecher SPEAKER_04:  Herr Nussbaum hat mich gezwungen.
+00:20:21 - 00:20:22 - Sprecher SPEAKER_04:  Hä, was denn?
+00:20:23 - 00:20:23 - Sprecher SPEAKER_04:  Warum?
+00:20:24 - 00:20:25 - Sprecher SPEAKER_04:  Na...
+00:20:26 - 00:20:27 - Sprecher SPEAKER_04:  Ich...
+00:20:27 - 00:20:27 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:20:28 - 00:20:30 - Sprecher SPEAKER_04:  Weil Herr Nussbaum manchmal...
+00:20:30 - 00:20:31 - Sprecher SPEAKER_04:  mich unterdruckst ist.
+00:20:31 - 00:20:32 - Sprecher SPEAKER_04:  Und dann lügst du mich an.
+00:20:32 - 00:20:32 - Sprecher SPEAKER_01:  Ich hab...
+00:20:32 - 00:20:32 - Sprecher SPEAKER_01:  Was...
+00:20:32 - 00:20:33 - Sprecher SPEAKER_01:  Was hast du denn?
+00:20:33 - 00:20:34 - Sprecher SPEAKER_01:  Was war denn jetzt gelogen?
+00:20:34 - 00:20:35 - Sprecher SPEAKER_01:  Hast du einen Bruder oder nicht?
+00:20:35 - 00:20:37 - Sprecher SPEAKER_01:  Ich hab keinen Bruder.
+00:20:37 - 00:20:37 - Sprecher SPEAKER_01:  Nö.
+00:20:37 - 00:20:38 - Sprecher SPEAKER_01:  Wieso sagst du das dann?
+00:20:38 - 00:20:40 - Sprecher SPEAKER_04:  Hä, weil Herr Nussbaum so getan hat,
+00:20:40 - 00:20:42 - Sprecher SPEAKER_04:  als wenn er natürlich alles weiß im Norden.
+00:20:42 - 00:20:44 - Sprecher SPEAKER_04:  Er ist auch gestresst.
+00:20:45 - 00:20:47 - Sprecher SPEAKER_04:  Und dann lügst du mich an?
+00:20:47 - 00:20:47 - Sprecher SPEAKER_04:  Na, weil...
+00:20:47 - 00:20:47 - Sprecher SPEAKER_04: 
+00:20:47 - 00:20:50 - Sprecher SPEAKER_04:  Was soll ich denn machen, wenn Herr Nussbaum mir sagt,
+00:20:50 - 00:20:51 - Sprecher SPEAKER_04:  ey, ey, du sollst jetzt...
+00:20:51 - 00:20:54 - Sprecher SPEAKER_04:  Du lügst jetzt an, dann fliegst du raus und so.
+00:20:56 - 00:20:57 - Sprecher SPEAKER_04:  Dann muss ich das doch machen.
+00:20:57 - 00:20:58 - Sprecher SPEAKER_04:  Ey, sowas ist super beschissen.
+00:21:00 - 00:21:01 - Sprecher SPEAKER_01:  Ich weiß.
+00:21:01 - 00:21:03 - Sprecher SPEAKER_01:  Du tust das also einfach, weil andere dir das sagen,
+00:21:03 - 00:21:04 - Sprecher SPEAKER_01:  dass das du lügen sollst.
+00:21:04 - 00:21:05 - Sprecher SPEAKER_01:  Dann machst du das einfach.
+00:21:05 - 00:21:06 - Sprecher SPEAKER_01:  Okay, alles klar.
+00:21:07 - 00:21:08 - Sprecher SPEAKER_01:  Nein, mach ich nicht.
+00:21:08 - 00:21:09 - Sprecher SPEAKER_01:  Eigentlich nicht.
+00:21:13 - 00:21:15 - Sprecher SPEAKER_04:  Nur da war es halt so eine Kleinigkeit.
+00:21:16 - 00:21:16 - Sprecher SPEAKER_04:  Das war ja nichts Schlimmes.
+00:21:17 - 00:21:17 - Sprecher SPEAKER_04:  Ja.
+00:21:18 - 00:21:20 - Sprecher SPEAKER_04:  Hat ja niemanden verletzt oder so.
+00:21:20 - 00:21:22 - Sprecher SPEAKER_04:  Na ja, ich habe den ganzen Abend schon drüber nachgedacht,
+00:21:22 - 00:21:25 - Sprecher SPEAKER_01:  weil ich das nicht wusste über dich und mir das irgendwie
+00:21:25 - 00:21:26 - Sprecher SPEAKER_01:  ein bisschen Kopfzerbrechen gemacht habe,
+00:21:27 - 00:21:28 - Sprecher SPEAKER_01:  weil ich mich die ganze Zeit gefragt habe,
+00:21:28 - 00:21:29 - Sprecher SPEAKER_01:  habe ich das mir einfach nur nicht gemerkt
+00:21:30 - 00:21:32 - Sprecher SPEAKER_01:  oder hast du es mir nie erzählt oder was ist jetzt los?
+00:21:33 - 00:21:36 - Sprecher SPEAKER_01:  Und wieso leidest du darunter oder leidest nicht darunter?
+00:21:36 - 00:21:37 - Sprecher SPEAKER_01:  Keine Ahnung.
+00:21:37 - 00:21:39 - Sprecher SPEAKER_01:  Das hat mir schon ganz schön Kopfzerbrechen bereitet.
+00:21:39 - 00:21:41 - Sprecher SPEAKER_01:  Und jetzt sagst du mir einfach, dass du mich angelogen hast.
+00:21:41 - 00:21:42 - Sprecher SPEAKER_04:  Es tut mir leid, Fritzi.
+00:21:42 - 00:21:43 - Sprecher SPEAKER_04:  Was soll ich sagen?
+00:21:45 - 00:21:46 - Sprecher SPEAKER_01:  Na ja, nichts.
+00:21:46 - 00:21:46 - Sprecher SPEAKER_01:  Alles gut.
+00:21:46 - 00:21:47 - Sprecher SPEAKER_01:  Dann...
+00:21:48 - 00:21:50 - Sprecher SPEAKER_04:  Ich habe es doch jetzt aufgeklärt.
+00:21:50 - 00:21:51 - Sprecher SPEAKER_01:  Na ja, ja, alles gut.
+00:21:51 - 00:21:52 - Sprecher SPEAKER_01:  Ich wollte...
+00:21:53 - 00:21:54 - Sprecher SPEAKER_01:  Das ist dein Ding.
+00:21:54 - 00:21:55 - Sprecher SPEAKER_01:  Du kannst mir sagen, was du willst,
+00:21:55 - 00:21:59 - Sprecher SPEAKER_01:  aber dann kann ich das vielleicht auch alles so ein bisschen besser einschätzen, Earl.
+00:22:00 - 00:22:00 - Sprecher SPEAKER_05:  Mhm.
+00:22:06 - 00:22:07 - Unbekannt:  Oh.
+00:22:11 - 00:22:13 - Sprecher SPEAKER_04:  Und was ist bei dir los?
+00:22:13 - 00:22:14 - Sprecher SPEAKER_04:  Wie geht es dir?
+00:22:15 - 00:22:16 - Sprecher SPEAKER_01:  Bei mir ist alles gut.
+00:22:16 - 00:22:17 - Sprecher SPEAKER_01:  Super gut.
+00:22:17 - 00:22:25 - Sprecher SPEAKER_01:  Viel Arbeit die letzten Tage, aber ich glaube, die meisten Dinge laufen gerade ganz gut.
+00:22:26 - 00:22:27 - Sprecher SPEAKER_04:  Das ist schön.
+00:22:27 - 00:22:30 - Sprecher SPEAKER_04:  Jetzt habe ich auch gerade das Gefühl, um echt zu sein.
+00:22:32 - 00:22:36 - Sprecher SPEAKER_04:  Derjenige, der Stress im Taxi gemacht hat, ist gerade krank.
+00:22:37 - 00:22:38 - Sprecher SPEAKER_04:  Das Leben ist gut.
+00:22:41 - 00:22:42 - Sprecher SPEAKER_01:  Das freut mich, Earl.
+00:22:43 - 00:22:43 - Sprecher SPEAKER_01:  Mhm.
+00:22:44 - 00:22:47 - Sprecher SPEAKER_01:  Und die Sache, wegen der du letztens so aufgebracht warst?
+00:22:49 - 00:22:52 - Sprecher SPEAKER_04:  Ich konnte das ein bisschen einordnen jetzt.
+00:22:54 - 00:22:58 - Sprecher SPEAKER_04:  Ich habe keine Ahnung, ob es eine Lüge war oder nicht, aber es könnte sein, dass es
+00:22:58 - 00:22:59 - Sprecher SPEAKER_04:  auch eine Lüge...
+00:22:59 - 00:23:02 - Sprecher SPEAKER_04:  Also, dass ich angelogen wurde von der Person, die mir das gesagt hat.
+00:23:03 - 00:23:06 - Sprecher SPEAKER_01:  Na ja, aber darum ging es dir doch, ob es eine Lüge war oder nicht.
+00:23:06 - 00:23:06 - Sprecher SPEAKER_01:  Mhm.
+00:23:06 - 00:23:07 - Sprecher SPEAKER_04:  Und wahrscheinlich...
+00:23:07 - 00:23:08 - Sprecher SPEAKER_04:  Also, ich weiß...
+00:23:08 - 00:23:09 - Sprecher SPEAKER_04:  Ja, aber ich habe...
+00:23:09 - 00:23:09 - Sprecher SPEAKER_01:  Ich konnte...
+00:23:09 - 00:23:15 - Sprecher SPEAKER_01:  Ich habe mehr Einblick bekommen und dadurch konnte ich mir eine Meinung bilden.
+00:23:16 - 00:23:19 - Sprecher SPEAKER_01:  Und die Meinung, die du dir gebildet hast, reicht dir aus?
+00:23:20 - 00:23:20 - Sprecher SPEAKER_01:  Mhm, genau.
+00:23:20 - 00:23:21 - Sprecher SPEAKER_01:  Okay, dann ist gut.
+00:23:32 - 00:23:33 - Sprecher SPEAKER_04:  Ja, das war...
+00:23:33 - 00:23:34 - Sprecher SPEAKER_04:  Das ist...
+00:23:34 - 00:23:35 - Sprecher SPEAKER_04:  Ich bin...
+00:23:35 - 00:23:37 - Sprecher SPEAKER_04:  Ich bin auch gut in so Sachen.
+00:23:37 - 00:23:38 - Sprecher SPEAKER_04:  Also, ich kann...
+00:23:39 - 00:23:41 - Sprecher SPEAKER_04:  Ich bin auch gut in so was.
+00:23:42 - 00:23:43 - Sprecher SPEAKER_01:  Habe ich nie angezweifelt.
+00:23:46 - 00:23:50 - Sprecher SPEAKER_04:  Vielleicht bin ich nicht so schnell, aber trotzdem, es hat jetzt auch nur ein Wochenende
+00:23:50 - 00:23:51 - Sprecher SPEAKER_04:  gedauert oder so.
+00:23:52 - 00:23:53 - Sprecher SPEAKER_01:  Na ja, dann ist doch super.
+00:23:55 - 00:23:56 - Sprecher SPEAKER_04:  Mhm.
+00:24:01 - 00:24:04 - Sprecher SPEAKER_04:  Nein, aber ich habe ja gesagt, ich war ja das Wochenende jetzt nicht da, es war super
+00:24:04 - 00:24:05 - Sprecher SPEAKER_04:  schön, das Wochenende.
+00:24:06 - 00:24:07 - Sprecher SPEAKER_04:  Hatte super viel Spaß.
+00:24:08 - 00:24:08 - Sprecher SPEAKER_04:  Ja.
+00:24:08 - 00:24:09 - Sprecher SPEAKER_01:  Ja, aber wie war das, das Wochenende?
+00:24:09 - 00:24:09 - Sprecher SPEAKER_01: 
+00:24:09 - 00:24:13 - Sprecher SPEAKER_01:  Ach du hast das dann aus San Francisco raus ausrecherchiert oder was?
+00:24:13 - 00:24:18 - Sprecher SPEAKER_04:  Nö, ich habe das heute und am Donnerstag recherchiert.
+00:24:18 - 00:24:20 - Sprecher SPEAKER_04:  Wir hatten doch am Mittwoch gequatscht, oder?
+00:24:20 - 00:24:22 - Sprecher SPEAKER_04:  Ich komme komplett aus der...
+00:24:22 - 00:24:23 - Sprecher SPEAKER_04:  Ja, machen wir ein, dass das Mittwoch war.
+00:24:23 - 00:24:25 - Sprecher SPEAKER_01:  Ich glaube, es war Mittwoch.
+00:24:25 - 00:24:26 - Sprecher SPEAKER_01:  Ich glaube auch, es war Mittwoch.
+00:24:30 - 00:24:32 - Sprecher SPEAKER_04:  Auf jeden Fall habe ich es jetzt schon rausgefunden, ja.
+00:24:32 - 00:24:34 - Sprecher SPEAKER_01:  Mhm, kann ich verstehen.
+00:24:34 - 00:24:36 - Sprecher SPEAKER_01:  Na ja, das freut mich für dich, Earl.
+00:24:36 - 00:24:37 - Sprecher SPEAKER_01:  Mhm.
+00:24:38 - 00:24:38 - Unbekannt:  Das hat mir auch gut gefallen.
+00:24:38 - 00:24:38 - Unbekannt: 
+00:24:38 - 00:24:38 - Unbekannt: 
+00:24:38 - 00:24:38 - Unbekannt: 
+00:24:38 - 00:24:38 - Unbekannt: 
+00:24:44 - 00:24:48 - Sprecher SPEAKER_01:  Kennst du diese Geschichte, wo das Kind immer Feuer ruft?
+00:24:50 - 00:24:51 - Sprecher SPEAKER_04:  Nö, was für ein Kind?
+00:24:52 - 00:24:57 - Sprecher SPEAKER_01:  Ja, da ruft doch das Kind immer Feuer, Feuer, Feuer und dann kommen alle angerannt, aber es ist gar kein Feuer.
+00:24:59 - 00:25:00 - Sprecher SPEAKER_04:  Nö, kenn ich nicht.
+00:25:00 - 00:25:10 - Sprecher SPEAKER_04:  Okay, es gibt ein Kind, das ruft immer Feuer und dann kommen alle aus dem ganzen Dorf und dann gibt es gar kein Feuer und das Kind lacht und sagt, haha, verarscht.
+00:25:11 - 00:25:18 - Sprecher SPEAKER_04:  Und am nächsten Tag ruft das Kind wieder Feuer, Feuer, Feuer und alle kommen angerannt und das Kind lacht wieder und sagt, haha, nur verarscht, gibt es gar kein Feuer.
+00:25:19 - 00:25:29 - Sprecher SPEAKER_01:  Naja, und irgendwann fackelt das ganze Haus ab, wo das Kind drin ist und es ruft Feuer, Feuer, Feuer, aber niemand kommt mehr und das ganze Kind fackelt ab und schreit und schreit Feuer, Feuer.
+00:25:29 - 00:25:32 - Sprecher SPEAKER_01:  Und irgendwann hört man seine Schreie nicht mehr, weil es verbrannt ist.
+00:25:33 - 00:25:33 - Sprecher SPEAKER_01:  Oh Gott.
+00:25:35 - 00:25:40 - Sprecher SPEAKER_01:  Naja, und niemand ist gekommen, weil die Male davor nie Feuer war.
+00:25:43 - 00:25:44 - Sprecher SPEAKER_04:  Ja.
+00:25:45 - 00:25:48 - Sprecher SPEAKER_01:  Ja, ist eine krasse Geschichte, da muss ich manchmal dran denken.
+00:25:51 - 00:25:56 - Sprecher SPEAKER_04:  Ja, man sollte nie zu oft eine Lüge erzählen, weil dann glaubt man einem nicht mehr.
+00:25:56 - 00:25:59 - Sprecher SPEAKER_01:  Naja, klar, das kannst du auf super viele Sachen beziehen.
+00:25:59 - 00:25:59 - Sprecher SPEAKER_01:  Du solltest nie...
+00:25:59 - 00:26:02 - Sprecher SPEAKER_01:  ...Lügen erzählen, sonst glaubt einem irgendwann nicht mehr.
+00:26:02 - 00:26:03 - Sprecher SPEAKER_01:  Das ist eine Sache.
+00:26:03 - 00:26:05 - Sprecher SPEAKER_01:  Man sollte nichts behaupten, was nicht da ist.
+00:26:05 - 00:26:07 - Sprecher SPEAKER_01:  Oder man sollte...
+00:26:07 - 00:26:11 - Sprecher SPEAKER_01:  Naja, ich finde das ist auch super gut irgendwie auf...
+00:26:11 - 00:26:14 - Sprecher SPEAKER_01:  ...so, naja, wie nennt man das, anzuwenden darauf, dass...
+00:26:17 - 00:26:18 - Sprecher SPEAKER_01:  ...man...
+00:26:18 - 00:26:22 - Sprecher SPEAKER_01:  Naja, weißt du, zum Beispiel heute habe ich mit jemandem geredet, der hat die ganze Zeit...
+00:26:23 - 00:26:27 - Sprecher SPEAKER_01:  ...hat er mir immer gesagt so, oh, ich weiß was, was du nicht weißt, Fritzi.
+00:26:27 - 00:26:28 - Sprecher SPEAKER_01:  Ich weiß was, was du nicht weißt.
+00:26:28 - 00:26:29 - Sprecher SPEAKER_01:  Rat mal, was es ist.
+00:26:29 - 00:26:30 - Sprecher SPEAKER_01:  Rat mal, was es ist.
+00:26:30 - 00:26:33 - Sprecher SPEAKER_01:  Und ich hab die ganze Zeit gesagt, keine Ahnung, ich kenn dich nicht, was soll ich raten, was es ist.
+00:26:33 - 00:26:35 - Sprecher SPEAKER_01:  Ich hab keine Ahnung, es könnte alles sein auf der Welt.
+00:26:36 - 00:26:36 - Sprecher SPEAKER_04:  Ja.
+00:26:37 - 00:26:38 - Sprecher SPEAKER_04:  Er hat einfach gesagt, rate, rate, rate.
+00:26:42 - 00:26:43 - Sprecher SPEAKER_01:  Naja, auf sowas hab ich keinen Bock.
+00:26:43 - 00:26:47 - Sprecher SPEAKER_01:  Ich hör mir doch nicht irgendwie tausend Jahre an, dass ich irgendwie was raten soll.
+00:26:49 - 00:26:50 - Sprecher SPEAKER_04:  Ja, verstehe ich.
+00:26:51 - 00:26:53 - Sprecher SPEAKER_01:  Und da musste ich irgendwie wieder an dieses Kind mit dem Feuer denken.
+00:26:58 - 00:26:58 - Sprecher SPEAKER_04:  Okay.
+00:26:59 - 00:27:02 - Sprecher SPEAKER_04:  Ich bin nicht dieses Kind im Feuer, oder? Nur weil ich dich heute einmal angelogen hab.
+00:27:03 - 00:27:05 - Sprecher SPEAKER_04:  Das hat doch gar nichts mit den Lügen zu tun, Quatsch.
+00:27:05 - 00:27:08 - Sprecher SPEAKER_04:  Okay, ich war voll verwirrt, ich bin voll verwirrt.
+00:27:08 - 00:27:09 - Sprecher SPEAKER_01:  Nein.
+00:27:10 - 00:27:12 - Sprecher SPEAKER_01:  Wollt ihr nur grad erzählen, dass ich daran denken musste.
+00:27:13 - 00:27:16 - Sprecher SPEAKER_04:  Hab mich nur grad da drin wieder gesehen, um ehrlich zu sein.
+00:27:16 - 00:27:17 - Sprecher SPEAKER_04:  Wegen dem Lügen?
+00:27:18 - 00:27:19 - Sprecher SPEAKER_01:  Mhm, weißt du mir das?
+00:27:19 - 00:27:21 - Sprecher SPEAKER_01:  Nee, wegen dem Lügen solltest du dich nicht da drin sehen, Öl.
+00:27:22 - 00:27:22 - Sprecher SPEAKER_04:  Okay.
+00:27:23 - 00:27:23 - Unbekannt:  Okay.
+00:27:26 - 00:27:28 - Sprecher SPEAKER_04:  Warum soll ich mich denn sonst da drin sehen?
+00:27:29 - 00:27:30 - Sprecher SPEAKER_01:  Weiß ich nicht.
+00:27:30 - 00:27:32 - Sprecher SPEAKER_01:  Solltest du dich da drin sehen?
+00:27:32 - 00:27:33 - Sprecher SPEAKER_01:  Findest du, du solltest dich da drin sehen gerade?
+00:27:34 - 00:27:34 - Sprecher SPEAKER_01:  Hä?
+00:27:35 - 00:27:35 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:27:36 - 00:27:36 - Sprecher SPEAKER_04:  Nö.
+00:27:37 - 00:27:37 - Sprecher SPEAKER_04:  Hoffe nicht.
+00:27:39 - 00:27:41 - Sprecher SPEAKER_01:  Hast du irgendwas gemacht von den Sachen, die ich grad beschrieben hab?
+00:27:42 - 00:27:47 - Sprecher SPEAKER_04:  Naja, ich hab das mit, ja, das, was ich dir letztens erzählt hatte halt und so.
+00:27:47 - 00:27:49 - Sprecher SPEAKER_04:  Und wo ich deine Meinung dazu brauchte.
+00:27:49 - 00:27:52 - Sprecher SPEAKER_04:  Wie du Informationen, naja, richtig einordnest.
+00:27:53 - 00:27:54 - Sprecher SPEAKER_04:  Naja, du wolltest ja gar keine Meinung von mir.
+00:27:54 - 00:27:58 - Sprecher SPEAKER_01:  Du hast einfach nur erzählt, was ist und mir dann tausendmal gesagt, dass du es mir nicht sagen kannst.
+00:27:58 - 00:27:59 - Sprecher SPEAKER_01:  Und dass du es mir nicht sagen kannst.
+00:27:59 - 00:27:59 - Sprecher SPEAKER_01:  Und dass du es mir nicht sagen kannst.
+00:27:59 - 00:27:59 - Sprecher SPEAKER_01: 
+00:27:59 - 00:27:59 - Sprecher SPEAKER_01: 
+00:27:59 - 00:27:59 - Sprecher SPEAKER_01: 
+00:27:59 - 00:28:00 - Sprecher SPEAKER_01:  Und dass du mir vielleicht sagst, aber du weißt es noch nicht.
+00:28:00 - 00:28:03 - Sprecher SPEAKER_01:  Und dass du eine Nacht drüber nachdenkst und mir am nächsten Tag Bescheid sagst.
+00:28:03 - 00:28:05 - Sprecher SPEAKER_01:  Dann hast du nie wieder Bescheid gesagt und auch irgendwie gar nichts gemacht.
+00:28:05 - 00:28:06 - Sprecher SPEAKER_01:  Also...
+00:28:07 - 00:28:08 - Sprecher SPEAKER_04:  Es tut mir leid.
+00:28:08 - 00:28:09 - Sprecher SPEAKER_04:  Ich erzähl mir um.
+00:28:09 - 00:28:10 - Sprecher SPEAKER_04:  Dafür musst du dich doch nicht entschuldigen.
+00:28:10 - 00:28:11 - Sprecher SPEAKER_01:  Das ist doch dein Ding, Al.
+00:28:12 - 00:28:13 - Sprecher SPEAKER_01:  Du kannst Sachen machen, wie du willst.
+00:28:13 - 00:28:19 - Sprecher SPEAKER_01:  Ich meine, am Ende des Tages hat dir ja das Gespräch anscheinend doch irgendwas geholfen oder nicht geholfen.
+00:28:19 - 00:28:20 - Sprecher SPEAKER_01:  Keine Ahnung.
+00:28:21 - 00:28:22 - Sprecher SPEAKER_01:  Es hat mir geholfen.
+00:28:25 - 00:28:27 - Sprecher SPEAKER_04:  Auf jeden Fall hat es mir geholfen.
+00:28:28 - 00:28:28 - Sprecher SPEAKER_04:  Das...
+00:28:28 - 00:28:29 - Sprecher SPEAKER_04:  Das...
+00:28:29 - 00:28:30 - Sprecher SPEAKER_04:  Hey.
+00:28:30 - 00:28:33 - Sprecher SPEAKER_04:  Es gefühlt nur ein bisschen frustrierend, wenn du mir super viele Sachen erzählst,
+00:28:33 - 00:28:36 - Sprecher SPEAKER_01:  dann aber irgendwie nicht so ganz mit der Sprache rausdrücken möchtest
+00:28:36 - 00:28:40 - Sprecher SPEAKER_01:  und dann heute mich auch noch anlügst, weil du sagst, du hättest einen Bruder, den du nicht hast.
+00:28:40 - 00:28:43 - Sprecher SPEAKER_01:  Das ist irgendwie so eine Kombination, die mir allgemein ein ungutes Gefühl gibt
+00:28:43 - 00:28:45 - Sprecher SPEAKER_01:  und ich verstehe nicht, womit ich das verdient habe.
+00:28:46 - 00:28:46 - Sprecher SPEAKER_04:  Ja, okay.
+00:28:46 - 00:28:47 - Sprecher SPEAKER_04:  Ich sag dir ein bisschen mehr.
+00:28:48 - 00:28:48 - Sprecher SPEAKER_04:  Ich sag aber nicht...
+00:28:48 - 00:28:49 - Sprecher SPEAKER_04:  Ich nenn keinen Namen, okay?
+00:28:51 - 00:28:55 - Sprecher SPEAKER_04:  Mir wurde gesagt, dass jemand einen Mord gemacht hat.
+00:28:55 - 00:28:56 - Sprecher SPEAKER_04:  Zudritt.
+00:28:56 - 00:28:57 - Sprecher SPEAKER_04:  Naja, das hab ich mir schon gedacht.
+00:28:59 - 00:29:03 - Sprecher SPEAKER_04:  Und eine Person ist halt involviert, die interessant war für mich.
+00:29:03 - 00:29:07 - Sprecher SPEAKER_04:  Und deswegen wurde ich hellhörig.
+00:29:07 - 00:29:11 - Sprecher SPEAKER_04:  Aber mir wurden noch mehr Sachen gesagt darüber, über die Person und so.
+00:29:12 - 00:29:14 - Sprecher SPEAKER_04:  Und ein paar Sachen stimmten auch, auf jeden Fall.
+00:29:14 - 00:29:15 - Sprecher SPEAKER_04:  Das wusste ich schon.
+00:29:17 - 00:29:19 - Sprecher SPEAKER_04:  Deswegen war es schwer einzuhalten.
+00:29:19 - 00:29:20 - Sprecher SPEAKER_04:  Weil ich meine, das ist halt...
+00:29:21 - 00:29:27 - Sprecher SPEAKER_04:  Ich meine, nur vorzuwerfen, dass jemand ermordet wurde und dies ist immer nicht so leicht.
+00:29:28 - 00:29:35 - Sprecher SPEAKER_04:  Und ich muss das halt richtig einordnen, zu was diese Person in der Lage ist.
+00:29:36 - 00:29:39 - Sprecher SPEAKER_01:  Und hast du einordnen können, zu was die Person in der Lage ist?
+00:29:40 - 00:29:41 - Sprecher SPEAKER_04:  Ich glaub schon, ja.
+00:29:43 - 00:29:45 - Sprecher SPEAKER_04:  Ich glaub, die ist zu allem in der Lage.
+00:29:48 - 00:29:50 - Sprecher SPEAKER_04:  Und das ist nicht gut.
+00:29:53 - 00:29:56 - Sprecher SPEAKER_01:  Weil du mit der Person in irgendeiner Art und Weise Kontakt hast?
+00:29:56 - 00:29:57 - Sprecher SPEAKER_04:  Mhm, genau.
+00:29:58 - 00:30:00 - Sprecher SPEAKER_01:  Warum hast du mit solchen Personen Kontakt?
+00:30:01 - 00:30:03 - Sprecher SPEAKER_01:  Ach, ich weiß nicht.
+00:30:03 - 00:30:06 - Sprecher SPEAKER_04:  Es ist ganz verzwickt einfach.
+00:30:06 - 00:30:07 - Sprecher SPEAKER_04:  Ich hab mit vielen Leuten Kontakt.
+00:30:08 - 00:30:09 - Sprecher SPEAKER_04:  Ich kenne viele Leute.
+00:30:18 - 00:30:20 - Sprecher SPEAKER_04:  Und viele Leute...
+00:30:20 - 00:30:22 - Sprecher SPEAKER_04:  Ja, keine Ahnung. Ich bin halt Taxifahrer.
+00:30:22 - 00:30:23 - Sprecher SPEAKER_04:  Ich hab halt mit vielen Leuten Kontakt.
+00:30:23 - 00:30:25 - Sprecher SPEAKER_04:  Und dann werde ich angesprochen und...
+00:30:26 - 00:30:26 - Sprecher SPEAKER_04:  Schubsdiwups.
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04:  Schubsdiwups.
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04:  Schubsdiwups.
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:27 - Sprecher SPEAKER_04: 
+00:30:27 - 00:30:28 - Sprecher SPEAKER_04:  Dann krieg ich ihn in irgendeiner Klemme.
+00:30:35 - 00:30:40 - Sprecher SPEAKER_04:  Und deswegen muss ich immer ganz genau drüber nachdenken, was ich erzähle und was nicht.
+00:30:40 - 00:30:41 - Sprecher SPEAKER_04:  Weißt du, Fritzi?
+00:30:41 - 00:30:42 - Sprecher SPEAKER_04:  Das ist einfach nicht leicht.
+00:30:43 - 00:30:45 - Sprecher SPEAKER_04:  Ich bin auch nicht so gut darin.
+00:30:45 - 00:30:48 - Sprecher SPEAKER_04:  Und ich will auch keine Lügen erzählen, weil Lügen sind scheiße.
+00:30:48 - 00:30:52 - Sprecher SPEAKER_04:  Aber manchmal drängt mich ein Nussbaum irgendwie so ein bisschen in die Richtung.
+00:30:53 - 00:30:55 - Sprecher SPEAKER_01:  Ich geb dir einen Tipp, was...
+00:30:56 - 00:30:57 - Sprecher SPEAKER_01:  Sachen erzählen angeht.
+00:30:57 - 00:30:58 - Sprecher SPEAKER_01:  Ja.
+00:30:58 - 00:31:01 - Sprecher SPEAKER_01:  Den weißt du vielleicht selber, aber ich sprech ihn nochmal aus.
+00:31:04 - 00:31:11 - Sprecher SPEAKER_01:  Es geht hauptsächlich darum, dass du dir Gedanken darüber machen solltest, wem du die Dinge erzählst und nicht, ob du die Dinge erzählst.
+00:31:13 - 00:31:13 - Sprecher SPEAKER_05:  Mhm.
+00:31:19 - 00:31:24 - Sprecher SPEAKER_04:  Ja, aber eigentlich weiß ich, wem ich was erzähle und wem nicht.
+00:31:25 - 00:31:26 - Sprecher SPEAKER_01:  Dann ist doch gut.
+00:31:26 - 00:31:27 - Sprecher SPEAKER_01:  Gut.
+00:31:27 - 00:31:28 - Sprecher SPEAKER_04:  Erzähl auch nicht alles.
+00:31:28 - 00:31:31 - Sprecher SPEAKER_04:  Man muss immer noch einen Ass im Ärmel haben.
+00:31:31 - 00:31:34 - Sprecher SPEAKER_01:  Für was glaubst du, könntest du einen Ass im Ärmel brauchen?
+00:31:35 - 00:31:36 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:31:36 - 00:31:37 - Sprecher SPEAKER_04:  Ist so ein Gefühl.
+00:31:38 - 00:31:40 - Sprecher SPEAKER_04:  Ist einfach gut, was zu haben noch.
+00:31:40 - 00:31:42 - Sprecher SPEAKER_04:  Was vielleicht wichtig ist.
+00:31:43 - 00:31:44 - Sprecher SPEAKER_01:  Und was würdest du sagen?
+00:31:44 - 00:31:46 - Sprecher SPEAKER_01:  Ist dein größtes Ass im Ärmel?
+00:31:46 - 00:31:47 - Sprecher SPEAKER_04:  Kann ich nicht sagen.
+00:31:48 - 00:31:49 - Sprecher SPEAKER_04:  Sonst wäre es ja kein Ass im Ärmel, oder?
+00:31:50 - 00:31:50 - Sprecher SPEAKER_04:  Ja, natürlich nicht.
+00:31:50 - 00:31:53 - Sprecher SPEAKER_01:  Ich dachte gerade sowas, sowas wie, weiß ich nicht.
+00:31:53 - 00:31:56 - Sprecher SPEAKER_01:  Dass du mir antwortest sowas wie, eine Person oder...
+00:31:58 - 00:32:00 - Sprecher SPEAKER_01:  Bogenkar, in den ich mich einschließe.
+00:32:01 - 00:32:03 - Sprecher SPEAKER_04:  Was ist das so cool, hätte ich einen Bogenkar?
+00:32:04 - 00:32:06 - Sprecher SPEAKER_04:  Ne, ich habe einen eigenen, um ehrlich zu sein.
+00:32:06 - 00:32:09 - Sprecher SPEAKER_04:  Ich habe nicht so viele Asse im Ärmel.
+00:32:09 - 00:32:14 - Sprecher SPEAKER_04:  Das ist eher so, keine Ahnung, Kleinigkeiten, dass ich einfach vielleicht den noch beschlichtigen kann, weißt du?
+00:32:15 - 00:32:18 - Sprecher SPEAKER_01:  Was glaubst du, wäre das beste Ass im Ärmel, was man haben kann, Earl?
+00:32:21 - 00:32:22 - Sprecher SPEAKER_04:  Hm.
+00:32:23 - 00:32:26 - Sprecher SPEAKER_04:  Das beste Ass im Ärmel sind Menschen, die einem helfen.
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04:  Kennst du das?
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:27 - Sprecher SPEAKER_04: 
+00:32:27 - 00:32:29 - Sprecher SPEAKER_04:  Fahrt auf Fahrt, komm, glaube ich.
+00:32:32 - 00:32:41 - Sprecher SPEAKER_04:  Weil Menschen, also Menschen, die einem mögen und helfen und man sich gegenseitig hilft, ist wahrscheinlich das Wichtigste.
+00:32:42 - 00:32:43 - Sprecher SPEAKER_01:  Ist es auch das Hilfreicheste?
+00:32:44 - 00:32:46 - Sprecher SPEAKER_04:  Ich glaube schon, ja.
+00:32:46 - 00:32:48 - Sprecher SPEAKER_01:  Was müsste so ein Ass im Ärmel Mensch können?
+00:32:52 - 00:32:55 - Sprecher SPEAKER_04:  Alles, was nötig ist, um mir aus der Post zu helfen.
+00:32:57 - 00:32:57 - Sprecher SPEAKER_01:  Was ist das beste?
+00:32:57 - 00:32:58 - Sprecher SPEAKER_01:  Was für Patschen denn?
+00:32:59 - 00:33:00 - Sprecher SPEAKER_04:  Keine Ahnung.
+00:33:01 - 00:33:05 - Sprecher SPEAKER_01:  Wieso antworten mir eigentlich alle Menschen heute immer nur keine Ahnung?
+00:33:05 - 00:33:08 - Sprecher SPEAKER_01:  Jeder, mit dem ich heute rede, hat keine Ahnung über das, was er sagt.
+00:33:08 - 00:33:11 - Sprecher SPEAKER_01:  Er sagt irgendwas, dann frage ich nach und die Leute antworten mir nur keine Ahnung.
+00:33:11 - 00:33:13 - Sprecher SPEAKER_01:  Ich darf mich kurz überlegen, okay, Fritzi?
+00:33:13 - 00:33:14 - Sprecher SPEAKER_04:  Tut mir leid.
+00:33:20 - 00:33:25 - Sprecher SPEAKER_04:  Stell dir vor, ich werde bedroht von jemandem in der Gasse oder so.
+00:33:26 - 00:33:27 - Sprecher SPEAKER_04:  Und die Person...
+00:33:27 - 00:33:31 - Sprecher SPEAKER_04:  Die Person muss mir helfen können, aus dieser Situation rauszukommen.
+00:33:31 - 00:33:33 - Sprecher SPEAKER_04:  Dass ich heil rauskomme.
+00:33:33 - 00:33:42 - Sprecher SPEAKER_04:  Vielleicht im besten Fall, ohne dass ich 10.000 Dollar zahlen muss, verletzt bin oder sonst was machen muss.
+00:33:42 - 00:33:45 - Sprecher SPEAKER_01:  Also müsste diese Person dich rund um die Uhr beschatten.
+00:33:47 - 00:33:53 - Sprecher SPEAKER_04:  Hm, nein, so ein, eher so ein, so ein am richtigen Ort zur richtigen Zeit Ding ist das, glaube ich.
+00:33:54 - 00:33:56 - Sprecher SPEAKER_04:  Deswegen braucht man eigentlich viele Leute.
+00:33:57 - 00:34:04 - Sprecher SPEAKER_04:  Ja, aber ich bin ja jemand, ich bin komisch rum und so.
+00:34:05 - 00:34:11 - Sprecher SPEAKER_04:  Und wenn ich viele Leute hätte, dann wäre das schon cool irgendwie, die mir helfen würden, wenn es hart auf hart kommt.
+00:34:11 - 00:34:13 - Sprecher SPEAKER_04:  Halt in so einer Situation.
+00:34:13 - 00:34:14 - Sprecher SPEAKER_04:  Du weißt gar nicht, wie kacke das ist.
+00:34:14 - 00:34:19 - Sprecher SPEAKER_04:  Ja, wenn es hart auf hart kommt, ist es auch hier wieder, da bräuchtest du nur die richtigen Leute.
+00:34:20 - 00:34:20 - Sprecher SPEAKER_05:  Mhm.
+00:34:23 - 00:34:23 - Sprecher SPEAKER_01:  Hm.
+00:34:23 - 00:34:23 - Sprecher SPEAKER_05:  Hm.
+00:34:27 - 00:34:29 - Sprecher SPEAKER_04:  Was ist denn für dich ein Ass im Ärmel?
+00:34:31 - 00:34:32 - Sprecher SPEAKER_01:  Ein Ass im Ärmel für mich?
+00:34:33 - 00:34:33 - Sprecher SPEAKER_04:  Mhm.
+00:34:35 - 00:34:36 - Sprecher SPEAKER_01:  Ich habe kein Ass im Ärmel.
+00:34:39 - 00:34:41 - Sprecher SPEAKER_04:  Aber bist du denn nicht schutzlos, irgendwie so?
+00:34:43 - 00:34:46 - Sprecher SPEAKER_01:  Nein, ich versuche so zu arbeiten, dass ich nie ein Ass im Ärmel brauche.
+00:34:46 - 00:34:49 - Sprecher SPEAKER_01:  Weil wenn ich ein Ass im Ärmel brauche, heißt das, dass ich Fehler begangen habe.
+00:34:50 - 00:34:51 - Sprecher SPEAKER_01:  Wie machst du das?
+00:34:51 - 00:34:55 - Sprecher SPEAKER_01:  Ich, ich mache auch, ich mache, ich mache gar nicht so viele Fehler, okay?
+00:34:55 - 00:34:56 - Sprecher SPEAKER_04:  Ich mache manchmal Fehler, ja klar.
+00:34:57 - 00:35:04 - Sprecher SPEAKER_04:  Aber selbst wenn ich keinen Fehler mache, habe ich das Gefühl, ja komm, komm, jetzt bist du dran oder so.
+00:35:05 - 00:35:07 - Sprecher SPEAKER_04:  Ich bügel oftmals Fehler auch von anderen Leuten aus.
+00:35:09 - 00:35:16 - Sprecher SPEAKER_04:  Und wenn ich sage, das ist nicht mein Fehler, dann sagen die, ist mir doch egal, du bist der Einzige, der jetzt da ist, deswegen bügst du den Fehler aus.
+00:35:23 - 00:35:23 - Sprecher SPEAKER_01:  Hm.
+00:35:26 - 00:35:27 - Sprecher SPEAKER_01:  Ja, das ist super schwierig.
+00:35:27 - 00:35:28 - Sprecher SPEAKER_01:  Dann.
+00:35:28 - 00:35:30 - Sprecher SPEAKER_01:  Da kannst du ja dann sozusagen gar nichts dafür.
+00:35:31 - 00:35:31 - Sprecher SPEAKER_01:  Genau.
+00:35:32 - 00:35:34 - Sprecher SPEAKER_01:  Siehst du, das ist der Unterschied.
+00:35:34 - 00:35:36 - Sprecher SPEAKER_01:  Für meine Fehler kann ich immer was.
+00:35:38 - 00:35:38 - Sprecher SPEAKER_04:  Echt?
+00:35:39 - 00:35:41 - Sprecher SPEAKER_04:  Machst du viele Fehler?
+00:35:41 - 00:35:42 - Sprecher SPEAKER_01:  Nein.
+00:35:46 - 00:35:47 - Sprecher SPEAKER_04:  Und dann ist ja gut.
+00:35:51 - 00:35:53 - Sprecher SPEAKER_04:  Ich habe anfangs echt viele Fehler gemacht.
+00:35:55 - 00:35:56 - Sprecher SPEAKER_04:  Eigentlich nur.
+00:35:56 - 00:35:57 - Sprecher SPEAKER_04:  Was war dein größter Fehler, würdest du sagen?
+00:35:58 - 00:36:00 - Sprecher SPEAKER_04:  Lass mich überlegen.
+00:36:02 - 00:36:02 - Sprecher SPEAKER_01:  Kilometerengsel.
+00:36:05 - 00:36:06 - Sprecher SPEAKER_04:  Boah, das ist echt schwer.
+00:36:07 - 00:36:08 - Sprecher SPEAKER_04:  Ich habe viele Fehler begangen.
+00:36:09 - 00:36:09 - Sprecher SPEAKER_04:  Wahrscheinlich.
+00:36:11 - 00:36:12 - Unbekannt:  Hm.
+00:36:14 - 00:36:17 - Sprecher SPEAKER_04:  Also ich habe einen Fehler begangen, weil ich nicht darüber nachgedacht habe richtig.
+00:36:17 - 00:36:21 - Sprecher SPEAKER_04:  Ich dachte mir, cool, die lassen mich in Ruhe, ich kriege ein bisschen Geld.
+00:36:22 - 00:36:23 - Sprecher SPEAKER_04:  Und dafür mache ich was.
+00:36:25 - 00:36:27 - Sprecher SPEAKER_04:  Und da habe ich herausgestellt, dass ich nicht so gut bin.
+00:36:27 - 00:36:27 - Sprecher SPEAKER_04: 
+00:36:27 - 00:36:27 - Sprecher SPEAKER_04: 
+00:36:27 - 00:36:28 - Sprecher SPEAKER_04:  Jetzt was machst denn du?
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04:  dass du uns
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04: 
+00:36:28 - 00:36:28 - Sprecher SPEAKER_04:  mich
+00:36:28 - 00:36:29 - Sprecher SPEAKER_04:  doch
+00:36:29 - 00:36:30 - Sprecher SPEAKER_04:  nicht
+00:36:30 - 00:36:30 - Sprecher SPEAKER_04: 
+00:36:30 - 00:36:31 - Sprecher SPEAKER_04:  viel mehr
+00:36:32 - 00:36:33 - Sprecher SPEAKER_01:  verkauft
+00:36:33 - 00:36:37 - Sprecher SPEAKER_04:  Ich habe das kann ich dir wirklich nicht sagen
+00:36:38 - 00:36:45 - Sprecher SPEAKER_01:  verkaufst du es noch nein warum kannst du es mir dann nicht sagen weil ich dir das
+00:36:45 - 00:36:48 - Sprecher SPEAKER_04:  einfach das kann ich dir wirklich nicht sagen fritz sie wirklich nicht ich ich
+00:36:48 - 00:36:54 - Sprecher SPEAKER_04:  weiß dass das weiß niemand außer jesse ist in ordnung ist mir egal ob sie weiß
+00:36:54 - 00:37:00 - Sprecher SPEAKER_01:  dass oder waffen waren nix davon na also dann was
+00:37:03 - 00:37:09 - Sprecher SPEAKER_01:  aus dem taxi raus verkauft oder was sie das kann ich dir wirklich nicht sagen
+00:37:13 - 00:37:19 - Sprecher SPEAKER_01:  ich habe einfach etwas verkauft haben nicht drüber nachgedacht und dann kamen ganz schön
+00:37:19 - 00:37:25 - Sprecher SPEAKER_04:  wie scheiße auf mich zu kein problem super fischer ist und es war auch so ein einmaliges
+00:37:25 - 00:37:30 - Sprecher SPEAKER_04:  ding wirklich nur und da hattest du
+00:37:30 - 00:37:32 - Sprecher SPEAKER_01:  nicht drüber nachgedacht und hast einfach ja gesagt und hast danach
+00:37:32 - 00:37:38 - Sprecher SPEAKER_01:  gemerkt dass du es gar nicht wollte ist oder was na ja ich habe nicht drüber
+00:37:38 - 00:37:41 - Sprecher SPEAKER_04:  nachgedacht was das für konsequenzen haben wofür die leute das brauchen und
+00:37:41 - 00:37:41 - Sprecher SPEAKER_04:  und
+00:37:41 - 00:37:58 - Sprecher SPEAKER_04:  und wie gesagt dann kann man einfach viel mehr scheiße auf mich zu oder durch ich
+00:37:58 - 00:38:00 - Sprecher SPEAKER_04:  hatte klar ich hatte ein kleines problem
+00:38:00 - 00:38:06 - Sprecher SPEAKER_04:  gelöst und habe drei ein halbe kommen dadurch und die art fehler machst du
+00:38:06 - 00:38:12 - Sprecher SPEAKER_01:  jetzt nicht mehr ich denke viel mehr nach inzwischen
+00:38:14 - 00:38:17 - Sprecher SPEAKER_01:  weißt du so lernt man manchmal man muss manchmal fehler machen um daraus zu
+00:38:17 - 00:38:20 - Sprecher SPEAKER_01:  lernen ich habe auch schon echt oft fehler
+00:38:20 - 00:38:26 - Sprecher SPEAKER_01:  gemacht in meinem leben daraus habe ich super viel gelernt ja ich weiß es ist
+00:38:26 - 00:38:30 - Sprecher SPEAKER_04:  trotzdem nicht leicht vor allem wenn wenn es fehler sind die
+00:38:30 - 00:38:34 - Sprecher SPEAKER_04:  noch mehr probleme mit sich bringen die meisten fehler bringen noch mehr
+00:38:34 - 00:38:41 - Sprecher SPEAKER_01:  probleme mit sich und auch aussehen lernt man dann und irgendwann bist du am
+00:38:41 - 00:38:53 - Sprecher SPEAKER_01:  punkt an dem nur möglichst wenig fehler machst und dann solltest du vielleicht
+00:38:53 - 00:38:58 - Sprecher SPEAKER_01:  immer noch ein ass im ärmel haben so wie du das sagst aber vielleicht bist du dann
+00:38:58 - 00:39:00 - Sprecher SPEAKER_01:  auch an einem punkt dass du deinen ass im ärmel haben und dann ist das alles komm ich lebe bis zum Ende des Tages.
+00:39:00 - 00:39:02 - Sprecher SPEAKER_01:  Ärmel ein bisschen weiser auswählst,
+00:39:02 - 00:39:04 - Sprecher SPEAKER_01:  als du das gerade vorhast.
+00:39:06 - 00:39:06 - Sprecher SPEAKER_04:  Ja.
+00:39:07 - 00:39:10 - Sprecher SPEAKER_04:  Nicht viel gesagt. Ich bin noch so da dran
+00:39:10 - 00:39:11 - Sprecher SPEAKER_04:  gerade an allem.
+00:39:12 - 00:39:14 - Sprecher SPEAKER_04:  Ich würde sagen, manche
+00:39:14 - 00:39:16 - Sprecher SPEAKER_04:  sagen, es kommt halt sehr drauf an,
+00:39:16 - 00:39:18 - Sprecher SPEAKER_04:  an wen ich geraten sollte.
+00:39:20 - 00:39:22 - Sprecher SPEAKER_01:  Wie meinst du, an wem du geraten
+00:39:22 - 00:39:24 - Sprecher SPEAKER_01:  solltest? Ja, es gibt ja viele
+00:39:24 - 00:39:26 - Sprecher SPEAKER_04:  böse Menschen hier in der Stadt
+00:39:26 - 00:39:27 - Sprecher SPEAKER_04:  und im Staat.
+00:39:40 - 00:39:42 - Sprecher SPEAKER_01:  Und danach willst du dann deinen Ass im Ärmel aussuchen?
+00:39:43 - 00:39:44 - Sprecher SPEAKER_04:  Ja, ich hoffe es zumindest.
+00:39:45 - 00:39:46 - Sprecher SPEAKER_01:  Wäre es nicht viel besser,
+00:39:46 - 00:39:48 - Sprecher SPEAKER_01:  wenn du einen Ass im Ärmel hast, was universell
+00:39:48 - 00:39:49 - Sprecher SPEAKER_01:  einsetzbar wäre?
+00:39:50 - 00:39:51 - Sprecher SPEAKER_04:  Ja, natürlich.
+00:39:53 - 00:39:54 - Sprecher SPEAKER_04:  Aber so weit bin ich noch nicht.
+00:39:57 - 00:39:58 - Sprecher SPEAKER_04:  Wie du schon sagtest,
+00:39:58 - 00:39:59 - Sprecher SPEAKER_04:  du hast nicht mal einen Ass.
+00:40:03 - 00:40:04 - Sprecher SPEAKER_01:  Du meinst mich?
+00:40:04 - 00:40:05 - Sprecher SPEAKER_04:  Ja.
+00:40:07 - 00:40:08 - Sprecher SPEAKER_01:  Na, weil ich mein eigenes Ass bin.
+00:40:12 - 00:40:14 - Sprecher SPEAKER_04:  Okay, das verstehe ich nicht.
+00:40:15 - 00:40:16 - Sprecher SPEAKER_01:  Ich hab dir gesagt,
+00:40:16 - 00:40:17 - Sprecher SPEAKER_01:  ich brauche keinen Ass.
+00:40:18 - 00:40:19 - Sprecher SPEAKER_01:  Ich mache keine Fehler.
+00:40:20 - 00:40:21 - Sprecher SPEAKER_01:  Und wenn ich doch einen mache,
+00:40:21 - 00:40:24 - Sprecher SPEAKER_01:  dann gibt es Dinge, auf die ich mich verlassen kann.
+00:40:24 - 00:40:26 - Sprecher SPEAKER_01:  Dinge, die ich selber an der Hand habe.
+00:40:27 - 00:40:29 - Sprecher SPEAKER_01:  Also brauche ich keinen Ass im Ärmel.
+00:40:29 - 00:40:30 - Unbekannt:  Ja.
+00:40:31 - 00:40:34 - Sprecher SPEAKER_04:  Wie hat man Dinge dann selber in der Hand?
+00:40:45 - 00:40:47 - Sprecher SPEAKER_01:  Wie sage ich das richtig?
+00:40:51 - 00:40:52 - Sprecher SPEAKER_01:  Na ja,
+00:40:54 - 00:40:56 - Sprecher SPEAKER_01:  indem ich weiß, was ich kann
+00:40:56 - 00:40:56 - Sprecher SPEAKER_01:  und
+00:40:57 - 00:40:59 - Sprecher SPEAKER_01:  indem ich weiß,
+00:41:01 - 00:41:03 - Sprecher SPEAKER_01:  wann ich welchen Hebel bewegen muss.
+00:41:05 - 00:41:07 - Sprecher SPEAKER_04:  Ja, da werde ich auch lange besser drin.
+00:41:07 - 00:41:08 - Sprecher SPEAKER_04:  Aber ich...
+00:41:12 - 00:41:14 - Sprecher SPEAKER_04:  Ich glaube, dann bin ich eigentlich auch
+00:41:14 - 00:41:15 - Sprecher SPEAKER_04:  so ein bisschen mein eigenes Ass.
+00:41:16 - 00:41:17 - Sprecher SPEAKER_01:  Ich glaube nicht, Earl.
+00:41:17 - 00:41:19 - Sprecher SPEAKER_01:  Ich glaube nicht, dass du verstehst, was ich meine.
+00:41:19 - 00:41:20 - Sprecher SPEAKER_01:  Letztens hast du mich gefragt,
+00:41:22 - 00:41:24 - Sprecher SPEAKER_01:  beziehungsweise du wolltest eine Information haben.
+00:41:26 - 00:41:26 - Sprecher SPEAKER_03:  Wie?
+00:41:27 - 00:41:28 - Sprecher SPEAKER_01:  Ich habe dir gesagt,
+00:41:28 - 00:41:30 - Sprecher SPEAKER_01:  wenn es jemand rausfinden kann,
+00:41:30 - 00:41:32 - Sprecher SPEAKER_01:  dann bin ich das und zwar ziemlich schnell.
+00:41:33 - 00:41:33 - Sprecher SPEAKER_05:  Mhm.
+00:41:41 - 00:41:42 - Sprecher SPEAKER_04:  Und weiter?
+00:41:47 - 00:41:49 - Sprecher SPEAKER_01:  Das mache ich nicht, indem ich hier rumrenne
+00:41:49 - 00:41:51 - Sprecher SPEAKER_01:  und die ganze Zeit irgendwelche Gespräche sonst führe.
+00:41:54 - 00:41:57 - Sprecher SPEAKER_01:  Das sind sozusagen Ass im Ärmel,
+00:41:57 - 00:41:57 - Sprecher SPEAKER_01:  die...
+00:41:59 - 00:42:01 - Sprecher SPEAKER_01:  vielleicht im Alltag nützlich sind.
+00:42:02 - 00:42:03 - Sprecher SPEAKER_01:  Keine Ahnung, Earl.
+00:42:03 - 00:42:04 - Sprecher SPEAKER_01:  Ich weiß nicht, wie man das irgendwie beschreiben kann.
+00:42:04 - 00:42:05 - Sprecher SPEAKER_01:  Ich hätte jetzt auch nicht gesagt.
+00:42:06 - 00:42:07 - Sprecher SPEAKER_01:  Ich bin ehrlich, ich schenke auch gar nichts.
+00:42:07 - 00:42:08 - Sprecher SPEAKER_01:  Ja, ist okay, ist auch egal.
+00:42:10 - 00:42:12 - Sprecher SPEAKER_04:  Ja, du kannst Sachen herausfinden, schnell.
+00:42:16 - 00:42:19 - Sprecher SPEAKER_01:  Worauf ich eigentlich nur hinaus wollte, ist...
+00:42:19 - 00:42:21 - Sprecher SPEAKER_01:  Such deinen Ass im Ärmel ruhig weiter.
+00:42:21 - 00:42:23 - Sprecher SPEAKER_01:  Vielleicht findest du irgendwann das richtige Ass im Ärmel,
+00:42:24 - 00:42:26 - Sprecher SPEAKER_01:  das dir in der richtigen Situation hilft,
+00:42:26 - 00:42:28 - Sprecher SPEAKER_01:  wenn du weißt, wer der Gegner ist,
+00:42:28 - 00:42:30 - Sprecher SPEAKER_01:  wer die Truppe ist,
+00:42:30 - 00:42:33 - Sprecher SPEAKER_01:  die dann irgendwie dich in der Gasse mit einem Messer bedroht.
+00:42:33 - 00:42:34 - Sprecher SPEAKER_01:  Siehst das.
+00:42:35 - 00:42:35 - Sprecher SPEAKER_01:  Mach das.
+00:42:37 - 00:42:40 - Sprecher SPEAKER_01:  Aber es ist ganz schön anstrengend,
+00:42:40 - 00:42:41 - Sprecher SPEAKER_01:  wenn man bedenkt, dass
+00:42:41 - 00:42:45 - Sprecher SPEAKER_01:  ein potenzielles Ass schon ganz in deiner Nähe ist.
+00:42:50 - 00:42:51 - Sprecher SPEAKER_04:  Meinst du dich?
+00:42:53 - 00:42:55 - Sprecher SPEAKER_01:  Naja, ich hab's dir schon mal angeboten.
+00:43:05 - 00:43:06 - Sprecher SPEAKER_05:  Auch dafür
+00:43:06 - 00:43:09 - Sprecher SPEAKER_05:  там hagne und auch alles runterg renderit.
+00:43:10 - 00:43:10 - Unbekannt:  Ok.
+00:43:10 - 00:43:11 - Sprecher SPEAKER_05:  Ja, Fix.
+00:43:11 - 00:43:11 - Sprecher SPEAKER_05: 
+00:43:11 - 00:43:11 - Sprecher SPEAKER_05: 
+00:43:12 - 00:43:12 - Sprecher SPEAKER_05:  Ok.
+00:43:18 - 00:43:20 - Sprecher SPEAKER_01:  Du kannst dir natürlich auch...
+00:43:22 - 00:43:26 - Sprecher SPEAKER_01:  hoffen, dass irgendwelche Freunde von dir genug andere Leute kennen,
+00:43:26 - 00:43:28 - Sprecher SPEAKER_01:  die dann im Zweifelsfall irgendwen kennen,
+00:43:28 - 00:43:31 - Sprecher SPEAKER_01:  die sie dann zu deinem Schutz losschicken können,
+00:43:31 - 00:43:32 - Sprecher SPEAKER_01:  wenn mal was ansteht.
+00:43:32 - 00:43:33 - Sprecher SPEAKER_01:  Das ist alles möglich.
+00:43:35 - 00:43:37 - Sprecher SPEAKER_01:  Aber vorhin hast du es doch ganz gut gesagt.
+00:43:37 - 00:43:39 - Sprecher SPEAKER_01:  Am besten ist es, Menschen um sich rum zu haben,
+00:43:40 - 00:43:43 - Sprecher SPEAKER_01:  die potenziell was in Bewegung setzen können
+00:43:43 - 00:43:43 - Sprecher SPEAKER_01:  und gleichzeitig,
+00:43:44 - 00:43:46 - Sprecher SPEAKER_01:  da ja in irgendeiner Art und Weise,
+00:43:48 - 00:43:49 - Sprecher SPEAKER_01:  naja,
+00:43:49 - 00:43:50 - Sprecher SPEAKER_01:  denen du nicht egal bist.
+00:43:50 - 00:43:51 - Sprecher SPEAKER_04:  Ja.
+00:43:56 - 00:43:58 - Sprecher SPEAKER_04:  Gibt es Menschen, die du,
+00:43:58 - 00:44:00 - Sprecher SPEAKER_04:  also aus, ich meine, klar,
+00:44:00 - 00:44:01 - Sprecher SPEAKER_04:  Harry ist ja sowieso
+00:44:02 - 00:44:05 - Sprecher SPEAKER_04:  irgendwie mit dir sehr gut befreundet,
+00:44:05 - 00:44:06 - Sprecher SPEAKER_04:  oder, keine Ahnung,
+00:44:06 - 00:44:06 - Sprecher SPEAKER_04:  aber auf jeden Fall,
+00:44:06 - 00:44:09 - Sprecher SPEAKER_04:  würdest du Harry als Freund bezeichnen?
+00:44:10 - 00:44:11 - Sprecher SPEAKER_01:  Harry ist ein Freund von mir, ja.
+00:44:13 - 00:44:14 - Sprecher SPEAKER_04:  Wie viele,
+00:44:14 - 00:44:16 - Sprecher SPEAKER_04:  wie viele Freunde hast du?
+00:44:27 - 00:44:29 - Sprecher SPEAKER_01:  Naja, eigentlich dachte ich,
+00:44:29 - 00:44:30 - Sprecher SPEAKER_01:  die Antwort wäre mal super leicht.
+00:44:30 - 00:44:31 - Sprecher SPEAKER_01:  Fünf Stück oder so.
+00:44:32 - 00:44:33 - Sprecher SPEAKER_01:  Aber,
+00:44:33 - 00:44:34 - Sprecher SPEAKER_01:  aber,
+00:44:35 - 00:44:35 - Unbekannt:  aber,
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01:  aber,
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01: 
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01: 
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01: 
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01: 
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01: 
+00:44:39 - 00:44:39 - Sprecher SPEAKER_01:  drei?
+00:44:41 - 00:44:41 - Sprecher SPEAKER_04:  Drei?
+00:44:45 - 00:44:46 - Sprecher SPEAKER_01:  Vielleicht auch vier,
+00:44:47 - 00:44:47 - Sprecher SPEAKER_01:  ich bin mir nicht sicher.
+00:44:49 - 00:44:51 - Sprecher SPEAKER_04:  Und wie definierst du Freund?
+00:44:57 - 00:44:59 - Sprecher SPEAKER_04:  Weil für jene Freund was anderes,
+00:44:59 - 00:45:00 - Sprecher SPEAKER_04:  für manche ist es,
+00:45:00 - 00:45:02 - Sprecher SPEAKER_04:  dass man denen alles erzählen kann,
+00:45:02 - 00:45:03 - Sprecher SPEAKER_04:  für anderen ist es,
+00:45:03 - 00:45:05 - Sprecher SPEAKER_04:  dass man mit denen nicht quatschen kann,
+00:45:05 - 00:45:07 - Sprecher SPEAKER_04:  irgendwie einen Kaffee trinken kann
+00:45:07 - 00:45:09 - Sprecher SPEAKER_04:  und eine gute Zeit haben kann.
+00:45:09 - 00:45:09 - Sprecher SPEAKER_04:  Wie definitiv.
+00:45:09 - 00:45:11 - Sprecher SPEAKER_04:  Wie definierst du Freund?
+00:45:12 - 00:45:12 - Sprecher SPEAKER_01:  Ist jemand,
+00:45:13 - 00:45:14 - Sprecher SPEAKER_01:  für den ich mein Leben riskieren würde.
+00:45:21 - 00:45:22 - Sprecher SPEAKER_04:  Okay.
+00:45:30 - 00:45:32 - Sprecher SPEAKER_01:  Vielleicht habe ich auch nur noch einen Freund.
+00:45:37 - 00:45:38 - Sprecher SPEAKER_04:  War es nicht schön?
+00:45:42 - 00:45:42 - Sprecher SPEAKER_01:  Auch nicht.
+00:45:42 - 00:45:42 - Sprecher SPEAKER_01: 
+00:45:42 - 00:45:42 - Sprecher SPEAKER_01: 
+00:45:42 - 00:45:43 - Sprecher SPEAKER_01:  Na ja, gleichzeitig
+00:45:44 - 00:45:45 - Sprecher SPEAKER_01:  gibt es ja auch was,
+00:45:45 - 00:45:46 - Sprecher SPEAKER_01:  was ich dann
+00:45:48 - 00:45:49 - Sprecher SPEAKER_01:  erwarten können muss
+00:45:49 - 00:45:50 - Sprecher SPEAKER_01:  von den Leuten,
+00:45:50 - 00:45:52 - Sprecher SPEAKER_01:  für die ich so ein Risiko eingehe,
+00:45:52 - 00:45:53 - Sprecher SPEAKER_01:  nicht wahr?
+00:45:53 - 00:45:54 - Sprecher SPEAKER_05:  Ja.
+00:45:55 - 00:45:57 - Sprecher SPEAKER_01:  Und wenn diese Erwartung enttäuscht wurde,
+00:45:58 - 00:46:01 - Sprecher SPEAKER_01:  weil sich an wichtige Regeln nicht gehalten wurde,
+00:46:04 - 00:46:07 - Sprecher SPEAKER_01:  dann ist das am Ende nur ein Risiko für mich und die anderen.
+00:46:08 - 00:46:09 - Sprecher SPEAKER_04:  Was für ein Lied.
+00:46:09 - 00:46:09 - Sprecher SPEAKER_04: 
+00:46:09 - 00:46:11 - Sprecher SPEAKER_04:  Welche Regeln hast du bei der Freundschaft?
+00:46:18 - 00:46:22 - Sprecher SPEAKER_01:  Naja, bring dich selber nicht in Gefahr mit dem, was du tust.
+00:46:23 - 00:46:24 - Sprecher SPEAKER_01:  Und mich auch nicht.
+00:46:26 - 00:46:28 - Sprecher SPEAKER_01:  Mit nem Wissen.
+00:46:30 - 00:46:31 - Sprecher SPEAKER_01:  Oder aus Dummheit.
+00:46:40 - 00:46:40 - Sprecher SPEAKER_04:  Verstehe.
+00:46:57 - 00:47:03 - Sprecher SPEAKER_01:  Ich wär super gern mit viel mehr Leuten befreundet, weißt du? Das hat gar nichts damit zu tun, dass ich die Leute nicht mag oder sowas.
+00:47:07 - 00:47:09 - Sprecher SPEAKER_04:  Du hast Angst.
+00:47:09 - 00:47:13 - Sprecher SPEAKER_04:  Angst, dass du Freunde findest und die dann wieder verlierst.
+00:47:16 - 00:47:17 - Sprecher SPEAKER_04:  Oder nicht?
+00:47:19 - 00:47:19 - Sprecher SPEAKER_01:  Hmmmm...
+00:47:21 - 00:47:23 - Sprecher SPEAKER_01:  So in der Art ja, eigentlich genau so.
+00:47:25 - 00:47:33 - Sprecher SPEAKER_04:  Dass sie aus Dummheit irgendwas machen, was, naja, was nicht gut für sie endet oder im schlimmsten Fall auch nicht, also für euch beide nicht.
+00:47:33 - 00:47:39 - Sprecher SPEAKER_04:  Wobei, wahrscheinlich, wenn es für euch beide nicht gut enden würde, wäre es wahrscheinlich besser, als wenn es nur für sie nicht gut endet.
+00:47:41 - 00:47:44 - Sprecher SPEAKER_01:  Du scheinst damit ganz schön viel Erfahrung zu haben, Earl.
+00:47:44 - 00:47:46 - Sprecher SPEAKER_05:  Mhm, ein bisschen.
+00:47:51 - 00:47:57 - Sprecher SPEAKER_01:  Im Normalfall verstehen Leute sowas, glaub ich, nicht. Keine Ahnung, hab schon ewig mit niemandem mehr darüber geredet.
+00:47:59 - 00:48:00 - Sprecher SPEAKER_01:  Hab mal versucht, das...
+00:48:01 - 00:48:03 - Sprecher SPEAKER_01:  ...nem Freund von mir zu erklären, aber...
+00:48:05 - 00:48:08 - Sprecher SPEAKER_01:  ...ich glaub, der wollte das nicht so ganz verstehen.
+00:48:09 - 00:48:12 - Sprecher SPEAKER_01:  Weil's manchmal einfach nicht so richtig nachvollziehbar ist für Menschen.
+00:48:14 - 00:48:15 - Sprecher SPEAKER_04:  Ich versteh das.
+00:48:19 - 00:48:27 - Sprecher SPEAKER_04:  Ich bin hierher, hab gedacht, nee, hey Earl, du findest bestimmt viele Freunde, vielleicht kannst du eine Familie aufbauen und so.
+00:48:27 - 00:48:30 - Sprecher SPEAKER_04:  Aber da bin ich inzwischen von weg.
+00:48:34 - 00:48:36 - Sprecher SPEAKER_04:  Ich will einfach niemanden in Gefahr bringen.
+00:48:39 - 00:48:42 - Sprecher SPEAKER_01:  Weil jeder, der mit dir was zu tun hat, in Gefahr ist, oder was?
+00:48:44 - 00:48:48 - Sprecher SPEAKER_04:  Nein, aber Menschen können was Dummes machen, dadurch, dass ich manchmal in Gefahr bin.
+00:48:51 - 00:48:51 - Sprecher SPEAKER_05:  Hm.
+00:48:51 - 00:48:51 - Sprecher SPEAKER_05: 
+00:48:55 - 00:49:00 - Sprecher SPEAKER_04:  Auch wenn ich letzten Endes da rauskomme aus den gefährlichen Situationen, ist es trotzdem...
+00:49:00 - 00:49:02 - Sprecher SPEAKER_04:  ...kann da nicht mehr jeder mit umgehen.
+00:49:02 - 00:49:05 - Sprecher SPEAKER_04:  Ich konnte auch überhaupt nicht mit umgehen. Inzwischen...
+00:49:06 - 00:49:09 - Sprecher SPEAKER_04:  ...ja, ich sag mal so, es ist ein bisschen besser geworden.
+00:49:15 - 00:49:16 - Sprecher SPEAKER_01:  Und wie handhabst du das jetzt?
+00:49:21 - 00:49:22 - Sprecher SPEAKER_04:  Gefährliche Situation?
+00:49:24 - 00:49:29 - Sprecher SPEAKER_01:  Ja, gefährliche Situation, beziehungsweise auch so den Umgang mit Menschen, die du triffst.
+00:49:29 - 00:49:32 - Sprecher SPEAKER_01:  Ich mein, wann entscheidest du, ob du jemanden in dein Leben lässt oder nicht?
+00:49:34 - 00:49:37 - Sprecher SPEAKER_04:  Ich lass niemanden mehr in meinem Leben aktuell so richtig.
+00:49:37 - 00:49:38 - Sprecher SPEAKER_04:  Zumindest selten.
+00:49:39 - 00:49:42 - Sprecher SPEAKER_04:  Es sind Menschen, denen es ähnlich geht, meistens.
+00:49:49 - 00:49:50 - Sprecher SPEAKER_04:  Aber so...
+00:49:50 - 00:49:57 - Sprecher SPEAKER_04:  Ich sag mal, im Taxi würde ich niemanden als Freund bezeichnen, wenn du verstehst, was ich meine.
+00:49:57 - 00:50:00 - Sprecher SPEAKER_04:  Auch wenn ich mit ihm viel Zeit verbringe und sie auch mag.
+00:50:02 - 00:50:06 - Sprecher SPEAKER_04:  Aber ich würde sie nie richtig in mein Leben lassen, weil ich es nicht kann.
+00:50:08 - 00:50:14 - Sprecher SPEAKER_04:  Ich kann nicht die Zeit und Energie aufwenden, zum einen für sie, die sie eigentlich verdienen...
+00:50:15 - 00:50:17 - Sprecher SPEAKER_04:  ...und zum anderen will ich sie nicht in Gefahr bringen.
+00:50:22 - 00:50:23 - Sprecher SPEAKER_01:  Bist du traurig darüber?
+00:50:24 - 00:50:26 - Sprecher SPEAKER_04:  Ja, klar bin ich.
+00:50:26 - 00:50:29 - Sprecher SPEAKER_04:  Es ist super, aber ich weiß nicht, wie ich es anders handhaben soll.
+00:50:29 - 00:50:31 - Sprecher SPEAKER_04:  Das ist aktuell...
+00:50:31 - 00:50:32 - Sprecher SPEAKER_04:  Ich mein...
+00:50:34 - 00:50:37 - Sprecher SPEAKER_04:  Das ist der Weg, den ich aktuell so bestreiten muss, glaube ich.
+00:50:46 - 00:50:49 - Sprecher SPEAKER_01:  Und erzählst du deinen Freunden, die du noch hast, alles?
+00:50:50 - 00:50:51 - Sprecher SPEAKER_01:  Nein.
+00:50:57 - 00:50:58 - Sprecher SPEAKER_01:  Das ist scheiße.
+00:50:58 - 00:50:59 - Sprecher SPEAKER_04:  Mhm.
+00:51:01 - 00:51:01 - Sprecher SPEAKER_04:  Ich weiß.
+00:51:03 - 00:51:04 - Sprecher SPEAKER_04:  Aber ich hab das Gefühl manchmal...
+00:51:05 - 00:51:07 - Sprecher SPEAKER_04:  ...ist es besser, wenn ich es nicht erzähle, weißt du?
+00:51:08 - 00:51:09 - Sprecher SPEAKER_01:  Absolut, kann ich total verstehen.
+00:51:10 - 00:51:17 - Sprecher SPEAKER_04:  Es sind so Sachen, die bringen denen nichts, wenn sie es wissen, sondern machst vielleicht nur Kirre oder was auch immer, weiß nicht.
+00:51:18 - 00:51:19 - Sprecher SPEAKER_05:  Gibt's aber eigentlich vielleicht einen Kost.
+00:51:19 - 00:51:19 - Sprecher SPEAKER_04: 
+00:51:19 - 00:51:21 - Sprecher SPEAKER_04:  Oder einen Kopf oder so. Und das will ich nicht.
+00:51:24 - 00:51:31 - Sprecher SPEAKER_01:  Fühlt sich komisch an, jemanden als Freund zu bezeichnen, aber ihm trotzdem nicht alles über sich selber erzählen zu können.
+00:51:32 - 00:51:32 - Sprecher SPEAKER_04:  Hm.
+00:51:34 - 00:51:35 - Sprecher SPEAKER_04:  Ich weiß.
+00:51:39 - 00:51:41 - Sprecher SPEAKER_04:  Erzählst du Harry alles?
+00:51:44 - 00:51:47 - Sprecher SPEAKER_01:  Naja, mit Harry ist das ein bisschen was anderes.
+00:51:48 - 00:51:52 - Sprecher SPEAKER_01:  Was mich betrifft, betrifft auch Harry. Was Harry betrifft, betrifft auch mich.
+00:51:59 - 00:52:00 - Sprecher SPEAKER_04:  Also...
+00:52:01 - 00:52:02 - Sprecher SPEAKER_04:  Weiß der alles über dich?
+00:52:04 - 00:52:06 - Sprecher SPEAKER_01:  Es gibt eigentlich...
+00:52:08 - 00:52:11 - Sprecher SPEAKER_01:  ...nichts, was ich ihm nicht erzählen würde, glaube ich.
+00:52:11 - 00:52:15 - Sprecher SPEAKER_01:  Also naja, außer jemand bittet mich darum natürlich, oder es ist nicht wichtig.
+00:52:17 - 00:52:21 - Sprecher SPEAKER_01:  Aber prinzipiell, was jetzt nur mich persönlich angeht...
+00:52:23 - 00:52:24 - Sprecher SPEAKER_01:  ...da würde ich sagen, ja.
+00:52:25 - 00:52:28 - Sprecher SPEAKER_01:  Aber wie gesagt, das ist...
+00:52:30 - 00:52:31 - Sprecher SPEAKER_01:  ...hmm...
+00:52:35 - 00:52:37 - Sprecher SPEAKER_01:  ...er ist ein Zeigefinger.
+00:52:40 - 00:52:42 - Sprecher SPEAKER_04:  Was soll denn das heißen?
+00:52:42 - 00:52:44 - Sprecher SPEAKER_04:  Naja, das ist...
+00:52:44 - 00:52:45 - Sprecher SPEAKER_01:  ...ich weiß nicht.
+00:52:45 - 00:52:49 - Sprecher SPEAKER_01:  Es gibt keinen Grund, ihm für mich Dinge nicht zu erzählen über mich.
+00:52:50 - 00:52:50 - Sprecher SPEAKER_01:  Über mich.
+00:52:51 - 00:52:52 - Sprecher SPEAKER_01:  Verstehst du alles?
+00:52:52 - 00:52:52 - Sprecher SPEAKER_01:  Hm.
+00:52:53 - 00:52:54 - Sprecher SPEAKER_04:  Okay, ja.
+00:52:54 - 00:52:58 - Sprecher SPEAKER_04:  Aber das ist auch das, was ihn von den anderen...
+00:52:59 - 00:53:00 - Sprecher SPEAKER_01:  ...die ich in meinen...
+00:53:01 - 00:53:05 - Sprecher SPEAKER_01:  ...naja, die ich theoretisch zu den Freunden gezählt hätte, eigentlich unterscheidet.
+00:53:05 - 00:53:06 - Sprecher SPEAKER_01:  Ich glaube...
+00:53:06 - 00:53:08 - Sprecher SPEAKER_01:  ...das ist der Einzige, dem ich...
+00:53:09 - 00:53:10 - Sprecher SPEAKER_01:  ...was alles erzählen kann.
+00:53:13 - 00:53:17 - Sprecher SPEAKER_01:  Darum weiß ich aber umso mehr, wie beschissen es ist, wenn man niemanden hat.
+00:53:18 - 00:53:26 - Sprecher SPEAKER_01:  Oder wenn man Freunden, die man eigentlich als Freunde bezeichnet, ganz viele Sachen über einen selber nicht erzählen kann, oder...
+00:53:28 - 00:53:31 - Sprecher SPEAKER_01:  ...naja, ganz viele Sachen nicht zeigen kann über einen selber.
+00:53:31 - 00:53:35 - Sprecher SPEAKER_01:  Das fühlt sich irgendwann so an, als würde man Leuten nur noch was vorspielen.
+00:53:37 - 00:53:39 - Sprecher SPEAKER_04:  Ja, meine Sorge ist einfach...
+00:53:40 - 00:53:40 - Sprecher SPEAKER_04:  ...dass...
+00:53:41 - 00:53:44 - Sprecher SPEAKER_04:  ...das, wenn ich alles offenbare oder so, einfach...
+00:53:45 - 00:53:49 - Sprecher SPEAKER_04:  ...ich meine, dass es dann einfach nur zu mehr Problemen führen würde, irgendwie.
+00:53:49 - 00:53:51 - Sprecher SPEAKER_04:  Das würde es wahrscheinlich auch.
+00:53:51 - 00:53:58 - Sprecher SPEAKER_04:  Es gibt einfach mehr Sachen, die man aus Versehen irgendwem erzählen könnte oder ausplaudern könnte und...
+00:53:59 - 00:54:00 - Sprecher SPEAKER_04:  ...das ist einfach nicht gut, manchmal.
+00:54:01 - 00:54:02 - Sprecher SPEAKER_01:  Ich verstehe schon, was du meinst.
+00:54:02 - 00:54:07 - Sprecher SPEAKER_01:  Das soll auch nicht heißen, dass wenn ich verstehe, dass es scheiße ist, dass das die falsche Entscheidung ist.
+00:54:07 - 00:54:08 - Sprecher SPEAKER_01:  Ich wollte...
+00:54:08 - 00:54:09 - Sprecher SPEAKER_01:  ...nur mal...
+00:54:09 - 00:54:11 - Sprecher SPEAKER_01:  ...mein Verständnis darüber ausdrücken.
+00:54:11 - 00:54:13 - Sprecher SPEAKER_04:  Ja, weil ich weiß, dass es...
+00:54:13 - 00:54:14 - Sprecher SPEAKER_04:  ...ich...
+00:54:14 - 00:54:17 - Sprecher SPEAKER_04:  ...hab da auch Probleme mit eigentlich. Ich hasse das alles.
+00:54:18 - 00:54:23 - Sprecher SPEAKER_04:  Aber es ist irgendwie zum Schutz meiner Freunde und ich glaube, das zeichnet auch...
+00:54:24 - 00:54:26 - Sprecher SPEAKER_04:  ...ne gute Freundschaft irgendwie aus, dass man sich...
+00:54:26 - 00:54:26 - Sprecher SPEAKER_04:  Absolut.
+00:54:26 - 00:54:29 - Sprecher SPEAKER_04:  ...auch dann in bestimmten Punkten schützen muss.
+00:54:31 - 00:54:34 - Sprecher SPEAKER_04:  Und was ich noch fragen wollte, weißt du auch alles über Harry?
+00:54:38 - 00:54:39 - Sprecher SPEAKER_01:  Keine Ahnung.
+00:54:40 - 00:54:44 - Sprecher SPEAKER_04:  Aber das muss doch ein Gefühl vor... also du musst doch ein Gefühl haben.
+00:54:44 - 00:54:45 - Sprecher SPEAKER_01:  Ich glaube schon, ja.
+00:54:49 - 00:54:50 - Sprecher SPEAKER_04:  Was schön.
+00:54:53 - 00:54:56 - Sprecher SPEAKER_01:  Na ja, das ist wie gesagt...
+00:54:57 - 00:54:59 - Sprecher SPEAKER_01:  ...weil wir ja zusammen arbeiten.
+00:55:00 - 00:55:04 - Sprecher SPEAKER_01:  Weißt du, Earl, wenn wir zusammen im Schlüsseldienst sind, dann...
+00:55:05 - 00:55:08 - Sprecher SPEAKER_01:  ...können wir uns alle Sachen erzählen, die im Schlüsseldienst so passieren.
+00:55:08 - 00:55:09 - Sprecher SPEAKER_05:  Ja.
+00:55:11 - 00:55:14 - Sprecher SPEAKER_01:  Und wenn mich ein Kunde abfuckt, dann kann ich ihm über den Kunden erzählen.
+00:55:15 - 00:55:15 - Sprecher SPEAKER_05:  Mhm.
+00:55:15 - 00:55:19 - Sprecher SPEAKER_05:  Und wenn ich einen Mitarbeiter hätte kündigen müssen, dann kann ich das Harry erzählen.
+00:55:19 - 00:55:24 - Sprecher SPEAKER_01:  Und Harry sagt, na ja, ja, hättest du kündigen müssen oder nein, das war okay, dass du ihn nicht gekündigt hast.
+00:55:28 - 00:55:30 - Sprecher SPEAKER_01:  Weil jeder weiß, was auf dem Spiel steht.
+00:55:31 - 00:55:31 - Sprecher SPEAKER_01:  Ja.
+00:55:31 - 00:55:34 - Sprecher SPEAKER_05:  Und keiner auf die Idee kommt, mit irgendwem zu kämpfen.
+00:55:34 - 00:55:34 - Sprecher SPEAKER_01:  Und keiner weiß, was er tun soll, um drüber zu sprechen.
+00:55:35 - 00:55:37 - Sprecher SPEAKER_01:  Weil es keinen Grund gibt.
+00:55:37 - 00:55:39 - Sprecher SPEAKER_01:  Weil niemand es interessiert an Schlüsseldienst-Scheiße.
+00:55:43 - 00:55:45 - Sprecher SPEAKER_04:  Tut mir leid.
+00:55:46 - 00:55:47 - Sprecher SPEAKER_01:  Nein, das muss es nicht.
+00:55:48 - 00:55:51 - Sprecher SPEAKER_04:  Ist doch kacke, wenn man... wenn es niemand interessiert.
+00:55:51 - 00:55:52 - Sprecher SPEAKER_04:  Das ist...
+00:55:53 - 00:55:57 - Sprecher SPEAKER_04:  Das beschäftigt dich und wahrscheinlich Harry ja dann auch superdoll.
+00:55:59 - 00:56:04 - Sprecher SPEAKER_04:  Aber niemand... und wenn es niemand interessiert, dass euch... obwohl euch das so beschäftigt, ist es doch kacke.
+00:56:04 - 00:56:04 - Sprecher SPEAKER_04: 
+00:56:04 - 00:56:04 - Sprecher SPEAKER_04:  Das ist einfach scheiße.
+00:56:05 - 00:56:10 - Sprecher SPEAKER_01:  Ich hätte gar kein Interesse daran, irgendwem was zu erzählen über den Schlüsseldienst.
+00:56:21 - 00:56:25 - Sprecher SPEAKER_01:  Genauso wenig, wie ich irgendwem irgendwelche Dinge erzählen würde, die mir anvertraut werden.
+00:56:28 - 00:56:28 - Sprecher SPEAKER_04:  Ja.
+00:56:29 - 00:56:31 - Sprecher SPEAKER_04:  Würde ich auch nicht machen, wie gesagt.
+00:56:32 - 00:56:32 - Unbekannt:  Ja.
+00:56:32 - 00:56:37 - Sprecher SPEAKER_04:  Als Beispiel das mit dir, habe ich niemandem erzählt.
+00:56:37 - 00:56:40 - Sprecher SPEAKER_04:  Mit... du weißt schon, was alles passiert ist und so weiter.
+00:56:51 - 00:56:53 - Sprecher SPEAKER_04:  Hm... Familie wahrscheinlich.
+00:56:59 - 00:56:59 - Sprecher SPEAKER_04:  Weil...
+00:56:59 - 00:57:03 - Sprecher SPEAKER_04:  Weil Familie kann man so sein, wie man ist.
+00:57:03 - 00:57:04 - Sprecher SPEAKER_04:  Man muss sich nicht verstellen.
+00:57:04 - 00:57:07 - Sprecher SPEAKER_04:  Man kann alles bequatschen und alles erzählen.
+00:57:07 - 00:57:09 - Sprecher SPEAKER_04:  Und man wird nicht verurteilt oder sonst was.
+00:57:10 - 00:57:11 - Sprecher SPEAKER_02:  Wirklich?
+00:57:11 - 00:57:13 - Sprecher SPEAKER_02:  Da habe ich schon ganz andere Sachen gehört.
+00:57:13 - 00:57:14 - Sprecher SPEAKER_02:  Was?
+00:57:15 - 00:57:16 - Sprecher SPEAKER_02:  Ich kann meiner Mama alles erzählen.
+00:57:17 - 00:57:20 - Sprecher SPEAKER_04:  Also ich mache es natürlich nicht, weil die wird sich sonst so viel Sorgen machen.
+00:57:20 - 00:57:23 - Sprecher SPEAKER_04:  Oh, du hast gar keine Ahnung, wie viel Sorgen die sich machen wird, aber...
+00:57:25 - 00:57:27 - Sprecher SPEAKER_04:  Generell... vertraue ich ihr.
+00:57:27 - 00:57:29 - Sprecher SPEAKER_04:  Und die würde nie was sagen oder sonst was.
+00:57:29 - 00:57:30 - Sprecher SPEAKER_04:  Das ist cool.
+00:57:30 - 00:57:32 - Sprecher SPEAKER_01:  Dann hast du eine coole Mom.
+00:57:33 - 00:57:33 - Sprecher SPEAKER_01:  Mhm.
+00:57:33 - 00:57:34 - Sprecher SPEAKER_01:  Die ist die Beste.
+00:57:39 - 00:57:41 - Sprecher SPEAKER_01:  Okay, aber Familie macht sich Sorgen.
+00:57:41 - 00:57:43 - Sprecher SPEAKER_01:  Das heißt, du könntest Familie gar nicht alles erzählen.
+00:57:46 - 00:57:53 - Sprecher SPEAKER_01:  Deinen Freunden kannst du nicht alles erzählen, weil du sie damit in Gefahr bringen würdest.
+00:57:53 - 00:57:55 - Sprecher SPEAKER_04:  Ja, keine Ahnung.
+00:57:55 - 00:57:57 - Sprecher SPEAKER_04:  Vielleicht kann man auch einfach niemandem alles erzählen.
+00:58:05 - 00:58:06 - Sprecher SPEAKER_01:  Ich weiß.
+00:58:06 - 00:58:08 - Sprecher SPEAKER_01:  Ich glaube, das macht auch ein gutes Ass im Ärmel aus, Earl.
+00:58:14 - 00:58:15 - Sprecher SPEAKER_04:  Kann schon sein.
+00:58:16 - 00:58:18 - Sprecher SPEAKER_01:  Das sollte ein Ass im Ärmel ausmachen.
+00:58:19 - 00:58:24 - Sprecher SPEAKER_01:  Jemand, der einem im Zweifelsfall die Hilfe geben kann, die man braucht.
+00:58:24 - 00:58:28 - Sprecher SPEAKER_01:  Jemand, dem man alles erzählen kann, weil man weiß, dass...
+00:58:29 - 00:58:29 - Sprecher SPEAKER_01:  ...die Hilfe, die man braucht, die man nicht mehr haben kann.
+00:58:29 - 00:58:29 - Sprecher SPEAKER_01: 
+00:58:29 - 00:58:29 - Sprecher SPEAKER_01: 
+00:58:29 - 00:58:37 - Sprecher SPEAKER_01:  Jemand, der in keinster Weise Interesse daran hat, das irgendwem oder irgendwem anderen weiterzuerzählen.
+00:58:38 - 00:58:47 - Sprecher SPEAKER_01:  Und jemand, der aber in irgendeiner Art und Weise niemand ist, um dem man sich Sorgen machen muss, dass man ihn damit in Gefahr bringt.
+00:58:52 - 00:58:53 - Sprecher SPEAKER_01:  Das ist ein gutes Ass.
+00:58:54 - 00:58:55 - Sprecher SPEAKER_01:  Ja, aber...
+00:58:55 - 00:58:58 - Sprecher SPEAKER_01:  Ich glaube, ich habe doch auch ein Ass im Ärmel oder vielleicht so was in der Art.
+00:58:59 - 00:59:00 - Sprecher SPEAKER_05:  Mhm.
+00:59:14 - 00:59:16 - Sprecher SPEAKER_04:  Ich wollte gerade irgendwas sagen und jetzt habe ich es vergessen.
+00:59:18 - 00:59:19 - Sprecher SPEAKER_04:  Ach so, doch. Ich weiß es wieder.
+00:59:21 - 00:59:22 - Sprecher SPEAKER_05:  Warum willst du mir helfen?
+00:59:35 - 00:59:38 - Sprecher SPEAKER_01:  Ich weiß es nicht, Earl. Wir haben gute Gespräche.
+00:59:39 - 00:59:40 - Sprecher SPEAKER_01:  Du bist mir nicht egal.
+00:59:42 - 00:59:44 - Sprecher SPEAKER_01:  Und du scheinst einen Haufen...
+00:59:46 - 00:59:48 - Sprecher SPEAKER_01:  ...Scheiße an dir dranhängen zu haben, teilweise.
+00:59:51 - 00:59:52 - Sprecher SPEAKER_04:  Ja.
+00:59:56 - 00:59:58 - Sprecher SPEAKER_01:  Andererseits kriegst du trotzdem auch immer ziemlich viel mit.
+00:59:58 - 00:59:59 - Sprecher SPEAKER_01:  Gut
