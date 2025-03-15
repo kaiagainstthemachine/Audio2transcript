@@ -1,0 +1,156 @@
+Transkription Staffel 2 mit Sprechererkennung von [3-14-25]_Telefonat.wav:
+00:00:23 - 00:00:24 - Unbekannt:  .
+00:00:31 - 00:00:32 - Unbekannt:  .
+00:01:00 - 00:01:00 - Sprecher SPEAKER_00:  .
+00:01:30 - 00:01:30 - Unbekannt:  .
+00:02:00 - 00:02:00 - Sprecher SPEAKER_01:  .
+00:02:30 - 00:02:30 - Sprecher SPEAKER_01:  .
+00:02:30 - 00:02:31 - Sprecher SPEAKER_01:  .
+00:02:33 - 00:02:33 - Sprecher SPEAKER_01:  .
+00:02:35 - 00:02:35 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01: 
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:41 - 00:02:41 - Sprecher SPEAKER_01:  .
+00:02:55 - 00:02:55 - Sprecher SPEAKER_01:  .
+00:02:55 - 00:02:55 - Sprecher SPEAKER_01:  .
+00:03:00 - 00:03:00 - Unbekannt: 
+00:03:01 - 00:03:01 - Sprecher SPEAKER_01:  .
+00:03:01 - 00:03:02 - Sprecher SPEAKER_01:  .
+00:03:04 - 00:03:04 - Sprecher SPEAKER_01:  .
+00:03:09 - 00:03:10 - Sprecher SPEAKER_01:  .
+00:03:10 - 00:03:10 - Sprecher SPEAKER_01:  .
+00:03:10 - 00:03:10 - Sprecher SPEAKER_01:  .
+00:03:12 - 00:03:12 - Sprecher SPEAKER_01:  .
+00:03:12 - 00:03:13 - Sprecher SPEAKER_01:  .
+00:03:13 - 00:03:13 - Unbekannt:  .
+00:03:13 - 00:03:14 - Sprecher SPEAKER_01:  .
+00:03:27 - 00:03:28 - Sprecher SPEAKER_01:  .
+00:03:28 - 00:03:28 - Sprecher SPEAKER_01:  .
+00:03:28 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:29 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:29 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:29 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:29 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:29 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:29 - 00:03:29 - Sprecher SPEAKER_01:  .
+00:03:30 - 00:03:31 - Sprecher SPEAKER_01:  mir bestellt, weil sowas haben wir ja im Sortiment.
+00:03:31 - 00:03:33 - Sprecher SPEAKER_01:  Das kann man auf meiner Vienette-Seite sehen.
+00:03:35 - 00:03:35 - Sprecher SPEAKER_01:  Und naja, weil
+00:03:35 - 00:03:37 - Sprecher SPEAKER_01:  ich es so eilig hatte, hat mein
+00:03:38 - 00:03:39 - Sprecher SPEAKER_01:  Mitarbeiter dieses Telefonat angenommen
+00:03:39 - 00:03:41 - Sprecher SPEAKER_01:  und es ist einfach nur an mich weitergereicht. Und es hieß,
+00:03:41 - 00:03:43 - Sprecher SPEAKER_01:  ich soll einfach eine Tasche abholen mit dem Grundmaterial.
+00:03:43 - 00:03:46 - Sprecher SPEAKER_01:  Und ich habe mir nichts dabei gedacht. Also habe ich das so zwischengeschoben,
+00:03:46 - 00:03:47 - Sprecher SPEAKER_01:  habe es abgeholt, dies, das, Ananas
+00:03:48 - 00:03:49 - Sprecher SPEAKER_01:  und habe noch nicht mal in die Tasche reingeguckt.
+00:03:49 - 00:03:51 - Sprecher SPEAKER_01:  Und naja, da wurde schon kontrolliert von der Polizei.
+00:03:51 - 00:03:53 - Sprecher SPEAKER_01:  Ich wusste also gar nichts vom Inhalt dieser Tasche.
+00:03:55 - 00:03:55 - Sprecher SPEAKER_01:  Und naja,
+00:03:55 - 00:03:57 - Sprecher SPEAKER_01:  Kingi konnte das bestätigen und wollte dann,
+00:03:57 - 00:03:59 - Sprecher SPEAKER_01:  dann habe ich gesagt, rufen Sie meinen
+00:03:59 - 00:04:01 - Sprecher SPEAKER_01:  Mitarbeiter an. Der sagt Ihnen dann, wer in der
+00:04:01 - 00:04:03 - Sprecher SPEAKER_01:  Leitstelle angerufen hat. Dann kam Kingi und hat
+00:04:03 - 00:04:05 - Sprecher SPEAKER_01:  gesagt, naja, nö, also war unbekannter
+00:04:05 - 00:04:07 - Sprecher SPEAKER_01:  Anruf. Und dann habe ich gesagt, oh, das ist ja
+00:04:07 - 00:04:09 - Sprecher SPEAKER_01:  komisch. Und dann hat der eine Polizist gefragt,
+00:04:09 - 00:04:11 - Sprecher SPEAKER_01:  ob ich jemanden habe, der mich hasst. Da habe ich gesagt, ja,
+00:04:11 - 00:04:11 - Sprecher SPEAKER_01:  Reed Coleman.
+00:04:14 - 00:04:15 - Sprecher SPEAKER_00:  Ah, also ich möchte einmal
+00:04:15 - 00:04:17 - Sprecher SPEAKER_00:  kurz anerkennen, mit sehr viel Respekt,
+00:04:17 - 00:04:19 - Sprecher SPEAKER_00:  mit allen möglichen Respekten, ich habe, wie schnell
+00:04:19 - 00:04:21 - Sprecher SPEAKER_00:  und wie viele Informationen du in so kurzer Zeit
+00:04:21 - 00:04:22 - Sprecher SPEAKER_00:  rüberbringen kannst.
+00:04:23 - 00:04:25 - Sprecher SPEAKER_01:  Ja, tut mir leid. Ich dachte, es wäre trotzdem wichtig, dir das kurz
+00:04:25 - 00:04:26 - Sprecher SPEAKER_01:  so zu beschreiben. Nein, das war super.
+00:04:27 - 00:04:28 - Sprecher SPEAKER_00:  Also ich habe, das war das, also das,
+00:04:29 - 00:04:31 - Sprecher SPEAKER_00:  die effektive, effektive Informationslieferung,
+00:04:31 - 00:04:32 - Sprecher SPEAKER_00:  die ich jemals gehört habe.
+00:04:33 - 00:04:35 - Sprecher SPEAKER_01:  Auf jeden Fall ist das richtig
+00:04:35 - 00:04:37 - Sprecher SPEAKER_01:  beschissene Scheiße, weil jetzt bin ich,
+00:04:37 - 00:04:39 - Sprecher SPEAKER_01:  jetzt steht da in der Akte drin, dass ich
+00:04:39 - 00:04:41 - Sprecher SPEAKER_01:  wegen illegalen Waffenbesitz da war.
+00:04:43 - 00:04:44 - Sprecher SPEAKER_00:  Ja, ja.
+00:04:45 - 00:04:47 - Sprecher SPEAKER_00:  Ist scheiße, aber ich glaube, das ist kein
+00:04:47 - 00:04:48 - Sprecher SPEAKER_00:  Weltuntergang.
+00:04:48 - 00:04:51 - Sprecher SPEAKER_00:  Ich weiß nicht, was die anderen daraus machen, ich finde es nicht so schlimm.
+00:04:52 - 00:04:53 - Sprecher SPEAKER_01:  Okay,
+00:04:53 - 00:04:55 - Sprecher SPEAKER_01:  falls die anderen was draus machen, dann musst
+00:04:55 - 00:04:56 - Sprecher SPEAKER_01:  du dich um Helmut kümmern, ja?
+00:04:57 - 00:04:59 - Sprecher SPEAKER_00:  Ach, deswegen hast du das geschrieben?
+00:04:59 - 00:05:01 - Sprecher SPEAKER_00:  Ja, ja, ja, weil das entzündet sich sonst.
+00:05:02 - 00:05:03 - Sprecher SPEAKER_00:  Ach, Banz.
+00:05:08 - 00:05:09 - Sprecher SPEAKER_00:  Die Sean Bolden ist die, oder?
+00:05:10 - 00:05:11 - Sprecher SPEAKER_00:  Ja, die ist tot.
+00:05:12 - 00:05:13 - Sprecher SPEAKER_00:  Ja, genau, ich sehe gerade die Liste.
+00:05:13 - 00:05:15 - Sprecher SPEAKER_00:  Ist noch, ist jetzt noch eine dritte Person
+00:05:15 - 00:05:16 - Sprecher SPEAKER_00:  bei denen verreckt?
+00:05:17 - 00:05:17 - Sprecher SPEAKER_00:  Slap.
+00:05:18 - 00:05:21 - Sprecher SPEAKER_00:  Der ist zusammen mit Pasha gestorben.
+00:05:21 - 00:05:22 - Sprecher SPEAKER_01:  Ah, mit Pasha, genau.
+00:05:22 - 00:05:23 - Sprecher SPEAKER_01:  Der hat irgendwie mitgeholfen.
+00:05:24 - 00:05:27 - Sprecher SPEAKER_00:  Okay, ja. Und jetzt noch zu zweit?
+00:05:27 - 00:05:28 - Sprecher SPEAKER_00:  Nee, zu dritt.
+00:05:29 - 00:05:31 - Sprecher SPEAKER_00:  Ach so, nur dieser eine, der gerade fastet, ist doch dann nicht okay.
+00:05:31 - 00:05:32 - Sprecher SPEAKER_00:  Mhm, ganz genau.
+00:05:33 - 00:05:36 - Sprecher SPEAKER_01:  Aber ich habe heute die Grove Family kennengelernt.
+00:05:37 - 00:05:37 - Sprecher SPEAKER_01:  Krank?
+00:05:37 - 00:05:38 - Sprecher SPEAKER_01:  Ja, auch interessant.
+00:05:39 - 00:05:43 - Sprecher SPEAKER_01:  Naja, aber okay, also ich kümmere mich die Tage darum, dass diese beschissene Akte rauskommt.
+00:05:43 - 00:05:43 - Sprecher SPEAKER_01:  Das kriege ich hin.
+00:05:44 - 00:05:46 - Sprecher SPEAKER_01:  Ich bin nämlich unkriminell, super unkriminell.
+00:05:47 - 00:05:50 - Sprecher SPEAKER_00:  Ja, ich würde bei dir auch keine kriminelle Energie, wie Sie sehen.
+00:05:50 - 00:05:51 - Sprecher SPEAKER_00:  Also, wenn ich nicht wäre.
+00:05:51 - 00:05:53 - Sprecher SPEAKER_00:  Ich sag' dir, ich habe dir so viel Scheiße ans Ohr gelabert, das kannst du dir nicht vorstellen.
+00:05:54 - 00:05:55 - Sprecher SPEAKER_01:  Ich habe wirklich so viel gelabert.
+00:05:55 - 00:05:57 - Sprecher SPEAKER_01:  Doch, das kann ich mir vorstellen.
+00:05:57 - 00:05:57 - Sprecher SPEAKER_01:  Weißt du was?
+00:05:57 - 00:05:57 - Sprecher SPEAKER_01:  Weißt du was?
+00:05:57 - 00:05:59 - Sprecher SPEAKER_01:  Der Polizist, der ist Captain.
+00:06:00 - 00:06:01 - Sprecher SPEAKER_01:  Das ist ein Haufen scheiß Arbeit, musst du wissen.
+00:06:02 - 00:06:06 - Sprecher SPEAKER_01:  Der Captain hat irgendwann gesagt, wissen Sie, Miss Franklin, Sie erzählen wirklich
+00:06:06 - 00:06:08 - Sprecher SPEAKER_01:  viel, aber nichts davon hilft mir weiter.
+00:06:10 - 00:06:13 - Sprecher SPEAKER_00:  Mann ey, bin ich froh, dass ich dich nicht verhören muss und du mir einfach alles direkt
+00:06:13 - 00:06:14 - Sprecher SPEAKER_00:  sagst.
+00:06:14 - 00:06:16 - Sprecher SPEAKER_00:  Die Staatsanwältin war auch irgendwann richtig sauer.
+00:06:16 - 00:06:19 - Sprecher SPEAKER_01:  Die hat beim rausgehen gesagt, die Alte labert nur Scheiße.
+00:06:19 - 00:06:20 - Sprecher SPEAKER_01:  Hat die gesagt.
+00:06:20 - 00:06:21 - Sprecher SPEAKER_01:  Die hat mich die Alte genannt.
+00:06:23 - 00:06:23 - Unbekannt:  Nein.
+00:06:23 - 00:06:24 - Sprecher SPEAKER_00:  Die, was?
+00:06:25 - 00:06:27 - Sprecher SPEAKER_00:  Junge, bei der lege ich eine Ratte aufs Kopfkissen.
+00:06:27 - 00:06:27 - Sprecher SPEAKER_00:  Was soll das?
+00:06:27 - 00:06:27 - Sprecher SPEAKER_00: 
+00:06:27 - 00:06:29 - Sprecher SPEAKER_00:  Was ist das denn für eine Scheiße?
+00:06:30 - 00:06:32 - Sprecher SPEAKER_00:  Ich bin stolz auf dich.
+00:06:36 - 00:06:36 - Sprecher SPEAKER_01:  Okay, stolz.
+00:06:37 - 00:06:39 - Sprecher SPEAKER_01:  Man kann stolz sein und trotzdem jemanden umlegen.
+00:06:39 - 00:06:40 - Sprecher SPEAKER_01:  Okay, alles klar.
+00:06:40 - 00:06:40 - Sprecher SPEAKER_01:  Super cool.
+00:06:40 - 00:06:41 - Sprecher SPEAKER_01:  Danke, Neon.
+00:06:42 - 00:06:42 - Sprecher SPEAKER_01:  Kein Problem.
+00:06:43 - 00:06:43 - Sprecher SPEAKER_01:  Wir hören uns morgen.
+00:06:43 - 00:06:44 - Sprecher SPEAKER_01:  Okay, dann bis die Tage.
+00:06:44 - 00:06:45 - Sprecher SPEAKER_01:  Tschüss.
+00:06:45 - 00:06:45 - Sprecher SPEAKER_01:  Bye bye.
+00:06:49 - 00:06:49 - Sprecher SPEAKER_01:  Okay, gut.
+00:06:54 - 00:06:55 - Sprecher SPEAKER_01:  Dann gucken wir mal, was wird.
+00:06:57 - 00:06:57 - Unbekannt:  Ich bin stolz.
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:57 - Unbekannt: 
+00:06:57 - 00:06:59 - Unbekannt:  Okay, dann gucken wir mal.
+00:06:59 - 00:06:59 - Unbekannt:  Tschüss.
+00:06:59 - 00:06:59 - Unbekannt: 
+00:06:59 - 00:06:59 - Unbekannt: 
+00:06:59 - 00:06:59 - Unbekannt: 
+00:06:59 - 00:06:59 - Unbekannt: 
+00:06:59 - 00:06:59 - Unbekannt: 
