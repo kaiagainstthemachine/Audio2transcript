@@ -1,0 +1,995 @@
+Transkription Staffel 2 mit Sprechererkennung von [4-10-25]_Panikfee_-_Kaffee & Kek_part2.wav:
+00:00:00 - 00:00:05 - Sprecher SPEAKER_13:  Aber selbst das wäre auffällig, wenn jetzt da oben irgendwer ist und dann bin ich auf einmal an deinem Haus.
+00:00:05 - 00:00:08 - Sprecher SPEAKER_08:  Ja, mein Gott. Übertreiben musst du es auch nicht.
+00:00:09 - 00:00:11 - Sprecher SPEAKER_13:  Na ja, herzlich willkommen, Nachbarn!
+00:00:11 - 00:00:13 - Sprecher SPEAKER_13:  Wir sind Nachbarn!
+00:00:13 - 00:00:18 - Sprecher SPEAKER_08:  Wir sind das erste Mal Nachbarn. So, warte, ich schließe auf. So, komm rein.
+00:00:25 - 00:00:25 - Sprecher SPEAKER_05:  Wow!
+00:00:25 - 00:00:26 - Sprecher SPEAKER_05:  Wow!
+00:00:27 - 00:00:29 - Sprecher SPEAKER_05:  Hä, das ist voll geil!
+00:00:29 - 00:00:29 - Sprecher SPEAKER_08:  Wow!
+00:00:34 - 00:00:36 - Sprecher SPEAKER_13:  Boah, hier drin kann man rauchen!
+00:00:37 - 00:00:38 - Sprecher SPEAKER_13:  Ihhh!
+00:00:40 - 00:00:41 - Sprecher SPEAKER_08:  Was denn ihhh?
+00:00:43 - 00:00:44 - Sprecher SPEAKER_08:  Na ja.
+00:00:47 - 00:00:49 - Sprecher SPEAKER_13:  Süß. Das ist dein Zimmer.
+00:00:50 - 00:00:52 - Sprecher SPEAKER_08:  Das ist alles meins!
+00:00:52 - 00:00:53 - Sprecher SPEAKER_08:  Ja, schon.
+00:00:57 - 00:00:58 - Sprecher SPEAKER_13:  Cool, ein Bad.
+00:01:00 - 00:01:02 - Sprecher SPEAKER_13:  Das ist eine coole Wohnung.
+00:01:03 - 00:01:04 - Sprecher SPEAKER_08:  Na ja, reicht.
+00:01:07 - 00:01:10 - Sprecher SPEAKER_08:  Und wahrscheinlich ist das Bett bequemer als die Massageliege im Büro.
+00:01:11 - 00:01:12 - Sprecher SPEAKER_13:  Hm, wahrscheinlich.
+00:01:14 - 00:01:14 - Sprecher SPEAKER_13:  Gut.
+00:01:15 - 00:01:16 - Sprecher SPEAKER_13:  Gib mir mal einen Schlüssel.
+00:01:17 - 00:01:18 - Sprecher SPEAKER_08:  Ja, warte.
+00:01:18 - 00:01:22 - Sprecher SPEAKER_08:  Für den Fall, dass, weißt du, wenn du mal irgendwie einen Zusammenbruch erleidest, damit ich dich retten kann.
+00:01:23 - 00:01:25 - Sprecher SPEAKER_08:  Willst du hier auf mein Alter anspielen?
+00:01:25 - 00:01:25 - Sprecher SPEAKER_08:  Nein.
+00:01:28 - 00:01:29 - Sprecher SPEAKER_13:  Nur auf deinen Namen.
+00:01:32 - 00:01:33 - Unbekannt:  Puh!
+00:01:42 - 00:01:44 - Sprecher SPEAKER_13:  Cooler Hüttenachbar.
+00:01:44 - 00:01:45 - Sprecher SPEAKER_08:  Coole Hütte.
+00:01:45 - 00:01:46 - Sprecher SPEAKER_08:  Mit Carport sogar.
+00:01:49 - 00:01:51 - Sprecher SPEAKER_08:  Das ist das Beste daran.
+00:01:52 - 00:01:52 - Unbekannt:  Hm.
+00:01:53 - 00:01:56 - Sprecher SPEAKER_08:  So, wo soll ich dich rauslassen, Nachbarin?
+00:01:57 - 00:01:58 - Sprecher SPEAKER_13:  Ähm.
+00:02:01 - 00:02:04 - Sprecher SPEAKER_13:  Du hast bloß niemandem sagen, dass wir Nachbarn sind.
+00:02:04 - 00:02:08 - Sprecher SPEAKER_13:  Ähm, am besten an der Garage.
+00:02:18 - 00:02:19 - Sprecher SPEAKER_08:  An der Garage.
+00:02:20 - 00:02:20 - Sprecher SPEAKER_08:  Na ja.
+00:02:20 - 00:02:21 - Sprecher SPEAKER_08:  Ist auch klar.
+00:02:23 - 00:02:25 - Sprecher SPEAKER_13:  Das kannst du nicht sagen.
+00:02:25 - 00:02:26 - Sprecher SPEAKER_13:  Warum?
+00:02:26 - 00:02:27 - Sprecher SPEAKER_08:  Das hat Harry immer gesagt.
+00:02:29 - 00:02:30 - Unbekannt:  Oh, okay.
+00:02:31 - 00:02:32 - Sprecher SPEAKER_08:  Die Garage, ne.
+00:02:32 - 00:02:32 - Sprecher SPEAKER_08:  Weiß ich nicht.
+00:02:32 - 00:02:33 - Sprecher SPEAKER_13:  Vielleicht hat er es auch nicht gesagt.
+00:02:34 - 00:02:34 - Sprecher SPEAKER_13:  Sag's nochmal.
+00:02:35 - 00:02:35 - Sprecher SPEAKER_08:  Das ist auch klar.
+00:02:37 - 00:02:39 - Sprecher SPEAKER_13:  Ne, vielleicht hat er das doch nicht gesagt.
+00:02:39 - 00:02:39 - Sprecher SPEAKER_13:  Ich bin mir nicht sicher.
+00:02:40 - 00:02:45 - Sprecher SPEAKER_08:  Na ja, ne, dann ich sag, ich sag einfach okay.
+00:02:45 - 00:02:46 - Sprecher SPEAKER_08:  Obidobi.
+00:02:46 - 00:02:47 - Sprecher SPEAKER_08:  Wie?
+00:02:47 - 00:02:48 - Sprecher SPEAKER_02:  Obidobi.
+00:02:48 - 00:02:48 - Sprecher SPEAKER_02:  Obidobi.
+00:02:50 - 00:02:50 - Sprecher SPEAKER_08:  Ja.
+00:02:52 - 00:02:53 - Sprecher SPEAKER_08:  Obidobi.
+00:02:56 - 00:02:59 - Sprecher SPEAKER_08:  Ah, kennst du wen, wo ich gerade an dem Laden vorbeifahre?
+00:03:00 - 00:03:03 - Sprecher SPEAKER_08:  Kennst du wen, der eine Auktion gut führen könnte?
+00:03:03 - 00:03:04 - Sprecher SPEAKER_08:  Hast du eine Idee?
+00:03:04 - 00:03:04 - Sprecher SPEAKER_08:  Hm, Billy.
+00:03:05 - 00:03:06 - Sprecher SPEAKER_08:  Ja, außer Billy.
+00:03:06 - 00:03:08 - Sprecher SPEAKER_08:  An den habe ich auch sofort gedacht.
+00:03:09 - 00:03:09 - Sprecher SPEAKER_08: 
+00:03:10 - 00:03:11 - Sprecher SPEAKER_13:  Ähm.
+00:03:12 - 00:03:13 - Sprecher SPEAKER_13:  Eine Auktion.
+00:03:14 - 00:03:17 - Sprecher SPEAKER_08:  Ja, also, irgendwelche Typen kamen zu ...
+00:03:17 - 00:03:18 - Sprecher SPEAKER_08:  Das ist doch ...
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:18 - 00:03:18 - Unbekannt: 
+00:03:21 - 00:03:22 - Sprecher SPEAKER_08:  Da steht ein Auto von dir.
+00:03:22 - 00:03:23 - Sprecher SPEAKER_08:  Naja, ja.
+00:03:23 - 00:03:24 - Sprecher SPEAKER_08:  Okay.
+00:03:24 - 00:03:25 - Sprecher SPEAKER_08:  Äh, irgendwelche ...
+00:03:25 - 00:03:25 - Sprecher SPEAKER_08:  Wagenkling.
+00:03:26 - 00:03:29 - Sprecher SPEAKER_08:  Irgendwelche Typen kamen zu, äh, Bene.
+00:03:30 - 00:03:35 - Sprecher SPEAKER_08:  Und die haben zwei, irgendwelche Siebensitzer, die vorher, also, die es irgendwie in der
+00:03:35 - 00:03:39 - Sprecher SPEAKER_08:  Stadt super selten gibt und die wollen, dass die versteigert werden von diesem Gebrauchtwagenhändler.
+00:03:40 - 00:03:46 - Sprecher SPEAKER_08:  Und da hat Bene mich angerufen, ob ich einen potenziellen Auktions-, eine auktionsführende
+00:03:46 - 00:03:49 - Sprecher SPEAKER_08:  Person mir vorstellen könnte.
+00:03:49 - 00:03:53 - Sprecher SPEAKER_08:  Hm, naja, also irgendwer, der super schnell reden kann vielleicht.
+00:03:53 - 00:03:53 - Sprecher SPEAKER_13:  Hm.
+00:03:54 - 00:03:56 - Sprecher SPEAKER_08:  Ja, und so ein bisschen so Entertainment im Blut hat.
+00:03:57 - 00:03:58 - Sprecher SPEAKER_13:  Auch spaßig mäßig ist.
+00:03:58 - 00:03:58 - Sprecher SPEAKER_13:  Ja, ja, ja.
+00:03:59 - 00:04:06 - Sprecher SPEAKER_13:  Naja, also, vielleicht, also, Toya oder Kingi würden da schon auch gut passen.
+00:04:06 - 00:04:07 - Sprecher SPEAKER_13:  Aber diesen ...
+00:04:07 - 00:04:08 - Sprecher SPEAKER_13:  War mein erster Gedanke, Toya.
+00:04:09 - 00:04:09 - Unbekannt:  Ja.
+00:04:09 - 00:04:09 - Sprecher SPEAKER_13:  Die ...
+00:04:09 - 00:04:12 - Sprecher SPEAKER_13:  Naja, aber Kingi ist auch richtig gut in sowas.
+00:04:12 - 00:04:16 - Sprecher SPEAKER_13:  Der kann richtig gut reden und der hat auch immer richtig viel, naja, Energie.
+00:04:16 - 00:04:16 - Sprecher SPEAKER_13:  Ja.
+00:04:21 - 00:04:23 - Sprecher SPEAKER_13:  Also, ich bin meiner Meinung nach eher für Kingi.
+00:04:23 - 00:04:23 - Sprecher SPEAKER_13:  Hätte ich sonst einen?
+00:04:23 - 00:04:25 - Sprecher SPEAKER_13:  Hm, sonst noch?
+00:04:26 - 00:04:26 - Sprecher SPEAKER_13:  Hm.
+00:04:28 - 00:04:29 - Sprecher SPEAKER_03:  Hm.
+00:04:31 - 00:04:33 - Sprecher SPEAKER_08:  Du darfst dich nicht selber wählen.
+00:04:33 - 00:04:36 - Sprecher SPEAKER_13:  Ich habe auch gar keinen Bock, so eine Scheiße zu machen.
+00:04:39 - 00:04:39 - Sprecher SPEAKER_11:  Hm.
+00:04:39 - 00:04:40 - Sprecher SPEAKER_11:  Ist ja okay.
+00:04:42 - 00:04:42 - Sprecher SPEAKER_13:  Tja.
+00:04:44 - 00:04:45 - Unbekannt:  Ich glaube, ich bin ...
+00:04:46 - 00:04:46 - Unbekannt:  Hm.
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:04:46 - 00:04:46 - Unbekannt: 
+00:05:05 - 00:05:06 - Sprecher SPEAKER_13:  Is das was Kriminelles?
+00:05:06 - 00:05:07 - Sprecher SPEAKER_13:  Oxy oder Texas?
+00:05:07 - 00:05:08 - Sprecher SPEAKER_13:  Beides Texas.
+00:05:09 - 00:05:09 - Sprecher SPEAKER_08:  Hm.
+00:05:09 - 00:05:10 - Sprecher SPEAKER_08:  Ich ...
+00:05:10 - 00:05:11 - Sprecher SPEAKER_08:  Keine Ahnung.
+00:05:11 - 00:05:12 - Sprecher SPEAKER_08:  Es soll mit Bargeld bezahlt werden.
+00:05:12 - 00:05:13 - Sprecher SPEAKER_08:  Mach daraus, was du willst.
+00:05:14 - 00:05:14 - Sprecher SPEAKER_08:  Hm, ja.
+00:05:14 - 00:05:16 - Sprecher SPEAKER_13:  Sonst hätte ich gesagt beim S, also beim S, da ist es nicht mehr so.
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:16 - Sprecher SPEAKER_13: 
+00:05:16 - 00:05:18 - Sprecher SPEAKER_13:  beim SD arbeiten ein paar Leute.
+00:05:19 - 00:05:20 - Sprecher SPEAKER_08:  Ja, ich glaube, das wäre nicht so gut.
+00:05:20 - 00:05:21 - Sprecher SPEAKER_08:  Ja.
+00:05:21 - 00:05:23 - Sprecher SPEAKER_08:  Also dann wäre es jetzt nach...
+00:05:23 - 00:05:25 - Sprecher SPEAKER_08:  Du kannst dir einfach nur mal Gedanken machen.
+00:05:25 - 00:05:26 - Sprecher SPEAKER_08:  Muss ja keine Antwort für jetzt sofort sein.
+00:05:27 - 00:05:29 - Sprecher SPEAKER_08:  Bisher würde ich auch eher für King sein.
+00:05:30 - 00:05:31 - Sprecher SPEAKER_05:  Ja.
+00:05:32 - 00:05:34 - Sprecher SPEAKER_08:  Ansonsten, ja, Billy halt.
+00:05:36 - 00:05:37 - Sprecher SPEAKER_13:  Ja, ja, Billy halt.
+00:05:39 - 00:05:39 - Sprecher SPEAKER_13:  Oder Viper.
+00:05:40 - 00:05:41 - Sprecher SPEAKER_13:  Ich denke, Viper könnte das auch recht gut.
+00:05:43 - 00:05:44 - Sprecher SPEAKER_12:  Bis dann.
+00:05:44 - 00:05:45 - Sprecher SPEAKER_12:  Mit Sicherheit.
+00:05:46 - 00:05:48 - Sprecher SPEAKER_12:  Scheiße, ich hasse die Autos, die hier verkauft werden.
+00:05:50 - 00:05:50 - Sprecher SPEAKER_08:  Genauso.
+00:05:51 - 00:05:52 - Sprecher SPEAKER_12:  Wer bietet mehr?
+00:05:56 - 00:05:58 - Sprecher SPEAKER_08:  Das ist immer wieder Weltklasse.
+00:06:08 - 00:06:08 - Sprecher SPEAKER_05:  Okay.
+00:06:11 - 00:06:12 - Unbekannt:  Ja.
+00:06:16 - 00:06:17 - Sprecher SPEAKER_05:  Okay.
+00:06:17 - 00:06:19 - Sprecher SPEAKER_05:  Wahrscheinlich fahren wir einfach mit Schlüsselmoment Auto.
+00:06:22 - 00:06:23 - Sprecher SPEAKER_05:  Oder auch nicht.
+00:06:23 - 00:06:24 - Sprecher SPEAKER_05:  Oder auch doch.
+00:06:24 - 00:06:25 - Unbekannt:  Oder auch doch.
+00:06:27 - 00:06:29 - Sprecher SPEAKER_05:  Fahren wir mit Schlüsselmoment Auto?
+00:06:29 - 00:06:30 - Sprecher SPEAKER_04:  Fahren wir nicht mit Schlüsselmoment Auto?
+00:06:31 - 00:06:32 - Sprecher SPEAKER_13:  Fahren wir mit Schlüsselmoment Auto?
+00:06:32 - 00:06:33 - Sprecher SPEAKER_13:  Ich überlege gerade.
+00:06:34 - 00:06:36 - Sprecher SPEAKER_13:  Nee, wir fahren nicht mit Schlüsselmoment Auto.
+00:06:36 - 00:06:38 - Sprecher SPEAKER_13:  Okay, wie unentschlossen kann man sich eigentlich sein?
+00:06:41 - 00:06:43 - Sprecher SPEAKER_03:  Okay, erstmal wieder umziehen.
+00:06:45 - 00:06:45 - Unbekannt:  Tch.
+00:06:57 - 00:07:00 - Sprecher SPEAKER_05:  Oh ge roger Wasser.
+00:07:00 - 00:07:03 - Sprecher SPEAKER_05:  Wir haben noch sicher glutenfreie sentryk.
+00:07:06 - 00:07:06 - Unbekannt:  Diesmal die vam garbage.
+00:07:07 - 00:07:10 - Sprecher SPEAKER_05:  Was soll denn das denn?
+00:07:10 - 00:07:11 - Sprecher SPEAKER_13:  Was soll denn das jetzt?
+00:07:12 - 00:07:14 - Sprecher SPEAKER_13:  Für diese Female-Wiya-ouni?
+00:07:14 - 00:07:15 - Sprecher SPEAKER_13:  Da können noch ein paar andere Tauschen runter.
+00:07:15 - 00:07:16 - Sprecher SPEAKER_05:  Was soll jetzt?
+00:07:16 - 00:07:16 - Unbekannt:  Kommt schon.
+00:07:23 - 00:07:26 - Sprecher SPEAKER_09:  Hallo, wunderschönen guten Tag.
+00:07:26 - 00:07:28 - Sprecher SPEAKER_13:  Sie hatten vorhin angerufen.
+00:07:29 - 00:07:30 - Sprecher SPEAKER_13:  Haben Sie gerade zufällig Zeit?
+00:07:31 - 00:07:32 - Sprecher SPEAKER_09:  Gut.
+00:07:33 - 00:07:36 - Sprecher SPEAKER_13:  Gibt es einen bevorzugten Ort, wo Sie sich gern treffen wollen?
+00:07:39 - 00:07:41 - Sprecher SPEAKER_09:  Wir schlagen Ihnen eine Notfall.
+00:07:41 - 00:07:44 - Sprecher SPEAKER_13:  Dann würde ich einfach vorschlagen, dass...
+00:07:46 - 00:07:50 - Sprecher SPEAKER_13:  wir uns beim Golfplatz treffen.
+00:07:50 - 00:07:52 - Sprecher SPEAKER_13:  Beim Golfplatz auf der anderen Seite.
+00:07:52 - 00:07:54 - Sprecher SPEAKER_13:  Also sozusagen nicht am vorderen Parkplatz, sondern am hinteren.
+00:07:55 - 00:07:57 - Sprecher SPEAKER_09:  Am hinteren Parkplatz vom Golfplatz, okay.
+00:07:57 - 00:07:58 - Sprecher SPEAKER_09:  Gut, bis gleich.
+00:07:58 - 00:07:59 - Sprecher SPEAKER_09:  Perfekt, bis gleich.
+00:08:03 - 00:08:05 - Sprecher SPEAKER_04:  Er hört sich ganz leidend an.
+00:08:05 - 00:08:07 - Sprecher SPEAKER_04:  Er hört sich ein bisschen an,
+00:08:07 - 00:08:10 - Sprecher SPEAKER_04:  als wäre er vielleicht ein bisschen angeschossen worden gerade.
+00:08:11 - 00:08:12 - Sprecher SPEAKER_04:  Bin ich mal gespannt.
+00:08:12 - 00:08:14 - Sprecher SPEAKER_04:  Das sind...
+00:08:14 - 00:08:16 - Sprecher SPEAKER_04:  Ich überlege gerade.
+00:08:17 - 00:08:18 - Sprecher SPEAKER_03:  Kasu hatte...
+00:08:18 - 00:08:21 - Sprecher SPEAKER_03:  Ich habe Kasu was gegeben.
+00:08:32 - 00:08:34 - Sprecher SPEAKER_05:  Was gegeben?
+00:08:34 - 00:08:36 - Sprecher SPEAKER_05:  Na ja, gucken wir einfach mal.
+00:08:36 - 00:08:38 - Sprecher SPEAKER_05:  Was ist das?
+00:08:42 - 00:08:43 - Sprecher SPEAKER_04:  Klicken wir einfach mal.
+00:08:48 - 00:09:01 - Unbekannt:  Ich weiß nicht.
+00:09:01 - 00:09:01 - Unbekannt:  Ich glaube die Komplimente sind so ziemlich hoch,
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt:  aber auch die Almostausweisung,
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:01 - Unbekannt: 
+00:09:01 - 00:09:12 - Unbekannt:  little more,
+00:09:18 - 00:09:21 - Unbekannt:  ... Musik ...
+00:09:47 - 00:09:49 - Unbekannt:  ... Musik ...
+00:10:20 - 00:10:22 - Unbekannt:  ... Musik ...
+00:10:43 - 00:10:43 - Unbekannt:  ... Musik ...
+00:11:13 - 00:11:15 - Sprecher SPEAKER_09:  ... Musik ...
+00:11:42 - 00:11:51 - Sprecher SPEAKER_13:  In letzter Zeit kommen manchmal irgendwelche Leute zu mir, vor allem in den Laden, was ich sehr ungern habe und patsche mich einfach auf irgendwas an.
+00:11:52 - 00:11:58 - Sprecher SPEAKER_13:  Dementsprechend ist es einfacher herauszufinden, wer tatsächlich von jemandem, dem ich diesbezüglich vertraue, den Kontakt hat.
+00:11:58 - 00:11:59 - Sprecher SPEAKER_13:  Das verstehen Sie bestimmt.
+00:12:00 - 00:12:01 - Sprecher SPEAKER_10:  Sie.
+00:12:02 - 00:12:03 - Sprecher SPEAKER_10:  Ja, natürlich.
+00:12:04 - 00:12:05 - Sprecher SPEAKER_13:  Gut.
+00:12:05 - 00:12:06 - Sprecher SPEAKER_10:  Sicher, sicher.
+00:12:06 - 00:12:07 - Sprecher SPEAKER_10:  Mein Name ist Fritzi Franklin.
+00:12:10 - 00:12:11 - Sprecher SPEAKER_09:  Hallo, mein Name ist Ahmad.
+00:12:12 - 00:12:12 - Sprecher SPEAKER_13:  Hallo, Ahmad.
+00:12:13 - 00:12:13 - Sprecher SPEAKER_13:  Ahmad oder Ahmed?
+00:12:14 - 00:12:15 - Sprecher SPEAKER_09:  Ahmad.
+00:12:15 - 00:12:16 - Sprecher SPEAKER_09:  Okay, hallo Ahmad.
+00:12:20 - 00:12:21 - Sprecher SPEAKER_10:  Freut mich, Lopo.
+00:12:24 - 00:12:27 - Sprecher SPEAKER_10:  Die Herrin mit den grauen Haaren ist Primo, freut mich.
+00:12:28 - 00:12:29 - Sprecher SPEAKER_13:  Hallo, Primo.
+00:12:29 - 00:12:30 - Sprecher SPEAKER_13:  Wir kennen uns ja schon.
+00:12:31 - 00:12:33 - Sprecher SPEAKER_08:  Und wir kennen uns schon. Hallo, Tragan.
+00:12:33 - 00:12:33 - Sprecher SPEAKER_13:  Hi.
+00:12:33 - 00:12:34 - Sprecher SPEAKER_06:  Na ja, gut.
+00:12:36 - 00:12:41 - Sprecher SPEAKER_13:  Also, ich hab nur grob mitgekriegt, dass ihr nach etwas auskommt.
+00:12:41 - 00:12:45 - Sprecher SPEAKER_13:  D confortable exposition au fait des
+00:12:45 - 00:12:54 - Sprecher SPEAKER_13:  Je partner que vous avez pour vous présenter.
+00:12:55 - 00:12:57 - Sprecher SPEAKER_13:  Comment il juste.
+00:13:07 - 00:13:10 - Sprecher SPEAKER_13:  Quoi qu'il dort bon.
+00:13:11 - 00:13:11 - Sprecher SPEAKER_13:  Comment?
+00:13:11 - 00:13:11 - Sprecher SPEAKER_13: 
+00:13:11 - 00:13:11 - Sprecher SPEAKER_13: 
+00:13:11 - 00:13:11 - Sprecher SPEAKER_13: 
+00:13:11 - 00:13:13 - Sprecher SPEAKER_13:  Oder ist das einfach nur für den Moment?
+00:13:14 - 00:13:21 - Sprecher SPEAKER_09:  Na, na, vielleicht auch noch mal nach Leuten suchen, die die Autos ausschlachten wollen, ne?
+00:13:22 - 00:13:24 - Sprecher SPEAKER_10:  Quasi Export, ne?
+00:13:24 - 00:13:24 - Sprecher SPEAKER_10:  Ach so.
+00:13:25 - 00:13:27 - Sprecher SPEAKER_13:  Gut, verstehe. Alles klar.
+00:13:28 - 00:13:30 - Sprecher SPEAKER_13:  Habt ihr da schon Kontakte diesbezüglich?
+00:13:32 - 00:13:34 - Sprecher SPEAKER_10:  Tatsächlich in dieser Richtung nicht.
+00:13:34 - 00:13:35 - Sprecher SPEAKER_13:  Mhm.
+00:13:37 - 00:13:38 - Sprecher SPEAKER_13:  Gut, verstehe.
+00:13:41 - 00:13:44 - Sprecher SPEAKER_13:  Also, ich weiß nicht, wir haben bisher noch keinen Kontakt gehabt.
+00:13:44 - 00:13:48 - Sprecher SPEAKER_13:  Also, na klar, so tragern wir schon, aber keinen geschäftlichen Kontakt, nennen wir es so.
+00:13:49 - 00:13:50 - Sprecher SPEAKER_06:  Ja, das ist richtig so.
+00:13:51 - 00:13:51 - Sprecher SPEAKER_13:  Gut.
+00:13:52 - 00:13:55 - Sprecher SPEAKER_13:  Ich hab einen Schlüsselladen in der Southside.
+00:13:55 - 00:14:01 - Sprecher SPEAKER_13:  Das ist eine Seite von mir, eine Seite, die absolut rein gar nichts mit dem Geschäft zu tun hat.
+00:14:01 - 00:14:07 - Sprecher SPEAKER_13:  Aber eine ziemlich nützliche Seite, um eine gewisse Fassade aufrechtzuerhalten.
+00:14:07 - 00:14:08 - Sprecher SPEAKER_13:  Sie hat allerdings...
+00:14:08 - 00:14:10 - Sprecher SPEAKER_13:  In keinster Weise was mit dem Geschäft zu tun.
+00:14:10 - 00:14:16 - Sprecher SPEAKER_13:  Also, für den Fall, dass unsere Geschäftsbeziehung etwas länger andauern sollte und darüber würde ich mich sehr freuen.
+00:14:16 - 00:14:23 - Sprecher SPEAKER_13:  Naja, für diesen Fall bitte ich Sie natürlich alle, das in keinster Weise mit dem Schlüsselladen zu kombinieren.
+00:14:25 - 00:14:25 - Sprecher SPEAKER_09:  Ja, sehe.
+00:14:27 - 00:14:27 - Sprecher SPEAKER_09:  Selbstverständlich.
+00:14:28 - 00:14:38 - Sprecher SPEAKER_13:  Ansonsten würde ich kurz gern meinen Geschäftsbereich vorstellen, weil am Ende des Tages treffen wir uns hier gerade und ich würde es, glaube ich, für komisch ansehen, wenn ich hier nicht...
+00:14:38 - 00:14:40 - Sprecher SPEAKER_13:  ...bis zum gewissen Grad mit offenen Karten spiele.
+00:14:41 - 00:14:44 - Sprecher SPEAKER_13:  Mein Bereich im Geschäft ist es...
+00:14:44 - 00:14:48 - Sprecher SPEAKER_13:  ...naja, seit Monaten hier, mir verschiedene Leute ganz genau anzugucken.
+00:14:49 - 00:14:51 - Sprecher SPEAKER_13:  Leute, die auch im Geschäft tätig sind.
+00:14:51 - 00:14:54 - Sprecher SPEAKER_13:  Ich schaue mir Gruppen an und...
+00:14:54 - 00:14:55 - Sprecher SPEAKER_13:  ...naja...
+00:14:56 - 00:15:02 - Sprecher SPEAKER_13:  ...schätze sie ungefähr ein, was sie besonders gut können, was ihre Ambitionen sind, was...
+00:15:02 - 00:15:04 - Sprecher SPEAKER_13:  ...naja, sie am liebsten machen und am besten können.
+00:15:05 - 00:15:05 - Sprecher SPEAKER_13:  Und...
+00:15:06 - 00:15:08 - Sprecher SPEAKER_13:  ...dann führe ich für den Fall die Gruppen an.
+00:15:08 - 00:15:08 - Sprecher SPEAKER_13: 
+00:15:08 - 00:15:09 - Sprecher SPEAKER_13:  Ich möchte, dass das von...
+00:15:09 - 00:15:11 - Sprecher SPEAKER_13:  ...den beiden Seiten gewünscht ist.
+00:15:11 - 00:15:14 - Sprecher SPEAKER_13:  Auch mal den ein oder anderen Geschäftskontakt zusammen.
+00:15:15 - 00:15:18 - Sprecher SPEAKER_13:  Um gegebenenfalls eben Geschäfte zu machen oder nicht.
+00:15:18 - 00:15:21 - Sprecher SPEAKER_13:  Aber vorrangig natürlich für Aufträge.
+00:15:21 - 00:15:29 - Sprecher SPEAKER_13:  Also für den Fall, dass mal irgendeine Sache gemacht werden muss, wo derjenige, der den Auftrag gibt, nicht unbedingt sich direkt zu erkennen geben möchte.
+00:15:29 - 00:15:31 - Sprecher SPEAKER_13:  Und einfach nur jemanden braucht, der das Ganze erledigt.
+00:15:32 - 00:15:34 - Sprecher SPEAKER_13:  Gegen Bezahlung versteht sich natürlich.
+00:15:34 - 00:15:36 - Sprecher SPEAKER_13:  Da greife ich auf...
+00:15:36 - 00:15:37 - Sprecher SPEAKER_13:  ...das zurück, was...
+00:15:38 - 00:15:39 - Sprecher SPEAKER_13:  ...ich in den letzten Monaten...
+00:15:39 - 00:15:45 - Sprecher SPEAKER_13:  ...mir an Wissen angeeignet habe und kann dementsprechend gut entscheiden, für welchen Auftrag wer gut geeignet ist.
+00:15:46 - 00:15:53 - Sprecher SPEAKER_13:  Das gleiche gilt natürlich auch für potenzielle Handelspartnerschaften beziehungsweise Vertriebspartnerschaften.
+00:15:54 - 00:15:56 - Sprecher SPEAKER_13:  Das ist so grob zusammengefasst...
+00:15:56 - 00:15:58 - Sprecher SPEAKER_13:  ...ein Teil meines Geschäftsbereichs.
+00:16:03 - 00:16:04 - Sprecher SPEAKER_09:  Ah, ok.
+00:16:12 - 00:16:13 - Sprecher SPEAKER_09:  Ich habe noch nicht direkt...
+00:16:17 - 00:16:17 - Sprecher SPEAKER_13:  ...ein Teil.
+00:16:17 - 00:16:17 - Sprecher SPEAKER_13: 
+00:16:17 - 00:16:23 - Sprecher SPEAKER_13:  Gut, verstehe. Ein anderer Teil ist natürlich auch die Möglichkeit, die ein oder andere Sache zu besorgen.
+00:16:24 - 00:16:34 - Sprecher SPEAKER_13:  Entweder weil ich die Leute kenne, die das Ganze vertreiben und da kennen sie ganz bestimmt auch viele Leute, sie scheinen ja auch schon eine ganze Weile im Geschäft unterwegs zu sein.
+00:16:34 - 00:16:38 - Sprecher SPEAKER_13:  Oder weil ich noch andere Möglichkeiten habe.
+00:16:39 - 00:16:45 - Sprecher SPEAKER_13:  Nun, das ist etwas, was natürlich zustande kommt, wenn eine gute und lange Geschäftspartnerschaft besteht.
+00:16:47 - 00:16:50 - Sprecher SPEAKER_13:  Aber gerade sowas wie diese Autochips...
+00:16:51 - 00:16:53 - Sprecher SPEAKER_13:  ...naja, da besteht natürlich die Möglichkeit.
+00:16:54 - 00:16:58 - Sprecher SPEAKER_13:  Aber es würde mich natürlich auch interessieren, was ihr so macht.
+00:17:00 - 00:17:01 - Unbekannt:  ...was ihr so macht.
+00:17:03 - 00:17:04 - Sprecher SPEAKER_09:  ...was ihr so macht.
+00:17:04 - 00:17:04 - Sprecher SPEAKER_09:  Was denn willst du erzählen?
+00:17:06 - 00:17:08 - Sprecher SPEAKER_09:  Erzähl ruhig, erzähl. Alles gut.
+00:17:09 - 00:17:10 - Sprecher SPEAKER_09:  Na dann, mach du mal.
+00:17:12 - 00:17:12 - Unbekannt:  ...na dann, mach du mal.
+00:17:14 - 00:17:16 - Sprecher SPEAKER_10:  ...na dann, mach du mal.
+00:17:16 - 00:17:22 - Sprecher SPEAKER_10:  Im Grunde haben wir mitbekommen, dass sie natürlich auch im Informationsbereich tätig sind.
+00:17:24 - 00:17:24 - Sprecher SPEAKER_13:  Inwiefern?
+00:17:25 - 00:17:28 - Sprecher SPEAKER_10:  Dass sie viel hören, unter anderem...
+00:17:30 - 00:17:33 - Sprecher SPEAKER_10:  ...was Informationen aus allen Richtungen angeht.
+00:17:33 - 00:17:33 - Sprecher SPEAKER_10:  ...was Informationen aus allen Richtungen angeht.
+00:17:34 - 00:17:35 - Sprecher SPEAKER_13:  ...was Informationen aus allen Richtungen angeht.
+00:17:35 - 00:17:37 - Sprecher SPEAKER_13:  Nun, naja, das ist unabweichlich natürlich.
+00:17:38 - 00:17:43 - Sprecher SPEAKER_13:  Nichtsdestotrotz möchte ich hier ganz klar betonen, dass ich in meinem Bereich sehr diskret arbeite.
+00:17:44 - 00:17:44 - Sprecher SPEAKER_13:  ...nachher das ist unabweichlich natürlich.
+00:17:44 - 00:17:44 - Sprecher SPEAKER_13: 
+00:17:44 - 00:17:46 - Sprecher SPEAKER_13:  Leute, die mit mir zusammenarbeiten...
+00:17:46 - 00:17:47 - Sprecher SPEAKER_13:  ...leute, die mit mir zusammenarbeiten...
+00:17:47 - 00:17:50 - Sprecher SPEAKER_13:  ...naja, das erwähne ich gegenüber anderen Leuten nicht.
+00:17:50 - 00:17:50 - Sprecher SPEAKER_13:  ...naja, das erwähne ich gegenüber anderen Leuten nicht.
+00:17:51 - 00:17:55 - Sprecher SPEAKER_13:  Außer es beherrscht ein gemeinsames Einverständnis.
+00:17:55 - 00:17:58 - Sprecher SPEAKER_13:  Außer es beherrscht ein gemeinsames Einverständnis.
+00:18:07 - 00:18:09 - Sprecher SPEAKER_13:  Was
+00:18:25 - 00:18:27 - Sprecher SPEAKER_10:  also
+00:18:27 - 00:18:27 - Sprecher SPEAKER_10: 
+00:18:27 - 00:18:28 - Sprecher SPEAKER_10:  das假?
+00:18:28 - 00:18:28 - Sprecher SPEAKER_10:  Was?
+00:18:28 - 00:18:34 - Sprecher SPEAKER_10:  den man natürlich zahlen kann, die Kontakte damit hergestellt werden.
+00:18:34 - 00:18:36 - Sprecher SPEAKER_13:  Das steht natürlich jedem frei.
+00:18:36 - 00:18:39 - Sprecher SPEAKER_13:  Nichtsdestotrotz ist es nicht mein Interesse, damit Geld zu verdienen.
+00:18:39 - 00:18:43 - Sprecher SPEAKER_13:  Ich verdiene Geld, wenn das Geschäft läuft und daraus dann wiederum,
+00:18:45 - 00:18:49 - Sprecher SPEAKER_13:  naja, sagen wir mal, ein gewisses Chaos entsteht.
+00:18:49 - 00:18:52 - Sprecher SPEAKER_13:  Ich weiß, das sage ich eigentlich in letzter Zeit nicht mehr so gern,
+00:18:52 - 00:18:56 - Sprecher SPEAKER_13:  seitdem das riesige Chaos passiert ist, weil von so einer Art Chaos rede ich wirklich nicht.
+00:18:56 - 00:19:01 - Sprecher SPEAKER_13:  Aber wenn das Geschäft läuft, Leute ihren Kram verkaufen,
+00:19:03 - 00:19:08 - Sprecher SPEAKER_13:  Leute, nun naja, das tun, was sie eben tun, dann läuft auch mein Geschäft, dafür brauche ich kein Honorar.
+00:19:10 - 00:19:13 - Sprecher SPEAKER_11:  Am Ende profitiere ich, wenn alle anderen profitieren.
+00:19:17 - 00:19:17 - Sprecher SPEAKER_10:  Sehr gut.
+00:19:19 - 00:19:23 - Sprecher SPEAKER_10:  Ja, wir sind dementsprechend, wie Sie auch schon richtig geschätzt haben,
+00:19:23 - 00:19:25 - Sprecher SPEAKER_10:  schon ein wenig länger auch im Geschäft.
+00:19:27 - 00:19:30 - Sprecher SPEAKER_10:  Länger unterwegs und man hört, sieht natürlich immer viel.
+00:19:35 - 00:19:40 - Sprecher SPEAKER_10:  Man ist sicherlich so, die eine oder andere Sache konnte man mal vermitteln, was
+00:19:43 - 00:19:45 - Sprecher SPEAKER_10:  irgendwie mal auch für ein Hardware angeht.
+00:19:48 - 00:19:50 - Sprecher SPEAKER_10:  Und Sie verstehen, was ich meine.
+00:19:51 - 00:19:52 - Sprecher SPEAKER_02:  Selbstverständlich.
+00:19:52 - 00:19:52 - Unbekannt:  Ja.
+00:19:56 - 00:19:56 - Sprecher SPEAKER_10:  Ja.
+00:19:56 - 00:19:58 - Sprecher SPEAKER_10:  Aber eben, äh, ungekennzeichnet.
+00:20:02 - 00:20:04 - Sprecher SPEAKER_13:  Selbstverständlich ungekennzeichnet, alles andere wäre ja auch...
+00:20:06 - 00:20:08 - Sprecher SPEAKER_13:  Verzeihen Sie aber, das wäre ja wirklich auch dumm.
+00:20:08 - 00:20:13 - Sprecher SPEAKER_10:  Richtig, aber naja, man hat schon so einiges in dieser Stadt mitbekommen.
+00:20:13 - 00:20:17 - Sprecher SPEAKER_10:  Die Leute handeln ein wenig. Tragwürdig, sagen wir es so.
+00:20:17 - 00:20:19 - Sprecher SPEAKER_13:  Ja, unvorsichtig.
+00:20:20 - 00:20:21 - Sprecher SPEAKER_10:  So ist es.
+00:20:22 - 00:20:24 - Sprecher SPEAKER_13:  Genauso unvorsichtig, wie manche Leute mit Informationen umgehen.
+00:20:26 - 00:20:27 - Sprecher SPEAKER_10:  Ganz richtig.
+00:20:29 - 00:20:31 - Sprecher SPEAKER_10:  Diskretion, Bärschen, hier nicht viele Leute.
+00:20:31 - 00:20:34 - Sprecher SPEAKER_10:  Die Leute reden und reden und reden.
+00:20:37 - 00:20:41 - Sprecher SPEAKER_10:  Machen sich gar keine Gedanken darüber, was sie damit ausrichten.
+00:20:43 - 00:20:44 - Unbekannt:  Ja.
+00:20:54 - 00:20:55 - Sprecher SPEAKER_10:  Naja.
+00:20:56 - 00:20:57 - Sprecher SPEAKER_10:  Sagen wir mal so.
+00:20:59 - 00:21:03 - Sprecher SPEAKER_10:  Ich denke, Sie haben noch nicht wirklich viel von uns gehört, nehme ich mal an.
+00:21:04 - 00:21:05 - Sprecher SPEAKER_13:  Nein, das weiß ich nicht.
+00:21:05 - 00:21:07 - Sprecher SPEAKER_10:  Das ist doch fantastisch.
+00:21:10 - 00:21:11 - Sprecher SPEAKER_10:  Naja.
+00:21:12 - 00:21:17 - Sprecher SPEAKER_10:  Sind wir mal ehrlich, in unserem Bereich wollen wir eigentlich so wenig wie möglich auffallen.
+00:21:19 - 00:21:26 - Sprecher SPEAKER_10:  Und wir geben uns keine Namen für irgendwelche Gruppen oder ähnliches.
+00:21:26 - 00:21:27 - Sprecher SPEAKER_10:  Wie es viele tun hier.
+00:21:29 - 00:21:31 - Sprecher SPEAKER_10:  Werden sie von uns niemals hören.
+00:21:32 - 00:21:33 - Sprecher SPEAKER_13:  Das ist interessant.
+00:21:37 - 00:21:42 - Sprecher SPEAKER_10:  Daher sind wir auf Diskretion genauso bedacht.
+00:21:47 - 00:21:49 - Sprecher SPEAKER_13:  Das hört sich gut an.
+00:21:49 - 00:21:54 - Sprecher SPEAKER_13:  Hört sich nach einer guten Grundlage für eine zukünftige Geschäftspartnerschaft an.
+00:21:54 - 00:21:56 - Sprecher SPEAKER_13:  Zumindest dann, wenn Sie daran denken.
+00:21:56 - 00:21:57 - Sprecher SPEAKER_13:  Man kann natürlich Interesse haben.
+00:21:57 - 00:21:59 - Sprecher SPEAKER_13:  Ich zwinge mich niemanden auf.
+00:22:02 - 00:22:03 - Sprecher SPEAKER_10:  Ja, definitiv.
+00:22:03 - 00:22:06 - Sprecher SPEAKER_10:  Ich würde mal sagen, Kontakte zu pflegen.
+00:22:07 - 00:22:10 - Sprecher SPEAKER_10:  Jegliche Richtung ist nie verkehrt.
+00:22:13 - 00:22:18 - Sprecher SPEAKER_10:  Wer weiß, vielleicht hat man ja ein gemeinsames Interesse.
+00:22:18 - 00:22:25 - Sprecher SPEAKER_10:  Wer doch zukünftig hat interessante Informationsflüsse, die man nutzen kann.
+00:22:26 - 00:22:28 - Sprecher SPEAKER_10:  Also, ich bin nicht da.
+00:22:41 - 00:22:42 - Sprecher SPEAKER_13:  Allerdingsnersола, ne
+00:22:42 - 00:22:46 - Sprecher SPEAKER_13:  So, ich bin uns hotelan bibli, oder soilis ein kaufmer flismaticus.
+00:22:48 - 00:22:53 - Sprecher SPEAKER_10:  Anybody faster than I can drink, who lightweight the� profesional plan?
+00:22:53 - 00:22:53 - Sprecher SPEAKER_10: 
+00:22:53 - 00:22:53 - Sprecher SPEAKER_10: 
+00:22:53 - 00:22:53 - Sprecher SPEAKER_10: 
+00:22:55 - 00:22:55 - Sprecher SPEAKER_02:  Meinama chce enlightenment.
+00:22:56 - 00:22:56 - Unbekannt:  Einstein?
+00:22:56 - 00:22:56 - Unbekannt: 
+00:22:59 - 00:22:59 - Sprecher SPEAKER_02:  Nun...
+00:22:59 - 00:23:02 - Sprecher SPEAKER_02:  Es gibt immer ein Zahnrad, was am Laufen ist.
+00:23:02 - 00:23:07 - Sprecher SPEAKER_10:  Und das eine greift in das andere und greift in ein größeres Zahnrad.
+00:23:09 - 00:23:12 - Sprecher SPEAKER_10:  Das ganze Uhrwerk entwickelt sich eben und dreht sich immer weiter.
+00:23:16 - 00:23:19 - Sprecher SPEAKER_13:  Ganz genau. Und wir sind beim allerkleinsten angekommen.
+00:23:19 - 00:23:22 - Sprecher SPEAKER_13:  Wobei ich habe das Gefühl, dass wir die ersten kleinen überschritten haben.
+00:23:22 - 00:23:30 - Sprecher SPEAKER_13:  Normalerweise tanze ich wirklich, wirklich lange mit zukünftigen Geschäftspartnern auf so einer, naja...
+00:23:31 - 00:23:37 - Sprecher SPEAKER_13:  Nicht geschäftlichen Basis erstmal, sondern erstmal, um abzuchecken, was das für Leute sind, bis ich mich irgendwann zu erkennen gebe.
+00:23:37 - 00:23:42 - Sprecher SPEAKER_13:  Aber in dem Fall haben wir über den Kontakt einige Schritte übersprungen.
+00:23:43 - 00:23:43 - Sprecher SPEAKER_13:  Zwangsläufig.
+00:23:45 - 00:23:46 - Sprecher SPEAKER_10:  Ganz richtig.
+00:23:47 - 00:23:49 - Sprecher SPEAKER_10:  Will ich auch so sehen.
+00:23:50 - 00:23:51 - Sprecher SPEAKER_13:  Gut, nichtsdestotrotz.
+00:23:51 - 00:23:53 - Sprecher SPEAKER_13:  Haben Sie ein Interesse an einem Produkt?
+00:23:56 - 00:23:58 - Sprecher SPEAKER_10:  Ganz richtig.
+00:23:58 - 00:24:00 - Sprecher SPEAKER_10:  Das hat der Senior Ihnen ja schon erzählt.
+00:24:00 - 00:24:02 - Sprecher SPEAKER_10:  Und darum, was wir auch suchen.
+00:24:05 - 00:24:06 - Sprecher SPEAKER_13:  Ja.
+00:24:06 - 00:24:11 - Sprecher SPEAKER_10:  Aber sagen wir mal, es ist ein bisschen schwerer, wohl auch ranzukommen.
+00:24:13 - 00:24:16 - Sprecher SPEAKER_10:  Da würde natürlich auch Preis interessieren.
+00:24:17 - 00:24:19 - Sprecher SPEAKER_13:  Den Preis kann ich Ihnen gerne sagen.
+00:24:20 - 00:24:21 - Sprecher SPEAKER_13:  Diese Chipsbewegung.
+00:24:21 - 00:24:23 - Sprecher SPEAKER_13:  Die bewegen sich bei 9000 Dollar pro Stück.
+00:24:26 - 00:24:28 - Sprecher SPEAKER_10:  Okay, das ist schon mal gut zu wissen.
+00:24:32 - 00:24:34 - Sprecher SPEAKER_13:  Wie viele davon bräuchten Sie denn?
+00:24:37 - 00:24:39 - Sprecher SPEAKER_10:  Ich würde sagen...
+00:24:41 - 00:24:43 - Sprecher SPEAKER_10:  Anfang erstmal würde ich sagen...
+00:24:45 - 00:24:45 - Sprecher SPEAKER_10:  Drei Stück.
+00:24:46 - 00:24:47 - Sprecher SPEAKER_13:  Gut, kein Problem.
+00:24:51 - 00:24:55 - Sprecher SPEAKER_13:  Wissen Sie, es ist nie ein Problem für mich, an Dinge ranzukommen.
+00:24:56 - 00:24:59 - Sprecher SPEAKER_13:  Es ist immer nur so, dass ich...
+00:25:01 - 00:25:02 - Sprecher SPEAKER_13:  ...gerne einen Grund habe.
+00:25:03 - 00:25:08 - Sprecher SPEAKER_13:  Und es fällt mir gerade noch sehr schwer, einen Grund zu sehen, weil wir uns alle noch
+00:25:08 - 00:25:12 - Sprecher SPEAKER_13:  nicht besonders gut kennen und ich weder ihre Ambitionen kenne, noch ihre Ziele.
+00:25:13 - 00:25:18 - Sprecher SPEAKER_13:  Ich habe absolutes Verständnis dafür, dass Sie die noch nicht beim ersten Treffen preisgeben wollen.
+00:25:20 - 00:25:21 - Sprecher SPEAKER_13:  Ich ergebe Sie, dass ich Sie nicht mehr sehen will.
+00:25:21 - 00:25:24 - Sprecher SPEAKER_13:  Ich erkläre Ihnen nun meine Herangehensweise.
+00:25:27 - 00:25:28 - Sprecher SPEAKER_10:  Vollkommen nachvollziehbar.
+00:25:29 - 00:25:32 - Sprecher SPEAKER_10:  Vertrauen muss sich erarbeitet werden auf beiden Seiten.
+00:25:33 - 00:25:40 - Sprecher SPEAKER_10:  Es muss eine Beziehung aufgebaut werden und ist nicht einfach da.
+00:25:41 - 00:25:42 - Sprecher SPEAKER_10:  Vergessen hier viele Leute.
+00:25:44 - 00:25:45 - Sprecher SPEAKER_11:  Ganz genau so ist es.
+00:25:46 - 00:25:51 - Sprecher SPEAKER_10:  Wir erwarten gar nicht, dass es einmal auf einen anderen Tag passiert, dass Sie die Beziehung
+00:25:51 - 00:25:51 - Sprecher SPEAKER_10: 
+00:25:51 - 00:25:51 - Sprecher SPEAKER_10: 
+00:25:52 - 00:25:55 - Sprecher SPEAKER_10:  Es kann mit mehreren Treffen alles entstehen.
+00:25:57 - 00:26:00 - Sprecher SPEAKER_10:  Vielleicht haben sie ja auch mal jemanden, der interessiert ist.
+00:26:01 - 00:26:02 - Sprecher SPEAKER_10:  Produkte, ne?
+00:26:03 - 00:26:07 - Sprecher SPEAKER_13:  Naja, dazu müsste ich erstmal wissen, an welcher Art von Produkten jemand überhaupt
+00:26:07 - 00:26:08 - Sprecher SPEAKER_13:  interessiert sein müsste.
+00:26:11 - 00:26:13 - Sprecher SPEAKER_10:  Ah, unter anderem...
+00:26:15 - 00:26:19 - Sprecher SPEAKER_10:  Vielleicht haben sie ja mitbekommen, dass in der Stadt aktuell eine kleine...
+00:26:21 - 00:26:24 - Sprecher SPEAKER_10:  Hungersnot an Hardware, nennen wir es mal, herrscht.
+00:26:27 - 00:26:27 - Sprecher SPEAKER_13:  Ja, durchaus.
+00:26:29 - 00:26:33 - Sprecher SPEAKER_10:  Wir haben eben noch ein wenig was auf Lager, tatsächlich.
+00:26:34 - 00:26:34 - Sprecher SPEAKER_13:  Querbeet?
+00:26:35 - 00:26:36 - Sprecher SPEAKER_10:  Querbeet, ja.
+00:26:40 - 00:26:46 - Sprecher SPEAKER_13:  Gut, dann gehe ich davon aus, dass sie mir ihren gesamten Produktkatalog heute noch nicht
+00:26:46 - 00:26:47 - Sprecher SPEAKER_13:  mitteilen wollen.
+00:26:49 - 00:26:49 - Sprecher SPEAKER_10:  Ah, okay.
+00:26:49 - 00:26:49 - Sprecher SPEAKER_10: 
+00:26:49 - 00:26:50 - Sprecher SPEAKER_10:  Dann schau ich mal, was sie uns noch sagen.
+00:26:50 - 00:26:55 - Sprecher SPEAKER_10:  Vielleicht noch nicht alles, aber so Kleinigkeiten sind auf jeden Fall auch dabei.
+00:26:55 - 00:27:01 - Sprecher SPEAKER_10:  Glocks, Mk2-Pistolen, doppelläufige Schrotflinten.
+00:27:02 - 00:27:03 - Sprecher SPEAKER_13:  Oh, die mag ich besonders.
+00:27:04 - 00:27:07 - Sprecher SPEAKER_10:  Ja, ist ein schönes Ding auf jeden Fall.
+00:27:07 - 00:27:08 - Sprecher SPEAKER_13:  Ja, voll.
+00:27:13 - 00:27:14 - Sprecher SPEAKER_13:  Gut, verstehe.
+00:27:15 - 00:27:19 - Sprecher SPEAKER_13:  Und sie sind interessiert an Kontakten, die bei Ihnen einkaufen sind?
+00:27:22 - 00:27:25 - Sprecher SPEAKER_10:  Ja, die haben unter anderem diverse Kontakte, die einkaufen.
+00:27:25 - 00:27:34 - Sprecher SPEAKER_10:  Aber um zu hören, ob Interesse irgendwo besteht oder werden sicherlich genug Leute kennen,
+00:27:34 - 00:27:37 - Sprecher SPEAKER_10:  die wir vielleicht nicht kennen, mit denen wir gar nicht verkehren.
+00:27:40 - 00:27:42 - Sprecher SPEAKER_10:  Weil das wird es immer geben.
+00:27:44 - 00:27:45 - Sprecher SPEAKER_13:  Ja, die Insel ist groß.
+00:27:46 - 00:27:47 - Sprecher SPEAKER_10:  Richtig.
+00:27:47 - 00:27:49 - Sprecher SPEAKER_10:  Und vielleicht ist schon mal die ein oder andere Person dabei, die sich da ein bisschen
+00:27:49 - 00:27:49 - Sprecher SPEAKER_10: 
+00:27:49 - 00:27:49 - Sprecher SPEAKER_10: 
+00:27:49 - 00:27:49 - Sprecher SPEAKER_10: 
+00:27:49 - 00:27:49 - Sprecher SPEAKER_10:  interessiert.
+00:27:49 - 00:27:55 - Sprecher SPEAKER_10:  Oder die, wo man sich noch gar nicht zufällig getroffen hat oder ähnliches.
+00:28:00 - 00:28:02 - Sprecher SPEAKER_13:  Gut, dann behalte ich das mal im Hinterkopf.
+00:28:05 - 00:28:06 - Sprecher SPEAKER_10:  Perfekt.
+00:28:08 - 00:28:17 - Sprecher SPEAKER_10:  Falls Sie mal irgendwie befragen haben oder Interesse, irgendwas in diese Richtung, kann
+00:28:17 - 00:28:19 - Sprecher SPEAKER_10:  man natürlich mit der Zeit auch darüber sprechen.
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:19 - 00:28:19 - Sprecher SPEAKER_10: 
+00:28:21 - 00:28:24 - Sprecher SPEAKER_10:  Man weiß ja nicht, was die Zukunft bringt, nicht wahr?
+00:28:25 - 00:28:29 - Sprecher SPEAKER_13:  Wenn ich Interesse daran habe, etwas zu kaufen?
+00:28:30 - 00:28:32 - Sprecher SPEAKER_10:  Unter anderem, richtig.
+00:28:33 - 00:28:36 - Sprecher SPEAKER_10:  Dann können wir darüber in Zukunft reden, meinen Sie?
+00:28:37 - 00:28:38 - Sprecher SPEAKER_10:  Ganz richtig.
+00:28:38 - 00:28:48 - Sprecher SPEAKER_10:  Gut, dann könnten Sie mir bestimmt noch einen Grund sagen, warum ich Ihnen jetzt drei Chips
+00:28:48 - 00:28:49 - Sprecher SPEAKER_13:  besorgen sollte.
+00:28:52 - 00:28:57 - Sprecher SPEAKER_10:  Der Punkt, warum, ist ganz bei Ihnen.
+00:28:57 - 00:29:01 - Sprecher SPEAKER_10:  Wir haben ein offenes Gespräch, was das angeht.
+00:29:03 - 00:29:05 - Sprecher SPEAKER_13:  Nun ja, wir haben ein offenes Gespräch.
+00:29:05 - 00:29:12 - Sprecher SPEAKER_13:  Es würde mich nur interessieren, wie Sie, wieso Sie davon ausgehen, dass ich dieses
+00:29:12 - 00:29:15 - Sprecher SPEAKER_13:  Geschäft eingehe, ohne dass Sie dieses Geschäft eingehen.
+00:29:19 - 00:29:19 - Unbekannt:  Ja, das ist ein guter Punkt.
+00:29:19 - 00:29:19 - Unbekannt: 
+00:29:20 - 00:29:22 - Sprecher SPEAKER_10:  Ich habe das Geschäft.
+00:29:22 - 00:29:26 - Sprecher SPEAKER_10:  Das würde ich eben mit Ihnen eingehen, wenn Sie daran kommen, Sie.
+00:29:27 - 00:29:31 - Sprecher SPEAKER_10:  Sie meinen das andere Geschäft, was wir Ihnen angeboten haben?
+00:29:32 - 00:29:34 - Sprecher SPEAKER_13:  Nun, wie gesagt, es ist kein Problem, daran zu kommen.
+00:29:37 - 00:29:40 - Sprecher SPEAKER_10:  Wie, es ist kein Problem, das Geschäft einzugehen?
+00:29:43 - 00:29:43 - Unbekannt:  Hm.
+00:29:45 - 00:29:49 - Sprecher SPEAKER_10:  Also, falls Sie jemanden kennen oder Sie selbst Interesse daran haben, können Sie mir das
+00:29:49 - 00:29:49 - Sprecher SPEAKER_10: 
+00:29:50 - 00:29:51 - Sprecher SPEAKER_13:  Gut, verstehe.
+00:29:51 - 00:29:54 - Sprecher SPEAKER_13:  Dann war das, glaube ich, einfach nur ein Verständnisproblem von meiner Seite.
+00:29:54 - 00:29:54 - Sprecher SPEAKER_13:  Tut mir leid.
+00:29:55 - 00:29:56 - Sprecher SPEAKER_10:  Kein Problem.
+00:29:59 - 00:30:04 - Sprecher SPEAKER_13:  Gut, dann habe ich, von wem war die Nummer?
+00:30:04 - 00:30:07 - Sprecher SPEAKER_13:  Das war, das war von mir.
+00:30:10 - 00:30:16 - Sprecher SPEAKER_13:  Das ist die, wo, welche war das, die, die, hm, hm.
+00:30:16 - 00:30:17 - Sprecher SPEAKER_13:  Ja.
+00:30:19 - 00:30:19 - Unbekannt:  Ja.
+00:30:19 - 00:30:19 - Unbekannt: 
+00:30:19 - 00:30:19 - Unbekannt: 
+00:30:21 - 00:30:31 - Sprecher SPEAKER_09:  Wir müssen das jetzt irgendwie December 11 irgendwann State outlet finden.
+00:30:31 - 00:30:32 - Sprecher SPEAKER_13:  Fix.
+00:30:32 - 00:30:33 - Sprecher SPEAKER_13:  Sind Sie jetzt in assured construction dann sicherlich begleitet?
+00:30:33 - 00:30:39 - Sprecher SPEAKER_13:  Explore l ins Late板 deinだ Wine Ban Nó Trinary ni gar ćey trình hello hoi hoi
+00:30:39 - 00:30:49 - Sprecher SPEAKER_13:  Und ich weiß, dass das moisturize  legen kann, wir werden ihn Ohne Franken aus
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13:  INCIDENT.
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13: 
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13: 
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13: 
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13: 
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13: 
+00:30:49 - 00:30:49 - Sprecher SPEAKER_13: 
+00:30:49 - 00:30:52 - Sprecher SPEAKER_13:  Deine Nummer habe ich.
+00:30:53 - 00:30:54 - Sprecher SPEAKER_10:  Ah, richtig schon.
+00:30:55 - 00:30:56 - Sprecher SPEAKER_13:  Gut.
+00:30:58 - 00:31:02 - Sprecher SPEAKER_13:  Eine weitere Nummer, die ich haben sollte für die Rückmeldung der Chips.
+00:31:04 - 00:31:07 - Sprecher SPEAKER_10:  Ach, so notieren Sie sich sonst noch meine.
+00:31:11 - 00:31:13 - Sprecher SPEAKER_10:  Sagen Sie, wenn Sie bereit sind.
+00:31:13 - 00:31:13 - Sprecher SPEAKER_10:  Ich bin bereit.
+00:31:15 - 00:31:15 - Sprecher SPEAKER_10:  790.
+00:31:16 - 00:31:17 - Sprecher SPEAKER_13:  790.
+00:31:18 - 00:31:18 - Sprecher SPEAKER_10:  537.
+00:31:19 - 00:31:20 - Sprecher SPEAKER_13:  537.
+00:31:21 - 00:31:22 - Sprecher SPEAKER_10:  Genau, Lupo.
+00:31:28 - 00:31:29 - Sprecher SPEAKER_13:  Alles klar.
+00:31:30 - 00:31:32 - Sprecher SPEAKER_13:  Wie dringend ist es Ihnen mit den Chips?
+00:31:32 - 00:31:34 - Sprecher SPEAKER_13:  Ist es etwas, was Sie heute noch brauchen?
+00:31:36 - 00:31:37 - Sprecher SPEAKER_10:  Heute nicht unbedingt.
+00:31:37 - 00:31:38 - Sprecher SPEAKER_10:  Es hat jetzt keine Eile.
+00:31:40 - 00:31:41 - Sprecher SPEAKER_13:  Gut, perfekt.
+00:31:41 - 00:31:42 - Sprecher SPEAKER_13:  Dann muss ich jetzt los.
+00:31:43 - 00:31:44 - Sprecher SPEAKER_13:  Ich habe leider einen Geschäftstermin.
+00:31:44 - 00:31:44 - Sprecher SPEAKER_13:  Sie entschuldigen mich.
+00:31:48 - 00:31:48 - Sprecher SPEAKER_13:  Gleichfalls.
+00:31:48 - 00:31:49 - Sprecher SPEAKER_13:  Hat mich sehr gefreut.
+00:31:50 - 00:31:50 - Sprecher SPEAKER_10:  Torre, bitte.
+00:31:50 - 00:31:52 - Sprecher SPEAKER_10:  Torre, das war ja ganz unverschätzt.
+00:31:55 - 00:31:57 - Sprecher SPEAKER_13:  Oh Gott, es ist 22 Uhr.
+00:31:57 - 00:31:58 - Sprecher SPEAKER_04:  Ich habe ganz vergessen, dass wir einen Termin haben.
+00:31:59 - 00:31:59 - Sprecher SPEAKER_04:  Ah.
+00:32:00 - 00:32:00 - Sprecher SPEAKER_04: 
+00:32:02 - 00:32:02 - Unbekannt:  Ah.
+00:32:05 - 00:32:06 - Unbekannt:  Ah.
+00:32:06 - 00:32:06 - Unbekannt: 
+00:32:07 - 00:32:07 - Unbekannt: 
+00:32:08 - 00:32:08 - Unbekannt:  Ah.
+00:32:09 - 00:32:09 - Unbekannt:  Ah.
+00:32:09 - 00:32:10 - Unbekannt:  Ah.
+00:32:10 - 00:32:10 - Unbekannt: 
+00:32:10 - 00:32:10 - Unbekannt: 
+00:32:10 - 00:32:10 - Unbekannt:  Ah.
+00:32:12 - 00:32:13 - Unbekannt:  Ah.
+00:32:13 - 00:32:13 - Unbekannt:  Ah.
+00:32:13 - 00:32:13 - Unbekannt: 
+00:32:33 - 00:32:35 - Unbekannt:  attackiert werden, nicht?
+00:32:35 - 00:32:35 - Unbekannt:  Der assessmentsanbieter.
+00:32:35 - 00:32:35 - Unbekannt:  Sie Dahubs zu und die дети sie últimos eine
+00:32:35 - 00:32:37 - Unbekannt:  Oder der neSítrug Th laut På ThieHahaha...
+00:32:37 - 00:32:40 - Unbekannt:  BitteUn eliminates The itself,
+00:32:40 - 00:32:40 - Unbekannt: 
+00:32:40 - 00:32:40 - Unbekannt:  B син summaryt ohne
+00:32:40 - 00:32:40 - Unbekannt: 
+00:32:40 - 00:32:40 - Unbekannt: 
+00:32:40 - 00:32:42 - Unbekannt:  Das Kontrol 밖에 nicht celebrationieren energy..
+00:32:54 - 00:32:56 - Sprecher SPEAKER_05:  Wow, cool!
+00:33:12 - 00:33:14 - Unbekannt:  So.
+00:34:05 - 00:34:07 - Sprecher SPEAKER_13:  Ein wunderschönen guten Abend.
+00:34:08 - 00:34:09 - Sprecher SPEAKER_07:  Hallo, Swampy.
+00:34:10 - 00:34:12 - Sprecher SPEAKER_13:  Wie geht's Ihnen? Alles gut?
+00:34:12 - 00:34:13 - Sprecher SPEAKER_07:  Ja.
+00:34:13 - 00:34:14 - Sprecher SPEAKER_13:  Okay, hervorragend.
+00:34:14 - 00:34:16 - Sprecher SPEAKER_13:  Na ja, klar, könnte nicht besser sein, so wie immer.
+00:34:17 - 00:34:17 - Sprecher SPEAKER_07:  Na schön.
+00:34:18 - 00:34:20 - Sprecher SPEAKER_07:  Danke, dass Sie sich nochmal Zeit genommen haben.
+00:34:20 - 00:34:21 - Sprecher SPEAKER_07:  Natürlich.
+00:34:21 - 00:34:29 - Sprecher SPEAKER_13:  Es sind ein paar Fragen aufgekommen bezüglich der Zusammenarbeit, von der Sie das letzte Mal gesprochen haben.
+00:34:33 - 00:34:34 - Sprecher SPEAKER_07:  Ja.
+00:34:34 - 00:34:37 - Sprecher SPEAKER_07:  In welchem Weg genau, meinen Sie?
+00:34:37 - 00:34:41 - Sprecher SPEAKER_13:  Nun, na ja, ich wüsste gerne ein paar mehr Details.
+00:34:42 - 00:34:42 - Sprecher SPEAKER_13:  Beziehungsweise...
+00:34:42 - 00:34:51 - Sprecher SPEAKER_13:  Beziehungsweise nicht nur ich, sondern natürlich auch die Personen, na ja, an denen Sie Interesse geäußert haben.
+00:34:55 - 00:35:10 - Sprecher SPEAKER_13:  Es ist nicht ganz an mir vorbeigegangen, dass, na ja, die App, von der Sie das letzte Mal gesprochen haben, wohl bereits von ziemlich vielen Leuten auf dem Schirm ist.
+00:35:12 - 00:35:17 - Sprecher SPEAKER_13:  Und zwar von Leuten, die in keinster Weise im Geschäft tätig sind, sondern...
+00:35:17 - 00:35:20 - Sprecher SPEAKER_13:  ...von Leuten, die im Ground and Pound abhängen...
+00:35:21 - 00:35:24 - Sprecher SPEAKER_13:  ...oder am Stadtpark oder sonst wo.
+00:35:24 - 00:35:33 - Sprecher SPEAKER_13:  Und ich bräuchte ein paar Informationen diesbezüglich von Ihrer Seite, wie Sie damit umgehen wollen, ob das so geplant war und und und.
+00:35:34 - 00:35:42 - Sprecher SPEAKER_07:  Wissen Sie, überall gibt es immer Leute, die denken, sie sind schlauer als die, die eigentlich schon schlau sind.
+00:35:42 - 00:35:43 - Sprecher SPEAKER_07:  Verstehen Sie, was ich meine?
+00:35:45 - 00:35:46 - Sprecher SPEAKER_07:  Ja, und...
+00:35:46 - 00:35:50 - Sprecher SPEAKER_07:  Diese kleine Sicherheitslücke, die haben wir mit Absicht drin gelassen, um zu sehen, wer...
+00:35:51 - 00:35:54 - Sprecher SPEAKER_07:  ...wer so doof ist und so dumm ist und seine scheiß Handynummer da drinnen angibt.
+00:35:55 - 00:35:55 - Sprecher SPEAKER_13:  Mhm.
+00:35:56 - 00:35:58 - Sprecher SPEAKER_13:  Da haben ganz schön viele Leute ihre Handynummer abgegeben.
+00:35:58 - 00:35:59 - Sprecher SPEAKER_13:  Oh, ja.
+00:36:00 - 00:36:01 - Sprecher SPEAKER_07:  Wir haben drei Bücher voll.
+00:36:04 - 00:36:08 - Sprecher SPEAKER_07:  Und was meinen Sie, wie Sie gestottert haben, als wir vor Ihnen standen und gesagt haben, was wolltet ihr da?
+00:36:09 - 00:36:11 - Sprecher SPEAKER_07:  Also nicht wir, aber andere Leute.
+00:36:14 - 00:36:16 - Sprecher SPEAKER_07:  Wir wollten einfach nur mal sehen, wie...
+00:36:17 - 00:36:20 - Sprecher SPEAKER_07:  ...wie die Leute hier, wie die Leute reagieren, wenn was Neues kommt.
+00:36:21 - 00:36:27 - Sprecher SPEAKER_07:  Aber wissen Sie, auch das ist irgendwann schon so weit, dass es eigentlich nur noch abgestumpft ist und die Leute sagen...
+00:36:28 - 00:36:29 - Sprecher SPEAKER_07:  ...ist doch nur so eine scheiß Gewerbe-App.
+00:36:30 - 00:36:31 - Sprecher SPEAKER_13:  Hm.
+00:36:31 - 00:36:32 - Sprecher SPEAKER_13:  Naja.
+00:36:33 - 00:36:40 - Sprecher SPEAKER_13:  Im Falle von dem Szenario, das Sie gerade beschrieben haben, dass irgendwer vor Ihnen stand und Ihnen potenziell...
+00:36:41 - 00:36:42 - Sprecher SPEAKER_13:  ...ein besorgniserregendes Gefühl...
+00:36:42 - 00:36:48 - Sprecher SPEAKER_13:  ...eingeheimst hat, da kann ich mir kaum vorstellen, dass genau diese Leute danach denken, hm, naja, ist nur eine Gewerbe-App.
+00:36:50 - 00:36:52 - Sprecher SPEAKER_01:  Vor uns stand keine Person.
+00:36:52 - 00:37:00 - Sprecher SPEAKER_13:  Naja, selbst wenn da jemand anderes stand, selbst wenn es irgendein Southside-Gangster war, der im Auftrag von Ihnen zu diesen Leuten hin ist...
+00:37:01 - 00:37:07 - Sprecher SPEAKER_13:  ...dann wissen Sie ja trotzdem, weswegen Sie darauf angesprochen wurden, oder nicht?
+00:37:08 - 00:37:09 - Sprecher SPEAKER_07:  Nein, nein.
+00:37:10 - 00:37:11 - Sprecher SPEAKER_07:  So muss ich das nicht vorstellen.
+00:37:12 - 00:37:12 - Sprecher SPEAKER_07:  Ganz normal.
+00:37:12 - 00:37:13 - Sprecher SPEAKER_07:  Das ist ja auch ein ganz normales Gespräch.
+00:37:13 - 00:37:15 - Sprecher SPEAKER_07:  Aber gut, fahren Sie weiter.
+00:37:15 - 00:37:16 - Sprecher SPEAKER_07:  Was sind Ihre Bedenken?
+00:37:16 - 00:37:19 - Sprecher SPEAKER_07:  Oder die Bedenken Ihrer guten Freunde?
+00:37:19 - 00:37:22 - Sprecher SPEAKER_13:  Naja, es geht nicht unbedingt um spezielle Bedenken.
+00:37:22 - 00:37:28 - Sprecher SPEAKER_13:  Es geht nur darum, dass ich genauer erfahren möchte, von was für einer Art Zusammenarbeit hier die Sprache ist und...
+00:37:29 - 00:37:33 - Sprecher SPEAKER_13:  ...naja, was das für ein Produkt ist, mit dem Sie da umgehen wollen und wie.
+00:37:34 - 00:37:37 - Sprecher SPEAKER_01:  Ja, das ist im Prinzip genau das Gespräch, was wir führen wollen.
+00:37:37 - 00:37:37 - Sprecher SPEAKER_01:  Es gibt...
+00:37:39 - 00:37:42 - Sprecher SPEAKER_01:  ...ähm, ich meine, Sie haben die App jetzt wahrscheinlich auch gesehen, gehe ich davon aus.
+00:37:42 - 00:37:42 - Sprecher SPEAKER_01:  Ja, ja.
+00:37:42 - 00:37:42 - Sprecher SPEAKER_01:  Ja, ja, ja.
+00:37:42 - 00:37:45 - Sprecher SPEAKER_01:  Verständlich, das hatte ich natürlich schon vor unserem Treffen.
+00:37:45 - 00:37:46 - Sprecher SPEAKER_01:  Ja.
+00:37:47 - 00:37:51 - Sprecher SPEAKER_01:  Ähm, im Prinzip ist da, war die Idee des Gesprächs einfach mal zu...
+00:37:52 - 00:37:58 - Sprecher SPEAKER_01:  ...sich miteinander abzusprechen, weil wir, wie gesagt, den Hinweis bekommen haben, dass es einige sehr technivalisierte Personen hier in der Stadt gibt,
+00:37:58 - 00:38:05 - Sprecher SPEAKER_01:  die eventuell auch Dinge dieser Art umsetzen könnten oder in diesem Feld unterwegs sind.
+00:38:05 - 00:38:11 - Sprecher SPEAKER_01:  Und die Idee des Gesprächs war eigentlich, erst einmal sich auszutauschen und zu schauen, ob man sich da im Weg steht oder zusammenarbeiten kann.
+00:38:11 - 00:38:13 - Sprecher SPEAKER_01:  Und wir haben aber gar keine große Vorstellung davon.
+00:38:13 - 00:38:16 - Sprecher SPEAKER_01:  Das sollten wir im Gespräch mit den Personen zusammen erarbeiten.
+00:38:16 - 00:38:24 - Sprecher SPEAKER_01:  Kann sein, dass wir auch einfach nach dem Gespräch auseinandergehen und sagen, ja, eine Zusammenarbeit macht gar keinen Sinn und jeder kann seine Sache weitermachen, wie er sie jetzt macht.
+00:38:24 - 00:38:25 - Sprecher SPEAKER_02:  Hm, verstehe.
+00:38:33 - 00:38:34 - Sprecher SPEAKER_02:  Gut.
+00:38:35 - 00:38:36 - Sprecher SPEAKER_02:  Hm.
+00:38:38 - 00:38:41 - Sprecher SPEAKER_07:  Was könnt ihr denn so anbieten, wo man mal reingucken könnte?
+00:38:41 - 00:38:46 - Sprecher SPEAKER_07:  Ich meine, ihr habt das ja nun gesehen, was da ein bisschen angeteasert wurde von uns.
+00:38:50 - 00:38:50 - Sprecher SPEAKER_07:  Habt ihr da was?
+00:38:52 - 00:38:54 - Sprecher SPEAKER_13:  Nun, das ist eine ziemlich offengestellte Frage.
+00:38:55 - 00:39:01 - Sprecher SPEAKER_13:  Wie gesagt, ich habe ja noch nicht mal eine Vorstellung damit, wo sie mit dieser App hinwollen und was der Plan war dafür.
+00:39:01 - 00:39:08 - Sprecher SPEAKER_13:  Was das Geschäft angeht, muss ich ehrlich gestehen, empfinde ich es gerade für ein bisschen schwierig.
+00:39:09 - 00:39:11 - Sprecher SPEAKER_13:  Denn, naja, nicht nur im Ground & Pound ist das unterwegs.
+00:39:11 - 00:39:19 - Sprecher SPEAKER_13:  Sondern auch, nun, ich bin mir nicht sicher, haben sie jemanden damit beauftragt, diese App zu bewerben?
+00:39:19 - 00:39:20 - Sprecher SPEAKER_06:  Nein.
+00:39:24 - 00:39:26 - Sprecher SPEAKER_01:  Die App war, glaube ich, ein, zwei Tage offline.
+00:39:26 - 00:39:30 - Sprecher SPEAKER_01:  Da kamen die ersten Telefonnummern rein, ohne dass irgendjemand über diese App gesprochen hat.
+00:39:30 - 00:39:32 - Sprecher SPEAKER_01:  Nicht mal der Gewerbeverband wurde beworben.
+00:39:34 - 00:39:40 - Sprecher SPEAKER_13:  Gut, also, sie haben keine Zusammenarbeit mit einer Gruppierung in dieser Stadt angestrebt,
+00:39:40 - 00:39:41 - Sprecher SPEAKER_13:  die in irgendeiner Art und Weise die App bewerben kann.
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:41 - Sprecher SPEAKER_13: 
+00:39:41 - 00:39:45 - Sprecher SPEAKER_13:  Sie haben in irgendeiner Art und Weise behauptet, dass sie was mit dieser App zu tun hat.
+00:39:46 - 00:39:53 - Sprecher SPEAKER_01:  Es kann sein, dass das Leute sagen, aber es war nicht die Rede von irgendwelcher Bewerbung von irgendeiner App.
+00:39:56 - 00:39:57 - Sprecher SPEAKER_01:  Aber was für Informationen haben sie da genau?
+00:40:00 - 00:40:11 - Sprecher SPEAKER_13:  Nun, naja, nur, dass es auf jeden Fall Leute gibt, die durchaus Leuten im Geschäft zu verstehen geben, dass sie etwas mit dieser App tun.
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:11 - Sprecher SPEAKER_13: 
+00:40:11 - 00:40:13 - Sprecher SPEAKER_13:  Die in Verbindung mit dieser App stehen.
+00:40:15 - 00:40:17 - Sprecher SPEAKER_13:  Personen, die ich selber noch nicht kennengelernt habe.
+00:40:18 - 00:40:21 - Sprecher SPEAKER_13:  Es sind nur Informationen, die bei mir angekommen sind.
+00:40:21 - 00:40:26 - Sprecher SPEAKER_13:  Dass es eben Leute gibt, die behaupten, dass sie was damit zu tun haben, was mich irritiert hat.
+00:40:26 - 00:40:31 - Sprecher SPEAKER_13:  Denn die Leute, die mir da beschrieben wurden, hatten absolut nichts mit ihnen viel zu tun.
+00:40:33 - 00:40:34 - Sprecher SPEAKER_07:  Können wir die ein bisschen beschreiben?
+00:40:36 - 00:40:37 - Sprecher SPEAKER_13:  Nein, das kann ich leider nicht.
+00:40:39 - 00:40:41 - Sprecher SPEAKER_01:  Man sieht, dass das gar nicht so schlecht ist.
+00:40:41 - 00:40:41 - Sprecher SPEAKER_01:  Das ist eigentlich sogar sehr gut.
+00:40:41 - 00:40:41 - Sprecher SPEAKER_01: 
+00:40:41 - 00:40:41 - Sprecher SPEAKER_01: 
+00:40:41 - 00:40:41 - Sprecher SPEAKER_01: 
+00:40:41 - 00:40:41 - Sprecher SPEAKER_01: 
+00:40:41 - 00:40:48 - Sprecher SPEAKER_01:  Der ganze Sinn dieser App ist ja, das kann meinetwegen auch Ground & Pound und die ganze Stadt wissen, dass es diese App gibt.
+00:40:49 - 00:40:50 - Sprecher SPEAKER_01:  Das ist ja der Sinn dieser App.
+00:40:50 - 00:40:55 - Sprecher SPEAKER_01:  Es hat eine gewisse Offenheit, aber auch wieder eine gewisse Geschlossenheit.
+00:40:55 - 00:41:00 - Sprecher SPEAKER_01:  Man kann eben Dinge über diese App bestellen, beziehen, wie man auch immer das nennen möchte.
+00:41:00 - 00:41:04 - Sprecher SPEAKER_01:  Aber man braucht den richtigen Zugang dafür.
+00:41:04 - 00:41:09 - Sprecher SPEAKER_01:  Man möchte ja auch nicht einfach nur das ins Echo reinrufen und nichts kommt zurück.
+00:41:09 - 00:41:11 - Sprecher SPEAKER_01:  Sondern man braucht eben, sagen wir mal, einen richtigen Zugang dazu.
+00:41:11 - 00:41:14 - Sprecher SPEAKER_01:  Und das ist ja auch ein bisschen wie eine Art Zugangscode, um das Ganze dann letztendlich auch umsetzen zu können.
+00:41:15 - 00:41:17 - Sprecher SPEAKER_01:  Und das ist die Idee des Ganzen.
+00:41:17 - 00:41:19 - Sprecher SPEAKER_01:  Ich meine, das kann theoretisch im Offenen stattfinden.
+00:41:20 - 00:41:25 - Sprecher SPEAKER_01:  Und wir sind alle, glaube ich, nicht so bescheuert zu denken, dass das auch bei den Behörden nicht irgendwann ankommen wird.
+00:41:25 - 00:41:26 - Sprecher SPEAKER_01:  Das kann es auch gerne.
+00:41:26 - 00:41:32 - Sprecher SPEAKER_01:  Und das ist sogar der beste Fall, dass am liebsten 5000 Leute in dieser Stadt sagen, sie hätten irgendwas mit dieser App zu tun.
+00:41:32 - 00:41:33 - Sprecher SPEAKER_01:  Dann sind die Behörden noch viel verrückter.
+00:41:34 - 00:41:38 - Sprecher SPEAKER_01:  Am Ende ist es nur wichtig, dass die Behörden einfach keinen Schritt weiter kommen.
+00:41:38 - 00:41:40 - Sprecher SPEAKER_01:  Sie können da ja auch selber ihre Nummern reinschreiben.
+00:41:40 - 00:41:41 - Sprecher SPEAKER_01:  Sie werden keine Antwort bekommen, wenn ich die nicht schreibe.
+00:41:41 - 00:41:42 - Sprecher SPEAKER_01:  Wenn ich die nicht richtig gekaut habe.
+00:41:42 - 00:41:45 - Sprecher SPEAKER_01:  Gut, verstehe.
+00:41:45 - 00:41:54 - Sprecher SPEAKER_13:  Und gehe ich richtig in der Nachahmnahme davon aus, dass Sie sich da eine Art Handelsplattform vorstellen?
+00:41:55 - 00:41:57 - Sprecher SPEAKER_01:  So etwas in der Art könnte man sich vorstellen.
+00:41:57 - 00:42:05 - Sprecher SPEAKER_01:  Ich weiß nicht, wie sehr ich Ihnen vertrauen kann in Form von was die Intention hinter der ganzen Sache ist.
+00:42:05 - 00:42:10 - Sprecher SPEAKER_01:  Diese Handelsplattform ist quasi der Schritt zwei der eigentlichen Intention.
+00:42:10 - 00:42:11 - Sprecher SPEAKER_01:  Aber ich weiß nicht, wie ich Ihnen vertrauen kann.
+00:42:11 - 00:42:12 - Sprecher SPEAKER_01:  Ich kenne Sie ehrlich gesagt noch nicht.
+00:42:12 - 00:42:15 - Sprecher SPEAKER_01:  Das wäre vielleicht ein Thema für Gespräch drei oder vier.
+00:42:15 - 00:42:16 - Sprecher SPEAKER_02:  Verstehe.
+00:42:17 - 00:42:27 - Sprecher SPEAKER_00:  Ich würde halt auch die Möglichkeit bieten, verschlüsselt anderen Personen oder Personengruppen eine Nachricht zu hinterlassen.
+00:42:27 - 00:42:29 - Sprecher SPEAKER_00:  Ja, Informationen und Nachrichten. Ich verstehe.
+00:42:30 - 00:42:31 - Sprecher SPEAKER_13:  Hm.
+00:42:33 - 00:42:34 - Sprecher SPEAKER_13:  Hm.
+00:42:36 - 00:42:39 - Sprecher SPEAKER_13:  Und inwieweit haben Sie einen Überblick über die Stadt hier?
+00:42:42 - 00:42:43 - Sprecher SPEAKER_13:  Über das Geschäft im Allgemeinen.
+00:42:44 - 00:42:47 - Sprecher SPEAKER_13:  Ich meine, Sie sind noch nicht so super lang hier, oder?
+00:42:47 - 00:42:48 - Sprecher SPEAKER_13:  Oder kennen Sie sich schon gut aus?
+00:42:48 - 00:42:50 - Sprecher SPEAKER_13:  Kennen Sie die einzelnen Truppen?
+00:42:52 - 00:42:56 - Sprecher SPEAKER_01:  Ähm, nur, wie sagt man da, an der Oberfläche.
+00:42:57 - 00:43:00 - Sprecher SPEAKER_01:  Wir haben ein paar, die sich darum kümmern, da ein bisschen mehr Informationen raus zu bekommen.
+00:43:00 - 00:43:04 - Sprecher SPEAKER_01:  Aber wir sind da nicht an der ersten Front, sagen wir das so.
+00:43:04 - 00:43:05 - Sprecher SPEAKER_01:  Und das wollen wir auch gar nicht sagen.
+00:43:06 - 00:43:07 - Sprecher SPEAKER_13:  Ja, das kann ich verstehen.
+00:43:07 - 00:43:09 - Sprecher SPEAKER_13:  Ich wollte nur wissen, inwieweit Sie sich da ein bisschen mehr an der Oberfläche befinden.
+00:43:09 - 00:43:09 - Sprecher SPEAKER_13: 
+00:43:09 - 00:43:13 - Sprecher SPEAKER_13:  Inwieweit Sie abschätzen können, ob, naja, Sie kennen Ihr Produkt ja besser.
+00:43:13 - 00:43:21 - Sprecher SPEAKER_13:  Und inwieweit Sie abschätzen können, ob die Leute in dieser Stadt und das Geschäft in dieser Stadt überhaupt momentan bereit ist dafür.
+00:43:22 - 00:43:25 - Sprecher SPEAKER_13:  Ob die Leute damit überhaupt umgehen können, oder...
+00:43:26 - 00:43:26 - Unbekannt:  Das ist die Frage.
+00:43:26 - 00:43:26 - Sprecher SPEAKER_13:  Naja.
+00:43:26 - 00:43:30 - Sprecher SPEAKER_13:  Hm, die Frage gibt es ja bei vielen Themen. Das ist ja nicht nur bei diesem einen Thema.
+00:43:30 - 00:43:32 - Sprecher SPEAKER_01:  Absolut, da haben Sie volle Kanne recht.
+00:43:32 - 00:43:39 - Sprecher SPEAKER_01:  Das muss man einfach schauen. Es kann sehr gut sein, dass es vielleicht nicht die richtige Zeit, vielleicht nicht der richtige Ort ist.
+00:43:39 - 00:43:45 - Sprecher SPEAKER_01:  Aber das können wir jetzt nicht sagen. Das müssen wir sehen, wenn es dann einmal ausprobiert wurde.
+00:43:45 - 00:43:52 - Sprecher SPEAKER_01:  Und vielleicht wird die ganze Idee auch wieder eingestampft, aber vielleicht ist die Idee auch irgendwas, was es lohnenswert wäre, weiter zu verfolgen.
+00:43:53 - 00:43:56 - Sprecher SPEAKER_01:  Und das war, wie gesagt, auch ein Grund, wieso wir mit Ihnen sprechen wollten.
+00:43:57 - 00:44:01 - Sprecher SPEAKER_01:  Weil wir gehört haben, dass Sie da Expertise in dieser digitalen Welt haben.
+00:44:01 - 00:44:06 - Sprecher SPEAKER_01:  Vielleicht haben Sie da ja auch noch Ideen, Inputs, die das Ganze in irgendeine Richtung drücken können.
+00:44:06 - 00:44:09 - Sprecher SPEAKER_01:  Nach wie vor würde mich wirklich sehr interessieren, woher die Idee kommt.
+00:44:09 - 00:44:09 - Sprecher SPEAKER_13: 
+00:44:09 - 00:44:10 - Sprecher SPEAKER_13:  Und wie oft diese Information kommt.
+00:44:13 - 00:44:16 - Sprecher SPEAKER_01:  Sagen wir von einem sehr einflussreichen, guten Bekannten von uns.
+00:44:18 - 00:44:19 - Sprecher SPEAKER_07:  Die uns quasi angerufen haben.
+00:44:22 - 00:44:27 - Sprecher SPEAKER_13:  Hm. Die meisten einflussreichen Leute sind tot in dieser Stadt.
+00:44:27 - 00:44:30 - Sprecher SPEAKER_07:  Sehen Sie? Und das ist das Problem.
+00:44:34 - 00:44:35 - Sprecher SPEAKER_13:  Nun dieses Problem...
+00:44:35 - 00:44:37 - Sprecher SPEAKER_13:  Wo muss ein Gleichgewicht hergestellt werden?
+00:44:37 - 00:44:39 - Sprecher SPEAKER_13:  Ja, das Problem sehe ich selber auch gar nicht.
+00:44:39 - 00:44:39 - Sprecher SPEAKER_13: 
+00:44:39 - 00:44:44 - Sprecher SPEAKER_13:  Ich glaube, darüber müssen wir nicht diskutieren. Das ist eindeutig.
+00:44:45 - 00:44:58 - Sprecher SPEAKER_13:  Leute mit Einfluss wurden ziemlich schnell alle auf einen Haufen eliminiert, ohne dass sich irgendwer in dieser Stadt darüber Gedanken gemacht hat, wie die Handelswege weiterhin funktionieren können und ob sie überhaupt das Geschäft übernehmen können.
+00:44:58 - 00:45:04 - Sprecher SPEAKER_13:  Was Sie anscheinend so dringend haben wollten, in dem Moment, in dem Sie tausendmal auf Ihre beschissene Knarre gedrückt haben.
+00:45:05 - 00:45:08 - Sprecher SPEAKER_13:  Also ja, ich denke, da sind wir uns sehr einig.
+00:45:08 - 00:45:09 - Sprecher SPEAKER_13:  Aber genau das ist das Problem.
+00:45:09 - 00:45:16 - Sprecher SPEAKER_13:  Deswegen frage ich ja inwieweit Sie glauben, dass die Leute in dieser Stadt bereit sind für das Produkt, das Sie da anbieten wollen, weil...
+00:45:17 - 00:45:24 - Sprecher SPEAKER_13:  Ich schau mir das eine ziemlich lange Zeit schon an und gerade halte ich das noch für ein bisschen schwierig, obwohl ich die Idee super gut finde.
+00:45:26 - 00:45:33 - Sprecher SPEAKER_01:  Hm. Ja, wie gesagt, wir sind ja auch nicht festgelegt. Das muss man sehen. Vielleicht werden da auch nur gewisse Dienstleistungen angeboten oder zumindest ernstmal.
+00:45:34 - 00:45:36 - Sprecher SPEAKER_01:  Die Frage ist, was überhaupt angeboten wird.
+00:45:36 - 00:45:37 - Sprecher SPEAKER_01:  Das muss sich zeigen.
+00:45:37 - 00:45:39 - Sprecher SPEAKER_01:  Und es wird auch Schritt für Schritt und langsam gehen.
+00:45:39 - 00:45:43 - Sprecher SPEAKER_01:  Es wird nicht sein, dass irgendwann der große Amazon-Webshop eröffnet wird und man alles kaufen kann.
+00:45:45 - 00:45:46 - Sprecher SPEAKER_02:  Ja, ich verstehe.
+00:45:46 - 00:45:47 - Sprecher SPEAKER_02:  Das ist unrealistisch.
+00:45:49 - 00:45:50 - Sprecher SPEAKER_02:  Gut.
+00:45:50 - 00:46:02 - Sprecher SPEAKER_01:  Und ich glaube, wir können auch zumindest, wenn wir von unserer Seite ausgehen, ich weiß nicht, was Sie da noch für Kontakte haben oder sonstiges, da geht es nicht darum, Großlieferant zu sein, sondern es geht darum,
+00:46:04 - 00:46:07 - Sprecher SPEAKER_01:  die Leute, die sich eh auf der Straße auskennen, wissen, wo sie jetzt sind.
+00:46:07 - 00:46:07 - Sprecher SPEAKER_01: 
+00:46:07 - 00:46:07 - Sprecher SPEAKER_01: 
+00:46:07 - 00:46:09 - Sprecher SPEAKER_01:  Die Leute, die so viel Geld bekommen, die brauchen diese App theoretisch gar nicht.
+00:46:09 - 00:46:17 - Sprecher SPEAKER_01:  Aber Leute, die nicht ganz so oft unterwegs sind, die könnten eventuell mit einem Hinweis oder so was da mal erste Schritte machen, um sich was zu organisieren.
+00:46:18 - 00:46:19 - Sprecher SPEAKER_01:  Ich glaube, das ist eher so das Klientel.
+00:46:19 - 00:46:25 - Sprecher SPEAKER_01:  Es ist nicht das Klientel, hier die Straße zu versorgen über Internet-Apps oder sonstige Sachen.
+00:46:25 - 00:46:29 - Sprecher SPEAKER_01:  Ich glaube, das wäre tatsächlich eine Nummer zu groß.
+00:46:29 - 00:46:33 - Sprecher SPEAKER_01:  Und das strebt auch, glaube ich, niemand an, wenn das ihre Frage war.
+00:46:33 - 00:46:33 - Sprecher SPEAKER_13:  Hm.
+00:46:35 - 00:46:36 - Sprecher SPEAKER_13:  Ja, ja, ja.
+00:46:36 - 00:46:44 - Sprecher SPEAKER_13:  Das ist zumindest für mich ganz gut, um ihre Intention einzuschätzen und herauszufinden, wo sie mit diesem Produkt hinwollen.
+00:46:46 - 00:46:57 - Sprecher SPEAKER_01:  Also ich kann, glaube ich, auch wenn das jetzt schon fast wieder ein bisschen zu viel verrät, aber ich kann Ihnen sagen, das, was auf dieser Plattform verkauft wird, wird vorher irgendeiner Art auch vorher eingekauft.
+00:46:57 - 00:47:04 - Sprecher SPEAKER_01:  Ob das finanziell ist oder mit Versprechungen oder sonst was, wenn es Dienstleistungen sind, aber das sind Dinge, die, ein Kreislauf in dieser Stadt.
+00:47:05 - 00:47:06 - Sprecher SPEAKER_01:  Das ist, ähm, ja.
+00:47:06 - 00:47:12 - Sprecher SPEAKER_01:  Keine Import-Export-Ware in irgendeiner Art, sondern das ist einfach, um einen Kreislauf in dieser Stadt herzustellen.
+00:47:13 - 00:47:14 - Sprecher SPEAKER_01:  Oder einen Marktplatz.
+00:47:14 - 00:47:17 - Sprecher SPEAKER_01:  Eigentlich ein bisschen wie so ein Briefkastensystem, nur eben übers Netz.
+00:47:18 - 00:47:19 - Sprecher SPEAKER_01:  In der Art, ja.
+00:47:19 - 00:47:20 - Sprecher SPEAKER_11:  Mhm. Verstehe.
+00:47:23 - 00:47:32 - Sprecher SPEAKER_13:  Gut, alles klar. Wenn das die Informationen sind, die Sie momentan bereit sind, mit mir zu teilen, dann möchte ich da natürlich nicht weiter bohren.
+00:47:32 - 00:47:36 - Sprecher SPEAKER_13:  Es tut mir natürlich auch sehr leid, dass Sie jetzt enttäuscht sind, dass Sie gerade nur...
+00:47:36 - 00:47:36 - Sprecher SPEAKER_13: 
+00:47:36 - 00:47:38 - Sprecher SPEAKER_13:  ...mit mir reden können diesbezüglich.
+00:47:38 - 00:47:40 - Sprecher SPEAKER_13:  Alles gut. Wir haben Zeit.
+00:47:40 - 00:47:46 - Sprecher SPEAKER_13:  Aber Sie verstehen bestimmt, dass auch bei uns eine gewisse Diskretion herrscht und...
+00:47:46 - 00:47:56 - Sprecher SPEAKER_13:  ...nun, wenn plötzlich einfach jemand bei mir anruft und ich kann nicht einschätzen von wo dieser Hinweis kommt und ich kann verstehen, dass Sie ihn nicht nennen wollen, nichtsdestotrotz...
+00:47:57 - 00:48:00 - Sprecher SPEAKER_13:  ...naja, macht das die Sache manchmal ein bisschen schwieriger.
+00:48:03 - 00:48:04 - Sprecher SPEAKER_01:  Kann ich nachvollziehen.
+00:48:04 - 00:48:10 - Sprecher SPEAKER_01:  Ich kann Ihnen nur sagen, ich glaube, wer ich weiß, von uns hat keiner Probleme damit, länger zu warten.
+00:48:10 - 00:48:14 - Sprecher SPEAKER_01:  Wir sind niemand, der das Ganze hier über den Kamm brechen muss oder wie man das in Ihrer Sprache sagt.
+00:48:14 - 00:48:16 - Sprecher SPEAKER_01:  Das kann ruhig seine Zeit in Anspruch nehmen.
+00:48:16 - 00:48:20 - Sprecher SPEAKER_01:  Und wenn Sie sich in zwei Wochen melden oder in einem Monat, dann melden Sie sich dann.
+00:48:21 - 00:48:23 - Sprecher SPEAKER_01:  Vielleicht melden Sie sich auch nicht. Das werden wir dann sehen.
+00:48:24 - 00:48:26 - Sprecher SPEAKER_13:  Gut, alles klar. Dann verbleiben wir so.
+00:48:27 - 00:48:29 - Sprecher SPEAKER_07:  Aber ich kann Ihnen einen schönen Gruß mitteilen.
+00:48:30 - 00:48:32 - Sprecher SPEAKER_07:  Wenn wir den Kontakt mit Ihnen wieder haben.
+00:48:33 - 00:48:35 - Sprecher SPEAKER_13:  Einfach nur einen schönen Gruß oder kommt da noch was?
+00:48:36 - 00:48:39 - Sprecher SPEAKER_07:  Ja, schönen Gruß von Matteo. Vielleicht reagieren die dann.
+00:48:42 - 00:48:44 - Sprecher SPEAKER_13:  Gut, dann werde ich das ausrichten.
+00:48:44 - 00:48:48 - Sprecher SPEAKER_00:  Was ich noch anbieten könnte wäre...
+00:48:50 - 00:48:54 - Sprecher SPEAKER_00:  ...also der Zugang ist natürlich jetzt für die Öffentlichkeit oder generell weg.
+00:48:55 - 00:49:00 - Sprecher SPEAKER_00:  Aber es gibt natürlich immer noch begrenzten Zugang zu dem Hintertürchen.
+00:49:05 - 00:49:10 - Sprecher SPEAKER_00:  Wenn da Interesse besteht, dann könnte ich da das weitergeben.
+00:49:12 - 00:49:14 - Sprecher SPEAKER_13:  Gut, dankeschön. Dann...
+00:49:16 - 00:49:17 - Sprecher SPEAKER_13:  ...das war bestimmt interessant.
+00:49:19 - 00:49:21 - Sprecher SPEAKER_01:  Gut, dann verbleiben wir erstmal so, würde ich sagen.
+00:49:21 - 00:49:22 - Sprecher SPEAKER_13:  Gut, dann verbleiben wir so.
+00:49:23 - 00:49:25 - Sprecher SPEAKER_13:  Dann bedanke ich mich und wir...
+00:49:27 - 00:49:28 - Sprecher SPEAKER_01:  ...hören uns. Bis dann.
+00:49:28 - 00:49:29 - Sprecher SPEAKER_01:  Au revoir.
+00:49:50 - 00:49:52 - Sprecher SPEAKER_04:  Es tut mir sehr leid.
+00:49:54 - 00:49:57 - Sprecher SPEAKER_04:  Das ist so schwierig. Ich verstehe das.
+00:49:57 - 00:50:00 - Sprecher SPEAKER_04:  Ich verstehe das natürlich, dass die jetzt vor mir nicht alles wissen.
+00:50:00 - 00:50:00 - Sprecher SPEAKER_04: 
+00:50:00 - 00:50:00 - Sprecher SPEAKER_04: 
+00:50:00 - 00:50:00 - Sprecher SPEAKER_04: 
+00:50:00 - 00:50:01 - Sprecher SPEAKER_04:  Weil die einfach alles raushauen wollen.
+00:50:01 - 00:50:05 - Sprecher SPEAKER_04:  Aber gleichzeitig verstehe ich auch, dass Cypher dich einfach random sagt so...
+00:50:05 - 00:50:05 - Sprecher SPEAKER_04:  ...ja, lass mal treffen.
+00:50:06 - 00:50:09 - Sprecher SPEAKER_04:  Weil das, wie es nach außen scheint, halt...
+00:50:11 - 00:50:14 - Sprecher SPEAKER_04:  ...jetzt einfach nur so, ohne was darüber zu wissen erstmal...
+00:50:14 - 00:50:17 - Sprecher SPEAKER_04:  ...sich nicht so anhört wie etwas, was...
+00:50:19 - 00:50:20 - Sprecher SPEAKER_04:  ...für uns interessant ist.
+00:50:21 - 00:50:21 - Sprecher SPEAKER_04:  Das ist sehr schwierig.
+00:50:25 - 00:50:28 - Sprecher SPEAKER_13:  Naja, Dagnova, das sind Erstkontakte.
+00:50:28 - 00:50:29 - Sprecher SPEAKER_13:  Das ist...
+00:50:30 - 00:50:33 - Sprecher SPEAKER_13:  ...das darfst du nicht so bewerten. Das sind Erstkontakte.
+00:50:33 - 00:50:38 - Sprecher SPEAKER_13:  Das sind lauter Crime-Gruppierungen gerade, mit denen wir uns zum ersten oder zum zweiten Mal treffen.
+00:50:39 - 00:50:39 - Sprecher SPEAKER_13:  Da wird halt...
+00:50:40 - 00:50:45 - Sprecher SPEAKER_13:  ...keine Ahnung. Also mit Fritzi bin ich sowieso immer super zurückhaltend.
+00:50:45 - 00:50:49 - Sprecher SPEAKER_13:  Super zurückhaltend. Es ist schon relativ offen, weil alle wissen, dass man im Geschäft ist.
+00:50:50 - 00:50:52 - Sprecher SPEAKER_13:  Aber das kannst du...
+00:50:52 - 00:50:57 - Sprecher SPEAKER_13:  ...das ist halt am Anfang oft sehr zäh, wenn beide Seiten so vorsichtig sind.
+00:50:57 - 00:50:57 - Sprecher SPEAKER_13:  ...und...
+00:51:06 - 00:51:08 - Sprecher SPEAKER_05:  ...mr...
+00:51:09 - 00:51:10 - Sprecher SPEAKER_05:  ...Parko...
+00:51:28 - 00:51:30 - Sprecher SPEAKER_03:  Mr. Pakovic, gerade keine Zeit.
+00:51:36 - 00:51:39 - Sprecher SPEAKER_03:  Ich wüsste gerne, ob Gon zu dem Kontakt weitergegeben hat.
+00:51:40 - 00:51:42 - Sprecher SPEAKER_03:  Aber das wäre okay.
+00:51:42 - 00:51:43 - Sprecher SPEAKER_04:  Das wäre völlig okay.
+00:51:43 - 00:51:45 - Sprecher SPEAKER_04:  Ich wüsste es einfach nur gerne.
+00:51:47 - 00:51:48 - Sprecher SPEAKER_04:  Also es wäre okay im Sinne von,
+00:51:48 - 00:51:50 - Sprecher SPEAKER_04:  das würde ihm schon zustehen.
+00:51:51 - 00:51:53 - Sprecher SPEAKER_04:  Aber es wäre immer cool,
+00:51:53 - 00:51:54 - Sprecher SPEAKER_04:  wenn man das wissen würde.
+00:51:54 - 00:51:55 - Sprecher SPEAKER_04:  Es ist immer so schwierig,
+00:51:56 - 00:51:59 - Sprecher SPEAKER_04:  wenn man gar nicht weiß, woher es kommt.
+00:51:59 - 00:52:00 - Sprecher SPEAKER_04:  Na, die Dankeschön dir übrigens für deinen Rate.
+00:52:00 - 00:52:02 - Sprecher SPEAKER_04:  Hallo ihr Lieben, ich hoffe, euch geht es allen gut.
+00:52:06 - 00:52:09 - Sprecher SPEAKER_04:  Beim ersten Gespräch mit Big Mac wurde sie Hund genannt.
+00:52:09 - 00:52:09 - Sprecher SPEAKER_03:  Das stimmt.
+00:52:10 - 00:52:13 - Sprecher SPEAKER_03:  Ihr seid also die Hündchen von dem Scary Typen,
+00:52:13 - 00:52:13 - Sprecher SPEAKER_03:  haben sie gesagt.
+00:52:18 - 00:52:19 - Sprecher SPEAKER_03:  Naja, aber so ist das.
+00:52:20 - 00:52:21 - Sprecher SPEAKER_03:  Ich liebe das auch.
+00:52:21 - 00:52:23 - Sprecher SPEAKER_03:  Also eigentlich mag ich diese ersten Gespräche.
+00:52:23 - 00:52:25 - Sprecher SPEAKER_03:  Und vor allem, wenn man dann manchmal guckt,
+00:52:25 - 00:52:26 - Sprecher SPEAKER_03:  wo sie es hin entwickelt dann.
+00:52:29 - 00:52:31 - Sprecher SPEAKER_03:  Oh, gute Besserung.
+00:52:31 - 00:52:33 - Sprecher SPEAKER_03:  Ich glaube, gerade sind ziemlich viele Leute krank.
+00:52:36 - 00:52:39 - Sprecher SPEAKER_13:  Gerade sind schon wieder ziemlich viele Leute am Rumseuchen.
+00:52:39 - 00:52:41 - Sprecher SPEAKER_13:  Das war wieder wahrscheinlich die schlechteste Idee,
+00:52:41 - 00:52:42 - Sprecher SPEAKER_04:  am Wochenende auf Messe zu gehen.
+00:52:45 - 00:52:47 - Sprecher SPEAKER_03:  Hm, naja gut.
+00:52:48 - 00:52:49 - Sprecher SPEAKER_03:  Also dann...
+00:52:50 - 00:52:52 - Sprecher SPEAKER_03:  Gibt es noch irgendwas Wichtiges sonst?
+00:52:52 - 00:52:55 - Sprecher SPEAKER_03:  Also ich will mich mit Pakovic eigentlich unbedingt einmal...
+00:52:55 - 00:52:56 - Sprecher SPEAKER_03:  noch treffen.
+00:52:56 - 00:52:56 - Sprecher SPEAKER_03:  Das wäre ganz cool.
+00:52:57 - 00:52:59 - Sprecher SPEAKER_03:  Weil ich morgen und übermorgen ja nicht da bin.
+00:53:07 - 00:53:11 - Sprecher SPEAKER_05:  Dann muss ich nicht anrufen.
+00:53:14 - 00:53:16 - Sprecher SPEAKER_04:  Trotzdem, auch einfach aus Prinzip,
+00:53:16 - 00:53:17 - Sprecher SPEAKER_04:  dass die auch wissen,
+00:53:18 - 00:53:19 - Sprecher SPEAKER_04:  dass sie angerufen werden, die Keks.
+00:53:20 - 00:53:20 - Sprecher SPEAKER_04:  Hm.
+00:53:28 - 00:53:29 - Sprecher SPEAKER_04:  upright.
+00:53:30 - 00:53:31 - Sprecher SPEAKER_04:  Right up here?
+00:53:31 - 00:53:33 - Sprecher SPEAKER_04:  cine Иshow.
+00:53:35 - 00:53:35 - Sprecher SPEAKER_04: 
+00:53:35 - 00:53:35 - Sprecher SPEAKER_04: 
+00:53:35 - 00:53:35 - Sprecher SPEAKER_04:  Oder...
+00:53:37 - 00:53:40 - Sprecher SPEAKER_13:  Ich lieber Blic se zu wissen
+00:53:40 - 00:53:40 - Sprecher SPEAKER_13:  wo sie dasanu notified.
+00:53:40 - 00:53:44 - Sprecher SPEAKER_13:  C Kawaz괴
+00:53:44 - 00:53:44 - Sprecher SPEAKER_03:  Bopейiamo?
+00:53:53 - 00:53:53 - Sprecher SPEAKER_03:  Bopemepalapaparikkostü,
+00:53:55 - 00:53:55 - Unbekannt: 
+00:53:55 - 00:53:57 - Sprecher SPEAKER_03:  Boah, was wollte ich denen sagen?
+00:53:59 - 00:54:00 - Sprecher SPEAKER_03:  Irgendwas...
+00:54:06 - 00:54:09 - Sprecher SPEAKER_03:  Nee, fang jetzt keine weiteren...
+00:54:09 - 00:54:11 - Sprecher SPEAKER_03:  Hm, hm, hm.
+00:54:22 - 00:54:23 - Sprecher SPEAKER_08:  Wunderschönen guten Tag.
+00:54:25 - 00:54:25 - Sprecher SPEAKER_13:  Ja.
+00:54:26 - 00:54:27 - Sprecher SPEAKER_08:  Hallo, Frau Fritzi.
+00:54:29 - 00:54:30 - Sprecher SPEAKER_13:  Ja.
+00:54:39 - 00:54:41 - Sprecher SPEAKER_11:  Äh, nein.
+00:54:43 - 00:54:50 - Sprecher SPEAKER_13:  Hm, so ist mein letzter Kennerstand, ja.
+00:54:53 - 00:54:57 - Sprecher SPEAKER_13:  Aber Sie haben keine Handhabe darüber, beziehungsweise wissen nicht, wie das abläuft?
+00:54:58 - 00:55:00 - Sprecher SPEAKER_10:  Äh, derzeit nicht, nein.
+00:55:00 - 00:55:04 - Sprecher SPEAKER_10:  Gut, verstehe. Mr. Gonzalez ist weiterhin im Urlaub, ja?
+00:55:04 - 00:55:05 - Sprecher SPEAKER_10:  Der ist derzeit im Urlaub, ja.
+00:55:05 - 00:55:17 - Sprecher SPEAKER_13:  Okay, verstehe. Gut, dann müssen sich die Interessenten noch gedulden, denn ich hab einige Leute, die großes Interesse daran haben, vielleicht die ein oder andere Autofahrt zum Hafen zu machen.
+00:55:19 - 00:55:21 - Sprecher SPEAKER_08:  Ah, verstehe, verstehe. Ähm, ja, natürlich.
+00:55:21 - 00:55:23 - Sprecher SPEAKER_08:  Gut, verstehe. Dann...
+00:55:23 - 00:55:25 - Sprecher SPEAKER_13:  Dann wünsche ich Ihnen jetzt erstmal einen wunderschönen Abend.
+00:55:26 - 00:55:27 - Sprecher SPEAKER_13:  Äh, gleichfalls, gleichfalls.
+00:55:27 - 00:55:27 - Sprecher SPEAKER_10:  Bis dann.
+00:55:27 - 00:55:28 - Sprecher SPEAKER_10:  Bis dann.
+00:55:34 - 00:55:34 - Unbekannt:  Gut.
+00:55:35 - 00:55:46 - Sprecher SPEAKER_13:  Also, dann kann... bringt das nämlich auch gar nichts, mit der Grove zu reden, weil das ist was, was ich eigentlich melde der Groves Family. Die hat nämlich Interesse daran, wo der Kram ist.
+00:55:49 - 00:55:50 - Sprecher SPEAKER_11:  Hm...
+00:56:09 - 00:56:10 - Unbekannt:  Aber sie ist fast auf auf.
+00:56:11 - 00:56:11 - Sprecher SPEAKER_04:  Ähm...
+00:56:11 - 00:56:20 - Sprecher SPEAKER_04:  Gut, dann gucken wir einfach, ob wir mit Pakovic noch ein Gespräch kriegen gleich. Und ansonsten war es das, glaube ich.
+00:56:20 - 00:56:20 - Sprecher SPEAKER_04:  Ja, und?
+00:56:20 - 00:56:21 - Sprecher SPEAKER_04:  Ja, ja, ich glaube auch.
+00:56:21 - 00:56:21 - Sprecher SPEAKER_04:  Wir haben dann auch noch den gebrauchten Kram nicht mehr.
+00:56:21 - 00:56:22 - Sprecher SPEAKER_04:  Nein.
+00:56:22 - 00:56:22 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04:  Nein.
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:23 - Sprecher SPEAKER_04: 
+00:56:23 - 00:56:29 - Sprecher SPEAKER_04:  den Uni hatte geschrieben, dass sich das mit Divine für heute eher erledigt hat, weil die nicht da ist.
+00:56:30 - 00:56:33 - Sprecher SPEAKER_04:  Das ist okay, das wäre sowieso ein Upstream-Ding gewesen.
+00:56:33 - 00:56:37 - Sprecher SPEAKER_04:  Also, was ich zumindest mit Meta-Screen dann gemacht hätte.
+00:56:42 - 00:56:46 - Sprecher SPEAKER_03:  Lässt mich gerade mal in meinen Kopf durchgehen.
+00:56:55 - 00:56:57 - Sprecher SPEAKER_04:  Ich kann einen Schlüsselanhänger zum Pedi bringen.
+00:56:57 - 00:56:59 - Sprecher SPEAKER_04:  Bringen wir einen Schlüsselanhänger zum Pedi.
+00:57:01 - 00:57:06 - Sprecher SPEAKER_04:  Solange wir auf Parkowitz zurück warten, bringen wir einfach einen Schlüsselanhänger zum Pedi.
+00:57:30 - 00:57:53 - Sprecher SPEAKER_13:  Und dann können wir den Schlüsselanhänger zum Pedi bringen.
+00:57:53 - 00:58:23 - Sprecher SPEAKER_06:  Und dann können wir den Schlüsselanhänger zum Pedi bringen.
+00:58:50 - 00:58:53 - Sprecher SPEAKER_11:  Und dann können wir den Schlüsselanhänger zum Pedi bringen.
+00:59:05 - 00:59:22 - Sprecher SPEAKER_06:  Und dann können wir den Schlüsselanhänger zum Pedi bringen.
+00:59:23 - 00:59:53 - Sprecher SPEAKER_13:  Und dann können wir den Schlüsselanhänger zum Pedi bringen.
+00:59:53 - 00:59:59 - Sprecher SPEAKER_13:  Und dann können wir den Schlüsselanhänger zum Pedi bringen.
