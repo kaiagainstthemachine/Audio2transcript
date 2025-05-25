@@ -1,0 +1,702 @@
+Transkription Staffel 2 mit Sprechererkennung von [5-25-25]Pitch_Panikfee_-_Wow was ist das_part1.wav:
+00:00:17 - 00:00:18 - Unbekannt:  Oh.
+00:00:20 - 00:00:22 - Sprecher SPEAKER_10:  Die haben aufgelassen.
+00:00:25 - 00:00:26 - Sprecher SPEAKER_11:  Ah, ich muss nicht schnell umziehen.
+00:00:44 - 00:00:59 - Unbekannt:  Ich muss nicht schnell umziehen.
+00:01:16 - 00:01:18 - Sprecher SPEAKER_02:  Ich muss nicht schnell umziehen.
+00:01:57 - 00:01:59 - Unbekannt:  Ich muss nicht schnell umziehen.
+00:02:24 - 00:02:29 - Unbekannt:  Ich muss nicht schnell umziehen.
+00:02:44 - 00:02:54 - Sprecher SPEAKER_03:  Ich muss nicht schnell umziehen.
+00:02:54 - 00:02:54 - Sprecher SPEAKER_00: 
+00:02:54 - 00:02:54 - Sprecher SPEAKER_00: 
+00:02:55 - 00:02:57 - Sprecher SPEAKER_02:  Ich muss nicht schnell umziehen.
+00:02:57 - 00:02:57 - Sprecher SPEAKER_02:  Wie bitte?
+00:02:57 - 00:02:59 - Sprecher SPEAKER_00:  Ich finde, in der Ecke.
+00:03:10 - 00:03:13 - Sprecher SPEAKER_14:  jetzt haben wir ein problem
+00:03:13 - 00:03:20 - Sprecher SPEAKER_14:  was genau
+00:03:22 - 00:03:23 - Sprecher SPEAKER_02:  die sollen immer wieder mit hoch
+00:03:28 - 00:03:30 - Sprecher SPEAKER_08:  ist auch noch dreck
+00:04:11 - 00:04:13 - Sprecher SPEAKER_02:  erst mal wieder nach oben gehen
+00:04:16 - 00:04:17 - Sprecher SPEAKER_14:  soweit unter kontrolle
+00:04:17 - 00:04:18 - Sprecher SPEAKER_14:  also
+00:04:18 - 00:04:18 - Unbekannt: 
+00:04:18 - 00:04:18 - Unbekannt:  so weit unter kontrolle
+00:04:32 - 00:04:33 - Sprecher SPEAKER_11:  da mache ich hier weiter
+00:04:49 - 00:04:50 - Unbekannt:  so weit unter kontrolle
+00:04:50 - 00:04:51 - Unbekannt:  so weit unter kontrolle
+00:05:18 - 00:05:20 - Sprecher SPEAKER_11:  so weit unter kontrolle
+00:05:22 - 00:05:25 - Sprecher SPEAKER_11:  ich habe das ist so eklig
+00:05:25 - 00:05:28 - Sprecher SPEAKER_11:  das kann wirklich niemanden
+00:05:28 - 00:05:28 - Sprecher SPEAKER_11:  da tragen
+00:05:28 - 00:05:30 - Sprecher SPEAKER_11:  müssen daher nicht sauber
+00:05:30 - 00:05:30 - Sprecher SPEAKER_02:  machen
+00:05:30 - 00:05:32 - Sprecher SPEAKER_02:  sie haben recht
+00:05:32 - 00:05:35 - Sprecher SPEAKER_11:  die kreis
+00:05:47 - 00:05:48 - Sprecher SPEAKER_07:  ich gehe raus
+00:05:48 - 00:05:48 - Sprecher SPEAKER_07: 
+00:05:48 - 00:05:48 - Sprecher SPEAKER_07: 
+00:05:48 - 00:05:48 - Sprecher SPEAKER_07: 
+00:05:48 - 00:05:48 - Sprecher SPEAKER_07: 
+00:05:48 - 00:05:48 - Sprecher SPEAKER_07:  ha
+00:05:58 - 00:05:58 - Unbekannt:  reichlich
+00:06:00 - 00:06:01 - Sprecher SPEAKER_11:  der gleiche
+00:06:01 - 00:06:02 - Sprecher SPEAKER_11:  steward
+00:06:04 - 00:06:05 - Sprecher SPEAKER_11:  de on
+00:06:05 - 00:06:05 - Sprecher SPEAKER_11: 
+00:06:05 - 00:06:06 - Sprecher SPEAKER_11:  43
+00:06:06 - 00:06:06 - Sprecher SPEAKER_11: 
+00:06:06 - 00:06:06 - Sprecher SPEAKER_11:  4
+00:06:06 - 00:06:08 - Sprecher SPEAKER_11:  doch so
+00:06:09 - 00:06:10 - Sprecher SPEAKER_11:  die
+00:06:10 - 00:06:10 - Sprecher SPEAKER_11:  hat
+00:06:10 - 00:06:11 - Sprecher SPEAKER_11:  war
+00:06:11 - 00:06:11 - Sprecher SPEAKER_11: 
+00:06:11 - 00:06:12 - Sprecher SPEAKER_11:  er welt
+00:06:12 - 00:06:12 - Sprecher SPEAKER_11: 
+00:06:12 - 00:06:12 - Sprecher SPEAKER_11:  war
+00:06:14 - 00:06:15 - Sprecher SPEAKER_11:  alle
+00:06:17 - 00:06:17 - Sprecher SPEAKER_11:  einer
+00:06:45 - 00:06:47 - Sprecher SPEAKER_11:  Polizei Gewalt!
+00:06:47 - 00:06:49 - Sprecher SPEAKER_11:  Polizei Gewalt!
+00:06:50 - 00:06:51 - Sprecher SPEAKER_11:  Polizei Gewalt!
+00:06:57 - 00:07:02 - Sprecher SPEAKER_11:  Erschießt Victor! Erschießt Victor! Erschießt Victor! Erschießt ihn noch! Erschießt ihn noch! Erschießt Victor!
+00:07:02 - 00:07:05 - Sprecher SPEAKER_11:  Alle sind tot! Alle sind tot!
+00:07:05 - 00:07:07 - Sprecher SPEAKER_11:  Alle sind tot! Erschießt Victor!
+00:07:10 - 00:07:11 - Sprecher SPEAKER_11:  Victor kann auch sterben!
+00:07:14 - 00:07:17 - Sprecher SPEAKER_11:  Ich erst- Ich- Victor! Wenn ihr auf mich schießt!
+00:07:17 - 00:07:18 - Sprecher SPEAKER_11:  Ich erstech ihn einfach.
+00:07:18 - 00:07:19 - Sprecher SPEAKER_11:  Ich erstech ihn.
+00:07:19 - 00:07:21 - Sprecher SPEAKER_11:  Wenn ihr eure Kollegen ruft, stech ich ihn ab.
+00:07:21 - 00:07:22 - Sprecher SPEAKER_11:  Ich stech ihn ab.
+00:07:22 - 00:07:24 - Sprecher SPEAKER_11:  Ich stech Victor ab.
+00:07:25 - 00:07:27 - Sprecher SPEAKER_11:  Geht raus aus der scheiß Cafeteria.
+00:07:27 - 00:07:28 - Sprecher SPEAKER_11:  Ich stech ihn ab.
+00:07:29 - 00:07:31 - Sprecher SPEAKER_11:  Ihr wollt, dass Victor stirbt?
+00:07:31 - 00:07:31 - Sprecher SPEAKER_11:  Alles klar.
+00:07:37 - 00:07:39 - Sprecher SPEAKER_11:  Gut, einen Einstich hat er schon.
+00:07:39 - 00:07:40 - Sprecher SPEAKER_11:  Er hat schon einen Stich.
+00:07:40 - 00:07:42 - Sprecher SPEAKER_11:  Okay, das interessiert euch nicht.
+00:07:42 - 00:07:42 - Sprecher SPEAKER_11:  Dann bringe ich ihn um.
+00:07:42 - 00:07:44 - Sprecher SPEAKER_11:  Dann bringe ich eure beschissenen Lüfter um.
+00:07:44 - 00:07:45 - Sprecher SPEAKER_11:  Komm mit, komm mit, komm mit, komm mit.
+00:07:45 - 00:07:46 - Sprecher SPEAKER_06:  Geht raus, geht raus.
+00:07:46 - 00:07:47 - Sprecher SPEAKER_11:  Raus, ich stech ihn.
+00:07:47 - 00:07:47 - Sprecher SPEAKER_11:  Ich stech ihn komplett ab.
+00:07:47 - 00:07:49 - Sprecher SPEAKER_11:  Ich schneid ihm die Kehle durch, wenn ihr noch näher kommt.
+00:07:49 - 00:07:50 - Sprecher SPEAKER_11:  Ich schneid ihn durch.
+00:07:51 - 00:07:52 - Sprecher SPEAKER_11:  Ich steit Victor die Kehle durch.
+00:07:54 - 00:07:56 - Sprecher SPEAKER_14:  Wir haben hier ein distantes Problem mit dir.
+00:07:57 - 00:07:58 - Sprecher SPEAKER_11:  Ich stech, ich stech Victor ab.
+00:07:58 - 00:08:00 - Sprecher SPEAKER_11:  Wenn ihr nicht verschwindet, verpisst ihr euch.
+00:08:00 - 00:08:01 - Sprecher SPEAKER_11:  Einfach boom, einfach boom.
+00:08:04 - 00:08:05 - Sprecher SPEAKER_11:  Gut, alles klar.
+00:08:07 - 00:08:08 - Sprecher SPEAKER_11:  Ihr wollt Victor tot sehen?
+00:08:08 - 00:08:09 - Sprecher SPEAKER_11:  Kein Problem.
+00:08:09 - 00:08:10 - Sprecher SPEAKER_11:  Ich stech ihn komplett ab.
+00:08:11 - 00:08:13 - Sprecher SPEAKER_11:  Zwei Stiche hat er schon abgekriegt.
+00:08:13 - 00:08:14 - Sprecher SPEAKER_11:  Ihr wollt noch mehr?
+00:08:16 - 00:08:17 - Sprecher SPEAKER_11:  Victor, die sind weg.
+00:08:17 - 00:08:19 - Sprecher SPEAKER_11:  Du bist denen egal, Victor.
+00:08:19 - 00:08:20 - Sprecher SPEAKER_11:  Du bist denen egal.
+00:08:20 - 00:08:21 - Sprecher SPEAKER_11:  Das ist Polizeigewalt.
+00:08:21 - 00:08:22 - Sprecher SPEAKER_11:  Kann ich mit ihnen reden?
+00:08:23 - 00:08:24 - Sprecher SPEAKER_12:  Sie wollen mit mir reden.
+00:08:24 - 00:08:26 - Sprecher SPEAKER_12:  Sie wollen aber, dass Victor die Kehle durchgeschnitten kriegt.
+00:08:26 - 00:08:27 - Sprecher SPEAKER_12:  Okay, okay, passen Sie auf.
+00:08:27 - 00:08:28 - Sprecher SPEAKER_12:  Ich mach mal einen Vorschlag, ja?
+00:08:29 - 00:08:29 - Sprecher SPEAKER_12:  Na, Victor, hörst du?
+00:08:29 - 00:08:31 - Sprecher SPEAKER_12:  Sie gehen mal von dem netten Herrn ein bisschen weg, ja?
+00:08:31 - 00:08:32 - Sprecher SPEAKER_12:  Auf gar keinen Fall.
+00:08:32 - 00:08:33 - Sprecher SPEAKER_12:  Ich komm ein kleines bisschen näher.
+00:08:33 - 00:08:35 - Sprecher SPEAKER_12:  Dann können wir uns ein bisschen mehr unterhalten, ja?
+00:08:35 - 00:08:36 - Sprecher SPEAKER_12:  Nein, nein, nein, nein.
+00:08:36 - 00:08:37 - Sprecher SPEAKER_12:  Ihr bleibt da, wo ihr seid.
+00:08:37 - 00:08:38 - Sprecher SPEAKER_11:  Ihr bleibt da, wo ihr seid.
+00:08:38 - 00:08:38 - Sprecher SPEAKER_11:  Nein, nein, ich komm alleine.
+00:08:38 - 00:08:38 - Sprecher SPEAKER_11:  Nein, ihr kommt nicht.
+00:08:38 - 00:08:39 - Sprecher SPEAKER_11:  Ich komm alleine nach vorne.
+00:08:39 - 00:08:40 - Sprecher SPEAKER_11:  Ihr bleibt da, wo ihr seid.
+00:08:40 - 00:08:40 - Sprecher SPEAKER_11:  Ich stech ihn ab.
+00:08:40 - 00:08:41 - Sprecher SPEAKER_11:  Ich stech ihn einfach ab.
+00:08:42 - 00:08:43 - Sprecher SPEAKER_11:  Nein, nein, passen Sie auf.
+00:08:43 - 00:08:44 - Sprecher SPEAKER_11:  Ich stech ihn ab.
+00:08:44 - 00:08:44 - Sprecher SPEAKER_11:  Ich rede doch ruhig mit ihnen.
+00:08:44 - 00:08:45 - Sprecher SPEAKER_11:  Ich stech ihn ab.
+00:08:49 - 00:08:50 - Sprecher SPEAKER_11:  Ich will hier raus.
+00:08:50 - 00:08:51 - Sprecher SPEAKER_11:  Ich will hier raus.
+00:08:54 - 00:08:55 - Sprecher SPEAKER_12:  So, passen Sie auf.
+00:08:55 - 00:08:57 - Sprecher SPEAKER_12:  Ich nehm die Waffe aus meiner Hand, okay?
+00:08:58 - 00:08:58 - Sprecher SPEAKER_12:  Sie sehen, ne?
+00:08:58 - 00:09:00 - Sprecher SPEAKER_12:  Ich hab keine Waffe mehr in der Hand.
+00:09:00 - 00:09:00 - Sprecher SPEAKER_12:  Das sehen Sie, oder?
+00:09:03 - 00:09:03 - Sprecher SPEAKER_07:  Ja.
+00:09:04 - 00:09:06 - Sprecher SPEAKER_12:  Und ich komm jetzt ganz langsam zu Ihnen.
+00:09:06 - 00:09:08 - Sprecher SPEAKER_12:  Dann können wir uns ein bisschen besser unterhalten.
+00:09:08 - 00:09:08 - Sprecher SPEAKER_12:  Ist das okay?
+00:09:08 - 00:09:09 - Sprecher SPEAKER_12:  Alles klar.
+00:09:09 - 00:09:10 - Sprecher SPEAKER_11:  Ich hab das Messer an, Victor.
+00:09:10 - 00:09:11 - Sprecher SPEAKER_12:  Das ist an Victor's Seite.
+00:09:11 - 00:09:12 - Sprecher SPEAKER_12:  Ich stech ihn ganz weit rein.
+00:09:12 - 00:09:14 - Sprecher SPEAKER_12:  Sie können uns besser unterhalten, aber machen Sie nichts, okay?
+00:09:14 - 00:09:15 - Sprecher SPEAKER_12:  Die, die, die sollen alle raus.
+00:09:15 - 00:09:16 - Sprecher SPEAKER_12:  Die anderen sollen alle raus.
+00:09:17 - 00:09:19 - Sprecher SPEAKER_12:  Die, die bleiben einfach mal als meiner Sicherheit da.
+00:09:19 - 00:09:20 - Sprecher SPEAKER_12:  Die werden aber nichts tun, okay?
+00:09:20 - 00:09:21 - Sprecher SPEAKER_12:  Victor, da musst du sterben.
+00:09:21 - 00:09:22 - Sprecher SPEAKER_12:  Es tut mir leid.
+00:09:22 - 00:09:23 - Sprecher SPEAKER_12:  Ich weiß, du warst immer ein Guter.
+00:09:23 - 00:09:24 - Sprecher SPEAKER_11:  Du warst immer ein Guter, Victor.
+00:09:24 - 00:09:25 - Sprecher SPEAKER_11:  Du warst ein Guter.
+00:09:25 - 00:09:26 - Sprecher SPEAKER_11:  Lass mich doch einmal, Victor.
+00:09:26 - 00:09:27 - Sprecher SPEAKER_11:  Aber du musst vielleicht einmal sterben.
+00:09:27 - 00:09:29 - Sprecher SPEAKER_11:  Du musst sterben bei Polizeigewalt.
+00:09:29 - 00:09:30 - Sprecher SPEAKER_11:  Die hören einfach nicht auf mich, Victor.
+00:09:30 - 00:09:31 - Sprecher SPEAKER_12:  Ich kann nichts dafür.
+00:09:32 - 00:09:34 - Sprecher SPEAKER_12:  Die Herrschaften hinter mir tun doch grad nichts.
+00:09:35 - 00:09:36 - Sprecher SPEAKER_12:  Reden Sie einfach nur mit mir, okay?
+00:09:37 - 00:09:38 - Sprecher SPEAKER_12:  Nein, nein, nein, nein, nein, nein.
+00:09:38 - 00:09:40 - Sprecher SPEAKER_11:  Nein, ich hab hier, ich hab hier Regeln gemacht.
+00:09:40 - 00:09:41 - Sprecher SPEAKER_11:  Und jemand muss sich auch mal dran halten.
+00:09:42 - 00:09:43 - Sprecher SPEAKER_11:  Irgendwann muss ich auch mal jemand dran halten.
+00:09:43 - 00:09:43 - Sprecher SPEAKER_11:  Was haben Sie denn für Regeln gemacht?
+00:09:44 - 00:09:46 - Sprecher SPEAKER_11:  Dass sie rausgehen sollen.
+00:09:46 - 00:09:47 - Sprecher SPEAKER_12:  Alle außer Sie.
+00:09:47 - 00:09:49 - Sprecher SPEAKER_12:  Okay, alle sollen rausgehen außer ich.
+00:09:49 - 00:09:52 - Sprecher SPEAKER_12:  Was halten Sie davon, wenn ein Kollege noch hier bleibt zu meiner Sicherheit?
+00:09:52 - 00:09:54 - Sprecher SPEAKER_12:  Und die anderen gehen vor die Tür?
+00:09:54 - 00:09:54 - Sprecher SPEAKER_12:  Was soll ich machen?
+00:09:54 - 00:09:56 - Sprecher SPEAKER_12:  Das beschissene Messer in ihren Kopf schmeißen?
+00:09:57 - 00:09:58 - Sprecher SPEAKER_12:  Das könnte sein.
+00:10:00 - 00:10:01 - Sprecher SPEAKER_13:  Schau, sie wollen doch allen nur helfen.
+00:10:01 - 00:10:03 - Sprecher SPEAKER_11:  Niemand will irgendwem helfen.
+00:10:03 - 00:10:04 - Sprecher SPEAKER_11:  Niemand will irgendwann helfen.
+00:10:04 - 00:10:06 - Sprecher SPEAKER_12:  Ihr seid, ihr seid alle erstkommende System.
+00:10:06 - 00:10:07 - Sprecher SPEAKER_12:  Ja, aber gucken Sie mal.
+00:10:07 - 00:10:08 - Sprecher SPEAKER_12:  Ich versuch grad.
+00:10:08 - 00:10:09 - Sprecher SPEAKER_12:  Ich versuch grad, einen Kompromiss einzugehen.
+00:10:09 - 00:10:12 - Sprecher SPEAKER_12:  Ein Herr bleibt mit mir hier drinnen und die anderen gehen raus.
+00:10:12 - 00:10:12 - Sprecher SPEAKER_12:  Was halten Sie davon?
+00:10:13 - 00:10:13 - Sprecher SPEAKER_12:  Ja, so, Victor.
+00:10:13 - 00:10:16 - Sprecher SPEAKER_11:  Der Kompromiss ist, dass du stirbst und alle hierbleiben.
+00:10:17 - 00:10:18 - Sprecher SPEAKER_11:  Oh nein, nicht alle.
+00:10:18 - 00:10:19 - Sprecher SPEAKER_11:  Eine Frau und ein Mann.
+00:10:20 - 00:10:22 - Sprecher SPEAKER_11:  Aber dafür stirbst du so ein Pech, Victor.
+00:10:22 - 00:10:24 - Sprecher SPEAKER_11:  Was soll ich tun?
+00:10:24 - 00:10:24 - Sprecher SPEAKER_11:  Einfach boom.
+00:10:24 - 00:10:26 - Sprecher SPEAKER_11:  Manchmal muss man sterben.
+00:10:31 - 00:10:33 - Sprecher SPEAKER_12:  Okay, was haben Sie denn für einen Kompromiss?
+00:10:35 - 00:10:36 - Sprecher SPEAKER_11:  Ich will nach draußen.
+00:10:36 - 00:10:37 - Sprecher SPEAKER_12:  Dann töte ich Victor nicht.
+00:10:38 - 00:10:39 - Sprecher SPEAKER_12:  Sie möchten nach draußen.
+00:10:40 - 00:10:40 - Sprecher SPEAKER_12:  Wie genau nach draußen?
+00:10:41 - 00:10:42 - Sprecher SPEAKER_12:  Raus, raus, raus, raus, raus.
+00:10:42 - 00:10:44 - Sprecher SPEAKER_12:  Aber das funktioniert doch nicht.
+00:10:44 - 00:10:45 - Unbekannt:  Oh, doch.
+00:10:45 - 00:10:47 - Sprecher SPEAKER_12:  Ist das doch ein Grund, warum Sie hier sind?
+00:10:47 - 00:10:49 - Sprecher SPEAKER_12:  Nein, ich bin unschuldig hier.
+00:10:49 - 00:10:50 - Sprecher SPEAKER_11:  Ganz unschuldig.
+00:10:50 - 00:10:53 - Sprecher SPEAKER_12:  Möchten Sie mir dann erzählen, was vorgefallen ist, warum Sie hier sind?
+00:10:53 - 00:10:56 - Sprecher SPEAKER_11:  Ja, ich wurde hier einfach hergebracht.
+00:10:56 - 00:10:57 - Sprecher SPEAKER_11:  Alle meine Freunde sind tot.
+00:10:58 - 00:11:00 - Sprecher SPEAKER_12:  Okay, ich komme noch mal ein bisschen näher, okay?
+00:11:02 - 00:11:03 - Sprecher SPEAKER_12:  Kommen Sie nicht noch näher.
+00:11:03 - 00:11:04 - Sprecher SPEAKER_12:  Kommen Sie nicht noch näher.
+00:11:04 - 00:11:06 - Sprecher SPEAKER_13:  Nein, nein, nein, nein, nein, nein.
+00:11:06 - 00:11:06 - Sprecher SPEAKER_13:  Nein, nein, nein, nein, nein.
+00:11:06 - 00:11:08 - Sprecher SPEAKER_13:  Nein, nein, nein, nein, nein.
+00:11:08 - 00:11:09 - Sprecher SPEAKER_11:  Nein, sie bleiben da hinten stehen.
+00:11:09 - 00:11:10 - Sprecher SPEAKER_11:  Ich komme bis zum Tisch.
+00:11:11 - 00:11:12 - Sprecher SPEAKER_13:  Victor, ich weiß, es tut weh.
+00:11:12 - 00:11:13 - Sprecher SPEAKER_11:  Du musst das aushalten.
+00:11:14 - 00:11:15 - Sprecher SPEAKER_11:  Ich ramm's nicht rein.
+00:11:15 - 00:11:15 - Sprecher SPEAKER_11:  Noch nicht, noch nicht.
+00:11:16 - 00:11:18 - Sprecher SPEAKER_11:  Okay, Ihre Freunde sind tot.
+00:11:19 - 00:11:21 - Sprecher SPEAKER_12:  Warum sind Ihre Freunde tot?
+00:11:21 - 00:11:22 - Sprecher SPEAKER_12:  Es hat einfach Boom gemacht.
+00:11:23 - 00:11:24 - Sprecher SPEAKER_12:  Es hat einfach Boom gemacht?
+00:11:25 - 00:11:25 - Sprecher SPEAKER_12:  Ja, Boom.
+00:11:26 - 00:11:27 - Sprecher SPEAKER_12:  Okay.
+00:11:29 - 00:11:29 - Sprecher SPEAKER_12:  Hm.
+00:11:30 - 00:11:32 - Sprecher SPEAKER_12:  Und dann sind Sie hier gelandet, oder?
+00:11:32 - 00:11:34 - Sprecher SPEAKER_12:  Ja, und alle, alle, alle, die ich kannte,
+00:11:34 - 00:11:36 - Sprecher SPEAKER_11:  die gehen nicht mehr ans Telefon.
+00:11:36 - 00:11:37 - Sprecher SPEAKER_11:  Die sind tot, oder?
+00:11:37 - 00:11:38 - Sprecher SPEAKER_11:  Ich weiß nicht.
+00:11:38 - 00:11:40 - Sprecher SPEAKER_11:  Pater McCrew's Face ist tot.
+00:11:41 - 00:11:42 - Sprecher SPEAKER_11:  Ich weiß nicht.
+00:11:42 - 00:11:44 - Sprecher SPEAKER_11:  Kleid, die McCleid-Face wollte mich rausholen,
+00:11:44 - 00:11:46 - Sprecher SPEAKER_11:  aber er schreibt nicht mehr zurück,
+00:11:46 - 00:11:48 - Sprecher SPEAKER_11:  obwohl er gesagt hat, dass er mich liebt.
+00:11:50 - 00:11:51 - Sprecher SPEAKER_12:  Das belastet Sie jetzt gerade,
+00:11:52 - 00:11:53 - Sprecher SPEAKER_12:  dass er sich bei Ihnen nicht mehr meldet, oder wie?
+00:11:54 - 00:11:55 - Sprecher SPEAKER_12:  Ja, wo ist Kleid? Wo ist Kleid?
+00:11:56 - 00:11:58 - Sprecher SPEAKER_12:  Ich kenne keinen Kleid.
+00:11:58 - 00:12:00 - Sprecher SPEAKER_12:  Kleid, er hatte eine Kote an.
+00:12:00 - 00:12:03 - Sprecher SPEAKER_11:  Er hat gesagt, er hat eine coole Kote.
+00:12:03 - 00:12:04 - Sprecher SPEAKER_11:  Er hat getanzt für mich.
+00:12:04 - 00:12:06 - Sprecher SPEAKER_11:  Er wollte mir Kuchen bringen.
+00:12:06 - 00:12:08 - Sprecher SPEAKER_12:  Er wollte Ihnen Kuchen bringen?
+00:12:08 - 00:12:08 - Sprecher SPEAKER_11:  Ja, ja, ja.
+00:12:10 - 00:12:11 - Sprecher SPEAKER_11:  Kleid, soll er herkommen?
+00:12:11 - 00:12:12 - Sprecher SPEAKER_11:  Rufen Sie Kleid an.
+00:12:13 - 00:12:14 - Sprecher SPEAKER_12:  Ein Kleid.
+00:12:14 - 00:12:16 - Sprecher SPEAKER_12:  Wissen Sie, wie dieser Kleid mit Nachnamen heißt?
+00:12:16 - 00:12:17 - Sprecher SPEAKER_12:  Kleid, die McCleid-Face.
+00:12:18 - 00:12:21 - Sprecher SPEAKER_11:  Ich glaube, der ist beim Lost, beim Lost.
+00:12:21 - 00:12:22 - Sprecher SPEAKER_11:  Beim Lost.
+00:12:22 - 00:12:22 - Sprecher SPEAKER_11:  Ist das so?
+00:12:22 - 00:12:23 - Sprecher SPEAKER_11:  Das ist ein Motorrad-Klo.
+00:12:25 - 00:12:27 - Sprecher SPEAKER_12:  Soll ich mal gucken, ob ich irgendwas darüber rauskriege?
+00:12:27 - 00:12:28 - Sprecher SPEAKER_12:  Ja, ja, ja, ja, ja, ja.
+00:12:28 - 00:12:30 - Sprecher SPEAKER_12:  Okay, aber tun Sie mir einen Gefallen,
+00:12:30 - 00:12:32 - Sprecher SPEAKER_12:  während ich das gerade probiere, rauszufinden.
+00:12:32 - 00:12:34 - Sprecher SPEAKER_12:  Können Sie das Messer runternehmen?
+00:12:34 - 00:12:35 - Unbekannt:  Hm, nein.
+00:12:35 - 00:12:36 - Sprecher SPEAKER_12:  Nein.
+00:12:36 - 00:12:37 - Sprecher SPEAKER_12:  Ich versuche, mich darum zu kümmern.
+00:12:37 - 00:12:38 - Sprecher SPEAKER_12:  Ich mache Viktor nichts, ich mache Viktor nichts,
+00:12:38 - 00:12:40 - Sprecher SPEAKER_12:  solange Sie sich darum kümmern.
+00:12:40 - 00:12:41 - Sprecher SPEAKER_12:  Viktor und ich sind Freunde.
+00:12:41 - 00:12:43 - Sprecher SPEAKER_12:  Nicht mal Viktor, ja, ja, ja.
+00:12:43 - 00:12:44 - Sprecher SPEAKER_12:  Ja, aber wenn Sie doch mit Viktor befreundet sind,
+00:12:45 - 00:12:46 - Sprecher SPEAKER_12:  dann wollen Sie ihm gerade wehtun?
+00:12:48 - 00:12:49 - Sprecher SPEAKER_12:  Hm, nein, aber ich muss vielleicht,
+00:12:49 - 00:12:51 - Sprecher SPEAKER_12:  wenn Sie sich nicht dran halten.
+00:12:51 - 00:12:54 - Sprecher SPEAKER_12:  Ich gehe jetzt kurz hinterher zu meinem Kollegen
+00:12:54 - 00:12:56 - Sprecher SPEAKER_12:  und versuche, was über den Kleid rauszufinden, okay?
+00:12:56 - 00:12:56 - Sprecher SPEAKER_12:  Ja, ja, ja, ja, ja, ja.
+00:12:57 - 00:12:59 - Sprecher SPEAKER_12:  Versprechen Sie mir, dass Sie in der Zeit den Herren nichts tun.
+00:12:59 - 00:13:00 - Sprecher SPEAKER_12:  Gut, gut, gut.
+00:13:00 - 00:13:01 - Sprecher SPEAKER_12:  Okay.
+00:13:03 - 00:13:03 - Unbekannt:  Okay.
+00:13:05 - 00:13:05 - Sprecher SPEAKER_12:  Okay.
+00:13:05 - 00:13:05 - Unbekannt:  Okay.
+00:13:05 - 00:13:06 - Unbekannt:  Okay.
+00:13:15 - 00:13:17 - Unbekannt:  Okay, gut.
+00:13:17 - 00:13:19 - Unbekannt:  Okay.
+00:13:22 - 00:13:22 - Unbekannt: 
+00:13:22 - 00:13:23 - Unbekannt:  Okay.
+00:13:24 - 00:13:24 - Unbekannt: 
+00:13:24 - 00:13:26 - Unbekannt:  Okay.
+00:13:26 - 00:13:26 - Unbekannt:  Okay.
+00:13:26 - 00:13:26 - Unbekannt: 
+00:13:26 - 00:13:27 - Unbekannt:  Okay.
+00:13:27 - 00:13:27 - Unbekannt: 
+00:13:31 - 00:13:33 - Unbekannt:  travels talk
+00:13:33 - 00:13:36 - Unbekannt:  all types of emotions
+00:13:36 - 00:13:36 - Unbekannt: 
+00:13:50 - 00:13:52 - Sprecher SPEAKER_12:  Okay, ich hab leider nicht so erfreuliche Nachrichten.
+00:13:52 - 00:13:53 - Sprecher SPEAKER_12:  Was?
+00:13:53 - 00:13:53 - Sprecher SPEAKER_12:  Was denn?
+00:13:54 - 00:13:57 - Sprecher SPEAKER_12:  Es ist uns nichts bekannt über ein Kleid vom Lost.
+00:13:58 - 00:13:59 - Sprecher SPEAKER_12:  Nicht gar nicht.
+00:13:59 - 00:14:00 - Sprecher SPEAKER_13:  Vielleicht wissen Sie mehr für uns.
+00:14:00 - 00:14:01 - Sprecher SPEAKER_13:  Erzählen Sie uns.
+00:14:01 - 00:14:01 - Sprecher SPEAKER_13:  Genau.
+00:14:01 - 00:14:03 - Sprecher SPEAKER_13:  Machen Sie mal ein bisschen was über ihn.
+00:14:03 - 00:14:03 - Sprecher SPEAKER_13:  Er ist ein guter Freund, genau.
+00:14:04 - 00:14:06 - Sprecher SPEAKER_12:  Haben Sie gerade probiert, ihn zu erreichen?
+00:14:06 - 00:14:07 - Sprecher SPEAKER_12:  Ja, er ist stark.
+00:14:08 - 00:14:09 - Sprecher SPEAKER_12:  Er ist stark.
+00:14:09 - 00:14:10 - Sprecher SPEAKER_12:  Und er sieht gut aus.
+00:14:11 - 00:14:14 - Sprecher SPEAKER_11:  Und er hat mir einen fünfseitigen Brief geschrieben.
+00:14:15 - 00:14:16 - Sprecher SPEAKER_11:  Haben Sie den Brief noch?
+00:14:17 - 00:14:17 - Unbekannt:  Ja.
+00:14:18 - 00:14:19 - Sprecher SPEAKER_12:  Okay.
+00:14:20 - 00:14:20 - Unbekannt:  Und ...
+00:14:21 - 00:14:22 - Sprecher SPEAKER_13:  Haben Sie ihn sogar bei sich?
+00:14:23 - 00:14:24 - Sprecher SPEAKER_07:  Ja.
+00:14:24 - 00:14:26 - Sprecher SPEAKER_12:  Wollen Sie uns den Brief vorlesen?
+00:14:26 - 00:14:27 - Sprecher SPEAKER_12:  Das wäre doch schön.
+00:14:28 - 00:14:28 - Unbekannt:  Mhm.
+00:14:31 - 00:14:33 - Sprecher SPEAKER_13:  Und dann tun wir das zu der Welt.
+00:14:35 - 00:14:36 - Sprecher SPEAKER_12:  Ja, das ist doch schön.
+00:14:36 - 00:14:39 - Sprecher SPEAKER_12:  Ich meine, wenn es so sehr weh tut, den Brief vorzulesen, müssen Sie es auch nicht tun.
+00:14:39 - 00:14:43 - Sprecher SPEAKER_12:  Aber manchmal hilft es, über so was zu reden, über so einen Herzschmerz.
+00:14:43 - 00:14:44 - Sprecher SPEAKER_12:  Es ist kein Schmerz.
+00:14:44 - 00:14:47 - Sprecher SPEAKER_11:  Es ist kein Schmerz, weil ich Kleid ja wiedersehen werde.
+00:14:47 - 00:14:48 - Sprecher SPEAKER_11:  Wieso soll das dann schmerzen?
+00:14:52 - 00:14:55 - Sprecher SPEAKER_12:  Aber Sie haben ja gerade gesagt, es tut weh, dass Kleid sich nicht zurückmeldet, weil
+00:14:55 - 00:14:57 - Sprecher SPEAKER_12:  er Ihnen versprochen hat, Kuchen Ihnen zu geben.
+00:14:57 - 00:14:58 - Sprecher SPEAKER_12:  Ja, aber er meldet sich.
+00:14:59 - 00:15:00 - Sprecher SPEAKER_11:  Manchmal braucht er lange.
+00:15:00 - 00:15:01 - Sprecher SPEAKER_11:  Vielleicht braucht er einfach nur lange.
+00:15:01 - 00:15:02 - Sprecher SPEAKER_11:  Wer weiß das schon.
+00:15:02 - 00:15:03 - Sprecher SPEAKER_11:  Ja.
+00:15:03 - 00:15:04 - Sprecher SPEAKER_11:  Wie lange ist das denn her?
+00:15:05 - 00:15:11 - Sprecher SPEAKER_11:  Er hat letzte Woche versucht, mich anzurufen und er hat mir geschrieben, dass wir im Boom
+00:15:11 - 00:15:12 - Sprecher SPEAKER_11:  sein könnten.
+00:15:14 - 00:15:15 - Sprecher SPEAKER_11:  Boom, Einwasserboom, verstehen Sie?
+00:15:16 - 00:15:17 - Sprecher SPEAKER_12:  Ja.
+00:15:17 - 00:15:18 - Sprecher SPEAKER_13:  Wir verstehen das, Mim.
+00:15:20 - 00:15:22 - Sprecher SPEAKER_12:  Ich mache im Moment auch so eine schwierige Situation.
+00:15:22 - 00:15:23 - Sprecher SPEAKER_12:  Durch das verstehe ich Sie.
+00:15:24 - 00:15:24 - Sprecher SPEAKER_12:  Wirklich?
+00:15:24 - 00:15:25 - Sprecher SPEAKER_11:  Ja, was war es dann?
+00:15:25 - 00:15:26 - Sprecher SPEAKER_11:  Erkennt Sie Kleid auch?
+00:15:27 - 00:15:28 - Sprecher SPEAKER_11:  Nein, nicht mit Kleid.
+00:15:28 - 00:15:29 - Sprecher SPEAKER_12:  Ich mache das mit jemand anderem gerade durch.
+00:15:29 - 00:15:31 - Sprecher SPEAKER_12:  Mit jemand anderem?
+00:15:31 - 00:15:31 - Sprecher SPEAKER_11:  Ja, genau.
+00:15:38 - 00:15:41 - Sprecher SPEAKER_11:  Und dann wäre es ganz schön schlimm für Sie, wenn Sie nicht sehen könnten, was Sie
+00:15:41 - 00:15:43 - Sprecher SPEAKER_11:  im Knast sitzen würden, oder?
+00:15:44 - 00:15:46 - Sprecher SPEAKER_12:  Für mich ist es ganz schlimm, weil er nicht mehr hier ist.
+00:15:46 - 00:15:48 - Sprecher SPEAKER_12:  Er hat die Stadt verlassen.
+00:15:48 - 00:15:49 - Sprecher SPEAKER_12:  Oh nein, oh nein.
+00:15:50 - 00:15:54 - Sprecher SPEAKER_12:  Möchten Sie vielleicht das Messer einmal von dem Hals von dem Herrn nehmen?
+00:15:54 - 00:15:55 - Sprecher SPEAKER_12:  Nein, ich will raus.
+00:15:56 - 00:15:57 - Sprecher SPEAKER_12:  Sie möchten raus?
+00:15:57 - 00:15:58 - Sprecher SPEAKER_12:  Ja, besser.
+00:15:58 - 00:16:00 - Sprecher SPEAKER_11:  Aber Sie wissen, dass Sie das so gerade nur schlimmer machen.
+00:16:00 - 00:16:01 - Sprecher SPEAKER_12:  Nein.
+00:16:01 - 00:16:01 - Sprecher SPEAKER_11:  Ich will raus.
+00:16:01 - 00:16:02 - Sprecher SPEAKER_12:  Ich will auch nicht.
+00:16:02 - 00:16:02 - Sprecher SPEAKER_12: 
+00:16:02 - 00:16:02 - Sprecher SPEAKER_12: 
+00:16:02 - 00:16:04 - Sprecher SPEAKER_12:  Es kann nicht schlimmer als 110 Jahre werden, Miss.
+00:16:04 - 00:16:06 - Sprecher SPEAKER_11:  Es kann nicht schlimmer werden.
+00:16:06 - 00:16:08 - Sprecher SPEAKER_11:  Ich hätte einfach explodieren sollen.
+00:16:08 - 00:16:10 - Sprecher SPEAKER_11:  Mit allen Freunden einfach so rum.
+00:16:10 - 00:16:12 - Sprecher SPEAKER_11:  Nein, das ist doch auch nicht schlimm, wenn Sie einfach explodieren.
+00:16:12 - 00:16:14 - Sprecher SPEAKER_12:  Das Leben hat ja noch so viel mehr zu bieten.
+00:16:14 - 00:16:15 - Sprecher SPEAKER_12:  Nein, gar nicht.
+00:16:15 - 00:16:16 - Sprecher SPEAKER_11:  Was hat es hier?
+00:16:16 - 00:16:17 - Sprecher SPEAKER_11:  Niemand, niemand ist hier.
+00:16:17 - 00:16:18 - Sprecher SPEAKER_11:  Niemand.
+00:16:18 - 00:16:20 - Sprecher SPEAKER_12:  Aber ich bin doch jetzt gerade hier und rede mit Ihnen.
+00:16:21 - 00:16:22 - Sprecher SPEAKER_11:  Haben Sie eine Boombox dabei?
+00:16:23 - 00:16:24 - Sprecher SPEAKER_12:  Nein, leider nicht.
+00:16:24 - 00:16:25 - Sprecher SPEAKER_12:  Kennen Sie Claudia Cox?
+00:16:27 - 00:16:28 - Sprecher SPEAKER_11:  Nein, auch nicht.
+00:16:28 - 00:16:29 - Sprecher SPEAKER_12:  Sehen Sie, das bringt mir nichts.
+00:16:29 - 00:16:30 - Sprecher SPEAKER_12:  Das bringt mir nichts, Miss.
+00:16:31 - 00:16:31 - Sprecher SPEAKER_12:  Aber, aber, aber, aber, aber.
+00:16:31 - 00:16:31 - Sprecher SPEAKER_12: 
+00:16:31 - 00:16:31 - Sprecher SPEAKER_12: 
+00:16:31 - 00:16:33 - Sprecher SPEAKER_12:  Sie können mir doch davon erzählen.
+00:16:33 - 00:16:34 - Sprecher SPEAKER_12:  Vielleicht lerne ich es dann kennen.
+00:16:36 - 00:16:38 - Sprecher SPEAKER_11:  Ich hatte mal eine Boombox, die wurde mir geklaut.
+00:16:38 - 00:16:40 - Sprecher SPEAKER_12:  Die Boombox wurde Ihnen geklaut?
+00:16:40 - 00:16:44 - Sprecher SPEAKER_12:  Ja, ich habe immer, immer Rave gemacht hier drin, aber dann hat sie jemand geklaut und
+00:16:44 - 00:16:46 - Sprecher SPEAKER_11:  die Marshals haben gesagt, das stimmt nicht.
+00:16:46 - 00:16:49 - Sprecher SPEAKER_11:  Und niemand hat sich um mich gekümmert, dass ich eine neue kriege.
+00:16:50 - 00:16:54 - Sprecher SPEAKER_12:  Okay, wollen wir nochmal über den Brief von Clyde reden?
+00:16:55 - 00:16:57 - Sprecher SPEAKER_12:  Sie haben ja gesagt, dass Sie den Brief dabei haben.
+00:16:58 - 00:16:58 - Unbekannt:  Ja.
+00:16:59 - 00:17:01 - Sprecher SPEAKER_12:  Wollen Sie mir mal den Brief zeigen?
+00:17:01 - 00:17:01 - Sprecher SPEAKER_12:  Ja.
+00:17:03 - 00:17:05 - Sprecher SPEAKER_12:  Dann schießt Ihr Kollege auf mich.
+00:17:05 - 00:17:06 - Sprecher SPEAKER_11:  Dann schießt er auf mich.
+00:17:06 - 00:17:08 - Sprecher SPEAKER_11:  Nein, nein, da wird niemand, da wird niemand auf Sie schießen.
+00:17:08 - 00:17:11 - Sprecher SPEAKER_12:  Vielleicht zeigen Sie mir den Brief einmal und vielleicht kann ich anhand des Briefes
+00:17:11 - 00:17:13 - Sprecher SPEAKER_12:  irgendwie rausfinden, wo Clyde gerade ist.
+00:17:14 - 00:17:16 - Sprecher SPEAKER_12:  Ich lege ihn hier oben auf, auf die Abdeckung.
+00:17:16 - 00:17:17 - Sprecher SPEAKER_12:  Sie können ihn sich nehmen.
+00:17:18 - 00:17:23 - Sprecher SPEAKER_12:  Okay, dann komme ich kurz hin und Sie geben mir den Brief, aber Sie müssen dafür auch
+00:17:23 - 00:17:26 - Sprecher SPEAKER_12:  das Messer erstmal aus der Hand nehmen, weil Sie möchten ja den Brief nicht zerschneiden,
+00:17:26 - 00:17:26 - Sprecher SPEAKER_12:  oder?
+00:17:27 - 00:17:27 - Sprecher SPEAKER_12:  Nein, ich muss ihn suchen.
+00:17:27 - 00:17:28 - Sprecher SPEAKER_11:  Ich muss ihn suchen.
+00:17:28 - 00:17:29 - Sprecher SPEAKER_11:  Wo ist mein Brief?
+00:17:29 - 00:17:30 - Sprecher SPEAKER_11:  Wo ist mein?
+00:17:32 - 00:17:33 - Sprecher SPEAKER_11:  Oh Gott.
+00:17:33 - 00:17:33 - Sprecher SPEAKER_11:  Oh Gott.
+00:17:34 - 00:17:34 - Unbekannt:  Oh Gott.
+00:17:34 - 00:17:35 - Sprecher SPEAKER_11:  Jemand hat ihn geklaut.
+00:17:36 - 00:17:37 - Sprecher SPEAKER_11:  Wo ist mein Brief?
+00:17:37 - 00:17:39 - Sprecher SPEAKER_11:  Wo ist der Brief von Clyde?
+00:17:40 - 00:17:42 - Sprecher SPEAKER_11:  Er kann nicht weg sein.
+00:17:45 - 00:17:46 - Sprecher SPEAKER_12:  Finden Sie den Brief nicht?
+00:17:46 - 00:17:47 - Sprecher SPEAKER_12:  Ich finde ihn nicht.
+00:17:48 - 00:17:51 - Sprecher SPEAKER_12:  Ja, dann legen Sie noch einmal das Messer weg und gucken Sie noch einmal ein bisschen
+00:17:51 - 00:17:52 - Sprecher SPEAKER_12:  besser in Ihre Hosentasche.
+00:17:52 - 00:17:54 - Sprecher SPEAKER_12:  Vielleicht ist er da drinnen ein bisschen zusammengefaltet.
+00:17:55 - 00:17:56 - Sprecher SPEAKER_11:  Ich finde ihn nicht.
+00:17:58 - 00:17:59 - Sprecher SPEAKER_12:  Wo hatten Sie den Brief denn zuletzt?
+00:18:00 - 00:18:01 - Sprecher SPEAKER_11:  In meiner Hosentasche.
+00:18:02 - 00:18:12 - Sprecher SPEAKER_11:  die häftlings hosen tasche wo haben sie die hosen in ihrer zelle und was halten sie davon
+00:18:12 - 00:18:21 - Sprecher SPEAKER_13:  wenn wir dann gemeinsam in ruhe zu der zelle gehen den brief zu holen wie gesagt vielleicht
+00:18:21 - 00:18:25 - Sprecher SPEAKER_12:  finde ich ja anhand des briefes rausgekleidet ist sondern rede ich mit ihm und noch kommen
+00:18:25 - 00:18:33 - Sprecher SPEAKER_12:  mit ihm hierher noch mal was er hat ein motorradclub ja ja aber vielleicht ist er
+00:18:33 - 00:18:38 - Sprecher SPEAKER_12:  ja gerade nicht da vielleicht hat er ja irgendwas in dem brief geschrieben wo er jetzt hin ist
+00:18:38 - 00:18:44 - Sprecher SPEAKER_12:  vielleicht hat geschrieben was er in den zellen saß es war ein knasttagebuch hat er mir geschrieben
+00:18:45 - 00:18:49 - Sprecher SPEAKER_12:  okay aber vielleicht hat er ja reingeschrieben was er machen möchte wenn er nicht mehr drin ist
+00:18:50 - 00:18:54 - Sprecher SPEAKER_12:  haben sie haben sich hier irgendwo noch welche freunde hier im gefängnis
+00:19:03 - 00:19:09 - Sprecher SPEAKER_11:  wir können alles zusammen dafür tun dass auch sie bald rauskommen genau wir können ihnen helfen
+00:19:09 - 00:19:13 - Sprecher SPEAKER_12:  hier rauszukommen aber dazu müssen sie erst mal das messer weg und auch ihren freund kleid
+00:19:13 - 00:19:21 - Sprecher SPEAKER_13:  bisschen näher kennenzulernen für uns auch für sie ich meine wenn sie es nicht für sich tun
+00:19:21 - 00:19:24 - Sprecher SPEAKER_12:  dann tun sie es doch vielleicht für kleid vielleicht möchte kleid nicht mehr sein
+00:19:24 - 00:19:28 - Sprecher SPEAKER_12:  ja wirklich eine zukunft mit ihnen und so wie sie das sie gerade machen wird das nicht funktionieren
+00:19:28 - 00:19:32 - Sprecher SPEAKER_12:  weil dann sind sie noch länger hier drin und werden kleid wahrscheinlich gar nicht mehr wieder
+00:19:32 - 00:19:40 - Sprecher SPEAKER_12:  sehen und sie möchte keiner wieder sehen ich versuche mit ihnen gerade darüber zu reden aber
+00:19:40 - 00:19:46 - Sprecher SPEAKER_12:  so wie sie jetzt gerade sind auch mit dem messer an der kino von dem herrn das ist nur eine hauptstadt
+00:19:46 - 00:19:53 - Sprecher SPEAKER_11:  aber von seinem oberschenkel noch mal bitte was der hauptstadt aber von seinem oberschenkel
+00:19:59 - 00:20:09 - Sprecher SPEAKER_11:  aber ich nehme ich nehme sie legen das messer ganz weg das können wir probieren ich kann ihnen nichts
+00:20:09 - 00:20:15 - Sprecher SPEAKER_12:  versprechen aber können sie das messer vielleicht oben auf diese anrichtung ist ihr name mein name
+00:20:15 - 00:20:24 - Sprecher SPEAKER_12:  ist black black black genau wenn sie möchten können sie mich auch so nennen
+00:20:26 - 00:20:30 - Sprecher SPEAKER_11:  aber sie lassen mich aus ich gebe ihnen das messer gelassen ich ich gebe ihnen auch genau und
+00:20:30 - 00:20:38 - Sprecher SPEAKER_12:  никто genau sie geben jetzt einfach das messer und dann was halten wir davon genau sie geben
+00:20:38 - 00:20:41 - Sprecher SPEAKER_13:  uns das und wir bleiben trotzdem dass man hier und sprechen einfach gemeinsam aber auch trotz
+00:20:41 - 00:20:51 - Sprecher SPEAKER_13:  und auch auf distanz muss doch keiner gleich irgendwie große aber wir kommen nicht wie kommt
+00:20:51 - 00:20:54 - Sprecher SPEAKER_13:  nicht direkt zu ihnen bleiben dann direkt da wo wird auch hier gerade stehen genau ich glaube
+00:20:54 - 00:20:56 - Sprecher SPEAKER_12:  Ich bin ja hier vorne, Sie sehen mich ja.
+00:20:57 - 00:20:59 - Sprecher SPEAKER_12:  Und Sie legen einfach das Messer hier vorne hin.
+00:21:00 - 00:21:02 - Sprecher SPEAKER_13:  Ist das ein Kompromiss, auf den wir uns einigen können, Ma'am?
+00:21:05 - 00:21:06 - Sprecher SPEAKER_13:  Komm, sehen.
+00:21:07 - 00:21:08 - Sprecher SPEAKER_13:  Wir würden uns mega freuen, wirklich.
+00:21:08 - 00:21:10 - Sprecher SPEAKER_13:  Das meine ich wirklich persönlich auch echt ernst.
+00:21:18 - 00:21:19 - Unbekannt:  Gott, Gott, Gott.
+00:21:21 - 00:21:22 - Sprecher SPEAKER_13:  Okay, dann legen Sie...
+00:21:22 - 00:21:23 - Sprecher SPEAKER_13:  Kriegen wir den Brief auch?
+00:21:23 - 00:21:25 - Sprecher SPEAKER_13:  Ich hab ihn nicht, ich hab ihn nicht.
+00:21:25 - 00:21:26 - Sprecher SPEAKER_11:  Wieso hast du nie zu?
+00:21:26 - 00:21:28 - Sprecher SPEAKER_13:  Okay, dann holen wir den zusammen, okay?
+00:21:28 - 00:21:30 - Sprecher SPEAKER_13:  Ich will diesen Brief nicht mehr.
+00:21:30 - 00:21:32 - Sprecher SPEAKER_12:  Das Messer legen Sie uns vorsichtig oben auf die Theke, okay?
+00:21:32 - 00:21:33 - Sprecher SPEAKER_12:  Okay, okay.
+00:21:34 - 00:21:34 - Sprecher SPEAKER_13:  Okay.
+00:21:35 - 00:21:37 - Sprecher SPEAKER_12:  Ich nehme das Messer einmal runter, okay?
+00:21:38 - 00:21:38 - Unbekannt:  Okay.
+00:21:43 - 00:21:44 - Sprecher SPEAKER_12:  Okay.
+00:21:46 - 00:21:49 - Sprecher SPEAKER_12:  Wollen wir dann nochmal drüber reden, wie das denn jetzt hier gerade alles eskaliert ist?
+00:21:49 - 00:21:50 - Sprecher SPEAKER_12:  Die Hände nach oben!
+00:21:50 - 00:21:51 - Sprecher SPEAKER_03:  Die Hände sind nach oben jetzt!
+00:21:53 - 00:21:57 - Sprecher SPEAKER_12:  Zoe Thank You for주 questions,
+00:21:57 - 00:21:57 - Sprecher SPEAKER_04:  die gebrochen wurden.
+00:22:06 - 00:22:14 - Sprecher SPEAKER_00:  Sie liteffendig nicht couldn irmen da nicht mehr vergeben.
+00:22:29 - 00:22:32 - Sprecher SPEAKER_14:  nicht sein müssen oder was
+00:22:52 - 00:22:53 - Sprecher SPEAKER_03:  einmal zusammenbrechen dann ist gut
+00:22:58 - 00:23:01 - Sprecher SPEAKER_03:  kleid ist gar nicht zu erreichen wir haben noch schon längst angerufen der schon über
+00:23:01 - 00:23:02 - Sprecher SPEAKER_03:  alle
+00:23:02 - 00:23:05 - Sprecher SPEAKER_03:  berge er ist schon wieder weg jetzt hier allein gelassen
+00:23:07 - 00:23:08 - Sprecher SPEAKER_07:  vielleicht gibt es nicht mehr
+00:23:09 - 00:23:09 - Sprecher SPEAKER_14:  vielleicht
+00:23:24 - 00:23:29 - Sprecher SPEAKER_14:  dadurch wird auch nicht wieder also tote menschen werden nicht wieder lebendig einfach so
+00:23:31 - 00:23:32 - Unbekannt:  dadurch wird auch nicht wieder so
+00:23:32 - 00:23:33 - Sprecher SPEAKER_14:  vielleicht auch nicht
+00:23:44 - 00:23:49 - Sprecher SPEAKER_04:  hören sie kurz zu bestimmt wieder
+00:23:52 - 00:23:54 - Sprecher SPEAKER_04:  bestimmt wieder zu ihnen kommen
+00:23:54 - 00:24:02 - Sprecher SPEAKER_04:  gerade irgendwas anzustellen dass ich wieder rein da vielleicht noch ein bisschen mehr
+00:24:02 - 00:24:03 - Sprecher SPEAKER_14:  kollegen etwas stärker und gibt mit dem schlagstock
+00:24:08 - 00:24:09 - Sprecher SPEAKER_05:  es ist
+00:24:11 - 00:24:12 - Sprecher SPEAKER_05:  noch
+00:24:17 - 00:24:19 - Sprecher SPEAKER_14:  die handvoll nachher ab und auf jeden fall noch
+00:24:22 - 00:24:28 - Sprecher SPEAKER_05:  sie bitte ganz schnell also sie waren sie eben sehr aufgebracht jetzt redet leider gar nicht mehr
+00:24:30 - 00:24:31 - Sprecher SPEAKER_14:  wurden und einmal drei mal
+00:24:32 - 00:24:34 - Sprecher SPEAKER_03:  wie ein donations justement
+00:24:34 - 00:24:36 - Sprecher SPEAKER_03:  dann aber gleich Wesley
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06: 
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06: 
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06: 
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06: 
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06:  iş
+00:24:36 - 00:24:36 - Sprecher SPEAKER_06:  neue
+00:24:36 - 00:24:36 - Sprecher SPEAKER_03: 
+00:24:36 - 00:24:38 - Sprecher SPEAKER_03:  mit dem İdil
+00:24:38 - 00:24:38 - Unbekannt: 
+00:24:38 - 00:24:41 - Sprecher SPEAKER_06:  der thinner
+00:24:45 - 00:24:46 - Unbekannt:  die
+00:25:03 - 00:25:05 - Sprecher SPEAKER_06:  So, dann legen wir erstmal Zugang.
+00:25:14 - 00:25:16 - Sprecher SPEAKER_06:  So, gibt's mal ein bisschen Flüssigkeit.
+00:25:19 - 00:25:21 - Sprecher SPEAKER_06:  Ey Yumi, wie sieht's bei dir aus?
+00:25:24 - 00:25:26 - Sprecher SPEAKER_09:  Ey, er hat einen Schlag auf den Kopf bekommen.
+00:25:26 - 00:25:27 - Sprecher SPEAKER_09:  Ich nehm grad ein bisschen neu.
+00:25:27 - 00:25:29 - Sprecher SPEAKER_09:  Ja, der sollte jetzt mal aufstehen.
+00:25:29 - 00:25:31 - Sprecher SPEAKER_03:  Das ist Arbeitszeitbetrug, Stevens.
+00:25:34 - 00:25:37 - Sprecher SPEAKER_06:  Gut, wir müssen hier gleich mit ihr auf die Krankenstation, ne?
+00:25:38 - 00:25:39 - Sprecher SPEAKER_03:  Gut, dass die direkt nebenan ist.
+00:25:40 - 00:25:41 - Sprecher SPEAKER_03:  Ja, da haben wir's.
+00:25:41 - 00:25:42 - Sprecher SPEAKER_06:  Perfekt.
+00:25:50 - 00:25:51 - Sprecher SPEAKER_06:  So, okay.
+00:25:58 - 00:25:59 - Sprecher SPEAKER_09:  Aufstehen, Schneewald.
+00:25:59 - 00:25:59 - Sprecher SPEAKER_09: 
+00:25:59 - 00:26:09 - Sprecher SPEAKER_09:  Komm bitte Hahahahaha Was war dasälchrische
+00:26:09 - 00:26:09 - Sprecher SPEAKER_03: 
+00:26:09 - 00:26:09 - Sprecher SPEAKER_03:  Ein Wunderschön.
+00:26:13 - 00:26:14 - Sprecher SPEAKER_03:  Ich lässt mich mal wieder hin.
+00:26:18 - 00:26:18 - Unbekannt:  Plass want's go.
+00:26:20 - 00:26:21 - Unbekannt:  Nein, geh weg.
+00:26:21 - 00:26:29 - Unbekannt:  1.
+00:26:29 - 00:26:29 - Unbekannt: 
+00:26:29 - 00:26:29 - Unbekannt: 
+00:26:29 - 00:26:29 - Unbekannt: 
+00:26:29 - 00:26:29 - Unbekannt: 
+00:26:29 - 00:26:29 - Unbekannt: 
+00:26:29 - 00:26:29 - Unbekannt:  Boah, ich hab vaseě.
+00:26:28 - 00:26:29 - Unbekannt:  Hmm.
+00:26:29 - 00:26:32 - Sprecher SPEAKER_03:  Von euch war das lassen du
+00:26:37 - 00:26:38 - Sprecher SPEAKER_06:  Die dame
+00:26:42 - 00:26:45 - Sprecher SPEAKER_06:  Denn sie mit mir hallo
+00:27:07 - 00:27:09 - Sprecher SPEAKER_06:  Wissen sie wie die damen hier heißt
+00:27:11 - 00:27:15 - Sprecher SPEAKER_14:  Und so hat gesagt blackpink ja genau pitch okay
+00:27:18 - 00:27:19 - Sprecher SPEAKER_06:  Ja
+00:27:19 - 00:27:28 - Sprecher SPEAKER_06:  Sie schaffen das für kleid
+00:27:30 - 00:27:32 - Sprecher SPEAKER_06:  Wo geht es denn jetzt zur krankenstation
+00:27:34 - 00:27:40 - Sprecher SPEAKER_03:  Anstation ist hier einmal durch die stadt hier ja perfekt da müssen wir die da irgendwie einmal in der klage ich
+00:27:40 - 00:27:47 - Sprecher SPEAKER_06:  Habe weg so 1 2 3
+00:27:51 - 00:27:53 - Sprecher SPEAKER_03:  Eigentlich würde die linsen so bitter wie hier
+00:28:00 - 00:28:02 - Sprecher SPEAKER_09:  Auf jeden fall war ich doch erst
+00:28:02 - 00:28:04 - Sprecher SPEAKER_06:  Hier
+00:28:04 - 00:28:15 - Sprecher SPEAKER_06:  Aber ich darüber liefen so sehr gut
+00:28:18 - 00:28:19 - Sprecher SPEAKER_03:  Das
+00:28:26 - 00:28:29 - Sprecher SPEAKER_06:  Perfekt gut wir machen monitor dran
+00:28:30 - 00:28:33 - Sprecher SPEAKER_06:  Wir geben ein bisschen amiodarone ja
+00:28:34 - 00:28:37 - Sprecher SPEAKER_06:  Eventuell müssen wir gleich dann einmal schocken aber das sieht man dann gleich
+00:28:38 - 00:28:39 - Sprecher SPEAKER_09:  Was ist denn passiert
+00:28:42 - 00:28:44 - Sprecher SPEAKER_06:  Herzrhythmusstörung jetzt nach taser verletzung
+00:28:44 - 00:28:47 - Sprecher SPEAKER_06:  Ist bis jetzt noch nicht ansprechbar
+00:28:49 - 00:28:49 - Unbekannt:  Ja
+00:28:49 - 00:28:50 - Unbekannt:  Ich weiß was ich tun soll
+00:28:50 - 00:28:58 - Unbekannt:  Ich weiß nicht was ich tun soll
+00:28:58 - 00:28:59 - Unbekannt:  Aber ich muss mich jetzt wieder auf die linsen kümmern
+00:28:59 - 00:28:59 - Unbekannt: 
+00:28:59 - 00:28:59 - Unbekannt: 
+00:29:04 - 00:29:05 - Sprecher SPEAKER_06:  Ich muss mich jetzt wieder auf die linsen kümmern
+00:29:05 - 00:29:07 - Sprecher SPEAKER_06:  Also ich sprich dann schon mal amiodarone ja
+00:29:07 - 00:29:09 - Sprecher SPEAKER_06:  So ich sprich dann schon mal amiodarone ja
+00:29:09 - 00:29:18 - Unbekannt:  So ich sprich dann schon mal amiodarone ja
+00:29:20 - 00:29:21 - Sprecher SPEAKER_07:  So okay
+00:29:32 - 00:29:36 - Sprecher SPEAKER_06:  So da müssten sie jetzt gleich eigentlich wieder wach werden ne
+00:29:36 - 00:29:39 - Sprecher SPEAKER_06:  Rhythmus sieht jetzt relativ normal aus
+00:29:39 - 00:29:40 - Sprecher SPEAKER_06:  Aha
+00:29:42 - 00:29:45 - Sprecher SPEAKER_06:  Jetzt müssen wir gleich mal einen schmerzreiz setzen
+00:29:47 - 00:29:49 - Sprecher SPEAKER_09:  Was müssen wir entschuldigung
+00:29:49 - 00:29:51 - Sprecher SPEAKER_09:  Einen schmerzreiz setzen
+00:29:51 - 00:29:54 - Sprecher SPEAKER_06:  Über das brustbein rubbeln oder so ne
+00:29:54 - 00:29:56 - Sprecher SPEAKER_06:  Oder in die nase kneifen
+00:29:58 - 00:29:58 - Unbekannt:  Was ist denn das
+00:29:58 - 00:29:58 - Unbekannt:  Ich weiß nicht
+00:29:58 - 00:29:58 - Unbekannt: 
+00:29:58 - 00:29:58 - Unbekannt:  Ich weiß nicht was ich tun soll
+00:30:03 - 00:30:05 - Unbekannt:  Was ist denn das
+00:30:05 - 00:30:05 - Sprecher SPEAKER_09:  Ich weiß nicht was ich tun soll
+00:30:05 - 00:30:05 - Sprecher SPEAKER_09: 
+00:30:05 - 00:30:07 - Sprecher SPEAKER_09:  Ich kneif mal in die nase
+00:30:07 - 00:30:07 - Sprecher SPEAKER_09:  Ich kneif mal in die nase
+00:30:07 - 00:30:08 - Sprecher SPEAKER_09:  Äh
+00:30:09 - 00:30:10 - Unbekannt:  Äh
+00:30:11 - 00:30:12 - Unbekannt:  Äh
+00:30:12 - 00:30:14 - Sprecher SPEAKER_07:  Hallo
+00:30:17 - 00:30:19 - Sprecher SPEAKER_06:  Guten Tag die Dame Hallo
+00:30:19 - 00:30:29 - Sprecher SPEAKER_06:  Guten Tag die Dame Hallo
+00:30:37 - 00:30:39 - Sprecher SPEAKER_06:  Und Yumi, hast du eine Reaktion?
+00:30:40 - 00:30:42 - Sprecher SPEAKER_06:  Nee, weiß ich gar nicht.
+00:30:42 - 00:30:42 - Sprecher SPEAKER_06:  Hast du nicht?
+00:30:42 - 00:30:43 - Sprecher SPEAKER_09:  Nee.
+00:30:49 - 00:30:52 - Sprecher SPEAKER_06:  Ja, weißt du, was wir machen?
+00:30:52 - 00:30:53 - Sprecher SPEAKER_06:  Weißt du, wie Anke?
+00:30:53 - 00:30:55 - Sprecher SPEAKER_06:  Dann legen wir sie erstmal ins künstliche Koma.
+00:30:56 - 00:30:57 - Sprecher SPEAKER_06:  Okay.
+00:30:57 - 00:31:02 - Sprecher SPEAKER_06:  Wir gucken, dass wir Hirn ein bisschen schonen.
+00:31:03 - 00:31:05 - Sprecher SPEAKER_06:  Wir machen Herz-Kreislauf-Überwachung.
+00:31:06 - 00:31:10 - Sprecher SPEAKER_06:  Das bedeutet, komplette Narkose vorbereiten, Intubation.
+00:31:10 - 00:31:13 - Sprecher SPEAKER_06:  Dann werden wir sie erstmal ins künstliche Koma versetzen.
+00:31:15 - 00:31:15 - Sprecher SPEAKER_09:  Alles klar.
+00:31:16 - 00:31:16 - Sprecher SPEAKER_09:  Super.
+00:31:24 - 00:31:26 - Sprecher SPEAKER_09:  Den Zugang hattest du schon gelesen?
+00:31:26 - 00:31:27 - Sprecher SPEAKER_09:  Ja, genau.
+00:31:27 - 00:31:27 - Sprecher SPEAKER_06:  Zugang liegt.
+00:31:27 - 00:31:29 - Sprecher SPEAKER_06:  Amiodarone war schon einmal gegeben.
+00:31:29 - 00:31:32 - Sprecher SPEAKER_06:  Seitdem auch wieder normalen Herzrhythmus.
+00:31:33 - 00:31:39 - Sprecher SPEAKER_06:  Aber ohne Schutz bzw. Schmerzreflexe einmal vorsichtshalber ins künstliche Koma legen.
+00:31:41 - 00:31:42 - Sprecher SPEAKER_08:  Okay.
+00:31:44 - 00:31:45 - Sprecher SPEAKER_06:  Ich spritze schon mal das Fentanyl.
+00:31:48 - 00:31:51 - Sprecher SPEAKER_06:  Dann gebe ich jetzt langsam das Propofol.
+00:31:52 - 00:31:54 - Sprecher SPEAKER_06:  Dann warten wir, bis die Atmung flach ist.
+00:31:55 - 00:31:57 - Sprecher SPEAKER_06:  Und dann spritze ich das Rucola.
+00:31:57 - 00:31:57 - Sprecher SPEAKER_06:  Dann spritze ich das Bucuronium.
+00:31:57 - 00:31:59 - Sprecher SPEAKER_06:  Und dann darfst du gerne die Intubation durchführen.
+00:31:59 - 00:32:00 - Sprecher SPEAKER_06:  Hi.
+00:32:11 - 00:32:11 - Sprecher SPEAKER_06:  So.
+00:32:11 - 00:32:12 - Sprecher SPEAKER_06:  Guck mal.
+00:32:12 - 00:32:13 - Sprecher SPEAKER_06:  Atemstillstand.
+00:32:13 - 00:32:15 - Sprecher SPEAKER_06:  Dann darfst du einmal intubieren.
+00:32:15 - 00:32:15 - Sprecher SPEAKER_06:  Okay, ich intubiere.
+00:32:21 - 00:32:21 - Sprecher SPEAKER_09:  Hin.
+00:32:21 - 00:32:22 - Sprecher SPEAKER_09:  Hin.
+00:32:22 - 00:32:22 - Unbekannt:  Hin.
+00:32:24 - 00:32:26 - Sprecher SPEAKER_09:  Ich höre einmal.
+00:32:26 - 00:32:27 - Sprecher SPEAKER_09:  Habe ich richtig?
+00:32:27 - 00:32:27 - Sprecher SPEAKER_09:  Ich bin.
+00:32:28 - 00:32:28 - Sprecher SPEAKER_09:  Ja.
+00:32:29 - 00:32:31 - Sprecher SPEAKER_09:  Das hört sich gut an.
+00:32:32 - 00:32:32 - Sprecher SPEAKER_06:  Sehr gut.
+00:32:32 - 00:32:33 - Sprecher SPEAKER_06:  Okay.
+00:32:33 - 00:32:34 - Sprecher SPEAKER_06:  Gut.
+00:32:34 - 00:32:37 - Sprecher SPEAKER_06:  Dann machen wir die Perfusoren dran.
+00:32:37 - 00:32:39 - Sprecher SPEAKER_06:  Für Dauermedikation.
+00:32:40 - 00:32:46 - Sprecher SPEAKER_06:  Und dann frage ich die Marschel jetzt gleich nochmal nach dem richtigen Namen.
+00:32:46 - 00:32:48 - Sprecher SPEAKER_06:  Beziehungsweise wir gucken mal, ob sie einen Ausweis dabei hat.
+00:32:50 - 00:32:52 - Sprecher SPEAKER_06:  Das war da ein bisschen nachforschen können.
+00:32:52 - 00:32:54 - Sprecher SPEAKER_06:  Nicht, dass sie irgendwie Vorerkrankungen hat.
+00:32:54 - 00:32:57 - Sprecher SPEAKER_06:  Und jetzt durch die Teserverletzung da irgendwie was Schlimmeres.
+00:32:57 - 00:32:57 - Sprecher SPEAKER_06:  Was passiert ist.
+00:32:58 - 00:33:00 - Sprecher SPEAKER_09:  Ich schau mal nach dem Ausweis.
+00:33:00 - 00:33:01 - Sprecher SPEAKER_09:  Ja.
+00:33:01 - 00:33:02 - Sprecher SPEAKER_09:  Sehr gut.
+00:33:07 - 00:33:07 - Sprecher SPEAKER_06:  Okay.
+00:33:09 - 00:33:11 - Sprecher SPEAKER_06:  Monitor ist ein bisschen leise.
+00:33:11 - 00:33:12 - Sprecher SPEAKER_06:  Kannst du den Monitor ein bisschen lauter stellen?
+00:33:13 - 00:33:14 - Sprecher SPEAKER_09:  Äh, ja.
+00:33:17 - 00:33:19 - Sprecher SPEAKER_06:  Monitor ein bisschen lauter.
+00:33:19 - 00:33:19 - Sprecher SPEAKER_06:  Lauter.
+00:33:22 - 00:33:22 - Sprecher SPEAKER_14:  30.
+00:33:23 - 00:33:23 - Sprecher SPEAKER_14:  Vor der letzten Erzählung.
+00:33:24 - 00:33:24 - Sprecher SPEAKER_14:  Okay.
+00:33:24 - 00:33:24 - Unbekannt: 
+00:33:26 - 00:33:27 - Sprecher SPEAKER_06:  Okay.
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06:  So.
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:27 - Sprecher SPEAKER_06: 
+00:33:27 - 00:33:57 - Sprecher SPEAKER_06: 
+00:33:57 - 00:34:27 - Sprecher SPEAKER_07: 
+00:34:27 - 00:34:57 - Sprecher SPEAKER_00: 
+00:34:57 - 00:35:27 - Sprecher SPEAKER_01: 
+00:35:27 - 00:35:57 - Sprecher SPEAKER_01: 
+00:35:57 - 00:36:27 - Sprecher SPEAKER_01: 
+00:36:27 - 00:36:27 - Sprecher SPEAKER_10:  Du fühlst ihn schon.
+00:36:27 - 00:36:28 - Sprecher SPEAKER_10:  Er macht dich heiß.
+00:36:29 - 00:36:30 - Sprecher SPEAKER_10:  Der Bait ist real.
+00:36:30 - 00:36:31 - Sprecher SPEAKER_10:  Der Bait ist nice.
+00:36:31 - 00:36:32 - Sprecher SPEAKER_10:  Gibt's richtig viel.
+00:36:32 - 00:36:33 - Sprecher SPEAKER_10:  Doch was ist dann?
+00:36:33 - 00:36:35 - Sprecher SPEAKER_10:  Kriegst einen Bann sechs Tage lang.
+00:36:36 - 00:36:36 - Sprecher SPEAKER_10:  Ja.
+00:36:36 - 00:36:37 - Sprecher SPEAKER_10:  Pitch ist jetzt bei Clyde.
+00:36:37 - 00:36:38 - Sprecher SPEAKER_10:  Ganz genau.
+00:36:39 - 00:36:40 - Sprecher SPEAKER_10:  Pitch ist jetzt bei Clyde.
+00:36:40 - 00:36:42 - Sprecher SPEAKER_10:  Sie waren erbarmungslos.
+00:36:42 - 00:36:43 - Sprecher SPEAKER_10:  Sie waren erbarmungslos.
+00:36:43 - 00:36:45 - Sprecher SPEAKER_10:  Völlig gerechtfertigt waren sie erbarmungslos.
+00:36:46 - 00:36:46 - Sprecher SPEAKER_10:  Ähm.
+00:36:47 - 00:36:48 - Sprecher SPEAKER_10:  Aber viermal tasern.
+00:36:49 - 00:36:49 - Sprecher SPEAKER_10:  Pff.
+00:36:49 - 00:36:51 - Sprecher SPEAKER_10:  Bei dem Drogenkonsum, den Pitch hat.
+00:36:52 - 00:36:53 - Sprecher SPEAKER_10:  Das äh.
+00:36:53 - 00:36:54 - Sprecher SPEAKER_10:  Ah.
+00:36:55 - 00:36:56 - Sprecher SPEAKER_10:  Wahrscheinlich unrealistisch.
+00:36:57 - 00:36:58 - Sprecher SPEAKER_10:  Muss man schon ehrlich sagen.
+00:37:00 - 00:37:01 - Sprecher SPEAKER_10:  Ist unrealistisch.
+00:37:03 - 00:37:04 - Sprecher SPEAKER_10:  Dementsprechend.
+00:37:04 - 00:37:05 - Unbekannt:  Ja.
+00:37:06 - 00:37:08 - Sprecher SPEAKER_10:  Dankeschön Bronte für fünf verschenkte Subs.
+00:37:09 - 00:37:10 - Sprecher SPEAKER_10:  Ähm.
+00:37:10 - 00:37:11 - Sprecher SPEAKER_10:  Dementsprechend war's das jetzt mit Pitch.
+00:37:12 - 00:37:13 - Sprecher SPEAKER_10:  Vielleicht wird sie ja.
+00:37:13 - 00:37:13 - Sprecher SPEAKER_10:  Ey.
+00:37:14 - 00:37:14 - Sprecher SPEAKER_10:  Vielleicht.
+00:37:14 - 00:37:14 - Sprecher SPEAKER_10:  Wisst ihr.
+00:37:14 - 00:37:15 - Sprecher SPEAKER_10:  So ist sie.
+00:37:15 - 00:37:16 - Sprecher SPEAKER_10:  So ist sie zu Scum gekommen.
+00:37:16 - 00:37:18 - Sprecher SPEAKER_10:  Was soll die dreckige Scheiße.
